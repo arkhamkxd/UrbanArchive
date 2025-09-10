@@ -78,5 +78,13 @@
       "example": "Have [you heard] [the song] 'waithera' by XVick",
       "written_on": "2022-02-19T22:03:01.164Z"
     }
+  ],
+  "x-brick": [
+    {
+      "defid": 220077,
+      "definition": "[See] [x-box]",
+      "example": "[I just] built my new [house] out of [tons of] X-Bricks!",
+      "written_on": "2003-08-19T00:00:00Z"
+    }
   ]
 }
