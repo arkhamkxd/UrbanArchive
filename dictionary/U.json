@@ -262,5 +262,21 @@
       "example": "[You are] Uendi to me",
       "written_on": "2018-06-24T00:00:00Z"
     }
+  ],
+  "Uneven Table Top": [
+    {
+      "defid": 10457018,
+      "definition": "When a female has one larger breast [and one] [smaller] breast, [typically] by a large margin.",
+      "example": "[Brooke] has such an [uneven] [table top].",
+      "written_on": "2016-11-06T00:00:00Z"
+    }
+  ],
+  "URX8": [
+    {
+      "defid": 8687392,
+      "definition": "Used as [a random] [exclamation] but always said with a kind of [musical] rhythm.",
+      "example": "[Joe]: \"[what's up]?\"\r\nBocjfy: \"URX8!\"\r\nJoe: \"O-ok [buddy]....\"",
+      "written_on": "2016-01-02T00:00:00Z"
+    }
   ]
 }
