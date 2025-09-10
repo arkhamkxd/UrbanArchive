@@ -1,6 +1,6 @@
 # UrbanArchive
 
-**Urban Dictionary Archive** – A continuously scraped dataset of slang definitions from Urban Dictionary, automatically updated every 15 minutes via GitHub Actions.
+**Urban Dictionary Archive** – A continuously scraped dataset of slang definitions from Urban Dictionary, automatically updated every 5 minutes via GitHub Actions.
 
 ## 📁 Data Structure
 
