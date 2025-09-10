@@ -278,5 +278,29 @@
       "example": "[Joe]: \"[what's up]?\"\r\nBocjfy: \"URX8!\"\r\nJoe: \"O-ok [buddy]....\"",
       "written_on": "2016-01-02T00:00:00Z"
     }
+  ],
+  "Utilikilt": [
+    {
+      "defid": 848997,
+      "definition": "(yoo-TIH-lih-kihlt) 1. n, a kilt (men's unbifurcated [garment])  made of cotton duc cloth with cargo pockets, [usually] in a solid color\r\n2. symbol of man's freedom in the form of an unbifurcated [garment]",
+      "example": "<i>Man1</i> Dude, [nice] Utilikilt!\r\n<i>Man2</i> [Thanks bro], and [likewise]!",
+      "written_on": "2004-10-06T00:00:00Z"
+    }
+  ],
+  "uwu": [
+    {
+      "defid": 13873533,
+      "definition": "uwu is the closed eye version of owo. If you use this, the furries will name you [furry leader], and [normal people] will try to destroy you. You'll also be called a weeb or [weeaboo].",
+      "example": "\"hi! today is so good, [how are you]? uwu!\"\r\n\"[lol gay] furry [weeaboo].\"",
+      "written_on": "2019-05-05T00:00:00Z"
+    }
+  ],
+  "urban golf": [
+    {
+      "defid": 3181180,
+      "definition": "[playing golf] in crowded areas [especial] town centres where [the fun] beggins",
+      "example": "urban golf [getting] a [golf ball] putting it down a jus [hitting it] anywhere to see where it lands",
+      "written_on": "2008-06-26T00:00:00Z"
+    }
   ]
 }
