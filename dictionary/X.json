@@ -86,5 +86,21 @@
       "example": "[I just] built my new [house] out of [tons of] X-Bricks!",
       "written_on": "2003-08-19T00:00:00Z"
     }
+  ],
+  "xiao nao zi": [
+    {
+      "defid": 15290338,
+      "definition": "[chinese] for [small brain]",
+      "example": "[1+1] is 2 not 3 you [xiao] [nao] zi",
+      "written_on": "2020-09-04T00:00:00Z"
+    }
+  ],
+  "xoAntisocial": [
+    {
+      "defid": 15629625,
+      "definition": "[pee pee poo poo man]",
+      "example": "xoAntisocial is [a monkey]",
+      "written_on": "2021-01-03T09:57:54.974Z"
+    }
   ]
 }

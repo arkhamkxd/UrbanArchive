@@ -390,5 +390,29 @@
       "example": "That city swan was uber [dirty].\r\nThat [pool] was uber [awesome].",
       "written_on": "2012-02-10T00:00:00Z"
     }
+  ],
+  "Union Pacific Big Boy": [
+    {
+      "defid": 15905020,
+      "definition": "The [Union Pacific] Big Boy is a type of simple articulated 4-8-8-4 steam [locomotive] manufactured by the American [Locomotive] Company (ALCO) between 1941 and 1944 and operated by the Union Pacific Railroad in revenue service until 1959.",
+      "example": "The [Union Pacific] Big Boy is the largest and [historical] [locomotive] in the world.",
+      "written_on": "2021-04-12T10:32:17.526Z"
+    }
+  ],
+  "underwear": [
+    {
+      "defid": 4926793,
+      "definition": "[The most] [useless] thing on [the planet].",
+      "example": "[I don't know] why she [bothered] [wearing] underwear, they were off in record time.",
+      "written_on": "2010-04-30T00:00:00Z"
+    }
+  ],
+  "unicorn piss": [
+    {
+      "defid": 5509695,
+      "definition": "[Hot tea]; [the secret] to youth. It's how the [Chinese] live so long.",
+      "example": "[Person 1]: Hey, is that tea you're [drinking]?\r\n[Person 2]: Nah, it's unicorn piss.",
+      "written_on": "2011-01-13T00:00:00Z"
+    }
   ]
 }
