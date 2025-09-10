@@ -222,5 +222,21 @@
       "example": "Zibo: We have [a game]? [Okay], the ref is [dead].",
       "written_on": "2023-02-25T00:33:49.912Z"
     }
+  ],
+  "ZWI": [
+    {
+      "defid": 14921922,
+      "definition": "[Zooming] While [Intoxicated].\n\nBeing/getting drunk online, while attending [an internet] get-together using an app like Zoom.\n\nAlso known as a Zeewee.",
+      "example": "[The police] could have made a fortune if they knew how to issue a ZWI to all the drunks attending the [Zoom meeting] we had [last night].",
+      "written_on": "2020-04-22T00:00:00Z"
+    }
+  ],
+  "zebra": [
+    {
+      "defid": 990588,
+      "definition": "1. A tasty gum of many [differently] [flavored] and [colored] sticks.",
+      "example": "Zebra [Gum] is so [tasty].",
+      "written_on": "2005-01-10T00:00:00Z"
+    }
   ]
 }
