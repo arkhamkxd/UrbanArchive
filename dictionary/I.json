@@ -78,5 +78,29 @@
       "example": "It's [raining tacos] from out of [the sky]\r\nTacos\n\n[No need] to ask why",
       "written_on": "2022-01-20T09:47:56.958Z"
     }
+  ],
+  "Intergreatme": [
+    {
+      "defid": 12328284,
+      "definition": "Is a verb used to express you'd like to [autocomplete] an [application] form and provide supporting [documents] in a digital format which have been pre-validated and verified.",
+      "example": "You walk into a bank, telco or car [dealership]. You say, I'd [like that] product/service, please can you \"Intergreatme\"\n\nSomeone asks you till fill out a form in a doctors room, you say, sure - \"Intergreatme\"\r\nYou're asked by security in [the lobby] to fill out the logbook, you say \"Intergreatme\"",
+      "written_on": "2018-04-22T00:00:00Z"
+    }
+  ],
+  "idemcoloured": [
+    {
+      "defid": 14503839,
+      "definition": "When two [objects] are [the same] [colour]",
+      "example": "\"Those [horses] are idemcoloured\" - [Tim]",
+      "written_on": "2019-12-03T00:00:00Z"
+    }
+  ],
+  "imaginated": [
+    {
+      "defid": 3095213,
+      "definition": "[Past tense] of [imagine]. But an [imagination] that becomes real.",
+      "example": "[One night] I imaginated an amazing beast [in the middle] of my room, butt it broke [out the window] and flew away.\r\n\r\n(I was blamed for the broken window, no one believed me.)",
+      "written_on": "2008-05-18T00:00:00Z"
+    }
   ]
 }
