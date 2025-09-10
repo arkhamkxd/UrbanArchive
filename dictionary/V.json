@@ -508,5 +508,29 @@
       "example": "Vvardenfell is [bigger] than Cyrodiil, [whatever] the [maps] say!",
       "written_on": "2012-05-25T00:00:00Z"
     }
+  ],
+  "vile bitch": [
+    {
+      "defid": 13437498,
+      "definition": "[Riesa]",
+      "example": "That [asshole] with a [disgusting] [attitude] is really a vile bitch.",
+      "written_on": "2018-12-10T00:00:00Z"
+    }
+  ],
+  "Vyvia": [
+    {
+      "defid": 13575822,
+      "definition": "Vyvias are power women with impeccable style and [revolutionary] fashion. They have luscious beautiful hair and great singing voices. Vyvias' smiles can light up any room and their laughs are contagious. Vyvias are terrible drivers; however, they are good at #worklifeflow and always make time for their families. They are always down for [Mexican food]. Vyvias are competitive and are good at sports, [particularly] individualistic sports like bowling and tennis. On weekends, Vyvias enjoy spending time with their families and friends. Stay on Vyvias' good sides; they don't play.",
+      "example": "Angus: Hey, see [that girl] [over there]?\r\nHelga: Yeah?\r\nAngus: Her name is Vyvia and she is so [awesome]!",
+      "written_on": "2019-01-31T00:00:00Z"
+    }
+  ],
+  "vaccinized": [
+    {
+      "defid": 15624731,
+      "definition": "[Vaccinated] but [wrong]",
+      "example": "[ISAB]: Vaccinized",
+      "written_on": "2021-01-01T12:44:15.994Z"
+    }
   ]
 }
