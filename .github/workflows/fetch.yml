@@ -2,9 +2,8 @@ name: Fetch Urban Dictionary Data
 
 on:
   schedule:
-    # Run every 5 minutes
     - cron: '*/5 * * * *'
-  workflow_dispatch: # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
   fetch-data:
@@ -20,6 +19,14 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
+
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
     
     - name: Install dependencies
       run: |
@@ -27,7 +34,14 @@ jobs:
         pip install -r requirements.txt
     
     - name: Run Urban Dictionary fetcher
-      run: python fetch_ud.py
+      id: fetcher
+      run: |
+        OUTPUT=$(python fetch_ud.py)
+        echo "$OUTPUT"
+        echo "entries_added=$OUTPUT" >> $GITHUB_OUTPUT
+    
+    - name: Log new entries
+      run: echo "✅ ${{ steps.fetcher.outputs.entries_added }}"
     
     - name: Configure Git
       run: |
