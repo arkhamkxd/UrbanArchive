@@ -70,5 +70,21 @@
       "example": "Why [are you] [pop] [seating]?",
       "written_on": "2022-06-28T16:02:16.676Z"
     }
+  ],
+  "Pitted": [
+    {
+      "defid": 13721204,
+      "definition": "\"Dirty\" or \"Muddy\". Of North Eastern English origin, likely related to the [the dirty] [coal mines] or \"Pits\" that were found there in [industrial] England.",
+      "example": "\"I've [got] mud [all over] my [trousers] I'm pitted\"",
+      "written_on": "2019-03-17T00:00:00Z"
+    }
+  ],
+  "Penophile": [
+    {
+      "defid": 13032645,
+      "definition": "[artist] [obsession] with [pens]",
+      "example": "penophile: this pens [getting old], gotta [replace] it with a [younger] one",
+      "written_on": "2018-06-28T00:00:00Z"
+    }
   ]
 }

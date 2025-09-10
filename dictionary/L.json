@@ -78,5 +78,21 @@
       "example": "A: we're [leaving] at 6\r\nWyjeżdż[amy] o 6\r\nB: [cool]\n\nLuzik",
       "written_on": "2016-03-16T00:00:00Z"
     }
+  ],
+  "LOL": [
+    {
+      "defid": 7146661,
+      "definition": "LOL is an [acronym] [commonly] used by Gen Y [meaning] 'Laugh Out Loud'",
+      "example": "I [LOL'ed]",
+      "written_on": "2013-08-21T00:00:00Z"
+    }
+  ],
+  "Locked": [
+    {
+      "defid": 14872384,
+      "definition": "When you've [got] [something] under [control]",
+      "example": "Sam: [have you done] [the job]\r\n[Paul]: yh its locked bro",
+      "written_on": "2020-04-09T00:00:00Z"
+    }
   ]
 }

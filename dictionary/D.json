@@ -150,5 +150,29 @@
       "example": "[You need] to dwyd [to be happy]",
       "written_on": "2014-04-30T00:00:00Z"
     }
+  ],
+  "dirt merchant": [
+    {
+      "defid": 4018294,
+      "definition": "A person who is employed by the NAVY and disobeys direct orders and regulations. A dirt merchant may also [intentionally] not salute officers. Also a person who smells of [cigarettes], copenhagen, booze, and [strippers].",
+      "example": "Cody is a [real] [dirt] [merchant].",
+      "written_on": "2009-06-06T00:00:00Z"
+    }
+  ],
+  "dumbass-xian": [
+    {
+      "defid": 1024449,
+      "definition": "[anyone] that pratices any [form] of [christianity]",
+      "example": "[what a] dumbass-xian, they [actually] [believe] god exists :))",
+      "written_on": "2005-01-27T00:00:00Z"
+    }
+  ],
+  "Dookie Juice": [
+    {
+      "defid": 5159438,
+      "definition": "A [statement] used to exspress [anger] when [something] that you dont like occurs.",
+      "example": "[Dookie] Juice! [I just] got stung by a bee.\n\nDookie Juice! [I lost] again!",
+      "written_on": "2010-08-15T00:00:00Z"
+    }
   ]
 }
