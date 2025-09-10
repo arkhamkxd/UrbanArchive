@@ -118,5 +118,29 @@
       "example": "[wow], [the common cold] [sucks balls]",
       "written_on": "2007-10-08T00:00:00Z"
     }
+  ],
+  "Corner dawdler": [
+    {
+      "defid": 17800187,
+      "definition": "Someone who acts as if they’re about to cross a street, [usually] with a kid or dog in tow, makes a first step toward the [crosswalk], causing oncoming traffic to slam on their brakes [but then] pulls back and farts around with said kid or dog or checks their phone, often also issuing you a scowl thereafter.",
+      "example": "[Mariemont]: [Home] of [the Corner] dawdler.",
+      "written_on": "2023-05-24T09:53:57.944Z"
+    }
+  ],
+  "copypaste": [
+    {
+      "defid": 3792371,
+      "definition": "(verb) (cop-E-pAst) the act of manually copying and pasting a URL from a site such as Myspace into a new browser pane [because you can't] be sure if they've [disallowed] the [intermediary] link they not clip onto every URL added.",
+      "example": "Myspace disclaimer: you will [have to] copypaste all the urls I give you because Myspace has [flagged] me as a [terrorist] and breaks any linkage i provide.",
+      "written_on": "2009-03-11T00:00:00Z"
+    }
+  ],
+  "call a spade a spade": [
+    {
+      "defid": 2794892,
+      "definition": "to [expose] [somebody] 4 wat dey are when every one else is too [scared] to.",
+      "example": "\"And [I'm sorry] Miss Rosie Perez I call a spade a spade, it just is [what it is]\"- Jay-Z [Blueprint] 2",
+      "written_on": "2008-01-17T00:00:00Z"
+    }
   ]
 }
