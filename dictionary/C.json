@@ -150,5 +150,29 @@
       "example": "His [greatness] [was like] [unto] Calanctus.",
       "written_on": "2003-02-08T00:00:00Z"
     }
+  ],
+  "Cellular Eclipse": [
+    {
+      "defid": 15109851,
+      "definition": "an [eclipse] in which [the face] is obscured by the [cellphone]",
+      "example": "[Tinder] set a [cellular] [Eclipse] on her",
+      "written_on": "2020-06-17T00:00:00Z"
+    }
+  ],
+  "cocka doodle": [
+    {
+      "defid": 17965874,
+      "definition": "[Nonsense]",
+      "example": "[Someone] tells you [something] that is [obviously not] true. It's cocka doodle or if you prefer BS",
+      "written_on": "2023-10-29T10:16:31.218Z"
+    }
+  ],
+  "Contribution": [
+    {
+      "defid": 11484608,
+      "definition": "A gift or [payment] to [a common] fund or [collection]",
+      "example": "I made a Contribution [via Google] in [exchange] for [money]",
+      "written_on": "2017-04-26T00:00:00Z"
+    }
   ]
 }

@@ -294,5 +294,37 @@
       "example": "[Kyle] was so swasted [last night].",
       "written_on": "2006-04-26T00:00:00Z"
     }
+  ],
+  "Scar Tissue": [
+    {
+      "defid": 3238085,
+      "definition": "An Excellent song written by [Anthony Kiedis] and performed by the [Red Hot Chili Peppers], [the greatest] band ever to grace the Earth.  It is also the name of Anthony Kiedis' autobiography. It was published in 2004. It told the story of Kiedis' youth and the success of the band as well as he and his friends struggles with drug and alcohol addiction.",
+      "example": "Push me [up against the wall]\r\nyoung [kentucky] girl in a [push up bra]\r\n\r\n--Scar Tissue",
+      "written_on": "2008-08-15T00:00:00Z"
+    }
+  ],
+  "Sykes": [
+    {
+      "defid": 16766331,
+      "definition": "A person who doesn't [give a fuck] about anything...if u wanna talk you talk but he won't [give a shit]. He's a hardi guy. [Fuck with] him at your own risk.",
+      "example": "Sykes is some [badass] [motherfucker].",
+      "written_on": "2021-11-25T09:44:51.476Z"
+    }
+  ],
+  "schmammied": [
+    {
+      "defid": 2143862,
+      "definition": "a [state] of [elated] drunkeness",
+      "example": "After that [fourth] [shot] I was schmammied!!",
+      "written_on": "2006-12-17T00:00:00Z"
+    }
+  ],
+  "Slugger": [
+    {
+      "defid": 15940518,
+      "definition": "[A player] who hits nukes [according to] MLB [legend] Adam Ahmad",
+      "example": "Adam- “[Massimo] is a slugger”",
+      "written_on": "2021-04-25T14:58:29.466Z"
+    }
   ]
 }
