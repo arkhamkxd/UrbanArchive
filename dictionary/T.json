@@ -46,5 +46,29 @@
       "example": "Turfhokey, [the monkey] [took] my [silly string] again.",
       "written_on": "2008-06-13T00:00:00Z"
     }
+  ],
+  "Train Tracks": [
+    {
+      "defid": 3586629,
+      "definition": "[braces]",
+      "example": "[That girl] in [the bar] was [pretty hot] until she smiled...she had sushi caught in her train tracks...\r\n\r\nOh, really....braces?\r\n\r\nYep",
+      "written_on": "2008-12-30T00:00:00Z"
+    }
+  ],
+  "toilet hug": [
+    {
+      "defid": 860009,
+      "definition": "To vomit.\r\n[The act] of vomiting, [usually] while sitting [on the floor], withc both arms around the toilet.",
+      "example": "1.Scot was hugging the toilet for the rest of [the night] [after all] that booze.\r\n2.Katie went to [the bathroom] to toilet hug.",
+      "written_on": "2004-10-15T00:00:00Z"
+    }
+  ],
+  "Travega": [
+    {
+      "defid": 4898764,
+      "definition": "An object or situation bringing hope to an [individual]. Synonymous with the [metaphorical] reference to the \"sliver lining\" referred to in the phrase \"every cloud has a [silver lining]\".\n\nPronounced: trah-vay-gah",
+      "example": "Shit that [lottery ticket] was my travega, dude.\n\nI [hate me] [fuckin] job. Where is my travega?",
+      "written_on": "2010-04-19T00:00:00Z"
+    }
   ]
 }
