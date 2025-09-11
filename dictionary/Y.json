@@ -622,5 +622,37 @@
       "example": "I sent Michelle a yiftee for her [amazing] [work] [today].",
       "written_on": "2011-12-14T00:00:00Z"
     }
+  ],
+  "Yeeyee on my horsey": [
+    {
+      "defid": 13788516,
+      "definition": "[yeeyee] on my horsey means to [yeeyee] on a horsey, [that’s it] folks.",
+      "example": "I [yeeyee] [on my] [horsey] bro",
+      "written_on": "2019-04-08T00:00:00Z"
+    }
+  ],
+  "yello": [
+    {
+      "defid": 1356905,
+      "definition": "yello is [like hello] but its just a better [way to say] it. Its just another [way to say] hello, hi, etc",
+      "example": "yello! \r\nhey!\r\nWhat's [going on] [with you] [today]?",
+      "written_on": "2005-07-22T00:00:00Z"
+    }
+  ],
+  "you know": [
+    {
+      "defid": 4067098,
+      "definition": "Equates to: \"You [really] [don't know] but [I wish] you did.\"",
+      "example": "\"What exactly did you do [last night]?\"\r\n\"Oh, we went up to that place uptown, you know?\"\r\n\"No.\"\r\n\"You know, that place with the trees and the river and stuff, you know?\"\r\n\"I really, actually [don't know].\"\r\n\"Well [you should]...\"",
+      "written_on": "2009-06-28T00:00:00Z"
+    }
+  ],
+  "yeah anthony": [
+    {
+      "defid": 12940279,
+      "definition": "[Whenever] Anthony does anything you must say \"Yeah Anthony\" as loud as you can to hype him up and support him through his [greatest] [endeavors].",
+      "example": "[Anthony] goes to serve a [volleyball].\r\n[Everyone] - \"Yeah Anthony!\"",
+      "written_on": "2018-06-08T00:00:00Z"
+    }
   ]
 }
