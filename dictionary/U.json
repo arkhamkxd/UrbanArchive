@@ -554,5 +554,37 @@
       "example": "Look at my [username]. Doesn’t it make you want to try [username] [downvoting]?",
       "written_on": "2021-04-03T11:37:31.266Z"
     }
+  ],
+  "Ugly Bread": [
+    {
+      "defid": 6108798,
+      "definition": "The [first and last] [piece] of bread in a new loaf that [nobody] ever eats.",
+      "example": "\"I just bought some more bread\"\n\n\"[Make me a sandwich]? Start with [the second] piece though I hate [the ugly] bread\"",
+      "written_on": "2011-09-30T00:00:00Z"
+    }
+  ],
+  "unsheathed": [
+    {
+      "defid": 12146158,
+      "definition": "to [take out] a knife or sword [from a] [sheath]",
+      "example": "He [brought] back a knife. Unsheathed, it smiled at me, [curving] [up in] a grin.",
+      "written_on": "2017-11-08T00:00:00Z"
+    }
+  ],
+  "Uncle Ron": [
+    {
+      "defid": 345334,
+      "definition": "[slang] for [herion]",
+      "example": "I'm about to [push off] with [Uncle] ron, [you down]?",
+      "written_on": "2003-11-11T00:00:00Z"
+    }
+  ],
+  "ultimate death football": [
+    {
+      "defid": 3187048,
+      "definition": "Ultimate death football is an [alternative] to normal tackle football. The game is played on a concrete field instead of grass and [the players] use no pads or protection of any kind. Each time blood is drawn, the other team gets a ten yard penalty in their favor. Therefore, if a player on the offense is tackled and scrapes his knee, they lose ten yards, but if a defensive player gets [knocked down] and scrapes his knee, the offense gains ten yards. Take note however that the intention of the game is not to make people bleed. Just like normal football, the object is to get points. The rest of the normal tackle football rules apply.",
+      "example": "Jonah: Woah dude; why's all the skin [on your face] gone?\r\nKilpatrick: Oh man, [I just lost] in a game of [ultimate] death football. You wanna play?\r\nJonah: Sure!",
+      "written_on": "2008-07-02T00:00:00Z"
+    }
   ]
 }
