@@ -4,6 +4,7 @@ import os
 import datetime
 import time
 import random
+import logging
 from typing import Dict, List, Set, Optional
 
 
@@ -12,16 +13,37 @@ class UrbanDictionaryFetcher:
         self.api_url = "https://api.urbandictionary.com/v0/random"
         self.data_dir = "data"
         self.dict_dir = "dictionary"
+        self.log_dir = "logs"
         self.seen_defids: Set[int] = set()
         self.max_retries = 3
-        self.retry_delay = 1 
+        self.retry_delay = 1
+        self.start_time = datetime.datetime.now()
         
         os.makedirs(self.data_dir, exist_ok=True)
         os.makedirs(self.dict_dir, exist_ok=True)
+        os.makedirs(self.log_dir, exist_ok=True)
         
+        self._setup_logging()
         self._load_existing_defids()
     
+    def _setup_logging(self) -> None:
+        log_filename = f"fetch_{self.start_time.strftime('%Y-%m-%d')}.log"
+        log_filepath = os.path.join(self.log_dir, log_filename)
+        
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            handlers=[
+                logging.FileHandler(log_filepath, encoding='utf-8'),
+                logging.StreamHandler()
+            ]
+        )
+        self.logger = logging.getLogger(__name__)
+        self.logger.info(f"=== Urban Dictionary Fetch Session Started ===")
+        self.logger.info(f"Session ID: {self.start_time.strftime('%Y%m%d_%H%M%S')}")
+    
     def _load_existing_defids(self) -> None:
+        loaded_count = 0
         if os.path.exists(self.data_dir):
             for filename in os.listdir(self.data_dir):
                 if filename.endswith('.json'):
@@ -32,8 +54,12 @@ class UrbanDictionaryFetcher:
                             for entry in data:
                                 if 'defid' in entry:
                                     self.seen_defids.add(entry['defid'])
+                                    loaded_count += 1
                     except (json.JSONDecodeError, FileNotFoundError):
+                        self.logger.warning(f"Failed to load existing data from {filepath}")
                         continue
+        
+        self.logger.info(f"Loaded {len(self.seen_defids)} unique defids from {loaded_count} total entries for deduplication")
     
     def _make_request(self) -> Optional[Dict]:
         for attempt in range(self.max_retries):
@@ -41,10 +67,12 @@ class UrbanDictionaryFetcher:
                 response = requests.get(self.api_url, timeout=10)
                 response.raise_for_status()
                 return response.json()
-            except requests.RequestException:
+            except requests.RequestException as e:
+                self.logger.warning(f"API request failed (attempt {attempt + 1}/{self.max_retries}): {str(e)}")
                 if attempt < self.max_retries - 1:
                     time.sleep(self.retry_delay)
                 else:
+                    self.logger.error("Max retries reached, skipping this batch")
                     return None
     
     def _extract_entry_data(self, raw_entry: Dict) -> Optional[Dict]:
@@ -56,7 +84,8 @@ class UrbanDictionaryFetcher:
                 'example': raw_entry['example'].strip(),
                 'written_on': raw_entry['written_on']
             }
-        except KeyError:
+        except KeyError as e:
+            self.logger.debug(f"Missing required field {e} in entry, skipping")
             return None
     
     def _validate_json(self, data) -> bool:
@@ -153,14 +182,80 @@ class UrbanDictionaryFetcher:
         if new_entries:
             self._save_to_daily_dump(new_entries)
             self._save_to_alphabetical_dict(new_entries)
+            self._update_stats_file()
         
         return len(new_entries)
+    
+    def _update_stats_file(self) -> None:
+        """Update statistics file with current data counts"""
+        try:
+            stats = {
+                'last_updated': datetime.datetime.now().isoformat(),
+                'total_unique_entries': len(self.seen_defids),
+                'daily_files': 0,
+                'dictionary_files': 0,
+                'entries_by_letter': {},
+                'daily_breakdown': {}
+            }
+            
+            # Count daily files and entries
+            if os.path.exists(self.data_dir):
+                for filename in os.listdir(self.data_dir):
+                    if filename.endswith('.json'):
+                        stats['daily_files'] += 1
+                        filepath = os.path.join(self.data_dir, filename)
+                        try:
+                            with open(filepath, 'r', encoding='utf-8') as f:
+                                data = json.load(f)
+                                date = filename.replace('.json', '')
+                                stats['daily_breakdown'][date] = len(data)
+                        except (json.JSONDecodeError, FileNotFoundError):
+                            continue
+            
+            # Count dictionary files and entries by letter
+            if os.path.exists(self.dict_dir):
+                for filename in os.listdir(self.dict_dir):
+                    if filename.endswith('.json'):
+                        stats['dictionary_files'] += 1
+                        filepath = os.path.join(self.dict_dir, filename)
+                        try:
+                            with open(filepath, 'r', encoding='utf-8') as f:
+                                data = json.load(f)
+                                letter = filename.replace('.json', '')
+                                word_count = len(data)
+                                definition_count = sum(len(definitions) for definitions in data.values())
+                                stats['entries_by_letter'][letter] = {
+                                    'words': word_count,
+                                    'definitions': definition_count
+                                }
+                        except (json.JSONDecodeError, FileNotFoundError):
+                            continue
+            
+            # Save stats file
+            stats_filepath = 'stats.json'
+            with open(stats_filepath, 'w', encoding='utf-8') as f:
+                json.dump(stats, f, indent=2, ensure_ascii=False)
+            
+        except Exception as e:
+            pass
 
 
 def main():
     fetcher = UrbanDictionaryFetcher()
     new_entries_count = fetcher.fetch_and_store(num_batches=50)
-    print(f"Added {new_entries_count} new entries during this run")
+    
+    end_time = datetime.datetime.now()
+    session_duration = (end_time - fetcher.start_time).total_seconds()
+    
+    fetcher.logger.info(f"=== Session Summary ===")
+    fetcher.logger.info(f"Added {new_entries_count} new entries during this run")
+    fetcher.logger.info(f"Session duration: {session_duration:.2f} seconds")
+    fetcher.logger.info(f"Average entries per minute: {(new_entries_count / session_duration * 60):.1f}")
+    fetcher.logger.info(f"Total unique entries in database: {len(fetcher.seen_defids)}")
+    fetcher.logger.info(f"=== Session Ended ===")
+    
+    # Only print essential info to console (for GitHub Actions)
+    print(f"✓ Fetch completed: {new_entries_count} new entries added")
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 # UrbanArchive
 
-**Urban Dictionary Archive** – A continuously scraped dataset of slang definitions from Urban Dictionary, automatically updated every 5 minutes via GitHub Actions.
+**Urban Dictionary Archive** – A continuously scraped dataset of slang definitions from Urban Dictionary, automatically updated every 5-15 minutes via GitHub Actions.
 
 ## 📁 Data Structure
 
@@ -58,7 +58,7 @@ jq '.rizz' dictionary/R.json
 ## 🔄 Data Collection Process
 
 - **Source**: Urban Dictionary Random API (`https://api.urbandictionary.com/v0/random`)
-- **Frequency**: Every 15 minutes via GitHub Actions
+- **Frequency**: Every 5-15 minutes via GitHub Actions
 - **Deduplication**: Entries are deduplicated by `defid` to ensure data cleanliness
 - **Error Handling**: API failures are handled gracefully with retry logic
 - **Storage**: Dual storage system for both chronological and alphabetical access
@@ -83,9 +83,26 @@ python fetch_ud.py
 
 ## 📊 Data Statistics
 
-The repository automatically maintains:
+> *Statistics are automatically updated with each data collection run*
+
+### Current Database Status
+- **Total Unique Entries**: ![Total Entries](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F[USERNAME]%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.total_unique_entries&label=entries&color=blue)
+- **Dictionary Files**: ![Dictionary Files](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F[USERNAME]%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.dictionary_files&label=letters&color=green)
+- **Daily Dumps**: ![Daily Files](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F[USERNAME]%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.daily_files&label=days&color=orange)
+- **Last Updated**: ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F[USERNAME]%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.last_updated&label=updated&color=lightgrey)
+
+### Top Letters by Word Count
+*Replace [USERNAME] in the badge URLs above with your GitHub username*
+
+### Collection Activity
+- Data is collected every 5-15 minutes via GitHub Actions
+- Each run fetches 50 batches with ~10 entries per batch
+- Automatic deduplication prevents duplicate entries
+- All activity is logged to `logs/` directory (not committed to repo)
+
+### Repository Maintenance
 - **Deduplication**: No duplicate entries based on `defid`
-- **Continuous Growth**: New entries added every 15 minutes
+- **Continuous Growth**: New entries added every 5-15 minutes
 - **Dual Access**: Both chronological (daily) and alphabetical organization
 - **JSON Validation**: All data is validated before storage
 
