@@ -1,8 +1,127 @@
 {
-  "last_updated": "2025-01-01T00:00:00.000000",
-  "total_unique_entries": 0,
-  "daily_files": 0,
-  "dictionary_files": 0,
-  "entries_by_letter": {},
-  "daily_breakdown": {}
+  "last_updated": "2025-09-11T12:42:43.896325",
+  "total_unique_entries": 1000,
+  "daily_files": 1,
+  "dictionary_files": 29,
+  "entries_by_letter": {
+    "ニ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "C": {
+      "words": 69,
+      "definitions": 69
+    },
+    "S": {
+      "words": 135,
+      "definitions": 136
+    },
+    "O": {
+      "words": 13,
+      "definitions": 13
+    },
+    "B": {
+      "words": 75,
+      "definitions": 75
+    },
+    "V": {
+      "words": 22,
+      "definitions": 22
+    },
+    "R": {
+      "words": 40,
+      "definitions": 40
+    },
+    "T": {
+      "words": 51,
+      "definitions": 51
+    },
+    "P": {
+      "words": 57,
+      "definitions": 57
+    },
+    "G": {
+      "words": 33,
+      "definitions": 33
+    },
+    "Q": {
+      "words": 6,
+      "definitions": 6
+    },
+    "M": {
+      "words": 51,
+      "definitions": 51
+    },
+    "F": {
+      "words": 57,
+      "definitions": 57
+    },
+    "E": {
+      "words": 20,
+      "definitions": 20
+    },
+    "Y": {
+      "words": 12,
+      "definitions": 12
+    },
+    "L": {
+      "words": 36,
+      "definitions": 37
+    },
+    "Z": {
+      "words": 5,
+      "definitions": 5
+    },
+    "I": {
+      "words": 20,
+      "definitions": 21
+    },
+    "X": {
+      "words": 4,
+      "definitions": 4
+    },
+    "Š": {
+      "words": 1,
+      "definitions": 1
+    },
+    "OTHER": {
+      "words": 15,
+      "definitions": 15
+    },
+    "A": {
+      "words": 56,
+      "definitions": 56
+    },
+    "K": {
+      "words": 17,
+      "definitions": 17
+    },
+    "W": {
+      "words": 29,
+      "definitions": 29
+    },
+    "N": {
+      "words": 32,
+      "definitions": 32
+    },
+    "J": {
+      "words": 32,
+      "definitions": 32
+    },
+    "U": {
+      "words": 9,
+      "definitions": 9
+    },
+    "H": {
+      "words": 50,
+      "definitions": 50
+    },
+    "D": {
+      "words": 49,
+      "definitions": 49
+    }
+  },
+  "daily_breakdown": {
+    "2025-09-11": 1000
+  }
 }
