@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-11T22:46:43.429165",
-  "total_unique_entries": 19977,
+  "last_updated": "2025-09-11T22:59:21.342377",
+  "total_unique_entries": 20476,
   "daily_files": 1,
-  "dictionary_files": 48,
+  "dictionary_files": 49,
   "entries_by_letter": {
     "ᓚ": {
       "words": 1,
@@ -13,8 +13,8 @@
       "definitions": 2
     },
     "C": {
-      "words": 1386,
-      "definitions": 1435
+      "words": 1427,
+      "definitions": 1476
     },
     "ʻ": {
       "words": 1,
@@ -29,32 +29,32 @@
       "definitions": 1
     },
     "S": {
-      "words": 2305,
-      "definitions": 2374
+      "words": 2366,
+      "definitions": 2440
     },
     "É": {
       "words": 1,
       "definitions": 1
     },
     "O": {
-      "words": 329,
-      "definitions": 341
+      "words": 334,
+      "definitions": 346
     },
     "B": {
-      "words": 1455,
-      "definitions": 1495
+      "words": 1491,
+      "definitions": 1532
     },
     "V": {
-      "words": 268,
-      "definitions": 270
+      "words": 271,
+      "definitions": 273
     },
     "R": {
-      "words": 729,
-      "definitions": 757
+      "words": 744,
+      "definitions": 772
     },
     "T": {
-      "words": 1156,
-      "definitions": 1183
+      "words": 1185,
+      "definitions": 1212
     },
     "Ć": {
       "words": 1,
@@ -69,48 +69,48 @@
       "definitions": 1
     },
     "P": {
-      "words": 1061,
-      "definitions": 1085
+      "words": 1090,
+      "definitions": 1115
     },
     "G": {
-      "words": 854,
-      "definitions": 881
+      "words": 877,
+      "definitions": 904
     },
     "Q": {
-      "words": 109,
-      "definitions": 111
+      "words": 110,
+      "definitions": 113
     },
     "M": {
-      "words": 1139,
-      "definitions": 1177
+      "words": 1171,
+      "definitions": 1210
     },
     "Æ": {
       "words": 1,
       "definitions": 1
     },
     "F": {
-      "words": 893,
-      "definitions": 925
+      "words": 910,
+      "definitions": 944
     },
     "E": {
-      "words": 422,
-      "definitions": 443
+      "words": 429,
+      "definitions": 452
     },
     "Y": {
-      "words": 232,
-      "definitions": 238
+      "words": 237,
+      "definitions": 243
     },
     "L": {
-      "words": 645,
-      "definitions": 676
+      "words": 660,
+      "definitions": 693
     },
     "Z": {
-      "words": 140,
-      "definitions": 142
+      "words": 143,
+      "definitions": 145
     },
     "I": {
-      "words": 386,
-      "definitions": 397
+      "words": 396,
+      "definitions": 407
     },
     "王": {
       "words": 1,
@@ -148,56 +148,60 @@
       "words": 1,
       "definitions": 1
     },
+    "เ": {
+      "words": 1,
+      "definitions": 1
+    },
     "OTHER": {
-      "words": 282,
-      "definitions": 299
+      "words": 286,
+      "definitions": 303
     },
     "A": {
-      "words": 1071,
-      "definitions": 1115
+      "words": 1096,
+      "definitions": 1140
     },
     "K": {
-      "words": 548,
-      "definitions": 568
+      "words": 562,
+      "definitions": 584
     },
     "W": {
-      "words": 548,
-      "definitions": 562
+      "words": 562,
+      "definitions": 576
     },
     "ඞ": {
       "words": 1,
       "definitions": 1
     },
     "N": {
-      "words": 654,
-      "definitions": 683
+      "words": 672,
+      "definitions": 702
     },
     "J": {
-      "words": 628,
-      "definitions": 679
+      "words": 640,
+      "definitions": 692
     },
     "Х": {
       "words": 1,
       "definitions": 1
     },
     "U": {
-      "words": 198,
-      "definitions": 208
+      "words": 202,
+      "definitions": 212
     },
     "H": {
-      "words": 734,
-      "definitions": 753
+      "words": 761,
+      "definitions": 782
     },
     "十": {
       "words": 1,
       "definitions": 1
     },
     "D": {
-      "words": 1096,
-      "definitions": 1122
+      "words": 1122,
+      "definitions": 1149
     }
   },
   "daily_breakdown": {
-    "2025-09-11": 19977
+    "2025-09-11": 20476
   }
 }
