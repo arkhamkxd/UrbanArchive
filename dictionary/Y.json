@@ -134,5 +134,21 @@
       "example": "\"Do you have the [assignment] done from [yesterday]?\"\r\n\"[Yesterday] was Sunday.\"\r\n\"Sorry, I meant do you have the assignment done from yesterschoolday.\"",
       "written_on": "2016-09-30T00:00:00Z"
     }
+  ],
+  "Yaus": [
+    {
+      "defid": 5463650,
+      "definition": "[Cute] Or [Adorable].",
+      "example": "[Annie] Says [Something] Cute.\n\n[Ashley]:\"Yaus\"",
+      "written_on": "2010-12-26T00:00:00Z"
+    }
+  ],
+  "yuppres": [
+    {
+      "defid": 1414890,
+      "definition": "[I am] [getting in] a [sexual] mood",
+      "example": "[How are you] [feeling]? Yuppres.",
+      "written_on": "2005-09-07T00:00:00Z"
+    }
   ]
 }
