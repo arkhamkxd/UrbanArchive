@@ -246,5 +246,21 @@
       "example": "What would [happen] if I [put] qwertyuiopasdfghjklzxcvbnm in [Urban Dictionary]?",
       "written_on": "2024-07-07T23:26:06.119Z"
     }
+  ],
+  "qper": [
+    {
+      "defid": 525558,
+      "definition": "[quarter pound] of marijauna.",
+      "example": "[Bob] shouldn’t have [fronted] me that qper.",
+      "written_on": "2004-02-24T00:00:00Z"
+    }
+  ],
+  "quicktap": [
+    {
+      "defid": 11789695,
+      "definition": "When you type a message to someone [without] the intention of ever [sending it] and someone taps your phone real quick while showing it to [your friends].",
+      "example": "*types a [regretful] [message]* - *TAP* - Dude, [did you] really just quicktap me?",
+      "written_on": "2017-07-14T12:54:45.744Z"
+    }
   ]
 }
