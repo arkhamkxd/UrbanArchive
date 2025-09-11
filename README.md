@@ -86,13 +86,10 @@ python fetch_ud.py
 > *Statistics are automatically updated with each data collection run*
 
 ### Current Database Status
-- **Total Unique Entries**: ![Total Entries](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F[USERNAME]%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.total_unique_entries&label=entries&color=blue)
-- **Dictionary Files**: ![Dictionary Files](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F[USERNAME]%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.dictionary_files&label=letters&color=green)
-- **Daily Dumps**: ![Daily Files](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F[USERNAME]%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.daily_files&label=days&color=orange)
-- **Last Updated**: ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F[USERNAME]%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.last_updated&label=updated&color=lightgrey)
-
-### Top Letters by Word Count
-*Replace [USERNAME] in the badge URLs above with your GitHub username*
+- **Total Unique Entries**: ![Total Entries](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Farkhamkxd%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.total_unique_entries&label=entries&color=blue)
+- **Dictionary Files**: ![Dictionary Files](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Farkhamkxd%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.dictionary_files&label=letters&color=green)
+- **Daily Dumps**: ![Daily Files](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Farkhamkxd%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.daily_files&label=days&color=orange)
+- **Last Updated**: ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Farkhamkxd%2FUrbanArchive%2Fmain%2Fstats.json&query=%24.last_updated&label=updated&color=lightgrey)
 
 ### Collection Activity
 - Data is collected every 5-15 minutes via GitHub Actions

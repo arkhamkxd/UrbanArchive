@@ -198,7 +198,6 @@ class UrbanDictionaryFetcher:
                 'daily_breakdown': {}
             }
             
-            # Count daily files and entries
             if os.path.exists(self.data_dir):
                 for filename in os.listdir(self.data_dir):
                     if filename.endswith('.json'):
@@ -212,7 +211,6 @@ class UrbanDictionaryFetcher:
                         except (json.JSONDecodeError, FileNotFoundError):
                             continue
             
-            # Count dictionary files and entries by letter
             if os.path.exists(self.dict_dir):
                 for filename in os.listdir(self.dict_dir):
                     if filename.endswith('.json'):
@@ -231,7 +229,6 @@ class UrbanDictionaryFetcher:
                         except (json.JSONDecodeError, FileNotFoundError):
                             continue
             
-            # Save stats file
             stats_filepath = 'stats.json'
             with open(stats_filepath, 'w', encoding='utf-8') as f:
                 json.dump(stats, f, indent=2, ensure_ascii=False)
@@ -254,7 +251,6 @@ def main():
     fetcher.logger.info(f"Total unique entries in database: {len(fetcher.seen_defids)}")
     fetcher.logger.info(f"=== Session Ended ===")
     
-    # Only print essential info to console (for GitHub Actions)
     print(f"✓ Fetch completed: {new_entries_count} new entries added")
 
 
