@@ -708,5 +708,29 @@
       "example": "[Example] 3:[Got to go] to the shops but [the food] is so uhck",
       "written_on": "2021-01-29T17:34:40.753Z"
     }
+  ],
+  "Urban Dictionary Thief": [
+    {
+      "defid": 8582286,
+      "definition": "A word/[definition] posted on [Urban Dictionary] that was swiped by a [moderator] and used as their own.",
+      "example": "[What the hell]? I posted a [definition] on UD but it's been edited and posted under someone else's username! Freakin' [Urban Dictionary] Thief mods.",
+      "written_on": "2015-11-30T00:00:00Z"
+    }
+  ],
+  "uuuuuuugh!": [
+    {
+      "defid": 2670538,
+      "definition": "[the sound] when one is [utterly] [disgusted]",
+      "example": "When [Danny] [saw] the emo-kids [making out], all he could say was, \"Uuuuuuugh!\"",
+      "written_on": "2007-11-26T00:00:00Z"
+    }
+  ],
+  "uremovich": [
+    {
+      "defid": 12838681,
+      "definition": "[son of] urem",
+      "example": "[jack] uremovich [walked] into a [store].",
+      "written_on": "2018-05-27T00:00:00Z"
+    }
   ]
 }
