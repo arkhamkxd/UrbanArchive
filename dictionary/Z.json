@@ -844,5 +844,29 @@
       "example": "P1: hey [I heard] this person said they’ll never date [someone] their own kind.\r\nP2: yeah, [what a] zeke!",
       "written_on": "2023-08-06T14:49:20.608Z"
     }
+  ],
+  "Zaza Clan": [
+    {
+      "defid": 17670838,
+      "definition": "Zaza clan is NOT a cult and [worships] the Zaza gods in hopes that they will become [enlightened] by Zaza. Once they get [enlightened], Their title will be \"The Zaza\". There is only one \"The Zaza",
+      "example": "I [want to] join the [zaza] clan [so bad].",
+      "written_on": "2023-02-14T12:10:25.765Z"
+    }
+  ],
+  "zirion": [
+    {
+      "defid": 15304204,
+      "definition": "[Ziron] is [a name] of [big] egoists",
+      "example": "Zirion is [cool]",
+      "written_on": "2020-09-10T05:18:28.05Z"
+    }
+  ],
+  "Zyothy": [
+    {
+      "defid": 16343222,
+      "definition": "The act of promising to [do something] later but you take a [long time] and usually don't follow with [the promise].",
+      "example": "\"Sorry, I [feel like] playing [another] game [right now].\"\r\n\"I waited 4 hours for this, please don't pull a Zyothy.\"",
+      "written_on": "2021-09-29T09:29:42.192Z"
+    }
   ]
 }
