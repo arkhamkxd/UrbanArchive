@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-11T22:59:21.342377",
-  "total_unique_entries": 20476,
+  "last_updated": "2025-09-11T23:09:47.086395",
+  "total_unique_entries": 20974,
   "daily_files": 1,
-  "dictionary_files": 49,
+  "dictionary_files": 51,
   "entries_by_letter": {
     "ᓚ": {
       "words": 1,
@@ -13,8 +13,8 @@
       "definitions": 2
     },
     "C": {
-      "words": 1427,
-      "definitions": 1476
+      "words": 1454,
+      "definitions": 1506
     },
     "ʻ": {
       "words": 1,
@@ -29,32 +29,32 @@
       "definitions": 1
     },
     "S": {
-      "words": 2366,
-      "definitions": 2440
+      "words": 2424,
+      "definitions": 2500
     },
     "É": {
       "words": 1,
       "definitions": 1
     },
     "O": {
-      "words": 334,
-      "definitions": 346
+      "words": 339,
+      "definitions": 351
     },
     "B": {
-      "words": 1491,
-      "definitions": 1532
+      "words": 1531,
+      "definitions": 1572
     },
     "V": {
-      "words": 271,
-      "definitions": 273
+      "words": 275,
+      "definitions": 277
     },
     "R": {
-      "words": 744,
-      "definitions": 772
+      "words": 758,
+      "definitions": 787
     },
     "T": {
-      "words": 1185,
-      "definitions": 1212
+      "words": 1207,
+      "definitions": 1235
     },
     "Ć": {
       "words": 1,
@@ -69,48 +69,48 @@
       "definitions": 1
     },
     "P": {
-      "words": 1090,
-      "definitions": 1115
+      "words": 1117,
+      "definitions": 1144
     },
     "G": {
-      "words": 877,
-      "definitions": 904
+      "words": 891,
+      "definitions": 921
     },
     "Q": {
-      "words": 110,
-      "definitions": 113
+      "words": 115,
+      "definitions": 118
     },
     "M": {
-      "words": 1171,
-      "definitions": 1210
+      "words": 1193,
+      "definitions": 1234
     },
     "Æ": {
       "words": 1,
       "definitions": 1
     },
     "F": {
-      "words": 910,
-      "definitions": 944
+      "words": 932,
+      "definitions": 968
     },
     "E": {
-      "words": 429,
-      "definitions": 452
+      "words": 441,
+      "definitions": 465
     },
     "Y": {
-      "words": 237,
-      "definitions": 243
+      "words": 247,
+      "definitions": 253
     },
     "L": {
-      "words": 660,
-      "definitions": 693
+      "words": 677,
+      "definitions": 710
     },
     "Z": {
-      "words": 143,
-      "definitions": 145
+      "words": 147,
+      "definitions": 149
     },
     "I": {
-      "words": 396,
-      "definitions": 407
+      "words": 413,
+      "definitions": 424
     },
     "王": {
       "words": 1,
@@ -153,55 +153,63 @@
       "definitions": 1
     },
     "OTHER": {
-      "words": 286,
-      "definitions": 303
+      "words": 290,
+      "definitions": 307
     },
     "A": {
-      "words": 1096,
-      "definitions": 1140
+      "words": 1118,
+      "definitions": 1163
     },
     "K": {
-      "words": 562,
-      "definitions": 584
+      "words": 568,
+      "definitions": 591
+    },
+    "Đ": {
+      "words": 1,
+      "definitions": 1
     },
     "W": {
-      "words": 562,
-      "definitions": 576
+      "words": 581,
+      "definitions": 596
     },
     "ඞ": {
       "words": 1,
       "definitions": 1
     },
     "N": {
-      "words": 672,
-      "definitions": 702
+      "words": 698,
+      "definitions": 731
     },
     "J": {
-      "words": 640,
-      "definitions": 692
+      "words": 657,
+      "definitions": 711
     },
     "Х": {
       "words": 1,
       "definitions": 1
     },
     "U": {
-      "words": 202,
-      "definitions": 212
+      "words": 207,
+      "definitions": 217
     },
     "H": {
-      "words": 761,
-      "definitions": 782
+      "words": 776,
+      "definitions": 798
     },
     "十": {
       "words": 1,
       "definitions": 1
     },
+    "Ý": {
+      "words": 1,
+      "definitions": 1
+    },
     "D": {
-      "words": 1122,
-      "definitions": 1149
+      "words": 1157,
+      "definitions": 1185
     }
   },
   "daily_breakdown": {
-    "2025-09-11": 20476
+    "2025-09-11": 20974
   }
 }
