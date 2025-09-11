@@ -2378,5 +2378,45 @@
       "example": "[Person]: What's your otp?\r\nMe: [TODODEKU]",
       "written_on": "2019-03-19T00:00:00Z"
     }
+  ],
+  "Old sport": [
+    {
+      "defid": 14016356,
+      "definition": "A term of endearment used by [gentlemen] in the 20th century. Made famous for its use in F. [Scott Fitzgerald]’s novel [The Great Gatsby]",
+      "example": "Jay: Having [a good time], old sport?\n\nNick: Maybe [another] drink\n\nJay: [Anything you want], old sport, it’s yours",
+      "written_on": "2019-06-23T00:00:00Z"
+    }
+  ],
+  "October 16th": [
+    {
+      "defid": 14281170,
+      "definition": "Girls get ready... to say yes!\r\n[This is] [the day] you’ve been [waiting] for...",
+      "example": "On October 16th : [Your crush] will ask you out and [you should] say yes.\r\n[Good things] will come if you do this.",
+      "written_on": "2019-10-15T00:00:00Z"
+    }
+  ],
+  "Omniambivert": [
+    {
+      "defid": 16091026,
+      "definition": "Someone who is both an Ambivert and Omnivert.\n\nThey are able to change between [Introvert] and Extrovert depending on the situation, [requirements] or to fit the mood.\r\nThey may involuntarily switch between being [Introverted] and Extroverted depending on their mood.",
+      "example": "Steve: \"Hey John, have [you seen] Bob?\"\r\nJohn: \"Yeah, he's gone into [Introvert] mode, I wouldn't bother him right now.\"\r\nSteve: \"What happened?\"\r\nJohn: \"Said he was bored and needed some alone time.\"\r\nSteve: \"Ah, ok gotcha.\"\r\nJohn: \"Such an Omniambivert!\"\r\nSteve: \"[I know right]?\"",
+      "written_on": "2021-06-10T17:37:08.061Z"
+    }
+  ],
+  "Oak Express": [
+    {
+      "defid": 4121079,
+      "definition": "[The only] single thing that seems natural when [everything] else is [apparently] bogus.",
+      "example": "[How could you] play a 15 minute game of halo, only kill 4 people, and only die twice? That just doesn't seem [natural], but Oak [Express] is.",
+      "written_on": "2009-07-19T00:00:00Z"
+    }
+  ],
+  "Ohio Spaghetti": [
+    {
+      "defid": 18427236,
+      "definition": "[Spaghetti], but made with macaroni noodles. Referred to as \"Ohio\" because it's wrong.\n\nMay also include [hot dogs], ketchup, or [Chef Boyardee].",
+      "example": "\"Meemaw makes the best [hot damn] Ohio [spaghetti] in the [trailer park]!\"",
+      "written_on": "2025-02-08T20:36:19.875Z"
+    }
   ]
 }
