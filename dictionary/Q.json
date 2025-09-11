@@ -230,5 +230,13 @@
       "example": "im a [kingpin] [feeling] [like] quraun",
       "written_on": "2022-09-05T10:09:11.212Z"
     }
+  ],
+  "Quake": [
+    {
+      "defid": 246214,
+      "definition": "Game [produced] by ID Software. Has fast-paced, mindless, frag-fest action.\r\nQuake players (See \"[Quake Monkey]\") often spread to team-based games like [Battlefield 1942] and ruin it with their score-whoring.",
+      "example": "\"Quake is [home] to abunch of [n00bs].\"",
+      "written_on": "2003-09-10T00:00:00Z"
+    }
   ]
 }
