@@ -174,5 +174,37 @@
       "example": "[Hey man] you busy?\n\n[Kind of], [I'm busy] queening Abbey",
       "written_on": "2010-02-22T00:00:00Z"
     }
+  ],
+  "qubeus": [
+    {
+      "defid": 16820446,
+      "definition": "A qubeus is [someone] who [likes] [squishy] bois.",
+      "example": "This qubeus [really] [likes] those [squishy] bois.",
+      "written_on": "2021-12-07T12:36:37.737Z"
+    }
+  ],
+  "Quaxous": [
+    {
+      "defid": 13207468,
+      "definition": "He's a [true friend] when [Gustav] is not around, he's a [gaming] dog and good at every game he plays!",
+      "example": "\"Quaxous [you are a] very [good friend] when Gustav is not around\"\n\n*Gustav appears*\n\n\"Oh [fuck man]\"",
+      "written_on": "2018-09-20T04:20:31.859Z"
+    }
+  ],
+  "qwertyuiopasdfghjklzxcvbnmnbvcxzlkjhgfdsapoiuytrewq": [
+    {
+      "defid": 15718362,
+      "definition": "[A word] of [extreme boredom].",
+      "example": "\"qwertyuiopasdfghjklzxcvbnmnbvcxzlkjhgfdsapoiuytrewq\"",
+      "written_on": "2021-02-04T17:24:17.111Z"
+    }
+  ],
+  "qrd": [
+    {
+      "defid": 5134121,
+      "definition": "[Typo] of [wtf].",
+      "example": "> qrd is that???\r\n> [i mean] [wtf]",
+      "written_on": "2010-08-02T00:00:00Z"
+    }
   ]
 }
