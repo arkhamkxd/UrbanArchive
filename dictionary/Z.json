@@ -940,5 +940,37 @@
       "example": "[That chick] is a zarem [for sure]!",
       "written_on": "2010-11-14T00:00:00Z"
     }
+  ],
+  "zalphabetical order": [
+    {
+      "defid": 4122332,
+      "definition": "[Alphabetical] [order], but [the other way around].",
+      "example": "[Cats], [babies], ax, is in zalphabetical [order].",
+      "written_on": "2009-07-20T00:00:00Z"
+    }
+  ],
+  "zoidberg": [
+    {
+      "defid": 1619242,
+      "definition": "A [charactor] on futurama, [considered] by some a od and is in my opinion [the best] charactor ever!",
+      "example": "Hermes: \" your [getting] as jumpy as much as zoidberg does [when you] mention food!\"\r\n\r\nZoidberg: What?? *[looks around] suspiciously* food?\"",
+      "written_on": "2008-07-16T00:00:00Z"
+    }
+  ],
+  "Zanir": [
+    {
+      "defid": 5156431,
+      "definition": "[A word] used to describe [someone] [who is] dull, boring, and just isn't fun to be around.",
+      "example": "Friend 1: Ugh dude.. [look at that] guy acting [all like] Zanir.. He is so boring he makes me wanna fall asleep!\n\nFriend 2: [I hear ya] man.. no one wants to be around him!",
+      "written_on": "2010-08-14T00:00:00Z"
+    }
+  ],
+  "Zodism": [
+    {
+      "defid": 17311188,
+      "definition": "Characterized by or showing prejudice, [discrimination], or antagonism against a person or people on the basis of their origin, specifically [Zodiac sign], birth-month and calendar [orientation]. Typically based on the primary month of birth.",
+      "example": "Jake: [I think] she subscribes to Zodism, she won't date me because I was born [in June] ([Gemini]).",
+      "written_on": "2022-06-16T18:05:35.427Z"
+    }
   ]
 }
