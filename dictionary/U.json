@@ -586,5 +586,29 @@
       "example": "Jonah: Woah dude; why's all the skin [on your face] gone?\r\nKilpatrick: Oh man, [I just lost] in a game of [ultimate] death football. You wanna play?\r\nJonah: Sure!",
       "written_on": "2008-07-02T00:00:00Z"
     }
+  ],
+  "unrelated": [
+    {
+      "defid": 18278076,
+      "definition": "1- Collateral's spouse's ascendant\r\n2- Collateral's spouse's collateral\r\n3- Descendant's spouse's ascendant (except: child-in-law's parent = co-parent-in-law)\r\n4- Descendant's spouse's collateral\r\n5- Collateral's spouse's ascendant's spouse\r\n6- Collateral's spouse's collateral's spouse\r\n7- Descendant's spouse's ascendant's spouse (except: child-in-law's stepparent = [step-co-parent-in-law])\r\n8- Descendant's spouse's collateral's spouse\r\n9- Spouse's collateral's spouse's ascendant\r\n10- Spouse's collateral's spouse's collateral\r\n11- Spouse's descendant's spouse's ascendant (except: stepchild-in-law's parent = [step-co-parent-in-law])\r\n12- Spouse's descendant's spouse's collateral\r\n13- Spouse's collateral's spouse's ascendant's spouse\r\n14- Spouse's collateral's spouse's collateral's spouse\r\n15- Spouse's descendant's spouse's ascendant's spouse\r\n16- Spouse's descendant's spouse's collateral's spouse\r\n17- Relative's widowed (non [biological])'s new spouse\r\n18- Relative's widowed (non biological)'s new spouse's relative\r\n19- Relative's widowed (non biological)'s new spouse's relative's spouse\r\n20- Spouse's relative's widowed (non biological)'s new spouse\r\n21- Spouse's relative's widowed (non biological)'s new spouse's relative\r\n22- Spouse's relative's widowed (non biological)'s new spouse's relative's spouse\r\n23- Absence of any kinship (nor biological, nor by affinity, nor by [indefinite] classification, nor by adoption)",
+      "example": "Unrelated.",
+      "written_on": "2024-07-24T16:48:35.923Z"
+    }
+  ],
+  "USophant": [
+    {
+      "defid": 2739679,
+      "definition": "A USophant is similar to a sicophant. However instead of phanting sic a USophant phants the [United States of America].\r\n\r\nA USophant views America like a kid pressing his nose against the toy shop window.\r\n\r\nYankophile can also be used to desricbe a USophant.\r\n\r\nThese people sometimes affect a \"mid-Atlantic\" accent and often religously download TV direct from American Networks via [the interwebs], disparaging their home nations cultural output in favour of Hollywood et al is another common trait.\r\n\r\nAnother common trait is obesity, which can be used to [comedic effect]. Refer to these people as USaphants.\r\n\r\n\"You know like elephants* they are huge, USA loving gits\"\r\n\r\nMany USophants also create American sounding nicknames like DayZ (instead of Daisy), Cadillac or Hilary Clinton.\r\n\r\n*Not actually known if real Elephants love the USA.",
+      "example": "\"See that Dave, he's a real USophant\"\r\n\r\nMeaning Dave loves [America] so much he would walk 30 miles through [flaming] shit to chat with somone who'd [actually] been to America.",
+      "written_on": "2008-01-04T00:00:00Z"
+    }
+  ],
+  "Unmazing": [
+    {
+      "defid": 13034417,
+      "definition": "When [something] is [so stupid] it's [amazing].",
+      "example": "The [idea] of a [border wall] is unmazing.",
+      "written_on": "2018-06-29T00:00:00Z"
+    }
   ]
 }
