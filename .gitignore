@@ -1,3 +1,7 @@
+# Data directories - managed by GitHub Actions only
+data/
+dictionary/
+
 # Logs directory - contains detailed execution logs
 logs/
 
