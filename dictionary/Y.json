@@ -886,5 +886,21 @@
       "example": "villan-mclean [prepare to die]\r\nmclean-yippy ka yay [muthafuka]\"shoots [villan] in chest\"",
       "written_on": "2007-10-26T00:00:00Z"
     }
+  ],
+  "Yes I can Obama": [
+    {
+      "defid": 17907769,
+      "definition": "Agreeing and emphasizing",
+      "example": "\"You can work as an [engineer] [and do] [philosophy]\" \"Yes I can Obama!\"",
+      "written_on": "2023-09-03T13:37:22.76Z"
+    }
+  ],
+  "yonkie": [
+    {
+      "defid": 1663914,
+      "definition": "[A person] who likes to take drugs, mainly [heroin]. They look all [fucked] upp.",
+      "example": "Me: WTF! Get out of my backyard! Fucking Yonkie!\r\nYonkie: I am not a yonkie! *Sniff* I just like [the feeling] of empty syringe.\r\nMe: [Yeah right]! And [what's that]? I'm gonna tell you, that's HEROIN, FUCKING YONKIE!",
+      "written_on": "2006-04-17T00:00:00Z"
+    }
   ]
 }
