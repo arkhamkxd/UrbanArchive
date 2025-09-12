@@ -1891,6 +1891,12 @@
       "definition": "[a word] used to describe [the current] state of a [situation]",
       "example": "Byron [asked] me if I was [going] to [play basketball] today, I told him it was ugly.",
       "written_on": "2020-02-26T00:00:00Z"
+    },
+    {
+      "defid": 12736645,
+      "definition": "go [look in] [the mirror]",
+      "example": "Friend; \"hey man, [what does] ugly mean?\"\r\nMe; \"Go [look in] [the mirror].\"",
+      "written_on": "2018-05-15T00:00:00Z"
     }
   ],
   "Unbuttered": [
@@ -3217,6 +3223,22 @@
       "definition": "[a person] who loves birds from [pakistan]. Loves liqs and nics but always has a [fun time]. but always hates on al",
       "example": "Yo ubizzle, [liqs]?",
       "written_on": "2021-03-29T19:41:51.126Z"
+    }
+  ],
+  "upper west side": [
+    {
+      "defid": 1215645,
+      "definition": "between 60th and 116th streets on the west side of [new york city], clearly it is the best place to live. definately NOT as snobby and [obnoxious] as the [upper east side].",
+      "example": "theres a [party on] the [upper west] side [tonight]...must be good.",
+      "written_on": "2005-04-26T00:00:00Z"
+    }
+  ],
+  "unspiration": [
+    {
+      "defid": 3123450,
+      "definition": "A apparent insight that is seen as a new [realization] of fact by the person having the insight, but which is actually fundamentally wrong [according to] any [reasonable] or known metric.",
+      "example": "Francis Collins, renowned [scientist] and leader of the [human genome project], had a flash of unspiration and decided that DNA is proof of God's [existence].",
+      "written_on": "2008-05-29T00:00:00Z"
     }
   ]
 }
