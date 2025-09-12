@@ -2176,5 +2176,29 @@
       "example": "[Dude] this [teacher] has QCS",
       "written_on": "2008-03-31T00:00:00Z"
     }
+  ],
+  "qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewqqazwsxedcrfvtgbyhnujmiolppolikujmyhntgbrfvedcwsxqazqwertyuiopasdfghjklzxcvbnm": [
+    {
+      "defid": 15348187,
+      "definition": "[means]. qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewqqazwsxedcrfvtgbyhnujmiolppolikujmyhntgbrfvedcwsxqazqwertyuiopasdfghjklzxcvbnm",
+      "example": "i [want to] have qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewqqazwsxedcrfvtgbyhnujmiolppolikujmyhntgbrfvedcwsxqazqwertyuiopasdfghjklzxcvbnm [with you]",
+      "written_on": "2020-09-29T10:00:56.666Z"
+    }
+  ],
+  "Quailand": [
+    {
+      "defid": 15358154,
+      "definition": "A [Discord server] owned by Quayuh with [more than] 100 people, is active and is [full of] Andreism.",
+      "example": "[Normal] day in Quailand :\r\n[Quayuh] : Gm [pros]\r\nQuailian 2 : G\r\nQuailian 3 : pro",
+      "written_on": "2020-10-03T05:37:00.022Z"
+    }
+  ],
+  "quiksilver": [
+    {
+      "defid": 791864,
+      "definition": "brand of [clothes], [another] name for [mercury].",
+      "example": "they used to put bread filled with [quicksilver] in [rivers] to find [dead people].",
+      "written_on": "2004-08-12T00:00:00Z"
+    }
   ]
 }
