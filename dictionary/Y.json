@@ -2438,5 +2438,29 @@
       "example": "We [love to] [pop] yerkies. [Pop that] yerkerdoodle. It's a 30mg!",
       "written_on": "2023-11-30T16:00:01.773Z"
     }
+  ],
+  "Yardadges": [
+    {
+      "defid": 12839117,
+      "definition": "[Goin'] [long]!",
+      "example": "He [went] for some [fat] yardadges",
+      "written_on": "2018-04-15T00:00:00Z"
+    }
+  ],
+  "yeti": [
+    {
+      "defid": 852327,
+      "definition": "A [message board] poster that specializes in low level [harrassment] posts.  Also likes the \"[hit and run]\" posting.  Fond of the word \"monkey\".",
+      "example": "[Monkeyman] 22 was mocking me on the CF [message board] a week ago.  I [hammered] him, but he never came back.  Fuckin Yeti.",
+      "written_on": "2004-10-09T00:00:00Z"
+    }
+  ],
+  "Your Mother": [
+    {
+      "defid": 11265313,
+      "definition": "Finer word for \"[Yo Mama]\", used to [insult] [mothers].",
+      "example": "Where [did I] put my [underwear]?\r\nAt your mother's [house]!",
+      "written_on": "2017-03-16T03:05:37.597Z"
+    }
   ]
 }
