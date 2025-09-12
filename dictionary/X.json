@@ -622,5 +622,13 @@
       "example": "Have a [great] [day]! XIOO!",
       "written_on": "2011-07-11T00:00:00Z"
     }
+  ],
+  "xbox": [
+    {
+      "defid": 4308850,
+      "definition": "x-xtreme, b-badass, o-orb spy [inside], x-xtremeley [awsome] when [taken] out",
+      "example": "[look] [inside] there [is an] xbox",
+      "written_on": "2009-10-20T00:00:00Z"
+    }
   ]
 }
