@@ -501,6 +501,18 @@
       "definition": "[gay]",
       "example": "\"im a [raging homosexual]\" - cole",
       "written_on": "2025-02-05T20:48:17.924Z"
+    },
+    {
+      "defid": 17056397,
+      "definition": "[Bros] hot [ong] [bros] pp is big to.",
+      "example": "\"[omg] is that cole hes [so cool] [i wish] i was him\"",
+      "written_on": "2022-03-09T08:22:41.057Z"
+    },
+    {
+      "defid": 13532517,
+      "definition": "Cole is the boy you never deserved and have no right to. He comes on quiet, sweet, and slow, like summer rain. He's all subtle smiles and covert glances, every flash of those Sky blue eyes kills, and the first kiss is like sweet fire. Cole has his troubles, he's misunderstood, and judged too harshly, which at times makes it appear as if he is overly judgmental of others when, in fact, you will not find a more patient listener. He is smooth-skinned and tan, always paying special attention to his appearance, especially his hair. Sometimes he comes off as [superficial], but this is all a ruse. He's confusing and its easy to miss some of the signs, but when he looks at you, you'll know how he feels. His eyes express [all the things] he leaves unsaid. He's afraid of the word love, but if you give him the time, he'll whisper it to you. If you come across a Cole, [get your shit together]. He is nearly infinitely patient, and will wait for prolonged periods of time for someone he thinks is worthwhile, but if you push him away, tell him you can't care, that you don't feel the same, [eventually], he'll leave. He has to, and you deserve it. The pain that ensues from being left by a Cole is nearly unbearable, and you are left to writhe in agony as you realize that it was all your fault, that he cared, that he could have loved, and you had the audacity to think he'd be there forever. If you're lucky, maybe [one day] he'll come back, and you know you'll never, ever let him go. Cole is perfect.",
+      "example": "[Nice Hair], [You are] [such a] Cole.",
+      "written_on": "2019-01-16T00:00:00Z"
     }
   ],
   "Cum loud": [
@@ -4543,6 +4555,12 @@
       "definition": "cap means your [full of shit] and [lying] like a [mother fucker].",
       "example": "[bro] your [caping]",
       "written_on": "2020-06-24T00:00:00Z"
+    },
+    {
+      "defid": 17458731,
+      "definition": "[Another word] for lying.\n\n[Originated] from the [Twitch] emote Kapp",
+      "example": "[I like] [girls], cap",
+      "written_on": "2022-09-16T07:38:25.638Z"
     }
   ],
   "Credo": [
@@ -15689,6 +15707,12 @@
       "definition": "An [extremely] powerful computer language on which the [foundations] of most other mid-level and RAD languages are based.  Although it is not object-oriented like C++ and Java, it compiles into tighter code that occupies less space.  It is used most frequently for applications designed to run in tight conditions, such as on a computer with a slow CPU and/or a small amount of memory.  It is also closer to assembly language than it is to mid-level languages (on [the spectrum] of computer languages, C is toward the low end of the mid-level languages), making it more difficult to fully master than most languages.",
       "example": "//a more [interesting] [Hello World] program\r\n#include <stdio.h>\r\n\r\ntypedef struct {\r\nint x;\r\nchar c50;\r\nvoid (*func)(char*);\r\n} MY_HELLO_STRUCTURE;\r\n\r\nMY_HELLO_STRUCTURE ms;\r\n\r\nvoid draw(char* s) {\r\nprintf(s);\r\n}\r\n\r\nvoid main(void) {\r\nms.x++;\r\nsprintf(ms.c,\"[Hello World] (for the \")\r\nswitch (ms.x%10) {\r\ncase 1:\r\nsprintf(ms.c+21,\"%dst time\",ms.x);\r\nbreak;\r\ncase 2:\r\nsprintf(ms.c+21,\"%dnd time\",ms.x);\r\nbreak;\r\ncase 3:\r\nsprintf(ms.c+21,\"%drd time\",ms.x);\r\nbreak;\r\ndefault:\r\nsprintf(ms.c+21,\"%dth time\",ms.x);\r\nbreak;\r\n}\r\nms.func=draw;\r\n(*ms.func)(ms.c);\r\nreturn;\r\n}",
       "written_on": "2005-04-19T00:00:00Z"
+    },
+    {
+      "defid": 14513483,
+      "definition": "[Why did you search this up] it’s just a [letter]. Go [do your homework] Karen!!!!!",
+      "example": "[Ccccccccccc]",
+      "written_on": "2019-12-05T00:00:00Z"
     }
   ],
   "Cooch Alert": [
@@ -17901,6 +17925,12 @@
       "definition": "a slag who is always [pushing a] buggy with [screaming] kids and she's swearing at them in a scrubby common accent, she will have a cigerette in her hand, she will have acne at 25, permed hair, herpes, will wear rings on every finger and a loads of cheap necklaces most common of these has a doll on it. they wear huge massive gold loop earing which they put their ankles behind when they are [having sex] so that their legs don't get tired.",
       "example": "see: [chaz], slut, [slapper]\r\nalso try: [townie], kev,",
       "written_on": "2003-09-25T00:00:00Z"
+    },
+    {
+      "defid": 4091475,
+      "definition": "chav. An acronum for ''COUNSIL HOUSING AND VIOLENCE'' They are often seen to be wearing a tracksuit (ironic because they never actually go anywhere near a track, field or gym) or hoodie with loose jeans and a flat cap. These ''people'' think that they are all more [important] than anybody else and they think they own [the street]. But [everybody else] sees them as self-absorbed cunts",
+      "example": "two chav kids are sitting outside [burger king],acting like they are the s**t. A man walks past.\n\nKid 1: oi mate, are you [looking for] [some fucking] trouble.\r\nkid 2: A knife in your gut?\r\nMan: (under his breath) fucking chavs",
+      "written_on": "2009-07-06T00:00:00Z"
     }
   ],
   "cisse": [
@@ -20821,6 +20851,270 @@
       "definition": "A medical malady where the sufferer [constantly] has feces nearly protruding from the anus.  The poo has yet to be \"pinched off\" or broken away from the remainder of the turd still inside the rectum.  Some call this condition \"[turtle heading]\" or simply \"crowning\" (a [reference] to the birth process).  Much research has gone in to curing this terrible disease but as of now only symptoms can be treated.  Such treatments include adult diapers, stool hardeners and stool softeners.",
       "example": "Crown's Disease can effect both [undergarment] and odor masking budgets for any and all sufferers.  \r\n\r\nUltra Dan:  Man, I hate those David Garrard [commercials] where he bitches about his Crohn's Disease.  That ain't nothing.  I got Crown's Disease.\r\n\r\nSalty:  That sucks, man, constantly [touching cloth].  What's your underwear budget for a year?",
       "written_on": "2009-01-08T00:00:00Z"
+    }
+  ],
+  "CommunisticWeeb": [
+    {
+      "defid": 13824237,
+      "definition": "[Gay af] [except] when he's with his [Spicy]",
+      "example": "Yo, CommunisticWeeb is a [fag].\r\nBut doesn't he have a [girlfriend]?\r\nShe's a [fag] too",
+      "written_on": "2019-04-19T00:00:00Z"
+    }
+  ],
+  "chizz": [
+    {
+      "defid": 14521459,
+      "definition": "[term] for “[the stuff]”",
+      "example": "erica: i just got new [airpods]!\r\n[ophelia]: [HELL YEAH] thats the chizz!",
+      "written_on": "2019-12-08T00:00:00Z"
+    }
+  ],
+  "Cum guzzling gutter slug": [
+    {
+      "defid": 7900880,
+      "definition": "A really long [synonym] for [a cheater], or [home wrecker].",
+      "example": "I can't believe you slept with my [boyfriend] you [cum guzzling] [gutter slug]!",
+      "written_on": "2014-09-15T00:00:00Z"
+    }
+  ],
+  "cunt waggler": [
+    {
+      "defid": 1885387,
+      "definition": "[A person] that freaks out about sooo many things there is [only one] deffiniton for them CUNT [WAGGLER].",
+      "example": "Don't be [such a] [CUNT] [WAGGLER]!",
+      "written_on": "2006-07-27T00:00:00Z"
+    }
+  ],
+  "Cyclopentadiene": [
+    {
+      "defid": 14120594,
+      "definition": "An [hydrocarbon] compound that is [basically] [violating] being a hydrocarbon. Its pKa value is only 16, making it as acidic as water.\r\nIts structure is a cyclopentane ring with 2 double bonds.",
+      "example": "[The reason] for cyclopentadiene to be such acidic is because of its ionic [structure]. It has an aromatic anionic structure, making it [extremely] stable.",
+      "written_on": "2019-08-12T00:00:00Z"
+    }
+  ],
+  "cock knuck": [
+    {
+      "defid": 6552695,
+      "definition": "the [knuckle] in your half-erect [penis] when bent [backwards]",
+      "example": "I was about to bang this chick until she saw my cock knuck, instand deal breaker.\n\n[My grandma] saw my cock knuck [the other day]...\n\n[In the morning] I get a mean cock knuck.",
+      "written_on": "2012-09-19T00:00:00Z"
+    }
+  ],
+  "Camilazers/camilizer": [
+    {
+      "defid": 15790178,
+      "definition": "This is best [camila cabello]’s fandom in [the world]. They are all so cute, best people. They are [queen of pop] fans.",
+      "example": "camilazers/camilizers are [best fandom] in [the world]",
+      "written_on": "2021-03-03T03:12:25.767Z"
+    }
+  ],
+  "Circus": [
+    {
+      "defid": 7463167,
+      "definition": "When a woman sits on a man's face and he guesses her weight. Also, can be a man [sitting on] a woman's face. [Sitting on] one's face used as a [sexual reference].",
+      "example": "\"Hey barb, you want to play circus? [sit on my face] and I will guess [your weight]\"\n\n\"[Circus circus] Step right up and sit on down and barb will guess your weight\"",
+      "written_on": "2014-01-05T00:00:00Z"
+    }
+  ],
+  "Cyprianism": [
+    {
+      "defid": 3097970,
+      "definition": "A religion run by a punk from ponsonby, Auckland, [New Zealand].\r\n\r\nIt has many [followers].\r\nRelated:\r\nCyprianBall - Game Of Rocks.\r\nCyprianos Dollar - Money.\r\nIsland Of Cypriaz - [Official] Island.",
+      "example": "\"Man, That guy is [obviously] a support of Cyprianism, He has an assflap and is smoking\"\r\n\"Jesus, that guys paying for [burger king] with a [cyprianos] dollar!\"",
+      "written_on": "2008-05-20T00:00:00Z"
+    }
+  ],
+  "cuntsville": [
+    {
+      "defid": 12866532,
+      "definition": "a) A place [you would] live if you were a right proper cunt\n\nb) [The essence] of your belonging if you are indeed a cunt\n\nC) A [village] made entirely of vaginas",
+      "example": "a) Is there any danger of you being a bigger cunt. You must live in Cuntsville, USA.\n\nb) You [absolute twat]. If [you are not] from Cuntsville I will eat my own hat.\n\nc) Holy shit, that village [over there] appears to be entirely built out of muff. It must be Cuntsville.",
+      "written_on": "2018-05-30T00:00:00Z"
+    }
+  ],
+  "convenient child": [
+    {
+      "defid": 11899063,
+      "definition": "A child young enough to be deemed \"cute\" by your peers, who you take multiple photos and upload them to [social media], [particularly] [Instagram]. They are a means of getting more 'likes' on your photos.",
+      "example": "Friend: \"You looked like you were having so much fun with [your cousin] [last weekend].\"\r\nMe: \"Nah, he's just a [convenient] child\"",
+      "written_on": "2017-08-23T00:00:00Z"
+    }
+  ],
+  "Corrext": [
+    {
+      "defid": 13342609,
+      "definition": "When your [texting] and you have a typo or your phone autocorrects. The text you send to fix your [mistake]. [Generally] accompanied by an *",
+      "example": "*[fuck] not duck. I [hate] [autocorrect]! There I correxted it.",
+      "written_on": "2018-11-09T00:00:00Z"
+    }
+  ],
+  "celebrating hispanic heritage month": [
+    {
+      "defid": 5085877,
+      "definition": "The act of having [anal sex] with a [hispanic] woman because we [love it].",
+      "example": "Dude she has her [period], [looks like] I'll be celebrating [hispanic heritage month] all week!",
+      "written_on": "2010-07-10T00:00:00Z"
+    }
+  ],
+  "Communitard": [
+    {
+      "defid": 4205015,
+      "definition": "A Communitard is a skin-tight one-piece social garment worn by Communitarian thinkers and focuses the need to balance individual rights and interests with that of [the community] as a whole.\n\nIt differs from a leotard in that it is [particularly] restrictive in areas of individual rights and [independent] thinking. It should not be confused with a wrestling singlet.\n\nIt has been noted for its comfortably fit; the wearer might not be aware that they are wearing one.",
+      "example": "- Too bad your entire family has to report to the [Incineration] Unit tomorrow.\n\n- [It's okay]. It's [for the common good].\n\n- Man... you're such a Communitard!",
+      "written_on": "2009-08-28T00:00:00Z"
+    }
+  ],
+  "Canberra": [
+    {
+      "defid": 15398106,
+      "definition": "Capital city of Australia. Known for its bitterly cold winters, owing to its inland location and high elevation. -8c is not uncommon in dead winter, creating car frost thick enough to prevent you from leaving the place. Back in the 90s and [early 2000's] tens of thousands of [interstate] residents used to visit Canberra (namely Fyshwick) to buy Fireworks, until the laws got stricter, and they were nannied out of existence in 2009. However, Canberra's X rated porno industry still remains. Today, most tourists visit the many museums Canberra has to offer, provided they don't die from heat [exhaustion] or frostbite.",
+      "example": "Hey mate, wanna indulge in the [traditional] Canberra [lifestyle] of Porn and [Fireworks]??????",
+      "written_on": "2020-10-18T03:33:54.446Z"
+    }
+  ],
+  "caddy": [
+    {
+      "defid": 151575,
+      "definition": "[cadillac]",
+      "example": "[did you] see bob in that ill caddy [doin] [120]",
+      "written_on": "2003-06-10T00:00:00Z"
+    }
+  ],
+  "Clark Kent": [
+    {
+      "defid": 4512380,
+      "definition": "A good hearted alien from [the planet] krypton. He was raised by good hearted parents. He is a [superhero] named [Superman]",
+      "example": "There goes [clark] kent [changing] in a [phone booth].",
+      "written_on": "2010-01-18T00:00:00Z"
+    }
+  ],
+  "chatsworth": [
+    {
+      "defid": 1119467,
+      "definition": "noun. a town located in the northwest of the san fernando valley. chatsworth borders on the hills that make up the north edge of the valley. It is next to west hills, canoga park and northridge. \r\n\r\nChatsworth is home to the largest porn industry in the world (vivid [entertainment], legend video, etc.). check your porn, i bet a bunch of it was produced and printed/distributed from this very town! \r\n\r\nTheir freeway is the 118. [in the hills] there are some rich-ass communities, some gated ones, some not. on the valley floor things are pretty middle class. \r\n\r\nfor some reason lots of the news stations measure the [temperature] of the west valley (or sometimes even the whole valley) in chatsworth.",
+      "example": "when you hear about someone \"filming a movie\" in \"a mansion in chatsworth\" [you know] it's worth peeking [over the fence] for a bit \r\n\r\nsee also \"mansion in [the valley]\"",
+      "written_on": "2005-03-14T00:00:00Z"
+    }
+  ],
+  "Cum Piss Poo Water": [
+    {
+      "defid": 16029695,
+      "definition": "When one Pisses & Shits, but [the shit] is so big [the stretch] of the [asshole] causes one to climax.",
+      "example": "James, [have you ever] Cum [piss poo] [water] before?",
+      "written_on": "2021-05-25T06:13:06.81Z"
+    }
+  ],
+  "Cux": [
+    {
+      "defid": 609610,
+      "definition": "The act of [masturbation] or [pleasuring] oneself by touching one's genitals with a [household] object. i.e spoon, blender, hose, toothbrush.",
+      "example": "1 I cuxed with a [calculator] last night! It was [fucking awesome]! \r\n2 Did you hear that Susie can cux? I heard she uses a [eyelash curler]!",
+      "written_on": "2004-04-12T00:00:00Z"
+    }
+  ],
+  "CyberCubed": [
+    {
+      "defid": 1792630,
+      "definition": "[Another] [slang] word for [penis].",
+      "example": "\"Gee my cybercubed is [burning] today. Maybe I should [check it out]\".\r\n\r\n\"My cybercubed is small. That's ok, I'll post 100,000 times on the IGN board and [play pokemon]!\"",
+      "written_on": "2006-06-11T00:00:00Z"
+    }
+  ],
+  "Christina Aguilera": [
+    {
+      "defid": 979340,
+      "definition": "A skank who thinks the only road to female empowerment is through sex, an illusion created by men. She thinks being \"street\" is cool and tries desperately hard to be black with an [extremely] [rediculous] tan, and horrible slang speech, however, we are all confused since she claims to embrace her LATIN roots, not her non-existant African ones.\r\n\r\nSee: [hypocrite], wigga, wigger, shigger",
+      "example": "[Slim Shady], Marhsall [Mathers], Bubba Sparx, [Vanilla Ice]",
+      "written_on": "2005-01-05T00:00:00Z"
+    }
+  ],
+  "Cesilie": [
+    {
+      "defid": 5960842,
+      "definition": "Is very Gorgeous she is an amzing friend that will always be there for you no matter when you need her. She is a very fun person to hang out with ... She is a [hillarious] person who can always make you laugh. She is a very good listener. She is [the best kind of friend], you will meet in a lifetime.\r\nShe's definitely someone [you wouldn't] want to lose and if you hurt her, payback will be a bitch!",
+      "example": "[hey] that's a cesilie (:",
+      "written_on": "2011-07-20T00:00:00Z"
+    }
+  ],
+  "Chase Type Beat/Build": [
+    {
+      "defid": 18259672,
+      "definition": "Chase Type Beat is a certain look , vibe, and body type. A character is [elongated] and looks like a noodle. Most are also strange or weird [creatures] looking characters that make you chuckle.\r\nEx:[Apple Jacks] Mascot",
+      "example": "“This is lowkey chase [type beat]/build”\r\n“ chase [type beat]/build fr”\r\n“CHASE [TYPE BEAT]/BUILD!!”",
+      "written_on": "2024-06-29T22:58:20.296Z"
+    }
+  ],
+  "Chugnut": [
+    {
+      "defid": 982757,
+      "definition": "A chugnut is an intolerable fool, whose speech, behaviour and sometimes appearance, is [reminiscent] of [repulsive] [genitalia].",
+      "example": "[John Howard] is a [total] chugnut.",
+      "written_on": "2005-01-06T00:00:00Z"
+    }
+  ],
+  "Common Gurd L": [
+    {
+      "defid": 17719713,
+      "definition": "When Gurd makes a decision or an action which is [considered] an L among his piers. [This is a] [frequently] mistake by Gurd, hence the \"common\".",
+      "example": "\"Gurd's [phone] just [disappeared] again\"\r\n\"Omg... [common] Gurd L\"",
+      "written_on": "2023-03-20T09:29:42.787Z"
+    }
+  ],
+  "Cash Brunner": [
+    {
+      "defid": 18429104,
+      "definition": "Chopped, bad at chemistry, horrible at gaming, worst at code, fugly, [no friends], no love, over 2 million messages sent a day, not a single response from the huzz or chuzz. Not [alpha wolf]. Elmo is his worst enemy. He eats failure for breakfast lunch and dinner. (Don't forget the [midnight snack])",
+      "example": "You've [passed] [rock bottom] if you're like Cash [Brunner].",
+      "written_on": "2025-02-11T15:03:34.266Z"
+    }
+  ],
+  "choad smoker": [
+    {
+      "defid": 768556,
+      "definition": "[A person] who performs the act of [fellatio] on a penis whose diameter is [greater] than its length.",
+      "example": "Hey [choad] [smoker], pass me [another] beer.",
+      "written_on": "2004-07-23T00:00:00Z"
+    }
+  ],
+  "Chabab": [
+    {
+      "defid": 16455291,
+      "definition": "A Chababian is just [some people] from [morocco], specifically Oujda-Angad.\n\nTheir tribe is [called] the Beni Bouzegou",
+      "example": "[Ewa] chababi",
+      "written_on": "2021-11-20T17:34:08.461Z"
+    }
+  ],
+  "Cryls": [
+    {
+      "defid": 12267525,
+      "definition": "Cryls is mostly welsh slang for ugly used for [more than 1] person. Mostly [people] with glases can also be called as a \"cryl\" or people who are [gypsys]",
+      "example": "Person: hey [look at] them cryls! [What do] they think their doing [steeling] that piece of metal?!\n\nFriend: idk I heard they are gypsys....he's such a cryl",
+      "written_on": "2017-12-10T00:00:00Z"
+    }
+  ],
+  "Canberra Secondary School": [
+    {
+      "defid": 17902530,
+      "definition": "As some of y’all know that we have a new principal name Mr Leong kok kee. He’s new here. Ever since he join this school. I can tell you it is like prison.\n\nThe rules? More to [primary school] times. I heard term 4 need start wearing name tag. lol can u imagine. might as well i go back to my [primary school].\n\nvaping: “If we suspect you vaping in the toilet, we have a vape test kit” put posters of “vape is the toxic friend you don’t need.” in the toilet. There’s one or a few girls bathroom who cancel out “toxic” and “don’t”.\n\nDamn the way he talk.. very slow, I can tell you most people KO. Every announcement also need video. like for what “pencil and eraser video”? pencil no feeling also..\n\nbudget. on a tight budget is it? or is too much spending on plastic chairs [everywhere]? damn I see why.\n\ny’all know that green tea bottle is a must in school but guess what. Sorry no green tea bottles here.\n\nWeather starting to increase and still can tell us to wear uniform, “every monday need to wear a tie”. if no tie [what happen]? CWO.\n\nSorry to say but to me, why small [little things] need to be CWO? I thought secondary sch must have fun and joy? and less strict?\n\ncomplains : ngl but ever since you came in, the students got more complains, cause there’s no fun and it’s like prison but most of the reason is you’re very bias, racist. do pledge everyday but it seems like you say the pledge with no meaning.. not sorry to say but you seem less bothered about your students. it’s like you’re so selfish",
+      "example": "[person A] : eh what’s your school?\n\nperson B : Canberra [Secondary School].\n\n[person A]: oh the school that always got trended",
+      "written_on": "2023-08-29T01:54:47.849Z"
+    }
+  ],
+  "Champ": [
+    {
+      "defid": 13272230,
+      "definition": "[The definition] of champ is [QUADRI]",
+      "example": "That [gay boy] is so champ-Quadri",
+      "written_on": "2018-10-15T00:00:00Z"
+    }
+  ],
+  "Clout": [
+    {
+      "defid": 13112696,
+      "definition": "A sign of [respect] from fellow [rappers] or [edgy 13 year old] hypebeasts",
+      "example": "Boi [that nigga] has so much clout dawg. [Eskettit] my homeboy bap bap clack clack [Kodak Black] did nothing wrong.",
+      "written_on": "2018-08-04T00:00:00Z"
     }
   ]
 }
