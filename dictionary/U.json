@@ -4378,5 +4378,13 @@
       "example": "[Diana] [Mam]á is being very ubstruding [today].",
       "written_on": "2022-03-27T13:43:44.786Z"
     }
+  ],
+  "Ugly-Flirting": [
+    {
+      "defid": 15647850,
+      "definition": "Ugly [flirting] is when a person flirts with you and makes it incredibly stale, dry, and obvious. This style of flirting is often egotystical and annoying to the extend of [rejecting] the person [just because] of the way they flirt with you.",
+      "example": "Hey, you're really cute and you deserve to go out [with me].\r\nAre you [Flirting] with me?\n\nYes, isn't it [obvious]!?\n\nOh you're Ugly-Flirting, I see.\n\n(Blocked)",
+      "written_on": "2021-01-09T19:54:42.139Z"
+    }
   ]
 }
