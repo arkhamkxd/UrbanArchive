@@ -3978,5 +3978,53 @@
       "example": "[Little brother] catches a w\r\n“[you know] my [body]”",
       "written_on": "2024-05-09T16:07:10.215Z"
     }
+  ],
+  "Yakker": [
+    {
+      "defid": 17459520,
+      "definition": "A slur [used] against [people] of [Nepal].",
+      "example": "\"[Look at that] [fucking] Yakker.\"",
+      "written_on": "2022-09-16T20:51:25.975Z"
+    }
+  ],
+  "yolocasting": [
+    {
+      "defid": 15317776,
+      "definition": "When you're [writing] javascript and typecast [objects] from strings to ints to hash lookup keys like [you only live once].",
+      "example": "\"So i passed [the function] an int, which it then typecasts to a string '2', which is then used as a key on a hashmap to get a string.\" \"Couldn't you have just used a [constant]?\" \"And miss a chance to [show off] my yolocasting? I think not\"",
+      "written_on": "2020-09-15T19:26:31.077Z"
+    }
+  ],
+  "yupp": [
+    {
+      "defid": 5490535,
+      "definition": "a word [you would] say if not [interested] in someones [conversation] at all.",
+      "example": "so i [broke up] with my [girlfreind] today\" \"yupp\"........... \"that doesnt even [make sense]",
+      "written_on": "2011-01-06T00:00:00Z"
+    }
+  ],
+  "Young Money": [
+    {
+      "defid": 4822406,
+      "definition": "a group of faggots including Lil Wayne, Drake, Tyga (WTF kinda name is tht), Lloyd, Gudda and [Nicki Minaj] (shes aite ;)) they all think they can rap but theyre all weak as hell. all the songs they have put out are all about fucking and [getting with] women. even though theyres nothing wrong with this... get original for Christs sake no rapper [these days] are original.",
+      "example": "Kid 1: Hey did you hear Young Moneys new single?\r\nkid 2: I heard they put out a new single but all their beats sound [the same] so i couldnt tell the [difference].\r\nKid 1: True [lets go] jam to some Biggie.",
+      "written_on": "2010-03-22T00:00:00Z"
+    }
+  ],
+  "yoongi": [
+    {
+      "defid": 16238892,
+      "definition": "He is [the love of my life] [hes] [hot]",
+      "example": "[who is he] - someone\r\nhes yoongi / suga -you\r\nhes [lowkey hot] - someone\r\n[BITCH BACK] OFF HES MINE -you",
+      "written_on": "2021-08-10T11:09:02.618Z"
+    }
+  ],
+  "yuriziinzz": [
+    {
+      "defid": 17202512,
+      "definition": "Most [coolest] guy u've [prob] seen in yo [life]",
+      "example": "Yo yuriziinzz [wsg] [man]",
+      "written_on": "2022-05-02T21:51:04.194Z"
+    }
   ]
 }
