@@ -1897,6 +1897,12 @@
       "definition": "go [look in] [the mirror]",
       "example": "Friend; \"hey man, [what does] ugly mean?\"\r\nMe; \"Go [look in] [the mirror].\"",
       "written_on": "2018-05-15T00:00:00Z"
+    },
+    {
+      "defid": 14765626,
+      "definition": "You",
+      "example": "[You're ugly]",
+      "written_on": "2020-03-01T00:00:00Z"
     }
   ],
   "Unbuttered": [
@@ -3335,6 +3341,14 @@
       "definition": "A term used to signify that something is Unofficial — not formally [recognized], approved, or confirmed. Often used in texting, online forums, leaks, or fan communities to label content, events, or [information] that hasn’t been verified or [officially] released.",
       "example": "Ludwig: Hey chat I followed this moistcr1tikal [Instagram] page\r\nChat: Bro it literally says UO [in the bio], that’s not an official account\r\nLudwig: UO doesn’t stand for Unofficial wdym\r\nChat: “[English major]\"",
       "written_on": "2025-06-04T17:45:12.359Z"
+    }
+  ],
+  "Unsubstantiated": [
+    {
+      "defid": 16221462,
+      "definition": "Not substantiated",
+      "example": "Jesus [fuck that] [dictionary] has unsubstantiated as [a word] lmao",
+      "written_on": "2021-08-01T01:27:30.14Z"
     }
   ]
 }
