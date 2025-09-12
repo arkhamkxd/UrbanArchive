@@ -3132,5 +3132,21 @@
       "example": "my [family] lives in a [urban area] for two [years]",
       "written_on": "2003-11-26T00:00:00Z"
     }
+  ],
+  "Uchiha Sasuke": [
+    {
+      "defid": 2249915,
+      "definition": "A [generic], boring [character] from Naruto who is a bitch and cries [all the time].",
+      "example": "Uchiha Sasuke cries and sulks every time Naruto does [something] [slightly] [better than] him",
+      "written_on": "2008-12-13T00:00:00Z"
+    }
+  ],
+  "Untucky": [
+    {
+      "defid": 14893457,
+      "definition": "A [continuous] [streak] of [unfortunate] events",
+      "example": "[I've been] so [fucking] untucky [lately].",
+      "written_on": "2020-04-15T09:31:05.528Z"
+    }
   ]
 }
