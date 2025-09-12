@@ -1554,5 +1554,45 @@
       "example": "[person a]:who is [winter] [one true love]?\r\nme:qibli",
       "written_on": "2023-04-02T08:25:12.127Z"
     }
+  ],
+  "Quote fiend": [
+    {
+      "defid": 16151649,
+      "definition": "Someone who is obsessed with posting quotes [all the time], but takes no action.\n\nFiend: an [enthusiast] or devotee of a [particular] thing",
+      "example": "Posts 100 quotes on [social media] about [getting] out [the hood]. Still doesn’t do anything about it.\n\nYou’re such a “quote fiend”",
+      "written_on": "2021-07-03T03:12:11.017Z"
+    }
+  ],
+  "Quackityisminenoturs": [
+    {
+      "defid": 16319200,
+      "definition": "[Very funny] being if you dont kbow them dont [talk to me] [at all]",
+      "example": "B1: [do you] think quackityisminenoturs is [a funny] being?\r\nB2: no why?\r\nB1: We cannot be [friends]",
+      "written_on": "2021-09-16T14:11:44.605Z"
+    }
+  ],
+  "qhn": [
+    {
+      "defid": 18241886,
+      "definition": "[to be] so [skibidi sigma]",
+      "example": "you're [really] a QHN!",
+      "written_on": "2024-06-07T18:36:11.836Z"
+    }
+  ],
+  "queque": [
+    {
+      "defid": 17402827,
+      "definition": "a line or [sequence] of people or [vehicles] awaiting their [turn to] be attended to or to proceed.",
+      "example": "\"So every [morning] people [had to] [line up] in a queque for their turn.\"",
+      "written_on": "2022-08-09T14:18:10.344Z"
+    }
+  ],
+  "q1w2e3r4t5y6u7i8o9p0": [
+    {
+      "defid": 18424237,
+      "definition": "[Why are you here] in the [first place]?",
+      "example": "[I was bored] an [typed], \"q1w2e3r4t5y6u7i8o9p0\"",
+      "written_on": "2025-02-04T14:09:52.191Z"
+    }
   ]
 }
