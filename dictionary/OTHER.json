@@ -3792,5 +3792,37 @@
       "example": "2am Club: [Tsega], Sam and Gabe meet at [Aidan]’s for a hard [cardio] set.",
       "written_on": "2024-04-11T15:15:57.969Z"
     }
+  ],
+  "91021": [
+    {
+      "defid": 17199062,
+      "definition": "[9/10/21].",
+      "example": "[Person 1]: Happy 91021!\r\n[Person 2]: WHAT?\r\n[Person 1]: 91021 is 9/10/21!",
+      "written_on": "2022-05-01T17:52:43.688Z"
+    }
+  ],
+  "|-\\": [
+    {
+      "defid": 10688149,
+      "definition": "[twenty one pilots] [logo]",
+      "example": "|-\\ is a [cool] [logo]",
+      "written_on": "2016-12-19T00:00:00Z"
+    }
+  ],
+  "[Stickerlicious]": [
+    {
+      "defid": 3315784,
+      "definition": "[Something] that has at least [one or more] sticker is stickerlicious, and also a sticker can be stickerlicious if [its cool].",
+      "example": "Her [binder] is so stickerlicious because of her cool [unicorn] [sticker].",
+      "written_on": "2008-10-19T00:00:00Z"
+    }
+  ],
+  "4.2": [
+    {
+      "defid": 18424387,
+      "definition": "The 4.2 is a [mysterious] part of life. It can grow when it feels [like it], [especially] when referring to mandarins.",
+      "example": "\"How's your 4.2?\"\n\n\"It's [growing]\"",
+      "written_on": "2025-02-04T17:41:37.416Z"
+    }
   ]
 }
