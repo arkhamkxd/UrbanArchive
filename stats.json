@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-09-12T16:22:42.124057",
-  "total_unique_entries": 44832,
+  "last_updated": "2025-09-12T16:41:46.553587",
+  "total_unique_entries": 45329,
   "daily_files": 2,
   "dictionary_files": 66,
   "entries_by_letter": {
@@ -17,8 +17,8 @@
       "definitions": 2
     },
     "C": {
-      "words": 3073,
-      "definitions": 3259
+      "words": 3107,
+      "definitions": 3296
     },
     "Ф": {
       "words": 1,
@@ -41,32 +41,32 @@
       "definitions": 1
     },
     "S": {
-      "words": 4924,
-      "definitions": 5181
+      "words": 4978,
+      "definitions": 5238
     },
     "É": {
       "words": 1,
       "definitions": 1
     },
     "O": {
-      "words": 711,
-      "definitions": 756
+      "words": 718,
+      "definitions": 763
     },
     "B": {
-      "words": 3181,
-      "definitions": 3358
+      "words": 3218,
+      "definitions": 3396
     },
     "V": {
-      "words": 576,
-      "definitions": 594
+      "words": 582,
+      "definitions": 600
     },
     "R": {
-      "words": 1503,
-      "definitions": 1595
+      "words": 1515,
+      "definitions": 1607
     },
     "T": {
-      "words": 2622,
-      "definitions": 2736
+      "words": 2646,
+      "definitions": 2763
     },
     "Ć": {
       "words": 1,
@@ -81,60 +81,60 @@
       "definitions": 1
     },
     "P": {
-      "words": 2401,
-      "definitions": 2510
+      "words": 2429,
+      "definitions": 2544
     },
     "G": {
-      "words": 1884,
-      "definitions": 1976
+      "words": 1910,
+      "definitions": 2002
     },
     "Q": {
-      "words": 221,
-      "definitions": 234
+      "words": 222,
+      "definitions": 235
     },
     "M": {
-      "words": 2566,
-      "definitions": 2714
+      "words": 2606,
+      "definitions": 2757
     },
     "Æ": {
       "words": 1,
       "definitions": 1
     },
     "F": {
-      "words": 1962,
-      "definitions": 2072
+      "words": 1982,
+      "definitions": 2092
     },
     "E": {
-      "words": 913,
-      "definitions": 1003
+      "words": 929,
+      "definitions": 1021
     },
     "Y": {
-      "words": 557,
-      "definitions": 580
+      "words": 559,
+      "definitions": 582
     },
     "L": {
-      "words": 1418,
-      "definitions": 1545
+      "words": 1427,
+      "definitions": 1557
     },
     "Z": {
-      "words": 352,
-      "definitions": 365
+      "words": 357,
+      "definitions": 370
     },
     "𝕄": {
       "words": 1,
       "definitions": 1
     },
     "I": {
-      "words": 831,
-      "definitions": 863
+      "words": 839,
+      "definitions": 872
     },
     "王": {
       "words": 1,
       "definitions": 1
     },
     "X": {
-      "words": 84,
-      "definitions": 85
+      "words": 86,
+      "definitions": 87
     },
     "Ů": {
       "words": 1,
@@ -205,16 +205,16 @@
       "definitions": 1
     },
     "OTHER": {
-      "words": 594,
-      "definitions": 628
+      "words": 601,
+      "definitions": 635
     },
     "A": {
-      "words": 2254,
-      "definitions": 2414
+      "words": 2281,
+      "definitions": 2443
     },
     "K": {
-      "words": 1229,
-      "definitions": 1303
+      "words": 1243,
+      "definitions": 1317
     },
     "Σ": {
       "words": 1,
@@ -229,32 +229,32 @@
       "definitions": 2
     },
     "W": {
-      "words": 1230,
-      "definitions": 1297
+      "words": 1238,
+      "definitions": 1307
     },
     "ඞ": {
-      "words": 1,
-      "definitions": 1
+      "words": 2,
+      "definitions": 2
     },
     "N": {
-      "words": 1449,
-      "definitions": 1544
+      "words": 1463,
+      "definitions": 1559
     },
     "J": {
-      "words": 1355,
-      "definitions": 1502
+      "words": 1370,
+      "definitions": 1522
     },
     "Х": {
       "words": 1,
       "definitions": 1
     },
     "U": {
-      "words": 423,
-      "definitions": 458
+      "words": 427,
+      "definitions": 462
     },
     "H": {
-      "words": 1598,
-      "definitions": 1684
+      "words": 1613,
+      "definitions": 1701
     },
     "十": {
       "words": 1,
@@ -265,12 +265,12 @@
       "definitions": 1
     },
     "D": {
-      "words": 2405,
-      "definitions": 2531
+      "words": 2427,
+      "definitions": 2555
     }
   },
   "daily_breakdown": {
     "2025-09-11": 22467,
-    "2025-09-12": 22365
+    "2025-09-12": 22862
   }
 }
