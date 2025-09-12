@@ -4842,5 +4842,53 @@
       "example": "[I am] #proudtobepakefield",
       "written_on": "2018-01-25T00:00:00Z"
     }
+  ],
+  "<.7.9.7.6.>my mom let me stay at home .later<.7.9.7.6.>": [
+    {
+      "defid": 18481006,
+      "definition": "<.7.9.7.6.>[my mom] let me [stay at home] .[later]<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>[my mom] let me [stay at home] .[later]<.7.9.7.6.>",
+      "written_on": "2025-05-02T22:58:00.026Z"
+    }
+  ],
+  ":) 2": [
+    {
+      "defid": 15431639,
+      "definition": "A [phrase] used to annoy [people] when demanded or asked a [question]",
+      "example": "[Give me] [termina] base [coords]. :) 2",
+      "written_on": "2020-10-29T05:04:21.844Z"
+    }
+  ],
+  "'E": [
+    {
+      "defid": 3942685,
+      "definition": "Pronoun used interchangably with both he and she; the [substitute] of \"them\" when a speaker doesn't know the gender of referral.\n\nAlso 'e and simply \"e\" in formal writing\n\nDerived from lazy people who can't even [pronounce] [the first] consonant in words.",
+      "example": "Is [that person] in the [lunch line] a guy or a girl? And [what is] 'E buying?",
+      "written_on": "2009-05-13T00:00:00Z"
+    }
+  ],
+  "42069": [
+    {
+      "defid": 15655270,
+      "definition": "Hey can we [get this] 420 [likes] and 69 [dislikes]?",
+      "example": "*[insert] [random] meme [format]* 42069",
+      "written_on": "2021-01-12T16:17:18.984Z"
+    }
+  ],
+  "🅱️": [
+    {
+      "defid": 14137172,
+      "definition": "Word [used] if [you say] N****. But for [Americans].",
+      "example": "Your my [Ni🅱️🅱️a]",
+      "written_on": "2019-08-20T00:00:00Z"
+    }
+  ],
+  "240° spin": [
+    {
+      "defid": 15504756,
+      "definition": "What poser [skaters] call and /or [consider] a 270° [rotation].",
+      "example": "Coach [did you] peep that 240° spin? I'm [hella good] at sk8ting [right]?",
+      "written_on": "2020-11-21T01:03:02.503Z"
+    }
   ]
 }
