@@ -2846,5 +2846,53 @@
       "example": "I [like to] 3-*.\n\nI [like to] three dash star.\r\nHey [I just] 3-*. RUN!!",
       "written_on": "2011-02-26T00:00:00Z"
     }
+  ],
+  "3rd rate VOAs": [
+    {
+      "defid": 4030083,
+      "definition": "When a dubbing company uses when they don';t [want to] spend [the money] on good [Voice Over] Actors.",
+      "example": "4kids [enterainment] ruined such Anime programs such as [One Piece] & [Yu-Gi-Oh] by using 3rd rate VOAs for thier re-dubs in English.",
+      "written_on": "2009-06-09T00:00:00Z"
+    }
+  ],
+  "[faded]": [
+    {
+      "defid": 3210035,
+      "definition": "Unprecedented and [innovative] [street wear] clothing line influenced by drinking, smoking, [good times], and dreaming high.",
+      "example": "Dude, that [Faded shirt] is tight! Where'd [you get it]?\r\n\r\nI got it at Faded Apparel. Faded isn't just being drunk, stoned, or some clothing line; [it's a way of life]!",
+      "written_on": "2008-08-02T00:00:00Z"
+    }
+  ],
+  "“friendship”": [
+    {
+      "defid": 12665145,
+      "definition": "A “[friendship]” is what an ex’s asks you to have after y’all break up and it’s hella [awkward] but y’all text [from time] to time and just hate every moment of it.",
+      "example": "Ex: Hey [this isn’t gonna work out] but we can [just be friends].\r\nYou: Oh sure we can have a “[friendship]”",
+      "written_on": "2018-03-11T00:00:00Z"
+    }
+  ],
+  "__serend1pity": [
+    {
+      "defid": 16020656,
+      "definition": "Coolest person on [the planet] my [favorite] mutual ily your so [amazing] and so sweet.",
+      "example": "__serend1pity is so [adorable] and [l0ser].forsasha's [bestfriend].",
+      "written_on": "2021-05-22T16:29:12.092Z"
+    }
+  ],
+  "1917": [
+    {
+      "defid": 16039446,
+      "definition": "[We got] them prody basterds [to leave] our [country]\n\nUpa Ra",
+      "example": "To [policeman]: [Do you remember] 1917, that was a good year. Now go drive your brand new car for being [protestant] of the year!!",
+      "written_on": "2021-05-28T09:01:23.753Z"
+    }
+  ],
+  "[*]": [
+    {
+      "defid": 4829973,
+      "definition": "Used in Polish [Internet] to express grief; [equivalent] of English [Rest In Peace] (RIP); represents a candle as a polish custom is to place a candle on graves",
+      "example": "- His [mother] has [just] [died]!!\r\n- *",
+      "written_on": "2010-03-25T00:00:00Z"
+    }
   ]
 }
