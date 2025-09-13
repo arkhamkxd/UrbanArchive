@@ -4710,5 +4710,29 @@
       "example": "[Speaker] 1: \"[Hold on]! I've got to put my ID tag on my [checked] bag.\"\n\nSpeaker 2: \"Why even bother...nobody is going to steal that ugglage off the conveyer belt!\"",
       "written_on": "2012-11-29T00:00:00Z"
     }
+  ],
+  "unchaotic": [
+    {
+      "defid": 6063950,
+      "definition": "when [you are not] [chaotic]",
+      "example": "[I'm not] the person [who is] [chaotic], I'm unchaotic.",
+      "written_on": "2011-09-08T00:00:00Z"
+    }
+  ],
+  "ur busy?": [
+    {
+      "defid": 1481907,
+      "definition": "(n) An 'ur busy' is a [friend with benefits], whom you can call at any time and ask to 'hook up', [starting] with 'ur busy?', [hence], an 'ur busy'.",
+      "example": "- Hey, baby! Ur busy?\r\n\r\n- I called my 'ur busy' [last night].\r\n- And?\r\n- I went to her place and [we did it]. It's nice to have an 'ur busy' [these days]...",
+      "written_on": "2005-10-15T00:00:00Z"
+    }
+  ],
+  "usually": [
+    {
+      "defid": 17199652,
+      "definition": "[something] could usually [happen]",
+      "example": "usually [things] [happen]",
+      "written_on": "2022-05-01T22:28:46.907Z"
+    }
   ]
 }
