@@ -6354,5 +6354,53 @@
       "example": "Boss: Hey Joe, we need to [increase] profits. Let's cut pay by 10% and stop buying that [expensive] safety equipment.\n\nJoe: But sir...that would be immoral. It would hurt our workers' ability to raise their families and make the job site less safe.\r\nBoss: So, [you're a] union freak, huh?",
       "written_on": "2016-03-28T00:00:00Z"
     }
+  ],
+  "Urbosa": [
+    {
+      "defid": 15465949,
+      "definition": "Urbosa was the chieftain of the Gerudo. She fought in [The Great] Calamity and piloted [Divine Beast] Vah Naboris. She cared about Zelda deeply and had a close with [relationship] with her mother who died when Zelda was just six years old.",
+      "example": "“We Gerudo have no [tolerance] for [unfinished business].” -Urbosa [talking to] Link as a spirit.",
+      "written_on": "2020-11-09T07:45:39.298Z"
+    }
+  ],
+  "useless parasite": [
+    {
+      "defid": 17705794,
+      "definition": "[someone] who [leeches] off [society] and is a waste of everybody's time",
+      "example": "Jamie is an [absolutely] [useless] [parasite]",
+      "written_on": "2023-03-10T09:54:28.897Z"
+    }
+  ],
+  "U71": [
+    {
+      "defid": 16935153,
+      "definition": "1= i\r\n7= like\r\nu= you\r\n(turn ur phone [upside down] and [abbreviate] the [symbols])",
+      "example": "[hey] u71…",
+      "written_on": "2022-01-23T14:37:11.844Z"
+    }
+  ],
+  "United Kingdomese": [
+    {
+      "defid": 17086779,
+      "definition": "The [official] language of the UK. wdym it's [not real] [everyone] speaks it",
+      "example": "-hey [do you] speak [United] Kingdomese?\r\n-wtf is [United] Kingdomese",
+      "written_on": "2022-03-20T17:10:13.84Z"
+    }
+  ],
+  "Undercut": [
+    {
+      "defid": 1100204,
+      "definition": "A very common sort of haircut worn by people with opinions.  Often associated with bands like 36 Crazyfists, [Avenged Sevenfold], and Dredg.  Excessive use of undercuts in [association] with strumming of chords can cause sudden [precipitation], even inside.  See also dyess",
+      "example": "That's just [your opinion], undercuts are [indeed] [common].",
+      "written_on": "2005-03-04T00:00:00Z"
+    }
+  ],
+  "uber geek": [
+    {
+      "defid": 435734,
+      "definition": "A person who knows virtually [everything] there is to know about computers, programming, and [the Internet]; [technically inclined] person.",
+      "example": "It's like Joey [lives] in the [computer], he's such an [uber] geek.",
+      "written_on": "2004-01-09T00:00:00Z"
+    }
   ]
 }
