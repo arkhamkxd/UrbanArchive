@@ -1452,5 +1452,13 @@
       "example": "xgn [gaming] xbox [playstation] pc [computers] forums communities",
       "written_on": "2014-04-24T00:00:00Z"
     }
+  ],
+  "X-streets": [
+    {
+      "defid": 4316043,
+      "definition": "cross street - a street intersecting a [main street] ([usually] at right angles) and continuing [on both] sides of it",
+      "example": "[Definition] of X-streets\n\nmy friend Origin, lives [on the corner] of X and Y.\r\nI like on Broadway and Alameda.\n\nthe major [intersection] nearest to a persons home.\r\ni.e. \"What are your cross-streets?\"",
+      "written_on": "2009-10-23T00:00:00Z"
+    }
   ]
 }
