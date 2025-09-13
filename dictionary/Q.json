@@ -2600,5 +2600,21 @@
       "example": "[Those people] are simping for [each other] and [showing off] they must be QuinnAvalon",
       "written_on": "2020-10-22T20:34:54.142Z"
     }
+  ],
+  "Queue Blocker": [
+    {
+      "defid": 6327597,
+      "definition": "A person who wants you to wait to watch a Netflix DVD until they can [watch it] with you, but will never [actually] sit down to [watch it], thus blocking your Netflix queue.",
+      "example": "My queue blocker mom wants me to wait to watch the new [Harry Potter] DVD with her, but she's too busy [dressing] her dog in stupid outfits to ever sit down and [watch it].",
+      "written_on": "2012-01-01T00:00:00Z"
+    }
+  ],
+  "quackopractic": [
+    {
+      "defid": 15876293,
+      "definition": "A [disparaging] nickname for the [practice] of chiropractic, implying that it amounts to pseudo-medical [quackery].",
+      "example": "Let’s get out into [rush hour] traffic and [facilitate] a nice little fender-bender so we can get ourselves some quackopractic and cash-in from some unsuspecting old fart’s [insurance company]!",
+      "written_on": "2021-04-01T11:27:29.76Z"
+    }
   ]
 }
