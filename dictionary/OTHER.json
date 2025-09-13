@@ -2443,6 +2443,12 @@
       "definition": "Something that osama didn't do. george bush's excuse for invading iraq to take they're oil. 9/11 was planned out by the [united states government], CIA, and the army. And [the twin towers] were a [controlled demolition].\r\n\r\nwww.seeloosechange.com will explain everything, trust me",
       "example": "9/11 was geroge bush's excuse to [make money]. billions of dollars in gold was stolen from [the basement] of the wtc when they were just a pile of rubble.... who did it? [terrorists]? dont think so!",
       "written_on": "2007-12-29T00:00:00Z"
+    },
+    {
+      "defid": 6262628,
+      "definition": "The act of commandeering an aircraft in online [Battlefield 3] matches with the deliberate intention of crashing them into the enemy base. Preferably [jumping out] at the [last minute] saving yourself but dooming everyone else to a fiery death.",
+      "example": "noun:\r\n\"[I'm flying] this jet [New York style], prepare to jump as I'm 9/11-ing this bad boy right into their base.\"\n\nverb:\r\n\"[Did you] see that? Just totally 9/11-end like 3 people\"",
+      "written_on": "2011-12-07T00:00:00Z"
     }
   ],
   "|:3": [
@@ -9981,6 +9987,46 @@
       "definition": "[LITERALLY] [every single] [possibility] on a keyboard.",
       "example": "Tim: [WHY IS THIS] ON YOUR HISTORY!?\r\nBill: I was bored. So i typed in ~!@#$%^&*()_+`1234567890-=[QWERTYUIOP]{}[qwertyuiopASDFGHJKL]:\"asdfghjkl;'ZXCVBNM<>?zxcvbnm,./",
       "written_on": "2018-03-03T00:00:00Z"
+    }
+  ],
+  "'Second Beer Pool Master' Theory": [
+    {
+      "defid": 11401995,
+      "definition": "Second Beer Pool Master is the [phenomenon] observed at a pool table after the subject has consumed a select [quantity] of a brewed alcoholic beverage.\n\nExtensive studies have shown that although consumption of a second brewed beverage within a short time period has the ability to improve pool skills, a third appears to initiate the numbing process of the the brain dedicated towards being a Pool Master.\n\nThe skill level of a pool player can be determined by [the following] process:\n\nwhere(player.[Environment] = \"Pool Table\") {\r\n\tset skillLevel.value to 1 ///out of 10\r\n\tbeersConsumed = 0\r\n\tforeach(beer as consumed) {\r\n\t\tbeersConsumedNow = beersConsumed + 1\r\n\t}\r\n\tif(beersConsumedNow < 1) {\r\n\t\tset skillLevel.value to 2\r\n\t}\r\n\telsif(beersConsumedNow = 2) {\r\n\t\tset skillLevel.value to 9.5\r\n\t\tset player.label to 'Legend'\r\n\t\tset hotGirls.affinity to 182%\r\n\t}\r\n\telsif(beersConsumedNow >2) {\r\n\t\tforeach(countOf(beersConsumedNow)) {\r\n\t\t\tset skillLevel.value to (history.skillLevel - (beersConsumedNow/10))\r\n\t\t}\r\n\t}\r\n}",
+      "example": "Darren: How did you pull that move off? It was incredibe!\r\nScott: I am a [believer] of the 'Second [Beer Pool] Master' theory.\n\nHave you found your Lord and Savior \"Beer, [the Second]\"",
+      "written_on": "2017-04-07T00:00:00Z"
+    }
+  ],
+  "23th of april": [
+    {
+      "defid": 15935544,
+      "definition": "[National] [int] [david day]",
+      "example": "its the 23th of april:\r\nRentner Nekro joined [the lobby]\r\nRentner Nekro joined [the lobby]\r\nRentner Nekro joined [the lobby]\r\nRentner Nekro joined the lobby\r\nRentner Nekro joined the lobby\r\nRentner Nekro joined the lobby\r\nRentner Nekro joined the lobby\r\nRentner Nekro joined the lobby\r\nRentner Nekro joined the lobby\r\nDavid: :(",
+      "written_on": "2021-04-23T14:15:08.647Z"
+    }
+  ],
+  "~owned~": [
+    {
+      "defid": 2813997,
+      "definition": "see owned for the full def but the ~ were added for more emphasis and coolness. It Is usually used when someone gets insulted, shut down or beaten in any form or way.\r\nStarted & invented By a [Runescape Player] Called Busterboy50 [no matter what] anyone else says, but it was stolen and claimed by another player called [crank it out] who couldnt think of anything cool to be added onto owned himself.",
+      "example": "I ~owned~ crank when i exposed him for his [idiotic] tag [stealing], dragon mace Resembling [Fucktard].",
+      "written_on": "2009-01-11T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Avercse, aveRcse, avercsE<7.9.7.6.>": [
+    {
+      "defid": 18526913,
+      "definition": "<.[7.9].[7.6].>Avercse, aveRcse, avercsE<[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>Avercse, aveRcse, avercsE<[7.9].7.6.>",
+      "written_on": "2025-08-04T21:41:22.311Z"
+    }
+  ],
+  "8 midget pounder": [
+    {
+      "defid": 2763458,
+      "definition": "you lay [on your back] and you are completley naked and you get 8 midgets to [screw you] in [the anus].\r\nuntill its wideenough to fit all 8 midget penises.",
+      "example": "Man that 8 midget pounder was crazy [last night] i am still [crapping] [pancakes],",
+      "written_on": "2008-01-10T00:00:00Z"
     }
   ]
 }
