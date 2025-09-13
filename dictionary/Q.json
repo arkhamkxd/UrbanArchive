@@ -3578,5 +3578,29 @@
       "example": "oooooh [yes], that Faulkners a [proper] queenburger!",
       "written_on": "2008-01-18T00:00:00Z"
     }
+  ],
+  "qwertyuiopasdfghjklzxcvbnmqwertyuiopqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm": [
+    {
+      "defid": 16879590,
+      "definition": "You have [reached] the amount of [boredom] beyond space and time. you just wrote the [keyboard] layout 3+ times.",
+      "example": "hey john, i have [ascended] [to the] [boredom] gods, i wrote qwertyuiopasdfghjklzxcvbnmqwertyuiopqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm",
+      "written_on": "2022-01-01T18:05:02.116Z"
+    }
+  ],
+  "quizzuck": [
+    {
+      "defid": 15322167,
+      "definition": "[when you] take a quiz to see if __________ [likes] you and it [comes back] as ___________ hates you.",
+      "example": "[I just] [took] a quizzuck :(",
+      "written_on": "2020-09-17T16:34:55.354Z"
+    }
+  ],
+  "qMaster": [
+    {
+      "defid": 16922112,
+      "definition": "He is the qMaster of the qGang and he is not to [mess with].",
+      "example": "[Never] [mess with] qGang [especially] qMaster",
+      "written_on": "2022-01-18T23:39:04.522Z"
+    }
   ]
 }
