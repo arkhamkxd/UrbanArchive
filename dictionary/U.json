@@ -6876,5 +6876,21 @@
       "example": "\"Yo lets do [centurion] [tonight].\"\n\n\"[Fuck that], lets do Ulturion!\"",
       "written_on": "2010-02-16T00:00:00Z"
     }
+  ],
+  "unforced error": [
+    {
+      "defid": 12888901,
+      "definition": "1). In tennis, whenever a player misses an [otherwise] easy or effortless shot due to their own inattentiveness rather than the opposing [player's] skill.\n\n2.) In politics, a polite term for when someone ends up creating their own scandal through poor or tactless [decision] making.",
+      "example": "1.) [Bobby Sands] failing to make that save at [Wimbledon] was an unforced error.\n\n2.) Donald's Trump's statement about Mexican migrants \"bringing in drugs\" and being \"rapists\" during the 2016 campaign was an unforced error that cast a cloud over his entire [presidency].",
+      "written_on": "2018-06-01T00:00:00Z"
+    }
+  ],
+  "Unpositive": [
+    {
+      "defid": 16815747,
+      "definition": "[Literally] means [negative] but Lennox [invented] it because it sounded more quiche",
+      "example": "Unpositive [number 4]: denying that u [said] [something] unpositive",
+      "written_on": "2021-12-06T04:01:34.098Z"
+    }
   ]
 }
