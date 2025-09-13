@@ -3178,5 +3178,13 @@
       "example": "\"[Wow], he's a [real] Qusai!\"",
       "written_on": "2011-12-27T00:00:00Z"
     }
+  ],
+  "qwertyuiopåøælkjhgfdsazxcvbnm": [
+    {
+      "defid": 15304215,
+      "definition": "[danish] [keyboard]",
+      "example": "[damn bro] [sometimes] i just wanna like [qwertyuiop]åøælkjhgfdsazxcvbnm",
+      "written_on": "2020-09-10T00:00:00Z"
+    }
   ]
 }
