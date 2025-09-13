@@ -2836,5 +2836,29 @@
       "example": "qswdf3egvr4bxtc5vu 7, that's [something] [random].",
       "written_on": "2022-03-11T04:57:12.979Z"
     }
+  ],
+  "Qué": [
+    {
+      "defid": 14940976,
+      "definition": "A Spanish word used by [Hispanics] when they are [confused]. “Qué” is [the same] as”What”, but in Spanish.",
+      "example": "“[What is] [your name]?””¿Qué?”",
+      "written_on": "2020-04-28T00:00:00Z"
+    }
+  ],
+  "qwarp": [
+    {
+      "defid": 7449870,
+      "definition": "Quiet [Walking] [Around] [Random] People",
+      "example": "Mario [needs] to [learn] [how to] qwarp",
+      "written_on": "2013-12-31T00:00:00Z"
+    }
+  ],
+  "Questyion": [
+    {
+      "defid": 13772976,
+      "definition": "[wants] to be a [question] but his [parents] were like y",
+      "example": "i have a questyion where is [my phone]",
+      "written_on": "2019-04-03T00:00:00Z"
+    }
   ]
 }
