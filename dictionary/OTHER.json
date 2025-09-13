@@ -7316,5 +7316,37 @@
       "example": "<.[7.9].[7.6].>Uxavitety, uxavItety, uxavitetY<.[7.9].7.6.>",
       "written_on": "2025-06-12T07:45:27.739Z"
     }
+  ],
+  "<.7.9.7.6.>Srea<.7.9.7.6.>": [
+    {
+      "defid": 18517593,
+      "definition": "<.[7.9].7.6.>[Srea]<.[7.9].7.6.>",
+      "example": "<.[7.9].7.6.>[Srea]<.[7.9].7.6.>",
+      "written_on": "2025-07-16T13:17:21.857Z"
+    }
+  ],
+  "123BOBTHEBLOB123": [
+    {
+      "defid": 15062814,
+      "definition": "123BOBTHEBLOB123 writes some good [urban dictionary] [definitions] and they are nice and [super] fun",
+      "example": "[Person 1]: Wow look at these [definitions] by 123BOBTHEBLOB123 they are so good\r\n[Person 2]: and they are so kind",
+      "written_on": "2020-06-04T00:00:00Z"
+    }
+  ],
+  "6 fats": [
+    {
+      "defid": 4234127,
+      "definition": "[Instead] of having a six-pack (as in stomach [muscles]) in its place [somebody] has a set of six fats.",
+      "example": "\"Bru, look at Mikes [six pack]!!\"\n\n\"You [kidding] me, its [more like] a set of 6 fats\"",
+      "written_on": "2009-09-13T00:00:00Z"
+    }
+  ],
+  "5$T⭐️R Character": [
+    {
+      "defid": 17825376,
+      "definition": "A [member] apart of [the community] [known] as 5$TAR that is a bot.",
+      "example": "[These guys] Dabo and [Twizz] are [certified] 5$T⭐️R characters.",
+      "written_on": "2023-06-14T21:11:46.352Z"
+    }
   ]
 }
