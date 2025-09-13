@@ -2898,5 +2898,13 @@
       "example": "Quintonnio is a [great person]!",
       "written_on": "2021-12-14T09:00:09.31Z"
     }
+  ],
+  "Quarengagement": [
+    {
+      "defid": 14883140,
+      "definition": "When [a couple] is recently [engaged] during a [quarantine] period.",
+      "example": "Hey, [how are you] and your [fiancée] [holding] up during your quarengagement?",
+      "written_on": "2020-04-12T00:00:00Z"
+    }
   ]
 }
