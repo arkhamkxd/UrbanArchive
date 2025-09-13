@@ -3894,5 +3894,29 @@
       "example": "\"bro alam [acted] [like] a zayed [today]\"",
       "written_on": "2022-08-21T22:10:06.811Z"
     }
+  ],
+  "Zjj": [
+    {
+      "defid": 16469085,
+      "definition": "[Alok] [lover]",
+      "example": "Zjj is [Alok] [lover]",
+      "written_on": "2021-11-21T07:44:29.689Z"
+    }
+  ],
+  "zxcvbnm,./asdfghjkl;wertyuiop[]\\`1234567890-=": [
+    {
+      "defid": 15906906,
+      "definition": "When you're so bored you type [zxcvbnm],./[asdfghjkl];[wertyuiop]\\`1234567890-=",
+      "example": "[I'm so bored], [I think I'm] gonna search zxcvbnm,./asdfghjkl;[wertyuiop]\\`1234567890-=",
+      "written_on": "2021-04-13T02:20:01.242Z"
+    }
+  ],
+  "Zipper-Suited Sun God": [
+    {
+      "defid": 4263414,
+      "definition": "A [derogatory term] for military pilots. Based on the fact that flight suits and G-suits are covered with lots of zippers and they fly above the clouds [in the sun]. Also has a [double meaning] in that they have highly inflated egos and think that they are above everyone else.",
+      "example": "Here comes [another] Zipper-Suited [Sun God] to fly my [airplane].",
+      "written_on": "2009-09-28T00:00:00Z"
+    }
   ]
 }
