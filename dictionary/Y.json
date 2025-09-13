@@ -7708,5 +7708,21 @@
       "example": "He is yoezer",
       "written_on": "2021-11-22T05:29:37.066Z"
     }
+  ],
+  "YWD": [
+    {
+      "defid": 7877272,
+      "definition": "Your [Wildest] [Dreams]",
+      "example": "YWD",
+      "written_on": "2014-08-18T00:00:00Z"
+    }
+  ],
+  "you rock": [
+    {
+      "defid": 1688327,
+      "definition": "too be soo cool, [to be] [really] [nifty]",
+      "example": "hey, [nicole] you [rock so] [hard core]",
+      "written_on": "2006-04-25T00:00:00Z"
+    }
   ]
 }
