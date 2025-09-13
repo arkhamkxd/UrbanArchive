@@ -445,6 +445,12 @@
       "definition": "[A word] often used when [hurling] [something].",
       "example": "Thomas [screamed] “YEET” as he [hurled] himself [off the cliff].",
       "written_on": "2018-10-02T00:00:00Z"
+    },
+    {
+      "defid": 15480778,
+      "definition": "A term [used] for [weird people] that try [to be] \"cool\"",
+      "example": "Person 1: I'm the coolest person in [the world].\r\nPerson 2: [No your not] your actually the nerdiest.\r\nPerson 1: Yes I am [you know] why \"yeet\"",
+      "written_on": "2020-11-13T13:03:07.881Z"
     }
   ],
   "yousufu": [
@@ -7251,6 +7257,38 @@
       "definition": "[To be] know for [smoking crack] and abuses [cocaine].",
       "example": "Hey [Raven] [you're a] [head].",
       "written_on": "2016-10-13T00:00:00Z"
+    }
+  ],
+  "Yayas": [
+    {
+      "defid": 14405085,
+      "definition": "[Money]",
+      "example": "You: [got] yayas?\r\nMe: [sure] i [got] 2",
+      "written_on": "2019-11-07T00:00:00Z"
+    }
+  ],
+  "Yoojhaa": [
+    {
+      "defid": 11047294,
+      "definition": "[Ayo], [what's good] [witchu]",
+      "example": "Yoojhaa [bro].",
+      "written_on": "2017-02-15T00:00:00Z"
+    }
+  ],
+  "yu gi oh": [
+    {
+      "defid": 1163060,
+      "definition": "A [messed up] shitacular spinoff of [the greatest] card game ever, Magic: The [Gathering], to just appeal to eight-year-old boys whose playmates are forty-year-old gay men/priests and animals.",
+      "example": "Yu gi oh. [What a] [messed up] [name].",
+      "written_on": "2005-04-03T00:00:00Z"
+    }
+  ],
+  "yahtikn": [
+    {
+      "defid": 669108,
+      "definition": "Yahtikn [means].. \"me [dunno]\"",
+      "example": "yahtikn [wat] u [mean]",
+      "written_on": "2004-05-13T00:00:00Z"
     }
   ]
 }
