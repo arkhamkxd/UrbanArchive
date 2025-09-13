@@ -866,5 +866,37 @@
       "example": "Did you see that [hot new] X-Terra Abbey was driving?\r\nOh, [you mean] the [SexTerra]?",
       "written_on": "2009-03-15T00:00:00Z"
     }
+  ],
+  "xbox clubs": [
+    {
+      "defid": 12362690,
+      "definition": "[Drama]",
+      "example": "[Xbox] [clubs] are [drama]",
+      "written_on": "2017-12-31T00:00:00Z"
+    }
+  ],
+  "Xypher": [
+    {
+      "defid": 296565,
+      "definition": "A gust or [wind]. [Derivative] of [Zephyr].",
+      "example": "",
+      "written_on": "2003-10-16T00:00:00Z"
+    }
+  ],
+  "Xbox Live QOTD": [
+    {
+      "defid": 17891825,
+      "definition": "[Discord] servers that have boring or “mid” [question] of the day [on a daily basis]",
+      "example": "“Wow, that [question] of [the day] sucked. It must be a [Heavy TF2 at Xbox Live] QOTD.”",
+      "written_on": "2023-08-17T20:38:18.763Z"
+    }
+  ],
+  "Xanish": [
+    {
+      "defid": 11870344,
+      "definition": "Taking a xanex (or a few) while [drinking] gets you so [fucked up] that you [start speaking] \"xanish\"",
+      "example": "\"[Do you] have any idea what he just said?\"\r\n\"No, [I think] he's [speaking] xanish\"",
+      "written_on": "2017-08-12T00:00:00Z"
+    }
   ]
 }
