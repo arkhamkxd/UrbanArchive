@@ -5210,5 +5210,21 @@
       "example": "\"After you put on that [jacket], zhoozh the [sleeves] up a bit for added [pizazz].\"",
       "written_on": "2004-11-27T00:00:00Z"
     }
+  ],
+  "zon": [
+    {
+      "defid": 123953,
+      "definition": "[probably] short for amazon, or female [warrior].   A very [assertive] woman.",
+      "example": "God, she's a [real] zon.  [Did you] [see how] she blew that maitre d' away?",
+      "written_on": "2003-05-10T00:00:00Z"
+    }
+  ],
+  "Zuuling": [
+    {
+      "defid": 16275554,
+      "definition": "To go [batshit crazy], to perform [nefarious] acts, or to demand the [Fire Nation] throne",
+      "example": "Person 1: Did you see Jackie at the bar [last night]?\r\nPerson 2: [Yeah bro], she was straight zuuling!\r\n[Person 3]: I'm pretty she stabbed someone.",
+      "written_on": "2021-08-28T22:03:59.416Z"
+    }
   ]
 }
