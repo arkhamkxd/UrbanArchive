@@ -11630,5 +11630,29 @@
       "example": "Man, do [I love] younglinging. It's [truly] [the best part of waking up]!",
       "written_on": "2020-12-22T12:14:36.19Z"
     }
+  ],
+  "You wanna go": [
+    {
+      "defid": 15682702,
+      "definition": "[Asking] [if you want] to [fight]",
+      "example": "Kat said [to the] unruly [customer]\r\nYou [wanna go] its been slow today",
+      "written_on": "2021-01-22T19:23:08.761Z"
+    }
+  ],
+  "Yorkoed": [
+    {
+      "defid": 1053087,
+      "definition": "1.) To stick it to fellow co-workers\r\n\r\n2.) When Backing into the garage, they take the easy [parking spot], by doing that,making the next crew who has to back in perform a nascar-like Maneuver and back a 5 ton Ambulance in a \"Z\" patteren\r\n3.) When you [supervisor] lies to you, causeing you [to be down] by 4 runs so he can watch the Steeler game",
+      "example": "When [supervisor] [pull rank], and try to [get out] of doing their job",
+      "written_on": "2005-02-10T00:00:00Z"
+    }
+  ],
+  "Yummables": [
+    {
+      "defid": 7253170,
+      "definition": "Food, [noms], [yummies], [edibles].",
+      "example": "I [really] want some yummables, my [teeth] are [sweating].",
+      "written_on": "2013-10-21T00:00:00Z"
+    }
   ]
 }
