@@ -7206,5 +7206,13 @@
       "example": "\"[Thats] so zany [dude]!\"\r\n\"[I love her], she's so zany\"",
       "written_on": "2019-11-03T00:00:00Z"
     }
+  ],
+  "Zone": [
+    {
+      "defid": 17686787,
+      "definition": "A group of users who intend to [maliciously] breach your accounts, grab your [personal information], and extort you with it until mental [insanity].",
+      "example": "[Help] a Zone [friended] me!",
+      "written_on": "2023-02-26T01:50:30.663Z"
+    }
   ]
 }
