@@ -20312,5 +20312,53 @@
       "example": "Tracy: \"I see the [jewlery] tay got on is he in a gang\"\r\n[Jasmine]: \"No he is an [individual] hustler. Ive known him for years and never seen him with gang members.\"",
       "written_on": "2021-12-22T17:26:57.071Z"
     }
+  ],
+  "IHMS": [
+    {
+      "defid": 8399324,
+      "definition": "[I hate myself]",
+      "example": "[ugh], ihms.",
+      "written_on": "2015-09-22T00:00:00Z"
+    }
+  ],
+  "I don’t want you in my life": [
+    {
+      "defid": 13840993,
+      "definition": "[It means you] used all the chances I gave [you and I] [don’t want you] in my life anymore.",
+      "example": "I [don’t want you] [in my life] [anymore]!",
+      "written_on": "2019-04-24T00:00:00Z"
+    }
+  ],
+  "I'm great.": [
+    {
+      "defid": 15605284,
+      "definition": "[Another] lie [people] tell when they try to act okay or fine.\n\nA period at [the end] makes them look serious, so beware. They aren't okay at all",
+      "example": "Ex:\n\n\"[Hey] [how are you]?\"\n\n\" i'm [great].\"",
+      "written_on": "2020-12-24T14:06:41.376Z"
+    }
+  ],
+  "It's my birthday": [
+    {
+      "defid": 569061,
+      "definition": "An [expression] of delight, accompanied by dancing around.  [Basically] saying that the person in [question] is great, skilled, lucky, etc.\r\n\r\nUsusally said in a kind of sing-song way.",
+      "example": "\"Ooooh yeah!  [I just] won that race!  It's [my birthday]!  It's [my birthday]!\"",
+      "written_on": "2004-03-20T00:00:00Z"
+    }
+  ],
+  "I'm with her": [
+    {
+      "defid": 9283060,
+      "definition": "A term used by people who want [Hillary Clinton] as [the next] [United States President].",
+      "example": "[Jim]: So you [want] [Hillary]?\r\nJoe: Duh! I'm with her!",
+      "written_on": "2016-09-05T00:00:00Z"
+    }
+  ],
+  "In the states": [
+    {
+      "defid": 5679213,
+      "definition": "What [canadians] say when [something] seems to be popular or [mainstream], but doesn't seem likely in their own country.",
+      "example": "Friend #1: \"Why is there [Nascar] [playing] on TV at this bar?\"\r\nFriend #2: \"People love Nascar\"\r\nFriend #1: \"You think?\"\r\nFriend #1: \"In [the states]\"",
+      "written_on": "2011-04-04T00:00:00Z"
+    }
   ]
 }
