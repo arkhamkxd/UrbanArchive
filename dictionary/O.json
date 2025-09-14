@@ -17742,5 +17742,29 @@
       "example": "Octoling [lives matter]!",
       "written_on": "2019-02-13T00:00:00Z"
     }
+  ],
+  "Overplayer": [
+    {
+      "defid": 5146100,
+      "definition": "[One] who overplays [music].",
+      "example": "[Whoever] plays Eminem's song [I'm Not] Afraid over their radio's or [stereos] is an Overplayer",
+      "written_on": "2010-08-12T00:00:00Z"
+    }
+  ],
+  "onxlyisa": [
+    {
+      "defid": 17361998,
+      "definition": "onxlyisa is an [amazing] [editor], she’s very [talented] and kind.",
+      "example": "Have [you seen] @onxlyisa’s new post yet?\r\nNo? You should [definitely] [check it out]!",
+      "written_on": "2022-07-15T02:23:57.252Z"
+    }
+  ],
+  "Outreach Exodus": [
+    {
+      "defid": 953155,
+      "definition": "NW Arkansas Halo Clan.\r\n[Starting now], since you've read this, we're cooler than you.  Everytime we're cooler than you in the future, [you have to pay] us.  [You already] owe alot. And we want it now. No pennies.",
+      "example": "\"Mommy! [I just] got pwned by [Outreach] [Exodus]!\"",
+      "written_on": "2004-12-18T00:00:00Z"
+    }
   ]
 }
