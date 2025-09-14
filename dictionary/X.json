@@ -1786,5 +1786,21 @@
       "example": "If an XF hits a truck, the [truck driver] will be killed. [Instantly].\r\n\r\nWith a turbocharged XF, your lookin at around 550hp / 410kW. Awesome!\r\n\r\nAn 86 Carby XF can be left in [the weather] for 5 years without being started, taken out for a spin and totally smoke a Skyline of the same vintage.",
       "written_on": "2006-08-04T00:00:00Z"
     }
+  ],
+  "Xant": [
+    {
+      "defid": 5107022,
+      "definition": "(Pronunciation- Zant)\n\nA word used to describe a [positive] [impact] [on you].",
+      "example": "[Vade] is Xanting with his [new] [car].",
+      "written_on": "2010-07-20T00:00:00Z"
+    }
+  ],
+  "xfa": [
+    {
+      "defid": 5731750,
+      "definition": "[por favor] (en [español])",
+      "example": "[trae] la bola [por favor].\r\n[trae] la bola xfa.",
+      "written_on": "2011-04-27T00:00:00Z"
+    }
   ]
 }
