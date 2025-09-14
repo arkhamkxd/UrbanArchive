@@ -9835,6 +9835,12 @@
       "definition": "The [number] of [brain cells] you have [left].",
       "example": "\"lol I have [legit] one [brain] [cell]\"",
       "written_on": "2022-05-03T17:50:59.734Z"
+    },
+    {
+      "defid": 15027211,
+      "definition": "A [multiplicative] [identity] of a semiring. For a semiring R, 1 is defined as an [element] so that for every a being an element of R:\r\n1⊗a = a⊗1 = a",
+      "example": "Min-tropical semiring is a semiring (ℝ ∪ {+∞}, ⊕, ⊗) with ⊕ defined as min, and ⊗ defined as [the addition] of two [numbers]. By that [definition], zero is +∞, and one is 0",
+      "written_on": "2020-05-28T00:00:00Z"
     }
   ],
   "onehundredsome": [
@@ -15399,6 +15405,12 @@
       "definition": "Ok [boomer] is [often] [used] when a baby-boomer talks about the oldern-days.",
       "example": "[Uhh]... ok [boomer].",
       "written_on": "2020-02-01T00:00:00Z"
+    },
+    {
+      "defid": 14534963,
+      "definition": "A meme that was created a couple months ago [the meme] ok boomer is used on [the people] known as [boomers] or can be used to insult someone.",
+      "example": "“[Back in my day]” said [boomer] “ok boomer’ said the [zoomer]",
+      "written_on": "2019-12-11T00:00:00Z"
     }
   ],
   "OTZI": [
@@ -16943,6 +16955,38 @@
       "definition": "A system of organized [psychological] terror tactics used against a person who has become an enemy of an individual or a government.  Subtle but effective techniques of stalking by multiple individuals and [psychological] [intimidation] and manipulation are used to slowly but surely drive the target to make complaints to authorities who will see the complaints as bogus because of the methods used against the target.  As a result, the target gets labelled as mentally ill.",
       "example": "There are as many stalking tactics as there are targets as the multistalkers will tailor the stalking to the individuals habits and individual [personality].  Some common examples or organized stalking are:  following the target on foot, by car and [public transportation], crowding the target's space in a public place, murmuring insults under the breath so only the target can hear, sitting in the car outside the target's residence, starting \"fights\" in public with the target, doing \"skits\" [on the street] which involves information only the target should know but has been found out via surveillance of the target, stealing and vandalism of the target's possesions.",
       "written_on": "2006-09-09T00:00:00Z"
+    }
+  ],
+  "Own the Podium": [
+    {
+      "defid": 4731642,
+      "definition": "Based [on the program] of the same name, launched by the [Canadian government] ahead of the Vancouver Olympics. The goal was to be the top medal winning team and place in the top 3 in the Paralympics.\n\nThe program was a failure in any measurable way and was blamed in part for the death of Georgian Luger, Nodar Kumaritashvili.\r\nAs a result, the term is now an ironic, dismissive [way to say] \"You suck.\" It is best used on a canadian, who will know the origin and the stigma it carries. Fricken Canadians.",
+      "example": "[American Girl]: \"So I was watching this movie with Ryan Reynolds [yesterday]...\"\r\nCanadian Male beaks in \"Ryan Reynolds is Canadian!\"\r\n[American Girl] (waves hand): \"Yeah, you guys really own the podium. Anyways, that movie sucked.\"",
+      "written_on": "2010-02-23T00:00:00Z"
+    }
+  ],
+  "Obtainership": [
+    {
+      "defid": 1491748,
+      "definition": "To acquire [something], to get [something] you want. It is a cross between Obtain and [Ownership].",
+      "example": "A: How did you [get this] [information]?\r\nB: Well my obtainership of this [information] was...",
+      "written_on": "2005-10-23T00:00:00Z"
+    }
+  ],
+  "oct 10": [
+    {
+      "defid": 14265241,
+      "definition": "The tenth [day] of the [month] [october]",
+      "example": "[Person 1]: hey [what is] its date today\r\n[Person 2]: Oct 10th",
+      "written_on": "2019-10-12T00:00:00Z"
+    }
+  ],
+  "orisla": [
+    {
+      "defid": 15172701,
+      "definition": "the [main bitch] at your [party].",
+      "example": "Orisla",
+      "written_on": "2020-07-11T07:47:00.443Z"
     }
   ]
 }

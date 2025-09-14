@@ -7640,5 +7640,21 @@
       "example": "[person]: Im [special] i tried to type ''zmxncbvzmxncbv''\r\nother person: no [you're not]",
       "written_on": "2019-12-11T02:31:47.657Z"
     }
+  ],
+  "Zero Gravity": [
+    {
+      "defid": 12989071,
+      "definition": "Feeling [no pressure]. Completely [relaxed]. Like you're [floating in space].",
+      "example": "\"[How you] [feeling] Tony, how's your day?\" \"I'm feeling zero [gravity] 'man', feeling great.",
+      "written_on": "2018-06-15T00:00:00Z"
+    }
+  ],
+  "Zoomers": [
+    {
+      "defid": 14127922,
+      "definition": "Boomers with Zip. They are [baby boomers] who are active, alive, going places, and doing things. They may have retired, or are about to retire, but they are healthy, fit and doing things usually [associated] with people a few decades younger, like cycling, kayaking and (fast-paced) hiking. [Don't you dare] call them seniors.",
+      "example": "Those zoomers did a 60km [cycle] this [past] [weekend]!",
+      "written_on": "2019-08-15T00:00:00Z"
+    }
   ]
 }
