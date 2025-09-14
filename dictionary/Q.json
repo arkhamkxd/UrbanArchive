@@ -5510,5 +5510,29 @@
       "example": "[One day] , u [might] become Qudrah , just be [patient]",
       "written_on": "2021-11-24T12:09:06.459Z"
     }
+  ],
+  "Quarantined": [
+    {
+      "defid": 14858674,
+      "definition": "[Get Drunk] [Everyday]",
+      "example": "I was quarantined [now] [I am] an [alcoholic]",
+      "written_on": "2020-04-04T00:00:00Z"
+    }
+  ],
+  "Quarantine Neurosis": [
+    {
+      "defid": 14964874,
+      "definition": "A mild [mental health] condition caused by sheltering in place for a month or more due to a pandemic. Signs are a partial loss of reality and difficulty [interacting] with others even with [social distancing]. Can progress to psychosis with continued isolation.",
+      "example": "Zach has been sheltering place for so long that he is easily agitated. He is [suffering] from [quarantine] [neurosis].",
+      "written_on": "2020-05-06T00:00:00Z"
+    }
+  ],
+  "Qundara": [
+    {
+      "defid": 4186743,
+      "definition": "Iraqi arabic word for boot. A harsh word, often used as an [insult]. Made famous by Iraqi [reporter] Muntadhar al zaidi when he threw his good bye 'qundara' [to Bush]",
+      "example": "1)Zaid\n\n- Adhorbak meet elf qundara lo ma tincheb\r\n-(Ill [hit you] a [hundred thousand] boots if yu do not shut up)\n\nSadiq Ameer\r\n- Mawli, aasif\r\n-(my master, im sorry)\n\n2)Iraqi father to his son\r\n-Lek ibnil Qundara waynek\n\n-(oi [son of a] boot, where are you)\n\n3)Annoyed Iraqi\r\n-Shlown Qanader hethola\r\n-(what boots they are)",
+      "written_on": "2009-08-19T00:00:00Z"
+    }
   ]
 }
