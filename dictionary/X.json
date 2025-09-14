@@ -1560,5 +1560,21 @@
       "example": "[Look it]’s Xiera. [I heard] she picked a dude from a anime [outfit] over a puppy.",
       "written_on": "2020-11-29T19:15:22.001Z"
     }
+  ],
+  "xenophyte": [
+    {
+      "defid": 12836774,
+      "definition": "[A plant] [evolved] for life in desert-like [conditions].",
+      "example": "Bio [teacher]: [give us] an [example] of a xenophyte, Tyler.\n\nTyler: CACTUS, YO",
+      "written_on": "2018-05-26T00:00:00Z"
+    }
+  ],
+  "x-heesy": [
+    {
+      "defid": 485802,
+      "definition": "When [something] [totally] [rocks]!",
+      "example": "[Thats] off the x-heesy!",
+      "written_on": "2004-02-02T00:00:00Z"
+    }
   ]
 }
