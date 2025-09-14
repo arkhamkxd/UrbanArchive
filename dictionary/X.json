@@ -2142,5 +2142,21 @@
       "example": "Person 1: Yo is that Xakai?\r\n[Person 2]: [Yeah it is] homie don't [fuck with] Xakai.",
       "written_on": "2018-05-30T00:00:00Z"
     }
+  ],
+  "Xani": [
+    {
+      "defid": 4213043,
+      "definition": "[Code name] for the [tranquilizer] drug, [Xanax]",
+      "example": "\"[How much] for [a couple] xani's?\"",
+      "written_on": "2009-09-01T00:00:00Z"
+    }
+  ],
+  "x-zillions": [
+    {
+      "defid": 3968918,
+      "definition": "a reallly big number. [usually] used to [express] [lots of love],",
+      "example": "[i love him] x-zillions",
+      "written_on": "2009-05-17T00:00:00Z"
+    }
   ]
 }
