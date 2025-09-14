@@ -17468,5 +17468,29 @@
       "example": "Wow, [Illiana] [Christian] [High School] is moving again.",
       "written_on": "2018-09-19T00:00:00Z"
     }
+  ],
+  "icurb": [
+    {
+      "defid": 16023704,
+      "definition": "[imma] [call] [you right] back",
+      "example": "[Hey] [Jim] icurb",
+      "written_on": "2021-05-23T13:01:15.536Z"
+    }
+  ],
+  "Ivy Leauge": [
+    {
+      "defid": 1744691,
+      "definition": "[The way] [idiots] spell [ivy league].",
+      "example": "[obviously not] an \"ivy [leauge]\" [student]",
+      "written_on": "2006-05-18T00:00:00Z"
+    }
+  ],
+  "Inception Horn": [
+    {
+      "defid": 5290840,
+      "definition": "The horn featured in the original score for the [Christopher Nolan] film Inception, composed by Zack Hemsey. The horn takes the form of a mammoth trombone backed up by heavy percussion (often repeated [multiple times] for maximum results of 'Inceptionation') that is played at intervals throughout the course of the composed piece of music to create a more than dramatic atmosphere, giving the characters a valiant amount of purpose.\n\nSide effects of frequent exposure to the Inception Horn may include \"the dream collapsing\", \"checking your totem\" and [everything] happening in slow motion.",
+      "example": "[Leonardo Dicaprio]: \"This was not part of the plan!\"\r\n[Joseph Gordon-Levitt]: \"The dream's collapsing!\"\r\n[Inception] Horn: \"BWAAAAOORRRRRRRR.\"\r\nMember of Audience: \"OHHHH BOYYYYYY\"",
+      "written_on": "2010-10-20T00:00:00Z"
+    }
   ]
 }
