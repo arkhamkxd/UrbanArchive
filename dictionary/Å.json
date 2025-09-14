@@ -6,5 +6,13 @@
       "example": "[Hello] Åke",
       "written_on": "2019-03-26T01:45:10.247Z"
     }
+  ],
+  "Å": [
+    {
+      "defid": 15673361,
+      "definition": "This is the letter Å.\r\nThe letter Å is used in [Scandinavia].\n\n(In english [speaking]) It would be [pronounced] 'Ough'.",
+      "example": "\"Dåsemad smager slet ikke godt!\"\r\n*Translates to*\r\n\"[Canned] food doesn't [taste good] [at all]!\"",
+      "written_on": "2021-01-19T13:01:28.343Z"
+    }
   ]
 }
