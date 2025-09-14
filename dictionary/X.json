@@ -1834,5 +1834,21 @@
       "example": "Have you and Bob xoed?\r\n\r\n[Lets go] to an xo shop, [I need] some more [toys].",
       "written_on": "2005-02-09T00:00:00Z"
     }
+  ],
+  "Xendpay": [
+    {
+      "defid": 6113689,
+      "definition": "Method of [sending] money to [your family] and [friends] living abroad.",
+      "example": "[Im going to] use Xendpay to [transfer] you [the money]\n\nI'm Xendpaying your money to you",
+      "written_on": "2011-10-03T00:00:00Z"
+    }
+  ],
+  "xen/kazu": [
+    {
+      "defid": 17197619,
+      "definition": "best most [amazing person] on this planet we call earth who has an [obsession] with [scaramouche]",
+      "example": "\"xen/kazu pls [marry me]..\"\r\n\"i have [the biggest] [crush on] xen/kazu!!!\"",
+      "written_on": "2022-05-01T05:08:45.926Z"
+    }
   ]
 }
