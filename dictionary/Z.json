@@ -6241,6 +6241,12 @@
       "definition": "[Greatest] [name] of [all time].",
       "example": "[Zheng] Qian is the prime [minster] of [country] X",
       "written_on": "2021-11-23T06:04:02.737Z"
+    },
+    {
+      "defid": 16638332,
+      "definition": "[Greatest] [name] of [all time].",
+      "example": "[Zheng] Qian is the [prime minister] of [country] XXXX",
+      "written_on": "2021-11-23T05:56:50.637Z"
     }
   ],
   "zooker": [
@@ -6337,6 +6343,30 @@
       "definition": "[Frankly], an [awful person].",
       "example": "Wow, Zac gets [in the way] of my [hugs] [a lot].",
       "written_on": "2019-01-11T00:00:00Z"
+    }
+  ],
+  "ze chopper": [
+    {
+      "defid": 3765311,
+      "definition": "1) A place of refuge or 'safe zone' where one is free from predation.\r\n\r\n2) An often sarcastic, sometimes [affectionate] nickname for [the chain] store the [Price Chopper].",
+      "example": "We [have to] [get to] ze [chopper]!",
+      "written_on": "2009-03-02T00:00:00Z"
+    }
+  ],
+  "Zach Hog": [
+    {
+      "defid": 12536938,
+      "definition": "is [a kid] that is a phat hog that [loves] [potato chips] and fifa",
+      "example": "[that kid] is a [ferral] [swine] Zach Hog",
+      "written_on": "2018-02-09T00:00:00Z"
+    }
+  ],
+  "Zach Impact": [
+    {
+      "defid": 14279833,
+      "definition": "[The best] [North American] [Champion] in history, fka TheKingOfX'sThrone, because he clapped X Factor's cheeks.",
+      "example": "\"Did you see Zach Impact?\"\n\n\"OMG, you mean when he [decimated] X Factor?\"\n\n\"Yes, he [destroyed] that man, made him [piss the bed]\"",
+      "written_on": "2019-10-15T00:00:00Z"
     }
   ]
 }
