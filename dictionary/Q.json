@@ -6994,5 +6994,29 @@
       "example": "[God damn it], Quick Man is so [insane].  Maybe using Flash Man's [weapon] will stop him.",
       "written_on": "2005-03-03T00:00:00Z"
     }
+  ],
+  "Quinnhatrik": [
+    {
+      "defid": 7562538,
+      "definition": "[Someone] who overplays some form of media [to the point] where he/she despises it. [Typically] uses websites such as www.listenonrepeat.com.",
+      "example": "[That kid] just listened to [the same] song for 5 days straight then stopped because he was [sick of it]. What a Quinnhatrik.",
+      "written_on": "2014-02-12T00:00:00Z"
+    }
+  ],
+  "Quest": [
+    {
+      "defid": 17004556,
+      "definition": "[A type] of test that isn’t [really] a quiz or a [full on] test.",
+      "example": "“[Hello students] today we are taking or quest, [everyone] get your [calculators] out please.”",
+      "written_on": "2022-02-18T15:45:21.305Z"
+    }
+  ],
+  "qwertyuiopasdfghjklzxcvbnm1234567890!@#$%^&*()": [
+    {
+      "defid": 12704658,
+      "definition": "My [favorite] [food] and [color]",
+      "example": "[omg] [did you] [try] the qwertyuiopasdfghjklzxcvbnm1234567890!@#$%^&*()",
+      "written_on": "2018-03-20T00:00:00Z"
+    }
   ]
 }
