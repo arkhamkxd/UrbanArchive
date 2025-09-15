@@ -11778,5 +11778,37 @@
       "example": "[Astronaut] 1: aeiou\r\nEveryone else: aeiou\r\n[Astronaut] 2: John Madden! John Madden! John Madden!\r\n[Astronaut] 3, interrupting: Football!\r\nAstronaut 1: uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu\r\nEveryone: uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
       "written_on": "2021-05-11T05:55:14.8Z"
     }
+  ],
+  "u.b.i": [
+    {
+      "defid": 329714,
+      "definition": "Unidentified [Beer] [Injury]",
+      "example": "I [woke up] [this morning] with the [weirdest] U.B.I",
+      "written_on": "2003-11-03T00:00:00Z"
+    }
+  ],
+  "Underskillable": [
+    {
+      "defid": 15305601,
+      "definition": "To [understand]",
+      "example": "I underskillable the [concept] we [learned] in math [today]",
+      "written_on": "2020-09-10T00:00:00Z"
+    }
+  ],
+  "UBRE": [
+    {
+      "defid": 15130543,
+      "definition": "You are a bad bitch and [better than everyone] else and [the prettiest] in [the friend group] and you can kick anyone’s ass!!",
+      "example": "ubre is [the baddest bitch] [in town]",
+      "written_on": "2020-06-24T00:00:00Z"
+    }
+  ],
+  "University high school": [
+    {
+      "defid": 14260309,
+      "definition": "There are several [university high] schools across [the nation]. In fact, there’s at least 16, with 2 being in [California], and 2 in florida. The real question is why they are all named the exact same thing, and why is it so bland?",
+      "example": "Seriously. It makes no fucking sense. Why are there so many schools named [University High] School? [California], [New Mexico], Illinois, Florida, Arizona, it’s fucking absurd.",
+      "written_on": "2019-10-10T00:00:00Z"
+    }
   ]
 }
