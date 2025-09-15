@@ -23224,5 +23224,85 @@
       "example": "Mom: Go [clean your room]\r\n[Little Timmy]: I’ll do it [tomorrow]",
       "written_on": "2022-01-12T22:46:12.699Z"
     }
+  ],
+  "I'mAnIdiot": [
+    {
+      "defid": 15657963,
+      "definition": "[Yes you are]",
+      "example": "person1: I'mAnIdiot\r\nperson2: [Did you] [just] [realize] that?",
+      "written_on": "2021-01-13T14:59:15.004Z"
+    }
+  ],
+  "iwuwu": [
+    {
+      "defid": 3187427,
+      "definition": "[anOther word] for [i love you],\r\nalsO is [a cute] way of sayinq ily\r\nnot used very often.",
+      "example": "iwuwu b00! [dont] [eva] [leave me].",
+      "written_on": "2008-06-29T00:00:00Z"
+    }
+  ],
+  "iffy fan": [
+    {
+      "defid": 11818198,
+      "definition": "[equivalent] to [dumb fuck]",
+      "example": "stop [licking] those [coconuts] you iffy fan\r\nyou got a 50 on that test? youre an iffy fan\r\nyou cant [roll with] us you iffy fan",
+      "written_on": "2017-07-24T00:00:00Z"
+    }
+  ],
+  "Introvert": [
+    {
+      "defid": 11300625,
+      "definition": "An introvert isn't the antisocial *sshole that some of the other [definitions] have made them out to be. They're [misunderstood] because they make up a minority of the [population]. They recharge via solitude. Some socialize in small groups, and others get very nervous and don't socialize unless spoken to.",
+      "example": "As an introvert, [I need] my [alone time] every now [and then].",
+      "written_on": "2017-03-20T00:00:00Z"
+    }
+  ],
+  "impact percussion": [
+    {
+      "defid": 7760897,
+      "definition": "Impact Percussion is an [independent] winter percussion group based out of Sanford High School in Sanford Maine.\n\n[Mission Statement]: Impact Percussion seeks to combine traditional marching percussion techniques, with orchestral concepts of musicianship to create an original, inspiring, and educational environment for developing [percussionists].\n\nStaff Includes:\r\nJoshua Champagne- Director\r\nCraig Scott- Visual Designer\r\nAndrew Carpenter- Program Consultant\r\nScott Eugley- Program Coordinator/Battery Arranger\r\nShawn McKeown- Front Ensemble Instructor/Arranger\r\nTravis Corcoran- Front Ensemble Instructor\r\nMatthew Prive- Front Ensemble Instructor\n\nZero Tolerance Policies\r\n-The use of illegal or underage substances is prohibited.\r\n-No form of bullying will be allowed. We want to create a welcoming and learning environment for all members!",
+      "example": "[Audience] member 1 \"Did you see Impact [Percussion]?\"\r\nAudience member 2 \"yeah they were so good I was [throwing] babies!\"",
+      "written_on": "2014-05-20T00:00:00Z"
+    }
+  ],
+  "ilikeurbandshirt": [
+    {
+      "defid": 16277231,
+      "definition": "[the sexiest] and [hottest person] you’ll ever be [mutuals] with on tik tok",
+      "example": "“[omg] ur [moots] with ilikeurbandshirt?? ur so [lucky] :(“",
+      "written_on": "2021-08-29T18:24:49.59Z"
+    }
+  ],
+  "igganay": [
+    {
+      "defid": 18160621,
+      "definition": "[Nigga] in [pig latin]",
+      "example": "“[shut up] igganay“",
+      "written_on": "2024-03-11T22:38:34.771Z"
+    }
+  ],
+  "Ishkabibble": [
+    {
+      "defid": 14192016,
+      "definition": "To be [all sorts of] [disorganized] or [confused].",
+      "example": "Their [plans] were ishkabibbled to [say] [the least].",
+      "written_on": "2019-09-13T00:00:00Z"
+    }
+  ],
+  "it's the thought that counts": [
+    {
+      "defid": 18288575,
+      "definition": "used to [indicate] [that it is] the kindness behind an act that matters, however imperfect or [insignificant] the act may be.",
+      "example": "\"when people give you things that [you don't want], you must [remember] that it's [the thought that counts]\"",
+      "written_on": "2024-08-07T17:16:47.025Z"
+    }
+  ],
+  "i don’t feel so good": [
+    {
+      "defid": 12893548,
+      "definition": "[The line] was that became a meme and the [heartbreak] of all [teenage girls].",
+      "example": "[Mr. Stark] I [don’t] feel [so good].",
+      "written_on": "2018-06-02T00:00:00Z"
+    }
   ]
 }
