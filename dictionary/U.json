@@ -12732,5 +12732,37 @@
       "example": "[Damn] [that girl] has a [mad nice] U.C.F.",
       "written_on": "2003-11-14T00:00:00Z"
     }
+  ],
+  "Uzair Zaidi": [
+    {
+      "defid": 6974533,
+      "definition": "A [preety] [fucked up bastard] who makes flap noises with his dick. Also likes to rape [people]",
+      "example": "[Uzair] [Zaidi]: [FLAP FLAP] FLAP",
+      "written_on": "2013-03-05T00:00:00Z"
+    }
+  ],
+  "undefined behavior": [
+    {
+      "defid": 7764113,
+      "definition": "[Undefined] behavior results when programs attempt to do things for which [the standard] defines no semantics, and requires no diagnostic either. Examples include dereferencing invalid pointers and dividing by zero. Executing such programs may cause them to produce incorrect results, crash, silently \"work\", or even format the [hard drive].",
+      "example": "It is [commonly] joked that [undefined] behavior allows the [compiler] to insert code that will start a game of nethack.",
+      "written_on": "2014-05-23T00:00:00Z"
+    }
+  ],
+  "Unload": [
+    {
+      "defid": 5350626,
+      "definition": "To [empty] your sack, to [explode], to empty your sperm ducts, the [male orgasm].",
+      "example": "Hey Gaff, you've got a big [smile] [on your face] - [did you] unload ?",
+      "written_on": "2010-11-14T00:00:00Z"
+    }
+  ],
+  "ulster scots": [
+    {
+      "defid": 1669168,
+      "definition": "\"[The ultimate] DIY language\", as a local [politician] once eloquently put it.\r\nA 'dialect' [supposed to] be derived from that of Scottish settlers who came to Ireland a long time ago, however it's actually not a language at all, and sounds laughably more like someone merely speaking slang words in a Ballymena farmer's accent..\r\nInterestingly though, governments seem to be fooled by this quest for lingual recognition, and are happy to throw money at the cause ! Maybe they're just happy that they're doing something other than drug dealing and whacking each other for a change....",
+      "example": "Ulster Scots:\r\n\"Ey boy, whers tha wife the day ?\"\r\n\"ah... shi'll b back air at home wi tha waynes !\"\r\n\r\nEnglish [Translation]:\r\n\"Hey mate, wheres your wife today ?\"\r\n\"Aha, she'll be [back there] at home with [the children].\"",
+      "written_on": "2008-07-29T00:00:00Z"
+    }
   ]
 }
