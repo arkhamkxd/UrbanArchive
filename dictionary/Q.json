@@ -5866,5 +5866,21 @@
       "example": "[Jonre] and [aleah] do [queer] faynal",
       "written_on": "2023-08-06T16:46:05.367Z"
     }
+  ],
+  "qwertyuioplkjhgfdsazxcvbnm": [
+    {
+      "defid": 17654463,
+      "definition": "[qwerty]",
+      "example": "I was so [bored in class] that i [typed]; qwertyuioplkjhgfdsazxcvbnm",
+      "written_on": "2023-02-02T11:43:12.983Z"
+    }
+  ],
+  "Quashi": [
+    {
+      "defid": 4285480,
+      "definition": "A word of [Guyanese] [origin], used to describe an [ignorant person]/action.",
+      "example": "Marc: Those are Elaine's twins [over there].\n\n[Julian]: Oh, are they [the same] age?\n\nMarc: Julian you're such a quashi",
+      "written_on": "2009-10-21T00:00:00Z"
+    }
   ]
 }
