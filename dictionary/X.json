@@ -2606,5 +2606,21 @@
       "example": "I'll [talk to] you [later] [babe]. XOXOB",
       "written_on": "2025-03-16T14:21:09.316Z"
     }
+  ],
+  "xx_younglingkiller_xx": [
+    {
+      "defid": 15619687,
+      "definition": "xx_younglingkiller_xx is the name of Anakin Skywalkers [lightsaber] with he used to kill a lot of [younglings] in the star wars movie: [revenge of the sith] (rots)",
+      "example": "My [girlfriend] is [pregnant] i have to [whip out] the \"xx_younglingkiller_xx\"",
+      "written_on": "2020-12-30T14:51:13.874Z"
+    }
+  ],
+  "xmrig": [
+    {
+      "defid": 17103298,
+      "definition": "a mining software that mines monero using your cpu\r\nusually [included] in viruses and mines the fastest\r\n[remember] to [turn off] the dev fee ;)",
+      "example": "[im going to] use xmrig to [mine] some [monero]",
+      "written_on": "2022-03-26T20:55:59.494Z"
+    }
   ]
 }
