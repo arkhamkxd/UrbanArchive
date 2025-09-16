@@ -12156,5 +12156,13 @@
       "example": "Fake zine.\r\n[Genuine] zine.\r\n[Jack] zine.\r\n[Dezine].",
       "written_on": "2009-02-23T00:00:00Z"
     }
+  ],
+  "Zy": [
+    {
+      "defid": 16416219,
+      "definition": "Zy-someone [I love] [a lot]",
+      "example": "[I love you] zy",
+      "written_on": "2021-11-06T18:18:28.244Z"
+    }
   ]
 }
