@@ -959,6 +959,12 @@
       "definition": ".",
       "example": "[Friend]: [How are you]?\r\nYou: .",
       "written_on": "2022-04-21T21:41:04.361Z"
+    },
+    {
+      "defid": 14909084,
+      "definition": ".",
+      "example": ".",
+      "written_on": "2020-04-18T00:00:00Z"
     }
   ],
   "🤨": [
@@ -19985,6 +19991,30 @@
       "definition": "This is an abreviation of the word [christmas]. [Generally] used by people who are to [god damn] lazy to write the full word.",
       "example": "[x-mas] is [possibly] [the best] time of the year!",
       "written_on": "2004-03-10T00:00:00Z"
+    }
+  ],
+  "💀➡️🔥": [
+    {
+      "defid": 12035849,
+      "definition": "[Means] [I hope you die in a fire]",
+      "example": "I [don’t like] you so 💀➡️🔥",
+      "written_on": "2017-10-09T00:00:00Z"
+    }
+  ],
+  "❤️👄❤️": [
+    {
+      "defid": 15310811,
+      "definition": "[when you] see [something] [beautiful].",
+      "example": "[wow] [he’s] [so hot] ❤️👄❤️",
+      "written_on": "2020-09-12T20:36:01.722Z"
+    }
+  ],
+  "<.0.6.7.6.>Hokages, hokAges, hokageSNamed Pedro<.0.6.7.6.0.>": [
+    {
+      "defid": 18483339,
+      "definition": "<.0.6.[7.6].>Hokages, hokAges, hokageSNamed [Pedro]<.0.6.[7.6].0.>",
+      "example": "<.0.6.[7.6].>Hokages, hokAges, hokageSNamed [Pedro]<.0.6.[7.6].0.>",
+      "written_on": "2025-05-06T23:01:23.585Z"
     }
   ]
 }
