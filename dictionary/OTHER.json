@@ -19896,5 +19896,21 @@
       "example": "so here it is 1403... [i love you] but its not [like] [love]",
       "written_on": "2024-02-08T23:14:25.107Z"
     }
+  ],
+  "14 Year Old": [
+    {
+      "defid": 15959629,
+      "definition": "Me",
+      "example": "[I am] a 14 [year] [old]",
+      "written_on": "2021-05-02T11:06:24.589Z"
+    }
+  ],
+  "2520": [
+    {
+      "defid": 15444742,
+      "definition": "The lowest [possible] number [divisible] by [1, 2, 3, 4, 5], 6, 7, 8, 9, and 10",
+      "example": "Do [I need] to [use] 2520 in a [sentence]?",
+      "written_on": "2020-11-02T16:42:45.281Z"
+    }
   ]
 }
