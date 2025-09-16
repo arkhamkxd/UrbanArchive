@@ -1063,6 +1063,12 @@
       "definition": "You!",
       "example": "[Who is] [that ugly] dude [over there].\r\nMe.",
       "written_on": "2018-05-11T00:00:00Z"
+    },
+    {
+      "defid": 14115339,
+      "definition": "[Dorian]’s [cleats]",
+      "example": "[Dorian]’s [kleats] are ugly",
+      "written_on": "2019-08-09T00:00:00Z"
     }
   ],
   "UGR": [
@@ -15403,6 +15409,14 @@
       "definition": "The most [catastrophic] and [devastating] insult [available]. Everytime a mortal mentions this forbidden word, the void approaches earth with greater magnitude",
       "example": "Carl: your'e mom gay\r\nSteve: no u\r\nterry: [ur dad gay]\r\nSteve: No, ur dad 2 degrees [straight]\n\nworld: suffers [hideous] injuries",
       "written_on": "2018-03-12T00:00:00Z"
+    }
+  ],
+  "uglyness": [
+    {
+      "defid": 3052543,
+      "definition": "a witty reply that gives ones [opinion] of [dislike], a [somewhat] preppy word",
+      "example": "[girl] one: Mmm. . [look at that] guy!\r\ngirl two: eww. . [gross], uglyness!",
+      "written_on": "2008-05-01T00:00:00Z"
     }
   ]
 }
