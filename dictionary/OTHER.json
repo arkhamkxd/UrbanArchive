@@ -19552,5 +19552,77 @@
       "example": "*[anime] gif*\r\ncomment1: name?\r\nreply1: [Captain] here! OPM! *[flies] away*",
       "written_on": "2016-05-17T00:00:00Z"
     }
+  ],
+  "#handleit": [
+    {
+      "defid": 11747118,
+      "definition": "Do what you have to do - [usually] referring to [doing something] [to the fullest] extent.",
+      "example": "Today I am [going] to [kick it] in [spin class] and #handleit.",
+      "written_on": "2017-06-29T00:00:00Z"
+    }
+  ],
+  "3.25": [
+    {
+      "defid": 2789521,
+      "definition": "[another] way of saying [someone] is gay. It comes from the fact that [homo milk] is 3.25%",
+      "example": "yo birun stop being such a 3.25 and [come to] [monte carlo] and [play pool]",
+      "written_on": "2009-01-09T00:00:00Z"
+    }
+  ],
+  "1337 5p34k": [
+    {
+      "defid": 1231424,
+      "definition": "[Language] used by geeks to help them [identify] one [another].",
+      "example": "Geek:  \"/-\\55|-|0|_3!!\"\r\n[Normal person]:  What did he just say?\r\n[Normal person]#2:  He just called you an [asshole] dude.",
+      "written_on": "2005-05-03T00:00:00Z"
+    }
+  ],
+  "303": [
+    {
+      "defid": 18051098,
+      "definition": "Means…\r\nI can’t live [without you]…\r\nI can’t stop loving you…\r\nI can’t stop [thinking of you]…\r\nI can’t stop seeing your [beautiful eyes]…\r\nI can’t stop hearing your voice…\r\nI can’t stop knowing…\r\nYou’re all that matters to me…\r\nEvery moment of the day…",
+      "example": "303…",
+      "written_on": "2023-12-17T15:08:34.321Z"
+    }
+  ],
+  "98": [
+    {
+      "defid": 13460142,
+      "definition": "\"98\" is a term used to secretly telling [the world] [that the] person in [question] will comit suicide. This term is derived from the song by Mili with the title \"Nine point eight\".",
+      "example": "Mia: Do [you know] what's the meaning of this 98 sent by my brother?\r\nRay: What? Quick! [You need] to [go home]! He's gonna commit suicide!!",
+      "written_on": "2018-12-18T00:00:00Z"
+    }
+  ],
+  "90 degrees crazy": [
+    {
+      "defid": 5214636,
+      "definition": "A party/dance that involves major [grinding] such that girls are bent over at a 90 degree angle. 180 degrees crazy means [the girls] were touching the floors. Anything above 180 is likely [impossible].",
+      "example": "Shotties were [grinding] major hard at [last nights] party. They were all bent over, [touching] the floor even. It was 90 degrees crazy. Maybe even 120",
+      "written_on": "2010-09-13T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Have Fun Superando Fun Have<7.9.6.7.>": [
+    {
+      "defid": 18477039,
+      "definition": "<.[7.9].7.6.>[Have Fun] Superando [Fun Have]<7.9.6.7.>",
+      "example": "<.[7.9].7.6.>[Have Fun] Superando [Fun Have]<7.9.6.7.>",
+      "written_on": "2025-04-27T11:36:16.819Z"
+    }
+  ],
+  "#TeamLH": [
+    {
+      "defid": 16992748,
+      "definition": "A borderline cult, made up of unhinged Formula 1 \"fans\". First started watching F1 in 2014 when [Lewis Hamilton] had a car 2 seconds quicker than the rest. Very minimal knowledge, it just about stretches to knowing the name of Hamilton's team mate. [Extremely] delusional, have an [incredible] way of being blind to any point of view that they don't agree with/doesn't favour Hamilton.",
+      "example": "That is [the most] [unhinged] [opinion] I have ever heard, are you part of #TeamLH?",
+      "written_on": "2022-02-14T13:00:49.17Z"
+    }
+  ],
+  "\"/><img src=xss onerror=alert(1)><IMG SRC=/ onerror=\"alert(String.fromCharCode(88,83,83))\"></img>": [
+    {
+      "defid": 15178153,
+      "definition": "\"/><img src=xss onerror=[alert](1)><IMG SRC=/ onerror=\"[alert]([String].fromCharCode(88,83,83))\"></img>",
+      "example": "\"/><img src=xss onerror=[alert](1)><IMG SRC=/ onerror=\"[alert]([String].fromCharCode(88,83,83))\"></img>",
+      "written_on": "2020-07-13T15:13:39.248Z"
+    }
   ]
 }
