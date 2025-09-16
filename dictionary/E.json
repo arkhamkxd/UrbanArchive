@@ -32124,5 +32124,37 @@
       "example": "Is that editzx2hard? Wow they are [so cool]\r\n[Can i get] your [autograph] editzx2hard?",
       "written_on": "2022-05-28T19:22:57.291Z"
     }
+  ],
+  "eccalypse": [
+    {
+      "defid": 17828454,
+      "definition": "when [your birthday] occurs on [the same] day of the [week] you were born -",
+      "example": "[Lynn] is having an eccalypse [next] [year].",
+      "written_on": "2023-06-17T19:27:35.056Z"
+    }
+  ],
+  "error": [
+    {
+      "defid": 17365408,
+      "definition": "Some [unexpected] outcomes that [no one] [wants].",
+      "example": "As of 17 July 2022, [Urban Dictionary] has an error, which its like & [dislike button] became longer than usual and when we click it, the like & dislike is not counted at all. What happened? Can admin solve the issue as soon as possible? [Thank you].",
+      "written_on": "2022-07-17T03:27:35.39Z"
+    }
+  ],
+  "Epicsome": [
+    {
+      "defid": 6294462,
+      "definition": "[Something] so Epic and [awesome] that it requires the mashing of these two [amazing] words",
+      "example": "That [song] is epicsome. It's [amazing]!",
+      "written_on": "2011-12-19T00:00:00Z"
+    }
+  ],
+  "excreta": [
+    {
+      "defid": 5110547,
+      "definition": "a polite [amalgam] of the terms \"et cetera\" and \"all [that shit].\" It sounds like Latin and therefore makes you appear smarter than you [actually] are.",
+      "example": "Todd's list of food for gamers [included] [easy cheese], Bugles, pizza, [Red Bull], excreta.",
+      "written_on": "2010-07-22T00:00:00Z"
+    }
   ]
 }
