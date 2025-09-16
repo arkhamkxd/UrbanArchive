@@ -7438,5 +7438,29 @@
       "example": "quangs [a hoe]",
       "written_on": "2019-02-05T00:00:00Z"
     }
+  ],
+  "Quicknapped": [
+    {
+      "defid": 14937228,
+      "definition": "They shave [your head] and sell you [to the] [gypsies]!",
+      "example": "\"[Hey], how's Dom?\"\r\n\"[Well], he's been quicknapped...\"\r\n\"Oh [n o]\"",
+      "written_on": "2020-04-27T00:00:00Z"
+    }
+  ],
+  "QE": [
+    {
+      "defid": 2066919,
+      "definition": "A [battlecry] in [World of Warcraft] to signify that you are [rallying] your troops.",
+      "example": "QE\r\nQE [BITCHES]!\r\n[Ishnu] Alah QE [bitch]!",
+      "written_on": "2006-11-03T00:00:00Z"
+    }
+  ],
+  "qnbc": [
+    {
+      "defid": 16147692,
+      "definition": "most [know] in [com]",
+      "example": "qnbc [runs] [com]",
+      "written_on": "2021-07-01T16:51:31.368Z"
+    }
   ]
 }
