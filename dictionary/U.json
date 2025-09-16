@@ -1025,6 +1025,12 @@
       "definition": "USA=U [Stupid Asshole]",
       "example": "guy1:[i lost] [the map],where [shall we] go now?\r\nguy2:USA!we are going to die!",
       "written_on": "2007-07-29T00:00:00Z"
+    },
+    {
+      "defid": 15818520,
+      "definition": "usa",
+      "example": "usa",
+      "written_on": "2021-03-12T06:32:54.25Z"
     }
   ],
   "umair": [
@@ -4733,6 +4739,12 @@
       "definition": "[Dane Cook].",
       "example": "[Dane Cook] is the most unfunny comedian on [the planet]. At any given time, wherever funny is, [Dane Cook] is over 9,000 miles away from it.",
       "written_on": "2008-12-28T00:00:00Z"
+    },
+    {
+      "defid": 16884232,
+      "definition": "[The state] of being [julian]",
+      "example": "[That guy] is called [Julian], he [must be] so unfunny.",
+      "written_on": "2022-01-03T16:47:22.109Z"
     }
   ],
   "Utes": [
@@ -13545,6 +13557,14 @@
       "definition": "[Techno] duo DJ's [Karl] Hyde and Rick [Smith].",
       "example": "Underworld created [the hit] [song] \"[Born Slippy].\"",
       "written_on": "2004-08-04T00:00:00Z"
+    }
+  ],
+  "unsweat": [
+    {
+      "defid": 6140273,
+      "definition": "The act of sitting still after you've done some physical exercise in order to let the sweat evaporate. This is because:\n\na) [You don't want] other people to see spots of sweat in your clothes\n\nb) [You don't want] other people to think the excercise was too demanding for you\n\nc) You don't annoy other people whith your stink\n\nd) You are in a formal ocasion that would make you look bad\n\ne) You just feel [uncomfortable]",
+      "example": "*[Thinking]* This game is getting too [demanding]. [Let me just] have a sit to unsweat",
+      "written_on": "2011-10-15T00:00:00Z"
     }
   ]
 }
