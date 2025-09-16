@@ -3006,5 +3006,13 @@
       "example": "[person]: whoa that was [really] clever!\n\nxenja: [no that] was xenja.",
       "written_on": "2017-06-10T06:39:59.357Z"
     }
+  ],
+  "xpedia": [
+    {
+      "defid": 13847036,
+      "definition": "[white]",
+      "example": "That's a [nice] xpedia [Ferrari]",
+      "written_on": "2019-04-26T00:00:00Z"
+    }
   ]
 }
