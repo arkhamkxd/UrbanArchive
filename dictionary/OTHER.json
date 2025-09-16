@@ -19802,5 +19802,29 @@
       "example": ".ud -Scarce",
       "written_on": "2020-11-15T12:58:56.071Z"
     }
+  ],
+  "(wheeze)": [
+    {
+      "defid": 13626092,
+      "definition": "(Wheeze) is the most common line in [the internet] series [Buzzfeed Unsolved]. [Typically], it is Ryan who is wheezing but Shane can be seen in yellow doing the same at times.",
+      "example": "Shane: I'm [jumping], I've [jumped], I've landed.\r\nRyan: ([Wheeze])\r\nShane: SHARK.",
+      "written_on": "2019-02-17T00:00:00Z"
+    }
+  ],
+  "50 bomb": [
+    {
+      "defid": 17372080,
+      "definition": "(fiff-tee - bah-mb)\n\nto [get] 50 [kills] in [a game]",
+      "example": "\"dude, i [dropped] a 50 bomb and we [still] [lost]!\"",
+      "written_on": "2022-07-20T18:54:14.515Z"
+    }
+  ],
+  "54th Terrace": [
+    {
+      "defid": 3100791,
+      "definition": "[The Most] Gangsta hood in [the World]. we have every character that u can [possibly] think of and if u have a problem we can connect u to the Carmine Hotline",
+      "example": "54th [terrace] runs [the world]. [this is true]",
+      "written_on": "2008-05-20T00:00:00Z"
+    }
   ]
 }
