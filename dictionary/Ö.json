@@ -70,5 +70,13 @@
       "example": "[Girl]: \"[I'm pregnant]\"\r\n[Boy]: \"öshkaboygan\"",
       "written_on": "2016-09-02T00:00:00Z"
     }
+  ],
+  "özden": [
+    {
+      "defid": 16471283,
+      "definition": "Did [you mean] [Thor]?",
+      "example": "Özden who [looks like] [Thor]",
+      "written_on": "2021-11-21T08:36:59.692Z"
+    }
   ]
 }
