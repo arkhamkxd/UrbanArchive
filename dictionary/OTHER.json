@@ -385,6 +385,12 @@
       "definition": "[you are] [loyal] to 1 [person]",
       "example": "“they have [4 fingers] up🤭”",
       "written_on": "2022-10-06T06:18:26.029Z"
+    },
+    {
+      "defid": 17257301,
+      "definition": "They are your [close friends]",
+      "example": "*group of ppl hold [4 fingers] up * ([everyone] are really [close friends])",
+      "written_on": "2022-05-23T14:17:24.47Z"
     }
   ],
   "<.0.7.9.7.1.5.3.7.4.6.3.4.3.6.2.6.6.2.9.6.9.6.6.9.7.7.4.6.1.5.3.7.9.7.0.> <.0.6.7.6.0.>Decir La OppOsitE lA deciR<.0.6.7.6.0.> <.0.7.9.7.1.5.3.7.4.6.3.4.3.6.2.6.6.2.9.6.9.6.6.9.7.7.4.6.1.5.3.7.9.7.0.>": [
@@ -1199,6 +1205,12 @@
       "definition": "!",
       "example": "!",
       "written_on": "2021-11-22T10:26:06.905Z"
+    },
+    {
+      "defid": 877635,
+      "definition": "In the [programming language] Prolog, a cut (articulated by the [exclamation point]) removes all choicepoints created by the preceding statement. Use of the cut is [deprecated], or at least discouraged.\r\n\r\nA choicepoint is a fork-in-the-road to a Prolog program. Multiple branches of [possibilities] are saved at this point, with the intention of returning (or \"backtracking\") to a different path if the current one does not lead to success.\r\n\r\nToo many choicepoints, and the program may run out of stack. (ie. Not have enough memory available to store all previous opportunities for different paths.) A cut can prevent this, if used properly, by erasing choicepoints that are no longer relevant or necessary.\r\n\r\nFor those of you still with me, it's about 2am and I'm tripping on psilocybin mushrooms. So you're going to have to bear with me. Right now, I could use some exclamation points. I'm in serious need of a cut, as the several preceding paragraphs are no doubt proof of.\r\n\r\nThis nice little analogy probably isn't too clear to anyone outside my head, but to me, the brain normally behaves like a Prolog program with an abundance of exclamation points. Stray thoughts are \"cut\" out of existence before they can either clog one's brain, or exit via the mouth and manifest themselves as an act of stupidity. In an absence of cuts, however, thoughts may grow [out of control] and essentially clog one's head. This absence of cuts may be achieved though the use of drugs conventionally classed as \"hallucinogens\", whether intentional or not.\r\n\r\nThis absence can be advantageous in moderation, as it can allow thoughts that would normally be subconsciously expelled as absurd or even primitive to blossom into new ideas. But as previously stated, a cut is useful every now and then just to \"clear one's head\" if the thoughts become overpowering or focusing on any one idea becomes difficult.\r\n\r\nAnd I think this little essay is a good example of the absence of cuts, what they can lead to and why the cut is necessary in day-to-day life. So please, someone hand me an [exclamation point].",
+      "example": "Me: \"I need some [explanation] points.\"\r\nTrip buddy 1: \"What?\"\r\nMe: \"I need some [explanation] points.\"\r\nTrip buddy 2: \"Are you Einstein?\"\r\n\r\nProlog code example:\r\n[factorial](N,M) :- N < 0, !, fail.\r\nfactorial(0,1).\r\nfactorial(N,M) :- X is N-1,\r\n\tfactorial(X,Y),\r\n\tM is N * Y.",
+      "written_on": "2004-10-29T00:00:00Z"
     }
   ],
   "'Saur": [
@@ -21161,6 +21173,94 @@
       "definition": "A ID for a [user], [Pls] [like]",
       "example": "Your _ID is: 92839021830129830213",
       "written_on": "2021-09-18T12:41:50.838Z"
+    }
+  ],
+  "4 fingers up on your right hand": [
+    {
+      "defid": 17213982,
+      "definition": "[four fingers up] on your [right hand] mean u like girls with their name [starting] with a Z",
+      "example": "Bro put [4 fingers up] on your [right hand] to signal that u like [someone] special",
+      "written_on": "2022-05-06T23:15:21.643Z"
+    }
+  ],
+  "[office ninja]": [
+    {
+      "defid": 3419160,
+      "definition": "1. A code name (like \"code monkey\") for people that are sneeky, creative and have brilliant ideas in [the office] but these ideas are not related in the office directory that he/she works in.                  2. An [office ninja] will secretly take your office suplies while your not knowing it.                 3. An [office ninja] always will have a red stapler.",
+      "example": "Bill: hey, Ted [did you] take my pens?                Ted: No, do I look like an \"[office ninja]\" [to you]?",
+      "written_on": "2009-02-23T00:00:00Z"
+    }
+  ],
+  ":v": [
+    {
+      "defid": 1198147,
+      "definition": "Used [usually] when [showing off] or [ranting] on someone.",
+      "example": "(12:01:53pm) (AcrophobiaK) what emotion does ;V express?\r\n(12:01:56pm) ([solidsnake]) ;v\r\n(12:02:04pm) ([solidsnake]) it shows that im [showing off] while speaking to you\r\n(12:02:08pm) (solidsnake) see my mouth open\r\n(12:02:09pm) (solidsnake) ;v",
+      "written_on": "2005-04-19T00:00:00Z"
+    }
+  ],
+  "9 pack": [
+    {
+      "defid": 2129425,
+      "definition": "9 ounces or a [quarter] kilo of [cocaine].\r\n28 x 9 = 252\r\n[quarter] key = 250",
+      "example": "yo [hold up] im [gettin] a 9 pack [right now]",
+      "written_on": "2006-12-07T00:00:00Z"
+    }
+  ],
+  "7th grade girl": [
+    {
+      "defid": 17893658,
+      "definition": "I was 1 a couple years ago so here’s what they are like.\r\nMost of them are normie/casual, preppy/softie/furry, athletic, emo/goth and kidcore. All of my friends, nor their friends have lost their virginity in the 7th grade. It’s actually the boys that say/do all of the weird/sus/[sexual stuff] ([definition] about them soon). But none of them actually [do the deed] with girls at school.",
+      "example": "Most [7th grade girls] are not [sluts]",
+      "written_on": "2023-08-19T22:29:06.247Z"
+    }
+  ],
+  "3017 Treatment": [
+    {
+      "defid": 7469101,
+      "definition": "To finish something to completion without straying. To turn away other options in order to fully enjoy one item and gain the most out of it until [there is nothing] left.\n\nThis can refer to anything from electing to use one salad dressing until it is used up in lieu of opening up the other bottles [in the fridge] to referencing the idea of not starting any other books until you have finished the one you are busy with.\n\nThis term is used most often in traditional wet shaving forums where it references the use of one single shaving puck to completion before starting the next. This is a strategy most often employed by users who have accumulated so much stock of varying products that the daily choice of which item to use can become a burden and could detract from their ability to truly [appreciate] any single item.",
+      "example": "Dr. Gold [realized] that he had accumulated too many soaps, so he decided to give his stock the 3017 [Treatment] by finishing one soap at a time before [moving on] to the next.",
+      "written_on": "2014-01-07T00:00:00Z"
+    }
+  ],
+  "502": [
+    {
+      "defid": 1402317,
+      "definition": "Area code for [the least] known [party city]... [LOUISVILLE] KENTUCKY",
+      "example": "redneck: [Representin'] the 502 baby\r\nwoman: the what\r\nredneck: the 502 bitch, [louisville]\r\nwoman: [what the fuck is that]",
+      "written_on": "2005-09-02T00:00:00Z"
+    }
+  ],
+  "🤙🏼": [
+    {
+      "defid": 12272751,
+      "definition": "Saying that [someone] is [full of bullshit], or that they are not [trustworthy] or honest.",
+      "example": "[Yeah], ok. 🤙🏼",
+      "written_on": "2017-12-12T00:00:00Z"
+    }
+  ],
+  "3rd of December": [
+    {
+      "defid": 16797142,
+      "definition": "[The day] u give [someone] u like a [sweater] :)",
+      "example": "You: Hey, take this [sweater] !\r\nSomeone: Why ?\r\nYou: Because it’s 3rd of [December], [the day] u give someone u like a sweater !\r\nSomeone: Oh ok, tyy <3",
+      "written_on": "2021-11-30T12:15:41.042Z"
+    }
+  ],
+  "1493028": [
+    {
+      "defid": 17203179,
+      "definition": "A malicious entity capable of destroying [Minecraft] servers.In general, isn't [dangerous] until [provoked].",
+      "example": "A [Minecraft] [entity] named 1493028, also known as Entity404 is a [Minecraft player]",
+      "written_on": "2022-05-03T06:57:26.966Z"
+    }
+  ],
+  "<.7.9.7.6.>Thetry, theUtry, thetrY<.7.9.7.6.>": [
+    {
+      "defid": 18501629,
+      "definition": "<.[7.9].[7.6].>Thetry, theUtry, thetrY<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>Thetry, theUtry, thetrY<.[7.9].7.6.>",
+      "written_on": "2025-06-10T11:36:19.183Z"
     }
   ]
 }
