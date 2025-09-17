@@ -15762,5 +15762,13 @@
       "example": "[That guy] [is an] ufan",
       "written_on": "2019-04-19T00:00:00Z"
     }
+  ],
+  "unfoil": [
+    {
+      "defid": 15618930,
+      "definition": "unfoil (v) [Thaw] from [frozen].",
+      "example": "Go grab that [chicken] from [the freezer]. [We need] to unfoil it.",
+      "written_on": "2020-12-30T09:33:02.246Z"
+    }
   ]
 }
