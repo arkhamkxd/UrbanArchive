@@ -8602,5 +8602,21 @@
       "example": "oh quirt. [Thats] [pretty] quirt.",
       "written_on": "2020-10-29T08:17:28.039Z"
     }
+  ],
+  "Quouble": [
+    {
+      "defid": 16949478,
+      "definition": "A Quouble describes a bed that is bigger than [a double], but [smaller] than [a queen].",
+      "example": "We recently built a quouble bed for my [caravan], because we need a bed bigger than a double, however [a queen] size was too large for [the space].",
+      "written_on": "2022-01-28T17:29:58.021Z"
+    }
+  ],
+  "qwertyuiopasdfghjklzxcvbn": [
+    {
+      "defid": 12761675,
+      "definition": "When ur so bored you type the whole [keyboard], but you stop at the last letter to see [if there is] a [definition] for it. Thus why you are here",
+      "example": "[Im bored], lets see\r\n¨types [qwertyuiopasdfghjklzxcvbnm]\r\nwait, lets see [something]\r\n¨types qwertyuiopasdfghjklzxcvbn\r\noh my",
+      "written_on": "2018-05-17T00:00:00Z"
+    }
   ]
 }
