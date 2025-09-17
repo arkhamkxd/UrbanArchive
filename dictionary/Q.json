@@ -9242,5 +9242,21 @@
       "example": "[Shut the fuck up] Qweezer.",
       "written_on": "2010-05-30T00:00:00Z"
     }
+  ],
+  "Quietstep": [
+    {
+      "defid": 5379921,
+      "definition": "When [dubstep] is played at a [low volume]. [either] in a car or from a small device.",
+      "example": "[Damn dude]! [check out] [the drop in] this quietstep",
+      "written_on": "2010-11-26T00:00:00Z"
+    }
+  ],
+  "quick 6": [
+    {
+      "defid": 3057967,
+      "definition": "In the nba, a player will come [off the bench] to spark their team by scoring 6 quick points. These players are [usually] crafty veterans that you might not expect to even see [the court] that evening.",
+      "example": "[Broadcaster]: \"[Eddie Jones] comes [off the bench] for a quick 6 to spark the mavs at the beginning of the fourth quarter.\"",
+      "written_on": "2008-05-03T00:00:00Z"
+    }
   ]
 }
