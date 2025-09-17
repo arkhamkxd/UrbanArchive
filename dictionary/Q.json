@@ -9754,5 +9754,29 @@
       "example": "Quizzique is a [fucking NERD]!",
       "written_on": "2023-05-02T09:46:29.808Z"
     }
+  ],
+  "qdb": [
+    {
+      "defid": 15829164,
+      "definition": "you are so incrediblly bored that you [skipped] 11 [LETTERS] between [letters]",
+      "example": "[typed]\" qdb\" because thats how bored i [managed] [to be]",
+      "written_on": "2021-03-16T04:40:54.843Z"
+    }
+  ],
+  "qftt": [
+    {
+      "defid": 2197816,
+      "definition": "[Quoted] for [the truth].",
+      "example": "\"haha you got [owned]\"\r\n\r\n([quote])haha you got owned(/[quote])\r\nQFTT",
+      "written_on": "2007-01-16T00:00:00Z"
+    }
+  ],
+  "Quamf": [
+    {
+      "defid": 743686,
+      "definition": "Used to descibe [the feeling] of [satisfaction] after eating. Coined by [Richard] John Gowers (aka Bud).",
+      "example": "\"That [burger] [really] quamfed me\"",
+      "written_on": "2004-07-02T00:00:00Z"
+    }
   ]
 }
