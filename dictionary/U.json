@@ -17008,5 +17008,21 @@
       "example": "[Villager]: uh eh uh uh eh ehuh uhhh\r\n[Mincraft] [player]: no",
       "written_on": "2023-05-10T10:27:48.447Z"
     }
+  ],
+  "UCIMED": [
+    {
+      "defid": 5097111,
+      "definition": "Universidad de Ciencias Médicas (Medical Sciences University) is a private medical school in Costa Rica. It was originally founded in 1976 by surgeon and investigator Dr. Andrés Vesalio Guzmán Calleja. UCIMED and the University of Costa Rica (UCR) are the only two medical schools with national accreditation. The school has a 6-year program after which the student earns a license and doctorate in Medicine & Surgery, Costa Rica's equivalent of an M.D. Rotations in class A hospitals guarantees an excellent educational [opportunity]. Additionally, UCIMED is known to be the nation's medical school which ships more students to the exterior, particularly the [United States]. Recently UCIMED successfully signed an agreement with Kaplan, Inc. to prepare medical students for the USMLE and the Costa Rican state exam. The school also teaches Pharmacology, Nutrition and [Physical Therapy].",
+      "example": "Friend: Are [you going] [clubbing] tonight?\n\nStudent: I can't, [I don't] have money since I spent all of it on UCIMED tuition and I have to study for a next week.",
+      "written_on": "2010-07-15T00:00:00Z"
+    }
+  ],
+  "Urkann": [
+    {
+      "defid": 17340701,
+      "definition": "Wen [you lose] an [argument] and threaten to call [Interpol]",
+      "example": "Let me Urkann [Angelo]\r\n[I don't] need fuel [anymore]",
+      "written_on": "2022-07-02T14:57:51.683Z"
+    }
   ]
 }
