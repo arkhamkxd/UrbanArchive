@@ -10178,5 +10178,21 @@
       "example": "This [guys] qaia [so hard]",
       "written_on": "2020-10-25T12:28:09.319Z"
     }
+  ],
+  "quartet": [
+    {
+      "defid": 2906905,
+      "definition": "a [combination] of [four] [punches]",
+      "example": "[Rampage Jackson] hit in with a [devastating] quartet that ended [the fight].",
+      "written_on": "2008-03-06T00:00:00Z"
+    }
+  ],
+  "Quat": [
+    {
+      "defid": 7695075,
+      "definition": "(N)A [Vietnamese] [legendary king] of thief.\n\n(Adj)Used for friends that always borrow your stuff but never [give it] back to you\r\n(V) to steal, to borrow",
+      "example": "[Damn]! Why [are you] so quat?\r\nDon't quat my [stuff], man.",
+      "written_on": "2014-05-19T00:00:00Z"
+    }
   ]
 }
