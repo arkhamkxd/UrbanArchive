@@ -25638,5 +25638,21 @@
       "example": "[lets] [play] [a game] of youno",
       "written_on": "2012-07-27T00:00:00Z"
     }
+  ],
+  "yesterbirthday": [
+    {
+      "defid": 3074565,
+      "definition": "When your or [someone] else's [birthday] was [yesterday].",
+      "example": "Brian: I had a great [birthday] [yesterday].\r\nFred: [Happy Yesterbirthday] Brian!\r\nBrian: Yeh....thanks.",
+      "written_on": "2008-05-10T00:00:00Z"
+    }
+  ],
+  "yanoxy": [
+    {
+      "defid": 4749955,
+      "definition": "a playa that likes one girl and begs her to go out [with him] then breaks up with her just because he wants her [best friend] and his [best friend] is her ex",
+      "example": "[that dude] is a yanoxy",
+      "written_on": "2010-02-28T00:00:00Z"
+    }
   ]
 }
