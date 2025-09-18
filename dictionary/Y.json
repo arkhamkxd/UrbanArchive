@@ -1263,6 +1263,12 @@
       "definition": "[something] [you say] when you throw [something] really hard.",
       "example": "[Person]: Woah [i just] [yeeted] that ball",
       "written_on": "2019-11-15T00:00:00Z"
+    },
+    {
+      "defid": 15770835,
+      "definition": "When [your friends] have had [enough]\r\nYEET",
+      "example": "[corny] [but ok]\n\nyeet",
+      "written_on": "2021-02-24T07:24:36.091Z"
     }
   ],
   "Youtube": [
@@ -3721,6 +3727,12 @@
       "definition": "It is a way of saying hi and if your [called] [Addison] you [probably] say it a lot",
       "example": "[Yo what up]",
       "written_on": "2019-11-06T00:00:00Z"
+    },
+    {
+      "defid": 17972555,
+      "definition": "Hi",
+      "example": "Yo [wassup bro]",
+      "written_on": "2023-11-04T10:12:47.959Z"
     }
   ],
   "yaameen": [
@@ -23197,6 +23209,54 @@
       "definition": "[korean] [slang] term for [cigarettes]",
       "example": "[let] me [get] a yahrhee",
       "written_on": "2003-07-24T00:00:00Z"
+    }
+  ],
+  "Your aunt a croissant": [
+    {
+      "defid": 12814759,
+      "definition": "The [deflection] of 'Your [grandpap] a trap'",
+      "example": "Jim - [Your Grandpap a trap]\r\nMe - Your [Aunt] a [croissant]\r\nJim - O FUK",
+      "written_on": "2018-05-23T00:00:00Z"
+    }
+  ],
+  "yktf": [
+    {
+      "defid": 13862318,
+      "definition": "[You know] [the flow] (it can also be ydktf or you dont know [the flow])",
+      "example": "[New] [avengers] [movie] yktf",
+      "written_on": "2019-05-01T00:00:00Z"
+    }
+  ],
+  "Yipe": [
+    {
+      "defid": 4327718,
+      "definition": "A [derogatory term] for an [ankle-biting] ridiculously small dog that barks [constantly].",
+      "example": "If that [stupid] yipe doesn't [shut up], I am [going] to punt it over the neighbor's fence!",
+      "written_on": "2009-10-28T00:00:00Z"
+    }
+  ],
+  "Yogster": [
+    {
+      "defid": 2582070,
+      "definition": "To act in a [very cool] [manner], or to to be [very cool].",
+      "example": "He is always so yogster, he doesnt [care about] [anything]. OR  [Brad Pitt] is such a Yogster.",
+      "written_on": "2007-09-17T00:00:00Z"
+    }
+  ],
+  "Yadano": [
+    {
+      "defid": 5871000,
+      "definition": "An [amazing person]! [Beautiful] in [every single] way!!!! Funny, supersmart, friendly, but if you get her mad oh shit! =D Yadano is the best!!!!!!!",
+      "example": "Person \"[you're dumb] Yadano\"\r\nYadano \"[Oh hell no]. [Bitch please]!\"",
+      "written_on": "2011-11-27T00:00:00Z"
+    }
+  ],
+  "ye lol": [
+    {
+      "defid": 13094527,
+      "definition": "they don't [really] [care]",
+      "example": "\"ye [lol]\"",
+      "written_on": "2018-07-26T00:00:00Z"
     }
   ]
 }
