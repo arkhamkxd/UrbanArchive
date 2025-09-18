@@ -1313,6 +1313,12 @@
       "definition": "1- Collateral's spouse's ascendant\r\n2- Collateral's spouse's collateral\r\n3- Descendant's spouse's ascendant (except: child-in-law's parent = co-parent-in-law)\r\n4- Descendant's spouse's collateral\r\n5- Collateral's spouse's ascendant's spouse\r\n6- Collateral's spouse's collateral's spouse\r\n7- Descendant's spouse's ascendant's spouse (except: child-in-law's stepparent = [step-co-parent-in-law])\r\n8- Descendant's spouse's collateral's spouse\r\n9- Spouse's collateral's spouse's ascendant\r\n10- Spouse's collateral's spouse's collateral\r\n11- Spouse's descendant's spouse's ascendant (except: stepchild-in-law's parent = [step-co-parent-in-law])\r\n12- Spouse's descendant's spouse's collateral\r\n13- Spouse's collateral's spouse's ascendant's spouse\r\n14- Spouse's collateral's spouse's collateral's spouse\r\n15- Spouse's descendant's spouse's ascendant's spouse\r\n16- Spouse's descendant's spouse's collateral's spouse\r\n17- Relative's widowed (non [biological])'s new spouse\r\n18- Relative's widowed (non biological)'s new spouse's relative\r\n19- Relative's widowed (non biological)'s new spouse's relative's spouse\r\n20- Spouse's relative's widowed (non biological)'s new spouse\r\n21- Spouse's relative's widowed (non biological)'s new spouse's relative\r\n22- Spouse's relative's widowed (non biological)'s new spouse's relative's spouse\r\n23- Absence of any kinship (nor biological, nor by affinity, nor by [indefinite] classification, nor by adoption)",
       "example": "Unrelated.",
       "written_on": "2024-07-24T16:48:35.923Z"
+    },
+    {
+      "defid": 17826278,
+      "definition": "1- Collateral's spouse's ascendant\r\n2- Collateral's spouse's collateral\r\n3- Descendant's spouse's ascendant (except: child-in-law's parent = co-parent-in-law)\r\n4- Descendant's spouse's collateral\r\n5- Collateral's spouse's ascendant's spouse\r\n6- Collateral's spouse's collateral's spouse\r\n7- Descendant's spouse's ascendant's spouse (except: child-in-law's stepparent = [step-co-parent-in-law])\r\n8- Descendant's spouse's collateral's spouse\r\n9- Spouse's collateral's spouse's ascendant\r\n10- Spouse's collateral's spouse's collateral\r\n11- Spouse's descendant's spouse's ascendant (except: stepchild-in-law's parent = [step-co-parent-in-law])\r\n12- Spouse's descendant's spouse's collateral\r\n13- Spouse's collateral's spouse's ascendant's spouse\r\n14- Spouse's collateral's spouse's collateral's spouse\r\n15- Spouse's descendant's spouse's ascendant's spouse\r\n16- Spouse's descendant's spouse's collateral's spouse\r\n17- Relative's widowed (non [biological])'s new spouse\r\n18- Relative's widowed (non biological)'s new spouse's relative\r\n19- Relative's widowed (non biological)'s new spouse's relative's spouse\r\n20- Spouse's relative's widowed (non biological)'s new spouse\r\n21- Spouse's relative's widowed (non biological)'s new spouse's relative\r\n22- Spouse's relative's widowed (non biological)'s new spouse's relative's spouse\r\n23- Absence of any kinship (nor biological, nor by affinity, nor by [indefinite] classification, nor by adoption)",
+      "example": "Unrelated",
+      "written_on": "2023-06-15T17:32:05.472Z"
     }
   ],
   "USophant": [
@@ -18039,6 +18045,46 @@
       "definition": "A [sophisticated] person that employs the urban experience with impeccable taste worthy of [the highest] class. This person exudes style and culture and effortlessly demonstrates this ability through [quintessential] forms of expression. Although some may envy them, most are generally attracted to their presence as they have no time to harness jealously, envy, or misgivings towards others. Their outlook is positive and therefore they tend to garner respect and gain success.",
       "example": "No [example] needed. Others know who they are. The title of Urban [Sophisticate] is earned and given, never [claimed].",
       "written_on": "2009-04-22T00:00:00Z"
+    }
+  ],
+  "u r so ql": [
+    {
+      "defid": 225645,
+      "definition": "[you are] [so cool]",
+      "example": "you are so cool omg [give me] your [fucking] [autograph]",
+      "written_on": "2003-08-24T00:00:00Z"
+    }
+  ],
+  "ultrabating": [
+    {
+      "defid": 2892719,
+      "definition": "[The act] of [masturbating] in a more [extreme] manor.",
+      "example": "I [masturbated] so [vigorously] it became ultrabating",
+      "written_on": "2008-03-01T00:00:00Z"
+    }
+  ],
+  "uppaus": [
+    {
+      "defid": 153598,
+      "definition": "A [part] of the [United States]",
+      "example": "I'm [from New York], [you know] the uppaus.",
+      "written_on": "2003-06-12T00:00:00Z"
+    }
+  ],
+  "un-ts": [
+    {
+      "defid": 1287077,
+      "definition": "a [beatboxing] sound made by [dropping] the adams aplle and expelling [forward]",
+      "example": "[Party bOY]!! un-ts un-ts",
+      "written_on": "2005-06-03T00:00:00Z"
+    }
+  ],
+  "Ubiquiburb": [
+    {
+      "defid": 2140532,
+      "definition": "A suburb, which due to the presence of [multiple] global franchises and a certain type of land use planning (or [lack thereof]), is [indistinguishable] from other suburbs of similar socio-economic status. Related: Global Mall",
+      "example": "“That’s six [Starbucks] we’ve passed in [the last] two miles.  This ubiquiburb has me so confused I can’t tell if we’re in Scotsdale, Arizona or Palo Alto, [California].”",
+      "written_on": "2006-12-13T00:00:00Z"
     }
   ]
 }
