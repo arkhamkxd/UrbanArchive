@@ -20242,5 +20242,29 @@
       "example": "EG1: person \"A & B\" [conversation].\r\nA:\"We went to this show and it was cool, the bands were great.\"\n\nB:\"Who was playing?\"\r\nA:\"Some local bands\"\r\nB:\"When is the package supposed to arrive [in the mail]?\"\r\nA:\"that was a total unicorn moment\"\n\nEG2: Person \"A\" intended on mowing the yard. \"A\" starts mowing the yard then stops to water the flower garden and completely forgets to finish mowing the yard.\n\nEG3: Person \"A\" goes online to check bank account and logs into a [social network] site and forgets to check bank account.\n\nEG4: \"I don't have ADD, hey look a unicorn!\"",
       "written_on": "2011-06-30T00:00:00Z"
     }
+  ],
+  "unpubecent": [
+    {
+      "defid": 17443967,
+      "definition": "far away from [hitting] [puberty] or [just] haven't yet",
+      "example": "\"Bro [Josh] is unpubecent he acts [like] [a child].",
+      "written_on": "2022-09-06T10:45:14.582Z"
+    }
+  ],
+  "USFU": [
+    {
+      "defid": 4172011,
+      "definition": "[Umbrella] [Special Forces] [Unit]",
+      "example": ":O it's the USFU omg they have [submachine] guns and gas [masks] we so [toast]",
+      "written_on": "2009-08-12T00:00:00Z"
+    }
+  ],
+  "underlaid": [
+    {
+      "defid": 1265290,
+      "definition": "Having gone without [sexual relations] for an [unreasonable] amount of time; by extension, [the feeling] of being \"horny\".",
+      "example": "\"Dude, I am so underlaid, [I can't even] remember [what a penis]/vagina* [looks like]\".\r\n\r\n*pick one or both",
+      "written_on": "2005-05-19T00:00:00Z"
+    }
   ]
 }
