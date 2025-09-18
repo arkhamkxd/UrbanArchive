@@ -4100,5 +4100,13 @@
       "example": "[Person 1]: I need some advice. I'm really stressed.\r\n[Person 2]: Talk to Xandree. She is always there, [you know].",
       "written_on": "2019-04-29T00:00:00Z"
     }
+  ],
+  "xpander": [
+    {
+      "defid": 1091346,
+      "definition": "1) A [synthesizer] made by [Oberheim]\r\n2) One [the best] trance songs ever",
+      "example": "Did [you know that] Sasha's \"Xpander\" was named [after the] [Oberheim] xpander?",
+      "written_on": "2005-02-28T00:00:00Z"
+    }
   ]
 }
