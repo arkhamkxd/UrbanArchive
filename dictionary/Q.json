@@ -10804,5 +10804,13 @@
       "example": "“[Did you] [watch] your [daily dose] of quackityhq?”\r\n“No”",
       "written_on": "2021-03-27T22:29:55.266Z"
     }
+  ],
+  "Qwertyasdfghzxcvbn": [
+    {
+      "defid": 15801965,
+      "definition": "You [missed] a [whole] chunk of the [keyboard]",
+      "example": "Qwertyasdfghzxcvbn = [qwertyuiopasdfghjklzxcvbnm]",
+      "written_on": "2021-03-07T06:48:17.369Z"
+    }
   ]
 }
