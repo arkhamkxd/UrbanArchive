@@ -10122,5 +10122,29 @@
       "example": "[Join] me for qs!",
       "written_on": "2011-08-05T00:00:00Z"
     }
+  ],
+  "Quadmester": [
+    {
+      "defid": 15307017,
+      "definition": "You have 4 semesters [instead] of [every] [school year]",
+      "example": "This [year] you [will] have a quadmester",
+      "written_on": "2020-09-11T00:00:00Z"
+    }
+  ],
+  "quinti-elected": [
+    {
+      "defid": 17632131,
+      "definition": "When [someone] or [something] wins [the fifth] term.",
+      "example": "[That person] was quinti-elected (re-re-re-re-elected).",
+      "written_on": "2023-01-17T09:53:09.509Z"
+    }
+  ],
+  "quadskank": [
+    {
+      "defid": 3735788,
+      "definition": "An [attractive], college-aged woman tanning herself on the [quadrangle] of a predominantly male college campus, [oftentimes] wearing a bikini.",
+      "example": "Dude, did you see those two quadskanks on [the quad] today?  We should grab a [frisbee] and toss it around near them [after class].",
+      "written_on": "2009-02-19T00:00:00Z"
+    }
   ]
 }
