@@ -10386,5 +10386,13 @@
       "example": "[I’m] [working from home] during my quarentime.",
       "written_on": "2020-03-23T00:00:00Z"
     }
+  ],
+  "quover": [
+    {
+      "defid": 17443272,
+      "definition": "(verb) to change the [direction] of a [conversation] or deflect a [question] by quoting someone.",
+      "example": "Me: You can't copyright [obvious] [portmanteaus]!\r\nFriend: [Veni Vedi Vici]\r\nMe: Nah, you can't quover your way out of this one, buddy.",
+      "written_on": "2022-09-05T23:28:29.948Z"
+    }
   ]
 }
