@@ -11468,5 +11468,13 @@
       "example": "person 1: [I'm so bored] I typed [qwertyuiopasdfghjklzxcvbnm].\r\nperson 2: Oh really? I'm [super bored] I made qwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxzmnbvcxzlkjhgfdsapoiuytrewqasdfghjklqwertyuiopzxcvbnmlkjhgfdsapoiuytrewqmnbvcxzqazwsxedcrfvtgbyhnujmikolpplmoknijbuhvygctfxrdeszwaq.\r\nperson: I'm getting a therapist for you.",
       "written_on": "2021-01-26T16:33:49.255Z"
     }
+  ],
+  "quorumtine": [
+    {
+      "defid": 14850875,
+      "definition": "The minimum number of [quarantined], work-from-home [members] that must be logged into an online video [meeting] to make the proceedings valid.",
+      "example": "As [the Zoom] leader waited for the tenth member to sign in, unable to begin until the meeting had a quorumtine, she [wondered] whether they would ever see each other again in [the real world].",
+      "written_on": "2020-04-02T00:00:00Z"
+    }
   ]
 }
