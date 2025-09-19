@@ -16956,5 +16956,21 @@
       "example": "[damn] she’s [beautiful],she is zhula",
       "written_on": "2023-05-04T07:13:30.91Z"
     }
+  ],
+  "Zamari": [
+    {
+      "defid": 16383717,
+      "definition": "A way of [living]. Where you [express] yourself through [fashion]",
+      "example": "[Ima] go Zamari [today]",
+      "written_on": "2021-10-18T13:16:33.221Z"
+    }
+  ],
+  "Zlatan Ibrahimovic": [
+    {
+      "defid": 17035286,
+      "definition": "Zlatan Ibrahimovic is commonly considered the best youngster in the world right now. He's currently 17 years old and says he will win 5 [champions league] in a row with Ac Milan.\n\n\"[I have never] seen someone soo good for his age\"\n\n-Stefano Pioli ([The manager] of ac milan)",
+      "example": "Zlatan [Ibrahimovic] is the best [youngster] in [the world]",
+      "written_on": "2022-03-01T23:59:39.714Z"
+    }
   ]
 }
