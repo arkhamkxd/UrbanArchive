@@ -27250,5 +27250,29 @@
       "example": "person1: [gogeta] is [the best]\r\nvegito: turns [around]",
       "written_on": "2019-11-02T00:00:00Z"
     }
+  ],
+  "Vegeta": [
+    {
+      "defid": 17163791,
+      "definition": "Vegeta [the prince of all saiyans]",
+      "example": "I am [king vegeta] [the prince] of all @[saiyans]\n\nAlso Goku/ Kakarot's Friend",
+      "written_on": "2022-04-18T19:38:53.926Z"
+    }
+  ],
+  "VXR": [
+    {
+      "defid": 2561181,
+      "definition": "VXR is a brand released by vauxhall motors in an attempt to sell even more plastic clad cars with large spoilers and unnesseary vents to those who can't afford a proper [sports car].  \r\n\r\nVXR = Various Xtras Rehash, So you get an astra, add barryboy suspension, cut a few holes in the bumpers, paint the brakes and call it a [performance] car, when really its just a rehashed astra, which everyone knows was designed for shopping/familys, i think my nan was a big fan.\r\n\r\nSoon every car vauxhall make will become a VXR, strange how a corsa or an astra, even a vectra becomes a [performance] car and people forget what lies beneath once you add a badge.",
+      "example": "I cut [a hole] in my shed door and [painted] the [hinges] blue, now its a VXR shed",
+      "written_on": "2009-01-02T00:00:00Z"
+    }
+  ],
+  "veeb": [
+    {
+      "defid": 18459044,
+      "definition": "[someone] who is [obsessed] with vtubers, seems to only watch and post vtuber-related [content]",
+      "example": "dude only [draws] [vtubers], he's [such a] veeb",
+      "written_on": "2025-03-25T07:49:06.691Z"
+    }
   ]
 }
