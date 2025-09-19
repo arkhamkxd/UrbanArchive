@@ -11798,5 +11798,13 @@
       "example": "\"[I'll be home for quismois]\"",
       "written_on": "2022-12-24T20:35:57.231Z"
     }
+  ],
+  "QuickTime": [
+    {
+      "defid": 8009201,
+      "definition": "Awful media player by Apple which is usually installed by people only because they need it to run a .MOV file, Apple's shitty proprietary video format. Constantly freezes or lags out on older computers and laptops, and has the ugliest, most unintuitive GUI ever. Has features that require a paid PRO license which are free in other programs, such as video conversion. Has [absolutely] no support at all for [the Windows] version. It leaves behind various malware such as Apple [Application] Support and Apple Software Update when uninstalled.",
+      "example": "If you're planning to [install] QuickTime, you [might as well] use [Windows Media Player].",
+      "written_on": "2014-12-16T00:00:00Z"
+    }
   ]
 }
