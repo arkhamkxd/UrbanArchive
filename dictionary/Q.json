@@ -11782,5 +11782,13 @@
       "example": "a2-2b+3(78!-23xy)^44=Q17",
       "written_on": "2010-04-30T00:00:00Z"
     }
+  ],
+  "quadratic formula": [
+    {
+      "defid": 1267753,
+      "definition": "A handy formula easily memorized by [repetition]. It is used in many instances, such as trying to find the roots of an equation, or solving an equation that will not factor with integers.\r\n\r\nTo solve using the Quadratic Formula:\r\n\r\nIn any equation\r\n\r\nax^2+bx+c,\r\n\r\nThe roots can be found by substituting into:\r\n\r\n-b(+,-)sqrt(b^2-4ac)/2a\r\n\r\nOR\r\n\r\nNegative \"B\" plus or minus the [square root] of \"B\" squared minus 4(a)(c), all [divided by 2](a).",
+      "example": "To solve using the Quadratic Formula:\r\n\r\nIn any equation\r\n\r\nax^2+bx+c,\r\n\r\nThe roots can be found by substituting into:\r\n\r\n-b(+,-)sqrt(b^2-4ac)/2a\r\n\r\nOR\r\n\r\nNegative \"B\" plus or minus the [square root] of \"B\" squared minus 4(a)(c), all [divided by 2](a).\r\n\r\n\r\nEX:\r\n\r\nHm..\r\n\r\n10x^2+13X-5\r\n\r\n-13(+,-)sqrt(169+200)/20\r\n>_>\r\nIn other words, by substituting [the numbers] in, you get 13(+,-)sqrt(369)/20.\r\n\r\nAs you may or may not have guessed, this gives you a very nasty number, which should be approximated and rounded to the nearest thousandth.",
+      "written_on": "2005-05-21T00:00:00Z"
+    }
   ]
 }
