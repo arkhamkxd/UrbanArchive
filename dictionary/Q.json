@@ -11790,5 +11790,13 @@
       "example": "To solve using the Quadratic Formula:\r\n\r\nIn any equation\r\n\r\nax^2+bx+c,\r\n\r\nThe roots can be found by substituting into:\r\n\r\n-b(+,-)sqrt(b^2-4ac)/2a\r\n\r\nOR\r\n\r\nNegative \"B\" plus or minus the [square root] of \"B\" squared minus 4(a)(c), all [divided by 2](a).\r\n\r\n\r\nEX:\r\n\r\nHm..\r\n\r\n10x^2+13X-5\r\n\r\n-13(+,-)sqrt(169+200)/20\r\n>_>\r\nIn other words, by substituting [the numbers] in, you get 13(+,-)sqrt(369)/20.\r\n\r\nAs you may or may not have guessed, this gives you a very nasty number, which should be approximated and rounded to the nearest thousandth.",
       "written_on": "2005-05-21T00:00:00Z"
     }
+  ],
+  "Quismois": [
+    {
+      "defid": 17602901,
+      "definition": "When you try [something] new, but didn't [practice] [ahead of time].",
+      "example": "\"[I'll be home for quismois]\"",
+      "written_on": "2022-12-24T20:35:57.231Z"
+    }
   ]
 }
