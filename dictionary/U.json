@@ -20494,5 +20494,29 @@
       "example": "[okay] wow, [ryan reynolds is hot]! i’d [tap that] ryanussy",
       "written_on": "2022-07-29T16:16:54.473Z"
     }
+  ],
+  "Umit": [
+    {
+      "defid": 16406807,
+      "definition": "[an egg]",
+      "example": "\"Bro [I saw] Umit [today]\"\n\n\"What? [An egg]?\"",
+      "written_on": "2021-11-02T12:03:42.001Z"
+    }
+  ],
+  "UHF": [
+    {
+      "defid": 287032,
+      "definition": "Ultra [High Frequency]\r\n-radio transmissions from 300 to 3000 MHz\r\n\r\n-the old TV broadcast band, channels 14 to 69.\r\n\r\n-a [really good] album by Wierd Al Yankovic\r\n\r\n-any radio system operating in the 300 to 3000 MHz range\r\n\r\n-the military aircraft [communications] band",
+      "example": "\"[Roger] [Maverick], [switch] to UHF 365.45\"",
+      "written_on": "2003-10-12T00:00:00Z"
+    }
+  ],
+  "uhhh, no": [
+    {
+      "defid": 480756,
+      "definition": "A phrase used by oh-so-rebellious [teenagers] when they [can't be arsed] to come up with a more [creatively] sarcastic answer.",
+      "example": "\"[Did you] finish that [geometry] [homework]?\"\r\n\"Uhhh, no.\" *world-weary sigh*",
+      "written_on": "2004-01-30T00:00:00Z"
+    }
   ]
 }
