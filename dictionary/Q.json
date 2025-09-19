@@ -3835,6 +3835,12 @@
       "definition": "[Charli D'amelio]",
       "example": "[Charli D'amelio] is queen",
       "written_on": "2021-03-14T18:10:47.081Z"
+    },
+    {
+      "defid": 17543211,
+      "definition": "they are [cool]",
+      "example": "[good job] queen",
+      "written_on": "2022-11-13T18:18:34.568Z"
     }
   ],
   "Qusai": [
@@ -11155,6 +11161,14 @@
       "definition": "you are so bored that [you came] here and typed the whole key board with [uppercase] letters. That is [ultimate boredom].",
       "example": "QWERTYUIOPASDFGHJKLZXCVBNMQAZWSXEDCRFVTGBYHNUJMIKOLP",
       "written_on": "2022-05-06T06:16:32.075Z"
+    }
+  ],
+  "quidder": [
+    {
+      "defid": 6209109,
+      "definition": "[A person] who plays the [up and coming] sport known as Muggle [Quidditch].",
+      "example": "\"Hey [quidders], [I had] so much fun at [the world cup]!\"",
+      "written_on": "2011-11-15T00:00:00Z"
     }
   ]
 }
