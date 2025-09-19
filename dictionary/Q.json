@@ -11080,5 +11080,21 @@
       "example": "She is [standing up] there [Queenin]’ [the fight].",
       "written_on": "2018-10-17T00:00:00Z"
     }
+  ],
+  "Quote Pyramid": [
+    {
+      "defid": 3517454,
+      "definition": "A quote pyramid occurs when someone on a forum quotes someone else's post who has quoted [someone else] who quoted [someone else] etc. etc. .\r\n\r\nIf the forum does not have something that [automatically] caps the amount of quotes in one post, then this results a huge pile-up of quotes in a series of different posts. These, are Quote Pyramids.",
+      "example": "Dude 1:Oh man there was a post with over 1000 quotes in [the other day], [biggest] quote [pyramid] I've ever seen.\r\nDude 2: Orly?",
+      "written_on": "2008-12-16T00:00:00Z"
+    }
+  ],
+  "Quincess": [
+    {
+      "defid": 12585889,
+      "definition": "A Quiness is a submersion of the [two words] Queen & [Princess]. A [true lover], your queen and princess in one.",
+      "example": "[Man] [to woman] , “[you are] my Quincess.”",
+      "written_on": "2018-02-20T00:00:00Z"
+    }
   ]
 }
