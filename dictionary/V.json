@@ -30692,5 +30692,29 @@
       "example": "Friend: [I ship] victuuri.\r\nMe: [I don't] just ship victuuri, I [worship] victuuri.",
       "written_on": "2016-12-12T11:22:58.416Z"
     }
+  ],
+  "voidphobia": [
+    {
+      "defid": 14146243,
+      "definition": "The [irrational fear] of [the void] in [minecraft].",
+      "example": "[Hey], Did [you know that] [Tom] has voidphobia?",
+      "written_on": "2019-08-24T00:00:00Z"
+    }
+  ],
+  "Voat": [
+    {
+      "defid": 8117874,
+      "definition": "A [straight up] [copy] of [reddit]",
+      "example": "[Bill]: Voat's a [bit shit]\r\n[Sarah]: Yep",
+      "written_on": "2015-02-21T00:00:00Z"
+    }
+  ],
+  "vanillaphobia": [
+    {
+      "defid": 5164949,
+      "definition": "A [fear] of [white people]",
+      "example": "[Jesminder] couldn't go [to the] BBQ as there were a lot of [white folk] there and she suffers from vanillaphobia",
+      "written_on": "2010-08-18T00:00:00Z"
+    }
   ]
 }
