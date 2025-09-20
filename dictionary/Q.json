@@ -12742,5 +12742,13 @@
       "example": "[Bish] I'm quartrican",
       "written_on": "2018-03-14T00:00:00Z"
     }
+  ],
+  "qwertyuiasdfghjzxcvb": [
+    {
+      "defid": 16957385,
+      "definition": "You've [reached] the ultimte [boredom] level. You've earned the Boredom prize, you just typed every row except [the last] 2 words",
+      "example": "[qwertyuiopasdfghjklzxcvbnm] exists, [qwertyuioasdfghjklzxcvbn] too\n\n- Anorther guy: [How about] qwertyuiasdfghjzxcvb?",
+      "written_on": "2022-02-01T01:37:15.535Z"
+    }
   ]
 }
