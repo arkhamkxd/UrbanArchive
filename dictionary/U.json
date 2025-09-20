@@ -24954,5 +24954,21 @@
       "example": "[I like] [the United States of America], but I wouldn't [want to] live there.",
       "written_on": "2004-07-13T00:00:00Z"
     }
+  ],
+  "UNOed": [
+    {
+      "defid": 9184835,
+      "definition": "When a friend asks to [hang out] but already has plans. Then accuses you of not [hanging out] [with him]/her.",
+      "example": "[Damn] [looks like] Paul [just] got UNOed....",
+      "written_on": "2016-10-05T00:00:00Z"
+    }
+  ],
+  "unlaws": [
+    {
+      "defid": 10901962,
+      "definition": "[Former] [in-laws] after a [divorce].",
+      "example": "[After the] divorce, my unlaws still demanded to see their [grandchildren] [all the time].",
+      "written_on": "2017-01-16T00:00:00Z"
+    }
   ]
 }
