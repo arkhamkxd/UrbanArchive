@@ -13136,5 +13136,21 @@
       "example": "Teacher:Qai [did you] [do your work]?\r\nQai: ummm.... [I don't know].",
       "written_on": "2018-04-04T00:00:00Z"
     }
+  ],
+  "quadrille": [
+    {
+      "defid": 7438976,
+      "definition": "A [fancy] [version] of the [square dance]",
+      "example": "[Did you] see those suits and [snoots] doing the quadrille at the [yacht club]?",
+      "written_on": "2013-12-27T00:00:00Z"
+    }
+  ],
+  "Queenelle_": [
+    {
+      "defid": 17662790,
+      "definition": "Queenelle_ [likes] [xdarked]",
+      "example": "Queenelle_ [likes] [xdarked]",
+      "written_on": "2023-02-08T11:44:04.924Z"
+    }
   ]
 }
