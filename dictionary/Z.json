@@ -19490,5 +19490,21 @@
       "example": "[music] newb-what [album] sholud i buy?\r\nme-ziggy [stardust]",
       "written_on": "2005-10-14T00:00:00Z"
     }
+  ],
+  "zombie dome": [
+    {
+      "defid": 4378850,
+      "definition": "[The head] region of a zombie. This is [the zombie's] weakest point. [Without a head] the zombie cannot function.",
+      "example": "James: Yo I'm finnin to [knock off] some [zombie] dome!!\n\nKaren: Aim for [the head]!",
+      "written_on": "2010-09-20T00:00:00Z"
+    }
+  ],
+  "zark": [
+    {
+      "defid": 3352053,
+      "definition": "[According to] my friend, a zark is when he comes up behind you and pokes you on both sides [simultaneously].  But you guys have better [definitions].",
+      "example": "Zark!  Why [the hell] [did you] [zarking] do that?",
+      "written_on": "2008-11-02T00:00:00Z"
+    }
   ]
 }
