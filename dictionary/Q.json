@@ -13634,5 +13634,21 @@
       "example": "quitter is [one of] [the best] bands i have ever [heard]",
       "written_on": "2004-11-13T00:00:00Z"
     }
+  ],
+  "quumf": [
+    {
+      "defid": 15800402,
+      "definition": "[The art] of [sniffing] ladies' bicycle seats. Well-documented in Viz [Magazine]. See also, snudge.",
+      "example": "Quumfer: [Oo-er], I was, er, quumfing your seat [missus]...\r\nQuumfee: [Get out of my house].",
+      "written_on": "2021-03-06T15:40:01.933Z"
+    }
+  ],
+  "quindecillion": [
+    {
+      "defid": 15297330,
+      "definition": "The [number] that is 1000000000000000000000000000000000000000000000000000.",
+      "example": "10^48 is [one] quindecillion.",
+      "written_on": "2020-09-07T00:00:00Z"
+    }
   ]
 }
