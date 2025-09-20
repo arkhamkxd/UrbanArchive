@@ -13298,5 +13298,29 @@
       "example": "This [item] in [stock] is Quirable. [Nice]!",
       "written_on": "2019-10-09T00:00:00Z"
     }
+  ],
+  "Quando": [
+    {
+      "defid": 11636809,
+      "definition": "Quando è [sera]...",
+      "example": "quando",
+      "written_on": "2017-06-01T07:02:59.9Z"
+    }
+  ],
+  "Quota": [
+    {
+      "defid": 17490993,
+      "definition": "[another word] for a [Faggot] who [likes] it up the but",
+      "example": "[Did you] hear that Quota is here?\n\n[Oh nah] we [gotta] get outa here",
+      "written_on": "2022-10-10T10:03:56.36Z"
+    }
+  ],
+  "quality and excellence": [
+    {
+      "defid": 15727495,
+      "definition": "The two words used by the [administration] of any given American public school to describe its success. Often overused to the point where the words \"Quality\" and \"Excellence\" lose any and all meaning. Even if the school has had actual success in the past, the staff will always [fall back on] \"Quality and Excellence\" to describe the school as a whole, failing to use any other adjective. This is often seen in underfunded public schools in the Midwest, such as [Williamston High School].\n\nSee also: \"Robust\", \"Challenging\", and \"Long-standing\".",
+      "example": "\"As the principal, I will insure a quality and [excellence] education for the students.\"\n\n\"Our dedication to [educational] excellence has never been more resolute.\"\n\n\"We are an [incredible] building with a strong, rich tradition of excellence... and uh... we have a very strong teaching staff.\"",
+      "written_on": "2021-02-08T15:05:12.997Z"
+    }
   ]
 }
