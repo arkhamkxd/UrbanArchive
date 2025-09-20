@@ -13290,5 +13290,13 @@
       "example": "George: dude [your grandmother] is qwertiey\r\n\r\nDave: [I know] she gave it to me [last night]",
       "written_on": "2004-02-13T00:00:00Z"
     }
+  ],
+  "Quirable": [
+    {
+      "defid": 14257588,
+      "definition": "A [combination] of Require(or Acquire) + Probable. When you \"might\", \"maybe\", or will probably need [something] as a [requirement].",
+      "example": "This [item] in [stock] is Quirable. [Nice]!",
+      "written_on": "2019-10-09T00:00:00Z"
+    }
   ]
 }
