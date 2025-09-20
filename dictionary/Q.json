@@ -13388,5 +13388,21 @@
       "example": "Where’s qwerky?\n\n[Probably] [slaying] some [hoes].",
       "written_on": "2018-12-05T00:00:00Z"
     }
+  ],
+  "qazas": [
+    {
+      "defid": 5786142,
+      "definition": "[What's up]?",
+      "example": "Hey!\r\nHey!\r\nQazas?\r\n[Nothing] [much], [just chilling]",
+      "written_on": "2011-05-24T00:00:00Z"
+    }
+  ],
+  "Quirofilia": [
+    {
+      "defid": 12933144,
+      "definition": "A [sexual fetish] for [hands].",
+      "example": "I never knew [one of] my [fetishes] were quirofilia until i saw [how hot] his hands were.",
+      "written_on": "2018-06-07T00:00:00Z"
+    }
   ]
 }
