@@ -1415,6 +1415,12 @@
       "definition": "In the [programming language] Prolog, a cut (articulated by the [exclamation point]) removes all choicepoints created by the preceding statement. Use of the cut is [deprecated], or at least discouraged.\r\n\r\nA choicepoint is a fork-in-the-road to a Prolog program. Multiple branches of [possibilities] are saved at this point, with the intention of returning (or \"backtracking\") to a different path if the current one does not lead to success.\r\n\r\nToo many choicepoints, and the program may run out of stack. (ie. Not have enough memory available to store all previous opportunities for different paths.) A cut can prevent this, if used properly, by erasing choicepoints that are no longer relevant or necessary.\r\n\r\nFor those of you still with me, it's about 2am and I'm tripping on psilocybin mushrooms. So you're going to have to bear with me. Right now, I could use some exclamation points. I'm in serious need of a cut, as the several preceding paragraphs are no doubt proof of.\r\n\r\nThis nice little analogy probably isn't too clear to anyone outside my head, but to me, the brain normally behaves like a Prolog program with an abundance of exclamation points. Stray thoughts are \"cut\" out of existence before they can either clog one's brain, or exit via the mouth and manifest themselves as an act of stupidity. In an absence of cuts, however, thoughts may grow [out of control] and essentially clog one's head. This absence of cuts may be achieved though the use of drugs conventionally classed as \"hallucinogens\", whether intentional or not.\r\n\r\nThis absence can be advantageous in moderation, as it can allow thoughts that would normally be subconsciously expelled as absurd or even primitive to blossom into new ideas. But as previously stated, a cut is useful every now and then just to \"clear one's head\" if the thoughts become overpowering or focusing on any one idea becomes difficult.\r\n\r\nAnd I think this little essay is a good example of the absence of cuts, what they can lead to and why the cut is necessary in day-to-day life. So please, someone hand me an [exclamation point].",
       "example": "Me: \"I need some [explanation] points.\"\r\nTrip buddy 1: \"What?\"\r\nMe: \"I need some [explanation] points.\"\r\nTrip buddy 2: \"Are you Einstein?\"\r\n\r\nProlog code example:\r\n[factorial](N,M) :- N < 0, !, fail.\r\nfactorial(0,1).\r\nfactorial(N,M) :- X is N-1,\r\n\tfactorial(X,Y),\r\n\tM is N * Y.",
       "written_on": "2004-10-29T00:00:00Z"
+    },
+    {
+      "defid": 1157846,
+      "definition": "A sign of genuine surprise or shock. Lots of people use ! too much, [especially] 1337 h4xx0r2 and n00bs. Despite what many people say, ! should only ever be used once after a word, [repeated] !'s do not [increase] volume or impact of the word.",
+      "example": "1.\"Help! [My brain] has [fallen off]!\"\r\n\r\n2.I 4m t3h 1337 [h4xx0r] m42t3r, I r0XX0r, J00 4r3 t3h n00b.",
+      "written_on": "2005-04-01T00:00:00Z"
     }
   ],
   "'Saur": [
@@ -30671,6 +30677,78 @@
       "definition": "What you use to say nigga but [in a way] so it offends nobody [similar] to [Ni🅱️🅱️a]",
       "example": "[Hey] 🅱️ℹ️🅱️🅱️🅰️ how’s it [going]",
       "written_on": "2018-08-04T00:00:00Z"
+    }
+  ],
+  "8th September": [
+    {
+      "defid": 17823610,
+      "definition": "[Fittest] girl was born on this day. Her name is [Rebecca] and [i love her] so much",
+      "example": "I was [born] on [8th] [September], im so fit.",
+      "written_on": "2023-06-13T12:26:06.253Z"
+    }
+  ],
+  "179": [
+    {
+      "defid": 17883889,
+      "definition": "You bring [vibrant] colors to my world❤️❤️\r\nIt makes me twirl…\r\n[Not to mention], talk to birds:)\r\nThose [three words]…",
+      "example": "[I can’t] wait for you to hear!!!!\r\nMy [love you] never need to fear…\r\n[I love you forever and always] my dear!!!!\n\n179",
+      "written_on": "2023-08-09T20:17:21.276Z"
+    }
+  ],
+  "177013": [
+    {
+      "defid": 15710205,
+      "definition": "[Pls] [dont] [read] it",
+      "example": "177013",
+      "written_on": "2021-02-01T21:13:40.61Z"
+    }
+  ],
+  ".tired.cacti": [
+    {
+      "defid": 16952374,
+      "definition": "A [nice person] [who is] also a [fucking bitch]. Like ur a hoe <3",
+      "example": "Have you [followed] .[tired].cacti? They’re [a bitch]",
+      "written_on": "2022-01-29T22:42:50.236Z"
+    }
+  ],
+  "250ex": [
+    {
+      "defid": 2497325,
+      "definition": "a [entry level] sport quad (atv) made by honda. it has a 239cc [engine] and a 5 speed [transmission].",
+      "example": "[dude] i got a 250ex for [my birthday]     its [awsome]!",
+      "written_on": "2007-08-02T00:00:00Z"
+    }
+  ],
+  "$moke": [
+    {
+      "defid": 1197484,
+      "definition": "someone [usually] in the [caribbean], who is of good [quality], but they always packin some kind of heat with em 24/7.",
+      "example": "ehh [yo man], he a [regular] $Moke on [da block].",
+      "written_on": "2005-04-18T00:00:00Z"
+    }
+  ],
+  "[marblar]": [
+    {
+      "defid": 3383324,
+      "definition": "[Anything] and [everything] that you can think of. It is [the definition] of all things.",
+      "example": "\"Hello, Joe. The marblar [outside] looks [particularly] great today.\"\r\n\r\n\"Marblar, will you pass me [the salt]?\"",
+      "written_on": "2009-01-20T00:00:00Z"
+    }
+  ],
+  "(---)": [
+    {
+      "defid": 2030240,
+      "definition": "FAT - [derogatory term] used in some areas of [the internet], i.e. BEBO to describe a girl without [actually] saying the word\r\nFAT",
+      "example": "email send back:  Hey man I dun no u, besides your (---) and [not my type] so shove yer face on.\r\n\r\n[That chick] thinks she all hawt but she (---) eneway imma [emo fag] and cant ware her pants.",
+      "written_on": "2006-10-14T00:00:00Z"
+    }
+  ],
+  "5 head": [
+    {
+      "defid": 1162585,
+      "definition": "adj. i [forehead] that is unsually [large]/long. [therefore] is surepasses the regualr fore to a five",
+      "example": "Ex. [Chung] has a [huge] 5 [head]",
+      "written_on": "2005-04-03T00:00:00Z"
     }
   ]
 }
