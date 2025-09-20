@@ -3721,6 +3721,12 @@
       "definition": "[Slang] term for the drug [Ecstacy]. Also [called] e and XTC",
       "example": "Ey [man], u [want] some x?",
       "written_on": "2011-01-02T00:00:00Z"
+    },
+    {
+      "defid": 16865548,
+      "definition": "[the most] useless word in the whole [alphabet], and also [the most] rare one to appear in most words",
+      "example": "x",
+      "written_on": "2021-12-26T17:47:49.644Z"
     }
   ],
   "Xemboy": [
@@ -5087,6 +5093,30 @@
       "definition": "[awesome]",
       "example": "xysma",
       "written_on": "2021-06-01T14:56:03.234Z"
+    }
+  ],
+  "Xandrina": [
+    {
+      "defid": 16079097,
+      "definition": "Xandrina is said to be a [russian] [origin] and means \"[Defender] of man\"",
+      "example": "Xandrina is a [strong word] or name [just] like the [meaning]",
+      "written_on": "2021-06-08T05:00:05.591Z"
+    }
+  ],
+  "Xbox Controller": [
+    {
+      "defid": 17363316,
+      "definition": "[Xbox] [Controller]",
+      "example": "[Xbox] [Controller]",
+      "written_on": "2022-07-15T19:46:32.355Z"
+    }
+  ],
+  "xbone": [
+    {
+      "defid": 7103380,
+      "definition": "With Xbone an analyst can collect data from external and internal data sources and quickly load them in-memory and start analyzing.\n\nXbone was launched as an app from the Business [Intelligence] company TARGIT in fall 2012 and is based on NoETL, NoSQL, in-memory [technology] enabling user to perform [self-service] analytics through TARGIT Decision Suite",
+      "example": "I [used] Xbone to [analyze] my [data]",
+      "written_on": "2013-07-25T00:00:00Z"
     }
   ]
 }

@@ -31782,5 +31782,37 @@
       "example": "[Friend]: “so [how was your day]?”\r\nMe: “87b-“\r\n[Fiend]: “huh?”",
       "written_on": "2020-07-01T00:00:00Z"
     }
+  ],
+  "811": [
+    {
+      "defid": 14351013,
+      "definition": "[You tried] to dial 911 but [pressed] 8 [instead].",
+      "example": "Tommy: Sir [step back] [I will] call 911!\r\nTommy: [No not] 811!",
+      "written_on": "2019-10-28T00:00:00Z"
+    }
+  ],
+  "@575star": [
+    {
+      "defid": 18247277,
+      "definition": "your [favorite] [creator]",
+      "example": "@575star is a bad btc & a [money] [getter]\r\n[made] by someflynigga",
+      "written_on": "2024-06-14T06:56:06.419Z"
+    }
+  ],
+  "2020 Effect": [
+    {
+      "defid": 17950304,
+      "definition": "A [societal] wide misperception of time due to a shared [experience] of [isolation]",
+      "example": "“Dude why does 2017 feel so [close] still?”\r\n“That’s [the 2020 Effect] [for you].”",
+      "written_on": "2023-10-13T08:58:20.172Z"
+    }
+  ],
+  "8C": [
+    {
+      "defid": 15999951,
+      "definition": "Eighth-cousin.",
+      "example": "[I don't know] my 8C.",
+      "written_on": "2021-05-17T08:11:50.914Z"
+    }
   ]
 }
