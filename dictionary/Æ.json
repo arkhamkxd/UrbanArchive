@@ -52,5 +52,13 @@
       "example": "[i’m] like- Æ\r\n[yea] bro [me too]",
       "written_on": "2019-12-22T00:00:00Z"
     }
+  ],
+  "ÆUGH": [
+    {
+      "defid": 17057180,
+      "definition": "Æ[UGH]?!???!?!?!?!?!",
+      "example": "Person 1: *[inappropriate] [nonsense]\n\n[Person 2]: ÆUGH????!??!?!?!?!",
+      "written_on": "2022-03-09T12:47:18.764Z"
+    }
   ]
 }
