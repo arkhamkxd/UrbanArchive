@@ -29468,5 +29468,45 @@
       "example": "Friend 1. “[Did you know] von is [really] [talented]",
       "written_on": "2021-11-22T22:13:33.019Z"
     }
+  ],
+  "Voight-Kampff machine": [
+    {
+      "defid": 527477,
+      "definition": "A very advanced form of lie detector that measures contractions of the iris and the presence of invisible airborne particles emitted from the body. The VK is used primarily by [Blade Runners] to determine if a suspect is truly human by measuring the degree of his empathic response through carefully worded [questions] and statements.\r\nThese are the questions used during the test to distinguish a human from a replicant (presumably, a human would become flustered at the thought of killing an animal, and a replicant wouldn't):\r\n\r\nIt’s your birthday. Someone gives you a calfskin wallet. How do you react?\r\nYou’ve got a [little boy]. He shows you his butterfly collection plus the [killing jar]. What do you do?\r\nYou’re watching television. Suddenly you realize there’s a wasp crawling on your arm.\r\nYou’re in a desert walking along in the sand when all of the sudden you look down, and you see a tortoise, crawling toward you. You reach down, you flip the tortoise over on its back. The tortoise lays on its back, its belly baking in the hot sun, beating its legs trying to turn itself over, but it can’t, not without your help. But you’re not helping. Why is that?\r\nDescribe in single words, only the [good things] that come into your mind. About your mother.\r\n\r\nSee: Turing Test, Replicant.",
+      "example": "\"The Voight-Kampff [test] [proved] conclusively that he was a [replicant].\"",
+      "written_on": "2004-02-25T00:00:00Z"
+    }
+  ],
+  "Vaccine": [
+    {
+      "defid": 15859932,
+      "definition": "[The only] [way to] [get back] to normal, yet people fear it for some weird reason.",
+      "example": "Get [the Vaccine] when it's [available] to you, so we can get be [together] again!",
+      "written_on": "2021-03-26T08:01:29.322Z"
+    }
+  ],
+  "Vendi": [
+    {
+      "defid": 14884636,
+      "definition": "Vendi is slang for \"[I'm good]\" its used [in parties] when a [hammered] person is lying",
+      "example": "\"Don't [worry] [about me] I'm Vendi\"",
+      "written_on": "2020-04-13T00:00:00Z"
+    }
+  ],
+  "Vaishniggy": [
+    {
+      "defid": 18497776,
+      "definition": "An absolute fattie who freezes their food and lives off of cake box and galaxy [chocolate]. Her physical [appearance] can be described as looking [like a fish].",
+      "example": "Sanay: Vaishniggy Vaishniggy [hiiiiii]\r\n[Vaishnavi]: [Hiiiiii] *waves*\r\nSanay and Minuka: GET OUT!!!!!!!! What a beg.",
+      "written_on": "2025-06-02T16:11:50.349Z"
+    }
+  ],
+  "vegemarian": [
+    {
+      "defid": 3362011,
+      "definition": "1. one who believes in or practices [the theory] of a vegemarian diet.\r\n2. a [vegetarian] diet that includes [seafood]",
+      "example": "[John] is a vegemarian.",
+      "written_on": "2009-01-13T00:00:00Z"
+    }
   ]
 }
