@@ -15080,5 +15080,21 @@
       "example": "[person 1]:bored\r\nperson2:i typed [qwertyuiopasdfghjklzxcvbnm]\r\nperson1:well i just did qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm\r\nperson2:well i typed [qwertyuiopasdfghjklzxcvbnm],qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm....",
       "written_on": "2017-03-22T00:00:00Z"
     }
+  ],
+  "Quwup": [
+    {
+      "defid": 5980552,
+      "definition": "To [instantly] win; the [opposite] of an [epic fail].\n\nVariations:Quwupasaurus, a winning dinosaur",
+      "example": "I totally just quwuped at scrabble by spelling quwup!\n\n[Scientists] just un-earthed [the bones] of the ledgendary [dinosaur] the Quwupasaurus!",
+      "written_on": "2011-07-28T00:00:00Z"
+    }
+  ],
+  "Quidsnarfer": [
+    {
+      "defid": 5743895,
+      "definition": "One who [requests] or enjoys [receiving] a [snarfing] (i.e. when another person sneezes in their rectum).",
+      "example": "\"[Geoffry] is a real Quidsnarfer\".\r\n\"Yeah, like five people [sneezed] in his [butthole] today\".",
+      "written_on": "2011-05-02T00:00:00Z"
+    }
   ]
 }
