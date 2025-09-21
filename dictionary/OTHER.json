@@ -33914,5 +33914,45 @@
       "example": "[Anders Behring Breivik] was [the man] [behind] 22/7.",
       "written_on": "2021-09-28T02:09:33.869Z"
     }
+  ],
+  "8th Wall": [
+    {
+      "defid": 10195726,
+      "definition": "The [philosophical] wall between the [physical] world and [digital] world.",
+      "example": "In [augmented reality], computer characters [interact] with [the world], breaking the 8th Wall.",
+      "written_on": "2016-09-06T00:00:00Z"
+    }
+  ],
+  "50 cent abs": [
+    {
+      "defid": 8856930,
+      "definition": "When instead of having a [six pack] or [eight pack] of abs, only four (or 50%) of them show due to a [beer gut] or potbelly on the lower half of your stomach. 50 cent pulls this off in many photos.",
+      "example": "\"Do u gotta [six pack]?\"\n\n\" Naw, I got [50 cent] abs . [I love] my food.\"",
+      "written_on": "2016-03-10T00:00:00Z"
+    }
+  ],
+  "24fuck squad": [
+    {
+      "defid": 8106439,
+      "definition": "A group of [friends] who [revolve] around another group of [friends]. A 24fuck squad have no life's and only care for other squads",
+      "example": "[Jennifer]: [oh snap] here comes the 24fuck squad. We better leave before they start asking us what we had for dinner [last night].\r\nJessica:yeah, it's like they only ever care about us",
+      "written_on": "2015-02-15T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Ludwig Has Burnt Film Strip Called Compact Discs<.7.9.7.6.>": [
+    {
+      "defid": 18480169,
+      "definition": "<.7.9.7.6.>[Ludwig] Has Burnt [Film Strip] Called [Compact Discs]<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>[Ludwig] Has Burnt [Film Strip] Called [Compact Discs]<.7.9.7.6.>",
+      "written_on": "2025-05-01T16:57:23.007Z"
+    }
+  ],
+  "<Subject name here>": [
+    {
+      "defid": 5171850,
+      "definition": "A [resident] of <[Subject] [hometown] here>.",
+      "example": "You, <[Subject] name here>, [must be] the pride of <Subject [hometown] here>",
+      "written_on": "2010-08-21T00:00:00Z"
+    }
   ]
 }
