@@ -21712,5 +21712,29 @@
       "example": "That zikumi [over there] must [love] his [dogs]",
       "written_on": "2022-02-26T20:42:32.158Z"
     }
+  ],
+  "zsh": [
+    {
+      "defid": 15311860,
+      "definition": "The Z shell is a feature-rich UNIX-like shell. It is usually seen as a [continuation] of [the original] sh, while improving on many features on other shells.\n\nThose include advanced ksh-style globbing, cyclic [completion], and lots more. It is released under a BSD-style license.\n\n(switch from bash, you will not regret it. It is also useful to have oh my zsh.)",
+      "example": "[Oh my god]. I just [switched] to zsh and it's [amazing]!",
+      "written_on": "2020-09-13T09:44:17.064Z"
+    }
+  ],
+  "zovantay": [
+    {
+      "defid": 18001715,
+      "definition": "dat [nigga love] weed, he a [gossip girl] he cool and he nice. He got a good heart but he don’t really [give a fuck].",
+      "example": "rando: why [dis nigga] [always] high\r\n[friend]: cuz zovantay a fiend",
+      "written_on": "2023-11-20T17:15:59.744Z"
+    }
+  ],
+  "ZOOBIE": [
+    {
+      "defid": 1404467,
+      "definition": "AN [UNIDENTIFIABLE] RODENT-LIKE CREATURE THAT RESEMBLES A NEUTRA AND A GROUNDHOG\r\n\r\n[PRONOUNCED] LIKE (WOOKIE - FROM [STAR WARS])",
+      "example": "YOU CAN CALL [SOMEONE] THAT AND [REALLY] \r\nBAFFLE THEM - [YOU'RE A] ZOOBIE!!",
+      "written_on": "2005-09-02T00:00:00Z"
+    }
   ]
 }
