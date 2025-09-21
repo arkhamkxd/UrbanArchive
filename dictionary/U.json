@@ -26708,5 +26708,29 @@
       "example": "[Sometimes] [I wish] I could unsubscribe from this [world].",
       "written_on": "2021-09-21T10:27:48.378Z"
     }
+  ],
+  "United states of American": [
+    {
+      "defid": 2497217,
+      "definition": "What you call [people] from the US, as to not [confuse] them with other [americans].",
+      "example": "Surely, only a [United States] of [American] could [believe that] America is a country.",
+      "written_on": "2007-08-02T00:00:00Z"
+    }
+  ],
+  "Unknown Announcer": [
+    {
+      "defid": 17437678,
+      "definition": "Some [Announcer] in a [video game], [commercial] and other,who is never known.",
+      "example": "Unknown Announcer in a [McDonald's Commercial]: Here comes [Ronald McDonald]!\r\n[Ronald McDonald]: it's a good-\r\nGuy 1: (closes the tv) Who is that announcer?\r\nGuy 2: i dont know, I guess he's an unknown announcer.",
+      "written_on": "2022-09-02T12:10:26.144Z"
+    }
+  ],
+  "ultimating": [
+    {
+      "defid": 2652924,
+      "definition": "the act of [playing] the [incredible] sport of [ultimate frisbee]",
+      "example": "[what are you doing] this [weekend]?\r\n\r\noh [just a little bit] of ultimating\r\n\r\nnice.",
+      "written_on": "2007-11-12T00:00:00Z"
+    }
   ]
 }
