@@ -21068,5 +21068,45 @@
       "example": "[zoeigh] [lavender] is my [best friend].",
       "written_on": "2020-10-08T10:55:26.024Z"
     }
+  ],
+  "Zelda": [
+    {
+      "defid": 14430139,
+      "definition": "[The Boy] in [the Legend of Zelda], you play as him in the games. Link is [the girl].",
+      "example": "Zelda is [the boy]",
+      "written_on": "2019-11-13T00:00:00Z"
+    }
+  ],
+  "Zabaz": [
+    {
+      "defid": 17782579,
+      "definition": "Funny [little] bee from [Magic the Gathering]. He can pay 1 Red Mana and [sacrifice] himself.",
+      "example": "[Holy shit]! Is that Zabaz at the cEDH [table]?",
+      "written_on": "2023-05-09T21:54:53.849Z"
+    }
+  ],
+  "zoi": [
+    {
+      "defid": 549614,
+      "definition": "Yes, In [agreement] with, [greeting] or nod to sudden [presence].",
+      "example": "Homeycan you [believe that] fugly hag sat [on your face] when you were shitfaced?\r\n\r\n\"Zoi, it was a buzzkill but I did [bust a nut] and yarred her but good.\"",
+      "written_on": "2004-03-09T00:00:00Z"
+    }
+  ],
+  "zynry": [
+    {
+      "defid": 13300778,
+      "definition": "Zynrys are always loving, caring and helpful. They give great advice and are [athletic]. They might seem like [the type] of boys that date a lot and cheat..But they are [the most] loyal you can find.",
+      "example": "[I want] a “Zynry”",
+      "written_on": "2018-10-25T00:00:00Z"
+    }
+  ],
+  "zabokrecina": [
+    {
+      "defid": 14979920,
+      "definition": "[zabo]+krecina :)",
+      "example": "[boy]; how is [life]\r\n[girl]: zabokrecina",
+      "written_on": "2020-05-11T00:00:00Z"
+    }
   ]
 }
