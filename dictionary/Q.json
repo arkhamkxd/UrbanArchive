@@ -13866,5 +13866,29 @@
       "example": "quaficers [may I] [help] you?\r\nWhat? \r\nQuaficers\r\n[What the fuck]!\r\nWhat Quaficers?",
       "written_on": "2009-01-25T00:00:00Z"
     }
+  ],
+  "qweasdzxcpoilkjmnbrtyufghv": [
+    {
+      "defid": 13275786,
+      "definition": "When you are so bored when you are [supposed to] be doing [something productive] that you typed a random [combination] of letters to come up with this.",
+      "example": "[Person 1]: Hey how bored are you?\r\n[Person 2]: So bored that I [typed up] qweasdzxcpoilkjmnbrtyufghv",
+      "written_on": "2018-10-16T00:00:00Z"
+    }
+  ],
+  "Quinnipiac University": [
+    {
+      "defid": 3113678,
+      "definition": "[Quinnipiac] [University] can simply be described as a place where northfaces and uggs are the unoffical [uniform].",
+      "example": "Quinnipiac [University student] 1: Hey, isn't this week [diversity week]?\r\nQU student 2: Yeah, it is! Look at all the [different] color uggs!",
+      "written_on": "2008-05-25T00:00:00Z"
+    }
+  ],
+  "QWERT": [
+    {
+      "defid": 4366601,
+      "definition": "[a person] who is [obsessed] with typing on a phone with a [QWERTY keyboard].",
+      "example": "Jim:\"Ok bye Gina! I'll [text you] [when you] get home!\"\n\nGina:\"[Why not] just call me you fuckin QWERT!\"",
+      "written_on": "2009-11-14T00:00:00Z"
+    }
   ]
 }
