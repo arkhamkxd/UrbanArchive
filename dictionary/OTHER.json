@@ -34200,5 +34200,29 @@
       "example": "[Person A]: [This is] why none likes you\r\n[Person B]: *️⃣",
       "written_on": "2020-11-17T05:46:38.625Z"
     }
+  ],
+  "+ULTRAKILLED": [
+    {
+      "defid": 18209667,
+      "definition": "[someone] that got [killed] [in style]",
+      "example": "[guy 1]: bro [got]\r\n+ULTRAKILLED\r\n[guy 2]: 💀💀💀💀💀",
+      "written_on": "2024-05-02T01:48:29.912Z"
+    }
+  ],
+  "301": [
+    {
+      "defid": 17819611,
+      "definition": "301 is a set of Dons frm Mtl, who started as a biker gang in [Pakistan]. [Brotherhood] and [loyalty] are in the veins.",
+      "example": "Guy1: Ayo [Shordy] [looking] solid she 301\r\nGuy2: Done know\n\nPOV: How the 301 goonz [run up on] me.. Liam",
+      "written_on": "2023-06-09T21:08:15.418Z"
+    }
+  ],
+  "069 squid game": [
+    {
+      "defid": 16383772,
+      "definition": "069 is a [character] from [squid game]. He has a [wife that] is 070. He hang himself after his wifes death.",
+      "example": "069 [squid game] is [sus]",
+      "written_on": "2021-10-18T13:42:19.028Z"
+    }
   ]
 }
