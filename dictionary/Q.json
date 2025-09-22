@@ -15858,5 +15858,29 @@
       "example": "[michael jackson] is a quadroon.",
       "written_on": "2008-02-17T00:00:00Z"
     }
+  ],
+  "quim face": [
+    {
+      "defid": 3744915,
+      "definition": "[somebody] who has a quim for [a face] or has [a face] that looks likea quim.",
+      "example": "sam [field].\r\n[oh my god], she has a [right] quim face",
+      "written_on": "2009-02-23T00:00:00Z"
+    }
+  ],
+  "Queen of Pop": [
+    {
+      "defid": 16376489,
+      "definition": "[Britney Spears]",
+      "example": "[Britney Spears] is [the queen] of [pop].",
+      "written_on": "2021-10-15T08:00:32.705Z"
+    }
+  ],
+  "qweeb": [
+    {
+      "defid": 553549,
+      "definition": "[someone] [who is] a [dork].",
+      "example": "why [are you] [such a] qweeb?",
+      "written_on": "2004-03-11T00:00:00Z"
+    }
   ]
 }
