@@ -50576,5 +50576,21 @@
       "example": "on [kaf] u [wildin]\n\ndas on kafnem [grave]",
       "written_on": "2023-02-09T17:01:44.202Z"
     }
+  ],
+  "ooopsie": [
+    {
+      "defid": 10348305,
+      "definition": "when it [slip] in the [wrong hole]",
+      "example": "[Kevin] : ooopsie\r\nLisa: [Keep going]. [I like it].",
+      "written_on": "2016-10-12T00:00:00Z"
+    }
+  ],
+  "Overperforming Slightly": [
+    {
+      "defid": 13969759,
+      "definition": "When a game [developer], who quite [obviously] does not play their own game or has it tested by 'normal players', implements a feature, quest, or [mechanic] that is so broken and/or buggy that it is unplayable.",
+      "example": "The average [player's] HP is 2600, and this level's [boss can] do damage of up to 20,000 per hit. It is overperforming [slightly].",
+      "written_on": "2019-06-06T00:00:00Z"
+    }
   ]
 }
