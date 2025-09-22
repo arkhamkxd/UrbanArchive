@@ -9723,6 +9723,12 @@
       "definition": "A [student] in [grade 8].",
       "example": "[Eh! Steve]: What grade [are you] in?\r\nJoe: 8th\r\nEh! Steve: Oh, so you're an 8th [grader]",
       "written_on": "2005-05-15T00:00:00Z"
+    },
+    {
+      "defid": 1254657,
+      "definition": "a [stupid kid] like myself who thinks they are all cool for one year, because they are the oldest kids in the school, but then when they go to [high school], they will be [complete] dorks, and wont be invited to any parties, and wont how cool they thought they were in the 8th grade.",
+      "example": "I'm an [8th] [grader], [thats] why!",
+      "written_on": "2005-05-15T00:00:00Z"
     }
   ],
   "8-Inch-High Club": [
@@ -39791,6 +39797,30 @@
       "definition": "[The common] \"rap\"isized [version] of the slang term for [fecal matter]",
       "example": "[eat] $[hit]",
       "written_on": "2004-01-27T00:00:00Z"
+    }
+  ],
+  "`1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./~!@#$%^&*()_+{}|:\"<>?": [
+    {
+      "defid": 15319343,
+      "definition": "Every unique symbol on a [keyboard] starting [from the top] right corner then going to the [bottom left] corner, then doing the same while holding shift.",
+      "example": "\"hey man [guess what].\"\n\n\"What?\"\r\n\"`1234567890-=[qwertyuiop]\\[asdfghjkl];'zxcvbnm,./~!@#$%^&*()_+{}|:\"<>?\"\n\n\"Wow that's so cool!\"",
+      "written_on": "2020-09-16T12:36:20.56Z"
+    }
+  ],
+  "🕳": [
+    {
+      "defid": 16814199,
+      "definition": "To describe [something] as \"[holy]\"",
+      "example": "([I don't know what to write] with this [unusable] of [an emoji])🕳",
+      "written_on": "2021-12-05T15:56:41.948Z"
+    }
+  ],
+  "🪔": [
+    {
+      "defid": 16237471,
+      "definition": "an [old school] [bathtub] that is [on fire]",
+      "example": "\"Guesseth what [I just] [bought]?\"\n\n\"What mate?\"\n\n\"An elder fire tub🪔! Was about 300 [euros]!\"",
+      "written_on": "2021-08-09T14:48:58.406Z"
     }
   ]
 }
