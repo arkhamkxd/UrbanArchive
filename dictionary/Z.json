@@ -23100,5 +23100,21 @@
       "example": "[Person 1]: [you seen] that dumbass?\r\n[Person 2]: You mean Zygis",
       "written_on": "2024-04-28T11:34:00.894Z"
     }
+  ],
+  "Zsigány": [
+    {
+      "defid": 18511219,
+      "definition": "Zsigány is a [Hungarian] slang\n\nA playful or mocking slang term in Hungarian. Refers to a person who acts silly, messes around, and takes [other people's] stuff as a joke — not in a malicious way, but as part of [fooling around].",
+      "example": "„Ne legyél már zsigány, add vissza a tollamat!”\r\n[Translation]: “Don’t be a zsigány, give me back my pen!”\n\n⚠️ Note: Although the word is a blend of \"zsidó\" (Jew) and \"cigány\" (Gypsy), it is used in a joking or teasing context among some speakers. It can still be [considered] [offensive], so it should be used with caution.",
+      "written_on": "2025-07-02T07:17:29.786Z"
+    }
+  ],
+  "zit": [
+    {
+      "defid": 15661301,
+      "definition": "Zit is [the answer] to [the question]. [Sup]?",
+      "example": "[sup]?\r\nZit!",
+      "written_on": "2021-01-14T18:14:15.341Z"
+    }
   ]
 }
