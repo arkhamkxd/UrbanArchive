@@ -15926,5 +15926,21 @@
       "example": "\"Yo bro, I need some [Quench]\"\n\n\"Go and ask [Quench] Queen bro, she'll [definitely] give you some",
       "written_on": "2024-05-19T06:50:30.565Z"
     }
+  ],
+  "quassable": [
+    {
+      "defid": 14563502,
+      "definition": "meaning [popularity]. slang for “[popularity] is [overrated]”",
+      "example": "being quassable is [overrated]",
+      "written_on": "2019-12-20T00:00:00Z"
+    }
+  ],
+  "qwertyui": [
+    {
+      "defid": 14935985,
+      "definition": "why [didnt] you [finish] [qwertyuiop]",
+      "example": "[guy 1]: qwertyui\r\n[guy 2]: why didnt you [finish it]",
+      "written_on": "2020-04-26T00:00:00Z"
+    }
   ]
 }
