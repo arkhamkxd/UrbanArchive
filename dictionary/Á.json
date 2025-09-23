@@ -68,5 +68,13 @@
       "example": "[I own] a á (sheep).\r\nIm á(on) [a boat].\r\nÁ (do) i own [a boat]?\r\nI am going to Á.",
       "written_on": "2018-06-06T00:00:00Z"
     }
+  ],
+  "ángel": [
+    {
+      "defid": 17984033,
+      "definition": "[A name]",
+      "example": "[My name is] Á[ngel]",
+      "written_on": "2023-11-16T17:22:06.826Z"
+    }
   ]
 }
