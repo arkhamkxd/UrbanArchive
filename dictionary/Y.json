@@ -41876,5 +41876,29 @@
       "example": "Abas: [I can't] reach the [top shelf]!!\n\n[Leakim]: Ask Yojeved.",
       "written_on": "2021-11-08T22:07:38.989Z"
     }
+  ],
+  "You Belong With Me (Taylor's Version)": [
+    {
+      "defid": 17707484,
+      "definition": "A re-recorded version of Taylor Swift's \"You [Belong With] Me\".\r\nThis version can be found on [Fearless] ([Taylor's Version]).",
+      "example": "I [personally] prefer You Belong With Me to You Belong With Me ([Taylor's Version]); however, I only listen to the ([Taylor's Version]) because I know it benefits Taylor after her music was stolen by Big Machine Records.",
+      "written_on": "2023-03-11T15:40:39.156Z"
+    }
+  ],
+  "you're a doll": [
+    {
+      "defid": 328260,
+      "definition": "Your [a sweet] and [nice person].",
+      "example": "[Thanks] for [helping], [you're a] doll.",
+      "written_on": "2003-11-02T00:00:00Z"
+    }
+  ],
+  "your life": [
+    {
+      "defid": 17676984,
+      "definition": "is [boring]",
+      "example": "“Your [life] is [boring] babe!”\r\n“[Real]”",
+      "written_on": "2023-02-19T01:50:58.282Z"
+    }
   ]
 }
