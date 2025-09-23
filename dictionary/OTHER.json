@@ -42932,5 +42932,45 @@
       "example": "JPerm: The 6x6 should NOT be [possible]",
       "written_on": "2022-03-30T09:27:34.676Z"
     }
+  ],
+  "4wd": [
+    {
+      "defid": 682296,
+      "definition": "4-Wheel Drive - a [vehicle] that uses all 4 [wheels] ... [instead] of just 2",
+      "example": "Tommy's 4wd [went] [anywhere]@",
+      "written_on": "2004-05-22T00:00:00Z"
+    }
+  ],
+  "#rm": [
+    {
+      "defid": 17936436,
+      "definition": "Real Moment. For describing those [moments] [in life] that [just so] happen to be true and/or real.",
+      "example": "Becky: “I am going to [fucking kill] myself!”\r\n[Scarlett]: “Like Omori?”\r\n[Oliver]: “#rm”",
+      "written_on": "2023-10-01T06:17:36.554Z"
+    }
+  ],
+  "\"L\"gbt": [
+    {
+      "defid": 17759586,
+      "definition": "A comical way of saying [the worst] [community] of all time (Aka the MAP [community])",
+      "example": "Libtard npc: iF [yOu'Re NoT] gAy, ThEn [DoN't TaLk To Me]!!!\n\nChad Wojak: stfu [nobody gives a shit] about the \"L\"gbt +p",
+      "written_on": "2023-04-20T17:26:03.366Z"
+    }
+  ],
+  "-S-W-B-G-": [
+    {
+      "defid": 18509601,
+      "definition": "-S-W-B-G- Is [Abbreviation] For South West [Bloody] [Goons], Stylified - \"SXVTH WXST BLXXDY GXXNS\" - SWBG Reps 2165.",
+      "example": "*300-S-W-B-G-LEGIONS 420BLAZEMTRENCHEZ*",
+      "written_on": "2025-06-28T03:35:04.536Z"
+    }
+  ],
+  "47839120": [
+    {
+      "defid": 17380518,
+      "definition": "Well, I think it [just so] happens that we typed [the same] random assortment of numbers. I guess we are that bored [after all].",
+      "example": "\"Man [I'm bored], I'm gonna type 47839120 in [urbandictionary] to see if there are any [results].",
+      "written_on": "2022-07-25T23:34:58.329Z"
+    }
   ]
 }
