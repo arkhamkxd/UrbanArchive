@@ -2883,6 +2883,12 @@
       "definition": "\"qwertyuiop\" First line of [keyboard]!!\r\n\"qwertyuiop\" If your friend had [changed] your [password], it will polly be that...",
       "example": "Hehe [Podge]...I [changed] his [password] to \"qwertyuiop\"",
       "written_on": "2004-10-28T00:00:00Z"
+    },
+    {
+      "defid": 17489319,
+      "definition": "The top [letters] and 2nd row (excluding [the function] keys) of the [QWERTY keyboard].\r\nYou're just bored, aren't you?",
+      "example": "X: Hey, dude, what're [the top] [letters] on your [keyboard]?\r\nY: qwertyuiop",
+      "written_on": "2022-10-09T04:04:12.787Z"
     }
   ],
   "Queen Essential": [
@@ -16955,6 +16961,22 @@
       "definition": "A [grouping] of [follicles] that primary spawn from the scalps of mammals. In its most [natural] form it comes in shades of red, blond, brown, and black.",
       "example": "Your quintence [looks] [mighty fine] today, did [you get it] cut",
       "written_on": "2008-03-28T00:00:00Z"
+    }
+  ],
+  "quim": [
+    {
+      "defid": 1843921,
+      "definition": "that [sweet] [warm spot] only [women] have",
+      "example": "[I love her] [shaved], [quivering], quim",
+      "written_on": "2008-09-05T00:00:00Z"
+    }
+  ],
+  "quantoxhead": [
+    {
+      "defid": 17819928,
+      "definition": "Idk what it means... it came up on [autocorrect] on my phone for some reason and I [decided] to look here but no one knows what it means either. Did my phone [make up] a word?",
+      "example": "I quantoxhead ([according to] my phone's [autocorrect])",
+      "written_on": "2023-06-10T07:09:40.311Z"
     }
   ]
 }
