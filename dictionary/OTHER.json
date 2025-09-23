@@ -10037,6 +10037,12 @@
       "definition": "[Not real]",
       "example": "3 is [the magic] [number]",
       "written_on": "2024-01-08T13:37:07.913Z"
+    },
+    {
+      "defid": 874490,
+      "definition": "A [number] that [some people] use a [backwards] E",
+      "example": "[The game] driv3r would be a [good] [example] of this",
+      "written_on": "2004-10-26T00:00:00Z"
     }
   ],
   "48207": [
@@ -40229,6 +40235,22 @@
       "definition": "[Dreams] or [anything]",
       "example": "I'm [jacking] them 1200 [D.O.A] [niggas]",
       "written_on": "2022-08-24T21:09:05.899Z"
+    }
+  ],
+  "<.0.6.76..0.>cool Kid summer<.7.9.7.6.>": [
+    {
+      "defid": 18483135,
+      "definition": "<.0.6.76..0.>[cool Kid] [summer]<.[7.9].7.6.>",
+      "example": "<.0.6.76..0.>[cool Kid] [summer]<.[7.9].7.6.>",
+      "written_on": "2025-05-06T17:24:21.617Z"
+    }
+  ],
+  "000": [
+    {
+      "defid": 13010660,
+      "definition": "the [emergency] number in [Australia]. The American [equivalent] is 911and the British is 123",
+      "example": "[hurry call] 000 she has been [stabbed]\r\ncall 000n we [have been] robbed",
+      "written_on": "2018-06-19T00:00:00Z"
     }
   ]
 }
