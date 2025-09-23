@@ -9193,6 +9193,12 @@
       "definition": "A word made by [Micheal Jackson]. It’s unknown [what the] proper meaning is, but it is very [effective].",
       "example": "[Person]: *sends [funny] [image]*\n\nOther dude: Hee Hee",
       "written_on": "2019-07-07T00:00:00Z"
+    },
+    {
+      "defid": 14375507,
+      "definition": "[The sound] [Michael Jackson] makes",
+      "example": "[HEE] [HEE]",
+      "written_on": "2019-11-02T08:26:11.043Z"
     }
   ],
   "Halfer": [
@@ -19137,6 +19143,12 @@
       "definition": "extremly [retarted] or [stupid], no [knowledge],uncontrolable bowl movment,",
       "example": "[let's go] laugh at that [totally] Haking guy [over there].",
       "written_on": "2003-12-14T00:00:00Z"
+    },
+    {
+      "defid": 7076719,
+      "definition": "\"Hawking\" (verb) : To go [above and beyond] [what is] expected for the mere [enjoyment] of doing it.\n\nAntonym: To Rampart.",
+      "example": "[My friend] asked if I could help him move in this [weekend], but I'm hawking it and bringing some pizza and beers so he doesn't [have to] worry about lunch!",
+      "written_on": "2013-06-05T00:00:00Z"
     }
   ],
   "Hummacide": [
@@ -36177,6 +36189,12 @@
       "definition": "[hot] [cool] and awwoemse",
       "example": "[wife] hahamellohi is [hot] [cool] and awwoemse",
       "written_on": "2021-09-27T06:53:35.911Z"
+    },
+    {
+      "defid": 16291649,
+      "definition": "[amazing] [aweosme] [cool kid] 👍",
+      "example": "“hahamellohi [is an] [amazing] [awesome cool] kid”",
+      "written_on": "2021-09-04T19:01:21.142Z"
     }
   ],
   "Hyperbolarious": [
@@ -41053,6 +41071,12 @@
       "definition": "This [definition] [is an] [example] of hax.",
       "example": "[Nice] hax [bro]...",
       "written_on": "2019-10-21T00:00:00Z"
+    },
+    {
+      "defid": 1806500,
+      "definition": "A slang term which is short for \"Hack\". A \"Hack\" is any foreign [process] that [attaches] itself to [another] and utilizes the Read/WriteProcessMemory API functions.",
+      "example": "Snippet from a Starcraft v1.12 Protoss Build Anywhere DLL. \r\n\r\n.IF ESI == VK_[SUBTRACT]\r\n\t\t.if Buildtoggle == 00h\t;if toggled off\r\n        invoke WriteMem, 004BD756h, addr BuildAnyWhereOn1, 11\r\n\tinvoke WriteMem, 004BD7F1h, addr BuildAnyWhereOn2, 5\r\n\tinvoke BWTextDisplay, CTEXT (\"BuildAnyWhere \u0004: \u0007[Activated]\")\r\n\tmov Buildtoggle, 01h\t;toggled to on\r\n\t\t.else\r\n        invoke WriteMem, 004BD756h, addr BuildAnyWhereOff1, 11\r\n\tinvoke WriteMem, 004BD7F1h, addr BuildAnyWhereOff2, 5\r\n\tinvoke BWTextDisplay, CTEXT (\"BuildAnyWhere \u0004: \u0006[Deactivated]\")\r\n\tmov Buildtoggle, 00h\t;toggled to off hax\r\n\t\t.endif\r\n.ENDIF",
+      "written_on": "2006-06-15T00:00:00Z"
     }
   ],
   "Harvierre": [
@@ -115467,6 +115491,126 @@
       "definition": "[Semen]. [Cum]. Reproductive [fluid].",
       "example": "Yo, I was with [this bitch] [last night]... oooooooooooooh SHIT! Heavy butter, baby! [All night long].",
       "written_on": "2017-09-18T00:00:00Z"
+    }
+  ],
+  "hot cocklate": [
+    {
+      "defid": 8488104,
+      "definition": "When one dips ones [erect penis] in melted [chocolate] and lets it harden [and then] recieves a blowjob.",
+      "example": "I asked my [girlfriend] if she [wanted] some hot [cocklate].",
+      "written_on": "2015-11-02T00:00:00Z"
+    }
+  ],
+  "have a bone": [
+    {
+      "defid": 2723204,
+      "definition": "[to be] [infatuated] with [a girl]",
+      "example": "Man I have a bone for [this girl], I [want to] [hook up with] her.",
+      "written_on": "2007-12-29T00:00:00Z"
+    }
+  ],
+  "Halo Flu": [
+    {
+      "defid": 2616266,
+      "definition": "When [someone] [calls] into work sick so they can play Halo.\r\n\r\n[also known as] Halo-itis or Halo-fever",
+      "example": "Man, ben has a bad [case] of [Halo] [Flu]",
+      "written_on": "2007-10-19T00:00:00Z"
+    }
+  ],
+  "hematophage": [
+    {
+      "defid": 5411673,
+      "definition": "1) a [creature] that drinks blood. [Not to be] mistaken with a [vampire].",
+      "example": "[Person 1]: \"OW! I just got bit by a [mosquito]/bat/Cullen!\"\r\n[Person 2]: \"Stupid hematophages.\"",
+      "written_on": "2010-12-06T00:00:00Z"
+    }
+  ],
+  "Homesick Eskimo": [
+    {
+      "defid": 5334097,
+      "definition": "someone who rides with the car [windows] down when it's thirty [degrees] [outside].",
+      "example": "[My friend] got in my car and rolled down [the window]. I screamed,\" [HOMESICK] ESKIMO\"!!!!!!!!!!!!! because it was in the dead of winter.",
+      "written_on": "2010-11-07T00:00:00Z"
+    }
+  ],
+  "hosebag": [
+    {
+      "defid": 270581,
+      "definition": "a trashy woman,[usually] stupid [and the] object of a [one-night stand].",
+      "example": "I [went] [clubbing] and [picked up] this hosebag.",
+      "written_on": "2003-09-30T00:00:00Z"
+    }
+  ],
+  "Hamapasap": [
+    {
+      "defid": 13077796,
+      "definition": "Help as many as [possible] [as soon as] [possible]",
+      "example": "[Help] us hamapasap!",
+      "written_on": "2018-07-19T02:37:27.657Z"
+    }
+  ],
+  "Hyungnae": [
+    {
+      "defid": 17851730,
+      "definition": "A Hyung ([older brother] of a guy in Korea) who acts like the [maknae] (youngest in [Korean])",
+      "example": "[Jin] is the hyungnae of [BTS]",
+      "written_on": "2023-07-08T18:17:02.5Z"
+    }
+  ],
+  "Harishan": [
+    {
+      "defid": 7551541,
+      "definition": "Harishan is an ancient name which means 'greatness from small beginnings'.It has been passed downed from hundreds of [generations],and a very rare name.It symbolises someone who is brave has greatness,no fear,[intelligence],and loving.He has a great [sense of humour] and a gentle and friendly person.",
+      "example": "[Person 1]:[What is] [your name]?\r\nHarishan:Harishan",
+      "written_on": "2014-02-08T00:00:00Z"
+    }
+  ],
+  "Horny bitch": [
+    {
+      "defid": 15682776,
+      "definition": "[The best person] to [exist]",
+      "example": "[Horny] [bitch] is [the best]!",
+      "written_on": "2021-01-22T19:55:10.045Z"
+    }
+  ],
+  "hot wing hole": [
+    {
+      "defid": 7490705,
+      "definition": "The [burning sensation] felt in your [sphincter] while deficating after eating [hot wings].",
+      "example": "Tyler: Man [my ass is on fire]!\r\nRandy: What did you eat [last night]?\r\nTyler: The usual from hooters.\r\nRandy: Bra you got a case of [the hot wing] hole.",
+      "written_on": "2014-01-15T00:00:00Z"
+    }
+  ],
+  "Hameem": [
+    {
+      "defid": 14167156,
+      "definition": "Bruh when im super sad [nothing] else can get me more sad. All i wanna do is just sit [somewhere] nice and watch [everyone] else cry and be happy",
+      "example": "Oh [look] [thats] a hameem",
+      "written_on": "2019-09-02T00:00:00Z"
+    }
+  ],
+  "Hina": [
+    {
+      "defid": 10562583,
+      "definition": "[The sweetest person ever].Giving,caring [and the] [best friend] you could have",
+      "example": "'Hina,[you are] [amazing] 😉'",
+      "written_on": "2016-11-29T00:00:00Z"
+    }
+  ],
+  "High Notes": [
+    {
+      "defid": 13934055,
+      "definition": "A [high note] is when you [fuck a girl] so hard that she starts cumming and moaning really loud, but you can hit high notes [without] making her cum!",
+      "example": "\"[I heard] [Troof] made her hit them high [notes]\".",
+      "written_on": "2019-05-25T00:00:00Z"
+    }
+  ],
+  "hiffany": [
+    {
+      "defid": 16625102,
+      "definition": "Hiffany is an extremely [beautiful girl]. She is shy at first but ones you get to know her she is as sweet as candy. Hiffany loves [hanging out] with her friends she is very friendly and will do whatever is takes to make her love ones happy. Once you get to know her she can be very loud and become the life of the party overall Hiffany is [the best person ever]!!",
+      "example": "Hiffany is [super cool]!!\r\nIf you [meet] an hiffany [never] let her go!",
+      "written_on": "2021-11-23T03:05:12.894Z"
     }
   ]
 }
