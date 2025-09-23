@@ -6910,5 +6910,13 @@
       "example": "- Wow, [this girl] is such a cool [human being]!\r\n+ What were you [expecting]? She is a Xisca!",
       "written_on": "2021-11-22T06:58:17.573Z"
     }
+  ],
+  "xavion": [
+    {
+      "defid": 10647261,
+      "definition": "[Person] with [nice shoes]",
+      "example": "[what are those] xavion\n\n[better than] those",
+      "written_on": "2016-12-14T00:00:00Z"
+    }
   ]
 }
