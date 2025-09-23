@@ -64528,5 +64528,37 @@
       "example": "Be careful [when you] go to the [corner store]. Ice pirates [like to] hang around and beg for change.",
       "written_on": "2010-01-05T00:00:00Z"
     }
+  ],
+  "interCeption": [
+    {
+      "defid": 221163,
+      "definition": "To \"[interCept]\" an [enemy] and [kill] him.",
+      "example": "#interCeption * [Titanium] : [Enemy Spotted]\r\n\r\n#interCeption * [Titanium] : Enemy Down",
+      "written_on": "2003-08-20T00:00:00Z"
+    }
+  ],
+  "Ives": [
+    {
+      "defid": 16609589,
+      "definition": "Ives is a softie who may be shy at first but once you get to know them they are the funnest person. People named Ives typically like plants since their names origin is ivy. They show their moods through makeup and drawing. [Those who know] an Ives are [extremely] lucky since they are loyal friends who rarely betray a friend and acts like the parental figure [everyone] needs.",
+      "example": "Ives [is an] [amazing person]",
+      "written_on": "2021-11-22T23:15:41.24Z"
+    }
+  ],
+  "isorrowproductions": [
+    {
+      "defid": 13001527,
+      "definition": "A [Hearts of Iron 4] [YouTuber] with about 300k subs who makes 10ish minute long videos with editing so the game isn't a complete bore and [political]/meme humor in his videos. His fanbase consists of edgy 12-15 year olds. One of his jokes is that belgium is a fake country, as seen in the #belgianlivesmatter videos.",
+      "example": "[Did you] see [the new] isorrowproductions video? He played as [belgium] in the Modern Day mod.",
+      "written_on": "2018-06-17T00:00:00Z"
+    }
+  ],
+  "ilykhi": [
+    {
+      "defid": 18252673,
+      "definition": "A [underground] [rapper] who made [all that]",
+      "example": "Out that [new] ilykhi on [bih]",
+      "written_on": "2024-06-21T04:19:55.562Z"
+    }
   ]
 }
