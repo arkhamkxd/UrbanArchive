@@ -17058,5 +17058,21 @@
       "example": "I'd [like to] take my [lady friend] DiDi out for a night [on the town] and spend a little QBT.",
       "written_on": "2019-09-15T00:00:00Z"
     }
+  ],
+  "qwertyasdfghzxcvbnåpoiuyæølkjm": [
+    {
+      "defid": 17515642,
+      "definition": "you`re a [scandinavian], [extremely bored], and need some help fast from [the people] in your room.",
+      "example": "[Gunnar]: \"Jeg kjeder meg sånn!\"\r\nKen Li: \"Jeg veeeet\"\r\n[Gunnar]: \"Kanskje jeg skal skrive \"[qwertyasdfghzxcvbn]åpoiuyæølkjm?\"\"",
+      "written_on": "2022-10-27T01:16:36.871Z"
+    }
+  ],
+  "queen of comics": [
+    {
+      "defid": 17428483,
+      "definition": "diana prince of the themyscira. aka [wonder woman]! the face of woman in comics. [the blueprint] for female [superhero]’s. number #4 most popular superhero of all time. and will forever be #1 in female superhero’s.",
+      "example": "[wonderwoman] , diana [prince] , queen of [comics]",
+      "written_on": "2022-08-27T14:10:15.677Z"
+    }
   ]
 }
