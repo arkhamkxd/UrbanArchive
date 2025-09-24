@@ -34132,5 +34132,29 @@
       "example": "[That person] has [U.P].S",
       "written_on": "2016-09-11T00:00:00Z"
     }
+  ],
+  "Ur ban dictionary": [
+    {
+      "defid": 15905681,
+      "definition": "[Ur banned] [dictionary]",
+      "example": "Did you hear about Ur ban [dictionary]?\r\nOh, [you mean] [urban dictionary]?\r\nYes, exactly.",
+      "written_on": "2021-04-12T14:48:23.114Z"
+    }
+  ],
+  "uppsala": [
+    {
+      "defid": 6294551,
+      "definition": "Home to great swedish people and Katedral skolan. [Insignificant] on an [international] level, but nationally it's awewsome!\n\n[Might be] the fourth biggest city in sweden? Loads of people live there.",
+      "example": "[Person 1]: Hi, I own a moped and go to Yrkesplugget.\r\n[Person 2] (Uppsala guy): [Piss off] farmer...",
+      "written_on": "2011-12-19T00:00:00Z"
+    }
+  ],
+  "UrbanMining": [
+    {
+      "defid": 2994020,
+      "definition": "the theft of [Materials] for [recycling]. ie. [copper] power cables, Catalytic converters, ect..",
+      "example": "sorry [I'm late], my car is [in the shop] because some punks were urbanmining and got my catalytic [converter].",
+      "written_on": "2008-04-10T00:00:00Z"
+    }
   ]
 }
