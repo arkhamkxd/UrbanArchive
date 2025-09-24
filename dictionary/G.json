@@ -141284,5 +141284,77 @@
       "example": "[The store] [owner] gauged the armed [robber].",
       "written_on": "2012-01-06T00:00:00Z"
     }
+  ],
+  "Give me a rifle and point me to Berlin": [
+    {
+      "defid": 6000336,
+      "definition": "[Acceptance] of a task. Based [on the game] [Company of Heroes] where the simmilar \"Give me a rifle, one round and point me to Berlin\" is said by riflemen squads.",
+      "example": "[Person 1]: \"Could you help me with [something]?\r\n[Person 2]: Just give me a rifle and point me to Berlin.",
+      "written_on": "2011-08-06T00:00:00Z"
+    }
+  ],
+  "greed": [
+    {
+      "defid": 448112,
+      "definition": "n. 1. The [defining] characteristic of [human nature]. 2. The desire to own or control more [resources] than others.",
+      "example": "Greed is not merely \"I want more\". Greed is \"I want more than [everybody else]\". Thus the [majority of people] are forcibly kept poor because if everyone had a [million dollars], a loaf of bread would cost a hundred grand.",
+      "written_on": "2004-01-15T00:00:00Z"
+    }
+  ],
+  "ghjkghjkghjkghjkghjkghjkghjkghjkghjkghjkghjkghjk": [
+    {
+      "defid": 17602174,
+      "definition": "When [you're bored] of typing \"asdf*7\", you want a new [combination] of words. So, you move your hands to [the next] 4 letters and type ghjk 12 times.",
+      "example": "You type: \"ghjkghjkghjkghjkghjkghjkghjkghjkghjkghjkghjkghjk\" and [Google it].\r\nGoogle: No [results] found.\r\nYou: ... go to this [URBAN DICTIONARY]",
+      "written_on": "2022-12-24T03:55:15.859Z"
+    }
+  ],
+  "Gitfu": [
+    {
+      "defid": 16416233,
+      "definition": "[Give it] [the fuck up]",
+      "example": "Mask are [required]? Gitfu, [I ain't] wear'n no [damn] mask.",
+      "written_on": "2021-11-06T18:23:51.431Z"
+    }
+  ],
+  "Gamer-Rot": [
+    {
+      "defid": 5001844,
+      "definition": "[The feeling] of fever, nausea, [headaches], or tiredness after [playing videogames] or staring at your computer for a long period of time.",
+      "example": "Oh man, [I think I'm] [getting] gamer-rot, [my head hurts].",
+      "written_on": "2010-05-31T00:00:00Z"
+    }
+  ],
+  "Good Riddens": [
+    {
+      "defid": 3806412,
+      "definition": "[A common] [misspelling] of the idiom \"[Good Riddance]\".",
+      "example": "John: I heard they [closed down] that store that was selling [poisoned] food. Good riddens!\r\nJane: It's \"[good riddance]\", not \"good riddens\".",
+      "written_on": "2009-03-16T00:00:00Z"
+    }
+  ],
+  "G' Slice": [
+    {
+      "defid": 1991897,
+      "definition": "[A word] used by a cracker' [imitating] or making fun of a [black person] who talks like a crip.",
+      "example": "\"Yo my G' Slice [what be] crackin\"...[normally] said as \"[Hello my friend], How are things?\"",
+      "written_on": "2006-09-24T00:00:00Z"
+    }
+  ],
+  "grandma toddler": [
+    {
+      "defid": 7448509,
+      "definition": "[When you] do your hair so that it appears to be a mix between [Honey Boo Boo] and one of [the Golden Girls].",
+      "example": "When Megan [looked in the mirror] after curling her hair she exclaimed, \"[Oh shoot]! I look like a [Grandma] Toddler!\"",
+      "written_on": "2013-12-31T00:00:00Z"
+    }
+  ],
+  "ghetto fancy": [
+    {
+      "defid": 6020536,
+      "definition": "when [something] that is completly cheap but is [trying to] look [fancy]",
+      "example": "those forkss r so [ghetto] [fancy]",
+      "written_on": "2011-08-21T00:00:00Z"
+    }
   ]
 }
