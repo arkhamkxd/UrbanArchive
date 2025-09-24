@@ -10019,6 +10019,12 @@
       "definition": "[insomnia] or a [meth addict].",
       "example": "I'm [such a] zombie.",
       "written_on": "2018-04-19T00:00:00Z"
+    },
+    {
+      "defid": 2099003,
+      "definition": "On internet forums, when a thread that has been inactive for months, [sometimes] even years, receives a new response and becomes active again. The term can refer to: \r\n\r\n1) the [resurrected] thread itself, and/or \r\n2) the act of posting in a thread and thereby [reactivating] it.",
+      "example": "1) Wow, this thread's from 2003. We got a zombie!\r\n2) [I know this] is an [old thread], but I [zombied] it because it might be worth a read by some of the newer users.",
+      "written_on": "2006-11-19T00:00:00Z"
     }
   ],
   "zayas": [
@@ -26517,6 +26523,14 @@
       "definition": "[November 30]",
       "example": "It will be the 0th day of the 0th [month] of [2023], zero [zero day]!",
       "written_on": "2022-10-05T15:50:30.519Z"
+    }
+  ],
+  "zhit": [
+    {
+      "defid": 3258186,
+      "definition": "A synonym [for shit] used by business people, afraid that their company's [filtering] software will catch the profane word and [subsequently] fire them.",
+      "example": "Did you see [how far] the Nasdaq fell today?  [This kind] of zhit is going to get me [kicked to the curb]!",
+      "written_on": "2008-09-26T00:00:00Z"
     }
   ]
 }
