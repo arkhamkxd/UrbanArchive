@@ -102,5 +102,13 @@
       "example": "[You’re] so Üs [Nauf].\n\nThat’s [so nice] of you!",
       "written_on": "2023-11-13T01:40:10.26Z"
     }
+  ],
+  "Ü": [
+    {
+      "defid": 15563607,
+      "definition": "\"Ü\" can be used as a [happy face] is [you don't want] to use emojis. The diaeresis (¨) are the eyes and the U is [the smile].",
+      "example": "\"[I am] [really] [happy] Ü\"",
+      "written_on": "2020-12-10T09:00:48.857Z"
+    }
   ]
 }
