@@ -8024,5 +8024,21 @@
       "example": "\"[I am the] [alpha and omega],\r\n the first and [the last], \r\n the beginning and the end\"\r\n                  -from opening movie",
       "written_on": "2005-05-13T00:00:00Z"
     }
+  ],
+  "Xp": [
+    {
+      "defid": 17377746,
+      "definition": "Used by Sindi at the [end of the sentence] to show that she is joking and this [sentence] should not be [taken for granted].",
+      "example": "Sindi: [Im gonna] kill you xp\r\n[Person 1]: ...\r\nSindi: Don't worry [i was kidding].",
+      "written_on": "2022-07-24T10:46:10.005Z"
+    }
+  ],
+  "Xerphonicing": [
+    {
+      "defid": 11845353,
+      "definition": "A term used for [when you] threaten suicide against [someone else] if they don't give you enough [attention].",
+      "example": "\"Omg, I can't get enough of [this girl]. [I've been] xerphonicing her [all night].\"",
+      "written_on": "2017-08-03T00:00:00Z"
+    }
   ]
 }
