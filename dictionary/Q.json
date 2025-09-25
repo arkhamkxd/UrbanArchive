@@ -19282,5 +19282,21 @@
       "example": "Person 1: Wow, who is [that person] [over there]?!\r\nPerson 2: Oh that's Quint, but i usually call him angel :).\n\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nPerson 1: Quint is such an epic [legendary] person!\r\nPerson 2: I Agree!....Can you now stop talking about him? You've been talking about him in 25 minutes straight!.",
       "written_on": "2019-10-21T03:52:45.267Z"
     }
+  ],
+  "quebbs": [
+    {
+      "defid": 1270497,
+      "definition": "A card game with a devoted cult following.  The object of the game is to [accumulate] 4 of a kind, then to get one's partner to say \"Quebbs!\" through the use of a spoken code.  Saying \"quebbs\" results in one point and the end of the hand.  If a player suspects another player (who is not his partner) of having 4 of a kind, he may call \"shmook!\" also gaining a point and ending the round.  Double Quebbs and Double Shmook are also possible, as well as any [combination] thereof, [provided] both partners call them at the same time.",
+      "example": "1. Quebbs!  [I win]!\r\n2. [Let's play] some Quebbs.  It's [the awesome] ever.",
+      "written_on": "2005-05-23T00:00:00Z"
+    }
+  ],
+  "Quebecloune": [
+    {
+      "defid": 9755275,
+      "definition": "An idiot [frenchman] who think's he's cool but [in reality] he's [a stupid] Quebecloune, don't mistake it for the similar 'Quebeclown'.",
+      "example": "Those [hippies] at [the park] are such Quebecloune's .",
+      "written_on": "2016-05-21T00:00:00Z"
+    }
   ]
 }

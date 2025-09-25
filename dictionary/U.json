@@ -3575,6 +3575,12 @@
       "definition": "Is at [my house]",
       "example": "[Girl]: [gay]\r\nBoy;Hi ur [mom]",
       "written_on": "2022-05-18T12:25:06.411Z"
+    },
+    {
+      "defid": 16060084,
+      "definition": "Some [stupid thing] [Middle School] [Xbox] boys say",
+      "example": "Like [actually] [shut the fuck up] ur 10 go play with legos or [something] ur mom isn't funny",
+      "written_on": "2021-06-04T02:01:04.093Z"
     }
   ],
   "Urbidiot": [
@@ -6129,6 +6135,12 @@
       "definition": "A fast paced [competitive] game between 2 teams, requiring cardio, stamina, agility and strong [communication]. Sportsman ship is key, and fun lies at [the heart] of the game.",
       "example": "[Hey guys]! We should get a [pick up game] of [Ultimate] Frisbee going! You up for it?",
       "written_on": "2014-09-16T00:00:00Z"
+    },
+    {
+      "defid": 735130,
+      "definition": "Best game. [Ultimate] [players] play [for the love of the game].",
+      "example": "Dad: Where were you?\r\nMe: Playing [ultimate] [frisbee].\r\nDad: Who won?\r\nMe: Nobody, we play [for the fun] of it...\r\nDad: Weird.",
+      "written_on": "2004-06-25T00:00:00Z"
     }
   ],
   "uncle taco": [
@@ -33795,6 +33807,12 @@
       "definition": "The ending of a [conversation]. The [spanish] [version] of one.",
       "example": "Yo, [im out]. Uno.",
       "written_on": "2009-05-05T00:00:00Z"
+    },
+    {
+      "defid": 15615060,
+      "definition": "[How to] end [friendships] in 5 [seconds]",
+      "example": "In uno we all [stacked] +4 and [now] we all [hate] eachover",
+      "written_on": "2020-12-28T23:11:05.334Z"
     }
   ],
   "unpwnable": [
@@ -35451,6 +35469,22 @@
       "definition": "The cake in [the story] Alice in [Wonderland] which makes her grow to an enormous size by simply eating it. In [the original] story, the cake is not named, but is given a title in the 2010 Tim Burton film adaptation of the story.",
       "example": "\"Wow,\" said Alice. \"This upelkuchen lets me see the [Queen's] [huge head] [from above]!\"",
       "written_on": "2012-05-16T00:00:00Z"
+    }
+  ],
+  "unsocial networking": [
+    {
+      "defid": 5137365,
+      "definition": "Connecting to random strangers on online [social networks], but having no intention of really getting to know who they are.\n\nThe primary purpose of unsocial networking is to seek attention by padding your [friends list] with as big a number of friends / connections as possible.\n\n[Interacting] with your connections is really not part of that equation.",
+      "example": "Since I started my unsocial [networking] campaign, I have added 3,528 people on one of my social profiles. Before I started unsocially networking by adding random people I will never [communicate] with, I only had 67 friends [on my list].\n\nGosh, I feel so popular!",
+      "written_on": "2010-08-04T00:00:00Z"
+    }
+  ],
+  "UCSR": [
+    {
+      "defid": 478698,
+      "definition": "United [California] [Socialist] [Republic]",
+      "example": "\"Hey, Where [do you] [live]?\"\r\n\"Oh, I [live in] the UCSR\"",
+      "written_on": "2004-01-29T00:00:00Z"
     }
   ]
 }
