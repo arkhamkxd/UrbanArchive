@@ -7756,5 +7756,13 @@
       "example": "Xerp is [teh] [1337].",
       "written_on": "2003-08-25T00:00:00Z"
     }
+  ],
+  "X-Must": [
+    {
+      "defid": 3988083,
+      "definition": "X-Must: [Fictional] Cola from the [video game] [Headhunter]\n\n*** SPOILER ***\n\n&It &turns &out &to &be &part &of &a &plot &to &infect &the &people &with &a &virus",
+      "example": "\"X-Must has [100]% [artificial] [ingredients]!\"",
+      "written_on": "2009-05-24T00:00:00Z"
+    }
   ]
 }
