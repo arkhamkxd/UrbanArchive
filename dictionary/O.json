@@ -61248,5 +61248,21 @@
       "example": "[That kid] is such an [owen] [dewire]!",
       "written_on": "2016-10-03T00:00:00Z"
     }
+  ],
+  "Onaisa": [
+    {
+      "defid": 206618,
+      "definition": "Girl from [California] who [loves] [AMERICAN cars].",
+      "example": "Onaisa [went] to [buy a ford].",
+      "written_on": "2003-08-07T00:00:00Z"
+    }
+  ],
+  "OmniAristo": [
+    {
+      "defid": 18246720,
+      "definition": "Pronunciation: \\ ˈäm-ni-ˈa-ris-tō \\\n\nPart of Speech: Noun\n\nDefinition:\r\n1) An individual possessing extensive and diverse knowledge, expertise, or excellence across multiple fields or disciplines.\r\n2) A person regarded as an [intellectual] elite, often demonstrating exceptional wisdom, [understanding], and capability in various areas of study and practice.\n\nEtymology:\r\nDerived from the Latin prefix \"omni-\" meaning \"all\" or \"every,\" and the Greek root \"aristo,\" meaning \"best\" or \"excellent.\"\n\nSynonyms:\r\n- Polymath\r\n- Renaissance person\r\n- Universal genius\n\nAntonyms:\r\n- Specialist\r\n- Narrow-minded person\n\nRelated Words:\r\n- Polymath\r\n- [Intellectual]\r\n- Erudite",
+      "example": "- [Leonardo da Vinci] is often considered an OmniAristo due to his profound contributions to art, science, and [engineering].\r\n- In modern times, an OmniAristo might be someone who excels in technology, literature, and the arts [simultaneously].",
+      "written_on": "2024-06-13T13:14:50.646Z"
+    }
   ]
 }
