@@ -47802,5 +47802,53 @@
       "example": "[Wirexia]: My [chicken farm] doesn't work\r\n3rbeGamer: [I got you] bro",
       "written_on": "2023-07-29T12:52:26.926Z"
     }
+  ],
+  "`1234567890-": [
+    {
+      "defid": 1080874,
+      "definition": "This is what shows up when you slide your finger from the \"~\" key, to the \"[Backspace]\" key.\r\n\r\nThe \"[Backspace]\" key deletes the \"=\" symbol that you pushed before you pushed the \"[Backspace]\" key.",
+      "example": "`1234567890-\r\n\r\nWe found an error in your [definition]. * [Example] must have at least 20 [letters] and 3 words",
+      "written_on": "2006-07-18T00:00:00Z"
+    }
+  ],
+  "🤍": [
+    {
+      "defid": 15409364,
+      "definition": "[cum] [heart]",
+      "example": "I 🤍 you",
+      "written_on": "2020-10-21T16:35:35.586Z"
+    }
+  ],
+  "30th march": [
+    {
+      "defid": 16121191,
+      "definition": "30th [march] is [Cardoso]´s [birthday]!!!",
+      "example": "30th [march] is when [Cardoso] celebrates his [birthday]!",
+      "written_on": "2021-06-22T03:50:29.923Z"
+    }
+  ],
+  "4467": [
+    {
+      "defid": 13676530,
+      "definition": "If you are reading this, im sorry to say you are of the 4467 variety. If you see someone who is of the beta, [pathetic], bad variety at anything in anyway, shape and form who you just [feel bad] for, [that person] is a 4467.",
+      "example": "[That kid] [looks like] a [fucking] 4467, lul poor guy.",
+      "written_on": "2019-03-03T00:00:00Z"
+    }
+  ],
+  "563": [
+    {
+      "defid": 2807617,
+      "definition": "[area code] for [the hood]...[otherwise] known as Wilton Iowa",
+      "example": "YO! [You know] the [Poop Phantom] [rolls] in the 563?!?",
+      "written_on": "2009-01-10T00:00:00Z"
+    }
+  ],
+  "1234567890azertyuiopqsdfghjklmwxcvbn": [
+    {
+      "defid": 18299039,
+      "definition": "When you're so bored, you [write] out the azerty [keyboard] with the added bonus of all [the numbers] (on your phone!)",
+      "example": "\"Look, ma, I made a [new word]!\"\r\n\"[What is it]?\"\r\n\"1234567890azertyuiopqsdfghjklmwxcvbn!\"\r\n\"How'd you unlock [my phone]?\"",
+      "written_on": "2024-08-21T19:35:33.055Z"
+    }
   ]
 }
