@@ -38144,5 +38144,13 @@
       "example": "[like it] [or not], you're unka [tunka] with your lover's exes.",
       "written_on": "2010-03-02T00:00:00Z"
     }
+  ],
+  "Up The River Down The River": [
+    {
+      "defid": 4031581,
+      "definition": "Fill a solo cup with beer. Take a deck of 52 cards. Two people each draw a card. The person with [the highest] number (1 - 13) doesn't have to do anything. The person who draws the lowest card has to chug the beer for the amount of seconds equal to the difference [in the cards]. (example: Anna draws a four, Patty draws a nine). Anna has to chug beer for five seconds (use a stop watch). If you draw a joker, the person who drew the joker has to chug for [three times] the amount of the other card (example: Patty draws a joker, Anna draws a six. Patty has to chug for 18 seconds). The goal of the game is to finish the entire deck of 52 cards in the shortest amount of time. Can be played with multiple teams going against each other.",
+      "example": "Hey Anna let's play [Up The River] [Down The River] tonight...\n\nOkay Patty. It's on. Bring all [your friends]...",
+      "written_on": "2009-06-09T00:00:00Z"
+    }
   ]
 }
