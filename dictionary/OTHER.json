@@ -34441,6 +34441,12 @@
       "definition": "All [the numbers] [the world] has so far. [Why did you search this]?",
       "example": "Person: hey. What are [the numbers] again?\r\n[Person 2]:dude. It's 1234567890. How do you not know that? *[shakes head]*",
       "written_on": "2020-01-23T00:00:00Z"
+    },
+    {
+      "defid": 15537418,
+      "definition": "why did u [search] [dis]",
+      "example": "*[counting]* - 1234567890",
+      "written_on": "2020-12-02T04:16:39.221Z"
     }
   ],
   "2 Nice": [
@@ -51043,6 +51049,22 @@
       "definition": "<.7.9.7.6.>[Moche], [moChe], [mochE]<.7.9.76.>",
       "example": "<.7.9.7.6.>[Moche], [moChe], [mochE]<.7.9.76.>",
       "written_on": "2025-05-22T15:06:08.596Z"
+    }
+  ],
+  "28th December": [
+    {
+      "defid": 14374906,
+      "definition": "A person who is born on the 28th of December are true & loyal friends, they always put others before themselves and [sometimes] it brings them down but [eventually] they [get there]",
+      "example": "“That [persons] born on 28th [December] they must be [a good person]!”",
+      "written_on": "2019-11-02T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Particularly Easy, particUularly eaUsy, particularlY easY<.7.9.7.6.>": [
+    {
+      "defid": 18485421,
+      "definition": "<.7.9.7.6.>[Particularly] [Easy], particUularly eaUsy, [particularlY] easY<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>[Particularly] [Easy], particUularly eaUsy, [particularlY] easY<.7.9.7.6.>",
+      "written_on": "2025-05-10T10:31:03.587Z"
     }
   ]
 }
