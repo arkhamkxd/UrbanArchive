@@ -49366,5 +49366,29 @@
       "example": "Shithead 1: “Hey bro wanna invite [your cousin]”.\n\nIdiot 1: [yeah bro] I gotchu\n\nXtra joined [the party].\n\nProceeds to 2 box CW for hours",
       "written_on": "2021-09-04T11:27:41.204Z"
     }
+  ],
+  "_": [
+    {
+      "defid": 17633433,
+      "definition": "_",
+      "example": "[Person 1]: hi\r\n[Person 2]: _\r\n[Person 1]: what",
+      "written_on": "2023-01-18T07:30:44.578Z"
+    }
+  ],
+  "15th of October": [
+    {
+      "defid": 14268200,
+      "definition": "give [Claire] [whatever] she [wants] day",
+      "example": "Oh [shit man] it’s the 15th of [October] better find [a claire]",
+      "written_on": "2019-10-13T00:00:00Z"
+    }
+  ],
+  "28980": [
+    {
+      "defid": 12934307,
+      "definition": "[The answer] to 69 × 420. [The best] [number] ever.",
+      "example": "69 [times] [420] is 28980.",
+      "written_on": "2018-06-07T00:00:00Z"
+    }
   ]
 }
