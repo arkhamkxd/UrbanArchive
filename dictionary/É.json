@@ -78,5 +78,13 @@
       "example": "J’ai [vraiment] pas le goût d’[aller] à l’É.[C.O.L].E.S aujourd’hui",
       "written_on": "2019-06-11T00:00:00Z"
     }
+  ],
+  "Éireann": [
+    {
+      "defid": 4639319,
+      "definition": "1.) Éireann is a female name of Irish Gaelic origin.\n\nIt comes from the root \"Ériu,\" a major character in Irish [mythology]. The matron goddess daughter of Emmas and Tuatha Dé Danann, she and her two sisters all claimed Ireland as their own land.\n\nThis name is Proto-Indo-European, and Proto-Gaelic, and probably means can be traced to \"abundance.\"\n\nÉireann, parsed into a Gaelic [translation], means \"daughter of [the Goddess] of Ireland,\"\n\n2.) The name of the Irish Telecom company.\n\n3.) The name of the Irish Senate, Seanad Éireann and House of Representatives. Dáil Éireann.\n\n4.) Part of the name of many Irish companies and organizations.",
+      "example": "\"Bus Éireann provides bus services in [Ireland] with [the exception] of those operated entirely within the Dublin [Region].\"\n\n\"Her name is Éireann.\"",
+      "written_on": "2010-02-05T00:00:00Z"
+    }
   ]
 }
