@@ -20396,5 +20396,21 @@
       "example": "[you know] quacktwt? [hell] yea they are such [cool people]",
       "written_on": "2021-07-30T00:01:42.713Z"
     }
+  ],
+  "qwertyuiopåasdfghjklæøzxcvbnm": [
+    {
+      "defid": 12617313,
+      "definition": "qwrtyiopå[asdfghjkl]æø[zxcvbnm] is when you are bored on a danish [keyboard]",
+      "example": "[qwertyuiop]å[asdfghjkl]æø[zxcvbnm] is bad",
+      "written_on": "2018-02-27T23:56:29.304Z"
+    }
+  ],
+  "Queito": [
+    {
+      "defid": 6249757,
+      "definition": "1. The name Queito is of [Japanese] origin and means \"fifth.\"\n\n2. An [amazing person], who puts himself over others. He is too proud to ask for help, but is always there when [you need] him.",
+      "example": "Man, [you know] Queito? [Everyone] needs [a friend] like him...",
+      "written_on": "2011-12-02T00:00:00Z"
+    }
   ]
 }
