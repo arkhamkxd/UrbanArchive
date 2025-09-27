@@ -22056,5 +22056,37 @@
       "example": "\"oh [gaz] that [beasty] [car] is quality\"",
       "written_on": "2005-04-02T00:00:00Z"
     }
+  ],
+  "quake": [
+    {
+      "defid": 309717,
+      "definition": "A Game that kicks (or more kicked) ass back in the [good old days] when I still played it... I've got it [laying around] somewhere, but I'd have to [dust it off] 1st... :P",
+      "example": "\"Quake\" created by ID [Software], to [counter] Duke3D",
+      "written_on": "2003-10-23T00:00:00Z"
+    }
+  ],
+  "Quadang": [
+    {
+      "defid": 6002731,
+      "definition": "An [exclamation] that requires not just a \"Dang!\" ....a \"[Double Dang]\" or even a \"[Triple] Dang\" but a Quadruple Dang ...... Quadang!!!",
+      "example": "Quadang! Her hair [looks like] a [rat's nest]!\r\nQuadang! He is hot!\r\nQuadang! My [phone bill] is high.\r\nQuadang! I can't believe he said that!",
+      "written_on": "2011-08-07T00:00:00Z"
+    }
+  ],
+  "Qualling": [
+    {
+      "defid": 12243248,
+      "definition": "How [people] from [Boston] say calling, [especially] when they feel angry.",
+      "example": "Boss: \"[I've been] qualling [you all] day, and you still haven't [picked up]!\"",
+      "written_on": "2017-12-04T00:00:00Z"
+    }
+  ],
+  "qwertyuiopasdfghjklzzxcvbnm1234567890!@#$%^&*()_+": [
+    {
+      "defid": 12566025,
+      "definition": "why [did you] type this? [you're that] [bored]?",
+      "example": "[ugh].......qwertyuiopasdfghjklzzxcvbnm1234567890!@#$%^&*()_+",
+      "written_on": "2018-05-06T00:00:00Z"
+    }
   ]
 }
