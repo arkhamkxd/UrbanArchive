@@ -8965,6 +8965,12 @@
       "definition": "[Year] [after 2020]",
       "example": "A: [what year is it]?\r\nB:2021",
       "written_on": "2020-12-31T15:34:00.424Z"
+    },
+    {
+      "defid": 17547138,
+      "definition": "the [year] of [fuckedupness].",
+      "example": "2021 was [shitty] [as fuck], 2020 [coming] first.",
+      "written_on": "2022-11-16T02:11:38.69Z"
     }
   ],
   "1D10T": [
@@ -48485,6 +48491,12 @@
       "definition": "[The ratio] of 1.5 [slices] of pizza [to the] whole pie.",
       "example": "\"You wanna split [a second] slice [with me]? I'm [feeling] like doing some 3:16 today.\"",
       "written_on": "2019-03-21T00:00:00Z"
+    },
+    {
+      "defid": 13734136,
+      "definition": "[A good time] for weed; [only one] hour, four [minutes] 'til 4:20!",
+      "example": "[What time is it], [is it] 3:16? Great, [let's get] our pre-420 on!",
+      "written_on": "2019-03-21T00:00:00Z"
     }
   ],
   "'Koff": [
@@ -53159,6 +53171,46 @@
       "definition": "it is a charcature of the [video game] [character] [Kirby]",
       "example": "Ya i [won] (>['_'])>",
       "written_on": "2003-10-12T00:00:00Z"
+    }
+  ],
+  ":dodgy:": [
+    {
+      "defid": 1820321,
+      "definition": "the :dodgy: is a smiley, purple in color, and [sarcastic] in nature.  Made popular by [paintball] messageboards such as pbnation.com and pbreview.com, it exists to show sarcasm even [when the] coding doesn't work.",
+      "example": "...[I'd hit it]... :[dodgy]:",
+      "written_on": "2006-06-21T00:00:00Z"
+    }
+  ],
+  "'za": [
+    {
+      "defid": 18073344,
+      "definition": "[slang] [word] for [pizza]",
+      "example": "[6:30], [my house] for some 'za",
+      "written_on": "2024-01-10T11:37:23.82Z"
+    }
+  ],
+  "5 minute friend": [
+    {
+      "defid": 2878350,
+      "definition": "When a person only needs [5 minutes] to give a job of an kind, [have sex], or have an orgasm in [general].",
+      "example": "I can not believe Kiera was a 5 minute friend in [the bathroom].\r\n\r\n[Thumbaleena] is the 5 minute friend of [the century].",
+      "written_on": "2008-07-24T00:00:00Z"
+    }
+  ],
+  "'cause": [
+    {
+      "defid": 293556,
+      "definition": "[Conj]. [Slang]. [Variant] of \"because.\"",
+      "example": "[I did it] 'cause I [felt] [like] doing it.",
+      "written_on": "2003-10-15T00:00:00Z"
+    }
+  ],
+  "🐉": [
+    {
+      "defid": 16338496,
+      "definition": "The [Rayquaza] emoji\r\n[See also]: [Rayquaza]",
+      "example": "Pokémon fan: there's a rayquaza emoji! 🐉\r\nSome [random dude]: That's a dragon.\r\nFan: It [looks like] Rayquaza.\r\nDude: [What even is] a Rayquaza?\r\nFan: 🐉",
+      "written_on": "2021-09-26T17:41:08.154Z"
     }
   ]
 }
