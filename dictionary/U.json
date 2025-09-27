@@ -39330,5 +39330,29 @@
       "example": "Uyasiva [means] [the funniest] girl you'll [ever] meet",
       "written_on": "2021-11-21T12:18:27.841Z"
     }
+  ],
+  "uber minute": [
+    {
+      "defid": 10880796,
+      "definition": "Any time someone/[something] says it'll take a minute, but it takes closer to 10. (Like in the Uber app, when it says the car is a minute away, but [the driver] shows up [10 minutes] later.)",
+      "example": "I'll be at [the bar] in an [uber] [minute].",
+      "written_on": "2017-01-11T00:00:00Z"
+    }
+  ],
+  "Upstanding Citizen": [
+    {
+      "defid": 12858347,
+      "definition": "Upstanding [Citizen] [means] gay but not in a [mean] way",
+      "example": "Dude 1: [I'm in love] with a [man dude]\r\nDude 2: You're an upstanding [citizen]!",
+      "written_on": "2018-04-22T07:36:30.198Z"
+    }
+  ],
+  "UIX": [
+    {
+      "defid": 18239704,
+      "definition": "UIX = This says of an [implementation] that is against the user [experience], which is therefore the [opposite] of UX",
+      "example": "This implemention of [code] is UIX",
+      "written_on": "2024-06-05T08:48:27.057Z"
+    }
   ]
 }
