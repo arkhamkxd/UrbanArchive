@@ -51572,5 +51572,61 @@
       "example": "Her vagenerosity [knows no bounds]!",
       "written_on": "2011-01-23T00:00:00Z"
     }
+  ],
+  "vcc": [
+    {
+      "defid": 15684200,
+      "definition": "[virtual] [credit card]",
+      "example": "What VCC [are you] [using]?",
+      "written_on": "2021-01-23T13:04:41.806Z"
+    }
+  ],
+  "Voveu": [
+    {
+      "defid": 7423861,
+      "definition": "A Medieval city-state (kingdom) that [existed] within [the Second] [Bulgarian] Empire.",
+      "example": "[Kosovo] [pulled] a Voveu on [Serbia].",
+      "written_on": "2013-12-20T00:00:00Z"
+    }
+  ],
+  "vemerga": [
+    {
+      "defid": 2816957,
+      "definition": "to [sneeze], [cough], choke, and fart at [the same] time.",
+      "example": "\"[the boy] vemergad [yesturday] at his friend's [house]",
+      "written_on": "2008-01-26T00:00:00Z"
+    }
+  ],
+  "Vivec": [
+    {
+      "defid": 17855944,
+      "definition": "Lord Vivec the Warrior-Poet, also known as Vehk, Vivek, and later Saint Vivec, was one of [the three] [immortal] god-kings of [Morrowind] alongside Sotha Sil and Almalexia.",
+      "example": "N'wah: Hey Vivec!\r\nVivec: You'll N'wahs [dont even] [drink] [skooma]",
+      "written_on": "2023-07-12T23:32:26.322Z"
+    }
+  ],
+  "Vrutha": [
+    {
+      "defid": 13183597,
+      "definition": "The [British slang] for, [Brother].",
+      "example": "Hey, me and my vro (short for vrutha) [finna] [go to the store], we’ll be back [later].",
+      "written_on": "2018-09-09T00:00:00Z"
+    }
+  ],
+  "vurr": [
+    {
+      "defid": 18226347,
+      "definition": "Vurr (verb/noun):\n\nVerb: To move with swift, stealthy precision, [reminiscent] of a ghostly presence. \"The cat vurred through the alley, unseen and unheard.\"\r\nNoun: A quick, sneaky movement characterized by an almost supernatural stealth. \"With a sudden vurr, the figure [disappeared] into the shadows.\"\r\nThis [definition] captures the essence of speed, sneakiness, and an ethereal, ghost-like quality.",
+      "example": "\"With a sudden vurr, [the figure] [disappeared] into the [shadows].\"",
+      "written_on": "2024-05-21T16:20:14.821Z"
+    }
+  ],
+  "Viggo'd": [
+    {
+      "defid": 5465699,
+      "definition": "To be subject to [unexpected] male nudity. Coined after Viggo Mortensen's nude scene in [Eastern] [Promises].",
+      "example": "I was [watching] the new [Joaquin Phoenix] bio-pic and got hard Viggo'd [five minutes] in.",
+      "written_on": "2010-12-27T00:00:00Z"
+    }
   ]
 }
