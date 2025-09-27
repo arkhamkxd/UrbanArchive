@@ -9026,5 +9026,13 @@
       "example": "\"[I'm not] part of any [Xbox Live] Clans, I have [a life].\"",
       "written_on": "2008-01-23T00:00:00Z"
     }
+  ],
+  "XIV": [
+    {
+      "defid": 284225,
+      "definition": "[scraps] [dies] in alleys",
+      "example": "[scrap killa]",
+      "written_on": "2003-10-10T00:00:00Z"
+    }
   ]
 }
