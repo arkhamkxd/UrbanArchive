@@ -6625,6 +6625,12 @@
       "definition": "Different than a 9mm [in a few] ways.\r\n\r\n-9s are fired sideways, rarely hitting anything. Used by street gangs.\r\n-9mms are fired properly and hit where they are fired [most of the time]. Used by [human beings].",
       "example": "1: suk ma 9 bitch\r\n*emptys 16 round mag, hits [nothing]*\r\n2: [Dumbass]\r\n*fires [one shot] into 1s head*",
       "written_on": "2006-04-09T00:00:00Z"
+    },
+    {
+      "defid": 4137084,
+      "definition": "[upside down] 6",
+      "example": "there is no suchthing as 9 only an a 6 [next] to a [upside down] 6",
+      "written_on": "2009-07-27T00:00:00Z"
     }
   ],
   "《¤》Deeya《¤》deeya《¤》deeyA《¤》": [
@@ -44291,6 +44297,12 @@
       "definition": "The phrase “[pulling a michael]” means when, in a very silly way, [someone] misspells, punctuates, or uses [grammar] incorrectly.",
       "example": "“Oh! I’m “[pulling a michael]” when [spelling] [environment] like invironment",
       "written_on": "2021-11-17T16:02:20.608Z"
+    },
+    {
+      "defid": 16439486,
+      "definition": "“[Pulling a Michael]” means when, in a very silly way, [someone] misspells, punctuates, or uses [grammar] incorrectly.",
+      "example": "“Oh no! I’m “[pulling a michael]” by [spelling] [environment] like invironment!”",
+      "written_on": "2021-11-17T16:22:02.03Z"
     }
   ],
   "4th gen vocalist": [
@@ -48065,6 +48077,12 @@
       "definition": "to hack or get hacked, derived from the digits [included] in the [leetspeak] term for hacked - [h4x0r3d]",
       "example": "[i just] [totally] 403ed that guys [lunix] box!!1",
       "written_on": "2006-12-10T00:00:00Z"
+    },
+    {
+      "defid": 35801,
+      "definition": "403 stands for permission numbers in binary.\r\n\r\nOwner, Group, and World in that order stand for the numbers 4 0 and 3\r\nWhen [translated] to binary this is what the numbers mean\r\n     r w x \r\n4 -- 1 0 0\r\n0 -- 0 0 0\r\n3 -- 0 1 0\r\n\r\nr -- read\r\nw -- write\r\nx -- execute\r\n\r\nIf its a zero, means you don't have the permission to do that [particular] task.\r\nSo, that means is theres a 0 in the r column you cannot read that file.\r\n\r\nAs you can see from the r column in a 403 code, NO one has permission to read it except the owner (4). The group(0) and the rest of the world(3) both are denied access to this [particular] file.",
+      "example": "Any [website] that displays the 403 [error].",
+      "written_on": "2003-02-13T00:00:00Z"
     }
   ],
   "1169": [
@@ -53737,6 +53755,46 @@
       "definition": "[Tacoma] slang for very [cheap] [hookers].",
       "example": "Pimp: Shit son what we gettin tonight?\r\nMan: [i dont know], but i cant afford much\r\nPimp: Hows about a 49 cent Taco?\r\nMan: [Whats her name]?\r\nPimp: Latula\r\nMan: Nah man im [good for] tonight.",
       "written_on": "2006-07-08T00:00:00Z"
+    }
+  ],
+  "486": [
+    {
+      "defid": 348701,
+      "definition": "the [obsolete] [paperweight] lying [in the corner] of my room",
+      "example": "hey, be [careful] [with that] [brand new] 486, it cost me $3000!",
+      "written_on": "2003-11-13T00:00:00Z"
+    }
+  ],
+  ".yourhotwifey": [
+    {
+      "defid": 16334118,
+      "definition": "[This is] [the best person ever], I [LOVE THEM] SO MUCH ♡",
+      "example": ".yourhotwifey is [the best]",
+      "written_on": "2021-09-24T07:46:47.455Z"
+    }
+  ],
+  "#1 sniper": [
+    {
+      "defid": 17894816,
+      "definition": "[sniper] [tf2]",
+      "example": "[dominate] [a casual] server.\r\nyou're the #1 [sniper].",
+      "written_on": "2023-08-21T04:12:40.038Z"
+    }
+  ],
+  "`1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/-['=]\\\\]='[-/;p0.lo9,ki8mju7nhy6bgt5vfr4cde3xsw2zaq1`": [
+    {
+      "defid": 14439451,
+      "definition": "when you type every [possible] key [diagonally] on a [QWERTY keyboard]",
+      "example": "i could have `1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/-'=\\\\='-/;p0.lo9,ki8mju7nhy6bgt5vfr4cde3xsw2zaq1`ed",
+      "written_on": "2019-11-15T00:00:00Z"
+    }
+  ],
+  "10 Soldiers": [
+    {
+      "defid": 4154533,
+      "definition": "10 fingers inserted into the vagina. [Sometimes] called \"10 Soldiers of Victory.\" Unlike fisting, and for easier facilitation, [the hands] are held [straight out] and flat as though in prayer (or literal muff-diving).",
+      "example": "\"Dude, I totally [attempted] the 10 [Soldiers] of Victory [last night], but she didn't let it get past the mini-van.\"",
+      "written_on": "2009-08-04T00:00:00Z"
     }
   ]
 }
