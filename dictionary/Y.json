@@ -31171,6 +31171,12 @@
       "definition": "“yum” is an [expression] people use when they taste a food or [something] [edible].",
       "example": "[My Friend]: how would you describe [the word] “yum”?\r\nMe: Well, [your mom is] “yum”",
       "written_on": "2018-06-19T00:00:00Z"
+    },
+    {
+      "defid": 1314840,
+      "definition": "[Yellow Dog] Updater, Modified\r\n\r\nYum is a great CLI application, with GUI front ends, similar to Apt for RPMs that makes updating, getting information about, installing and removing RPMs easy. It's used by Yellow Dog, Fedora Core, and RHEL (and possibly more distros I do not know about). When you install something via Yum, Yum [automatically] downloads and installs all dependencies of the package you want if you don't have the dependencies, putting an end to dependency hell if the package you want is in your Yum repositories.\r\n\r\nA great Yum [configuration] file for the most recent stable Fedora Core that adds great repositories can be found at http://www.fedorafaq.org/samples/yum.conf",
+      "example": "I escaped dependency hell for [Frozen] [Bubble] by [using] Yum :)",
+      "written_on": "2008-07-15T00:00:00Z"
     }
   ],
   "Yesmeira": [
@@ -51029,6 +51035,46 @@
       "definition": "Yes ma'amiodt, or just \"Yes maamiodt\" without punctuation is a fusion of the phrases \"Yes ma'am\" and \"periodT\". It is a way to affirm or confirm something or someone. It can also be used to not affirm something or someone. For example, the [alternative] would be \"No ma'amiodt\". A \"ma'amiodt\" can also be your friend or bestie. Other forms of ma'amiodt include \"ma'amidid\", \"ma'amicunt\", \"ma'amerit\". Ma'amiodt is mainly used without punctuation for edge and cuntiness. Originating from Toronto [in the early] 2020s, the ma'amiodt bible has made its way to NYC and continues to grow in [popularity] today!",
       "example": "\"Did you go to the function last night?\"\r\n\"Oh yes ma'amiodtttt!! It was iconic I fear.\"\n\n\"Have you texted him back?\"\r\n\"No ma'amiodt, I'm over his ass\"\n\n\"Don't [you know that] girl [over there]?\"\r\n\"Oh [I love her] ma'amiodt ass! She's always a ki!\"",
       "written_on": "2025-07-12T11:33:37.397Z"
+    }
+  ],
+  "yuveiry": [
+    {
+      "defid": 16655662,
+      "definition": "[Kind of] [Retarded] and is [too cool for school]",
+      "example": "Yuveiry is [retarded]",
+      "written_on": "2021-11-23T08:52:12.238Z"
+    }
+  ],
+  "Y'all Haul": [
+    {
+      "defid": 7270646,
+      "definition": "Replaces \"[U-Haul]\" in [the South].",
+      "example": "We are moving [next week] I'd better [reserve] [a truck] from Y'all Haul.",
+      "written_on": "2013-10-27T00:00:00Z"
+    }
+  ],
+  "yuhboats": [
+    {
+      "defid": 1865161,
+      "definition": "can b used in [almost] n e [sentence] to giv a reply or answer to some1>>> yuhboats is like sayin yea>>> noboats is the [opposite]",
+      "example": "\"[you was] at dat [block party] last [nite]?\"\r\n\"Yuhboats!\"\r\n              OR\r\n\"yo Keiba\"\r\n\"Yuhboats\"",
+      "written_on": "2006-07-16T00:00:00Z"
+    }
+  ],
+  "Yares": [
+    {
+      "defid": 5810043,
+      "definition": "Someone who is a loser in descent. The origins go back to [Central America] where they said Yares with the accent on the e so it sounded like \"ya-rEz\"\r\nCan be combined with Alex (meaning cool) to mean an arrogant person who thinks they are cool but are [actually] a loser with [no friends].",
+      "example": "He is [such a] yares, he [asked] me out last [week].",
+      "written_on": "2011-06-05T00:00:00Z"
+    }
+  ],
+  "yumrykaylin": [
+    {
+      "defid": 15534400,
+      "definition": "yumrykaylin is a mixture of many personalitys..yumory meaning yumnaa and rory ...kaylin meaning keziah and daylin...someone who has a [variety] of characterisics and the darkest of [backgrounds]..if u ever come across her keep her cause shes [definetly] a keeper u wont regret any moment of time spent with her",
+      "example": "yumrykaylin is such [a beauty] damn where eva she goes a [atmosphere] is [brought] along dnt lose her",
+      "written_on": "2020-12-01T07:48:54.895Z"
     }
   ]
 }
