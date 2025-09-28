@@ -56104,5 +56104,29 @@
       "example": "Yo Isaiah what [did you] get for [Christmas]? Yo, santa got me a swag [upgrade].",
       "written_on": "2009-01-08T00:00:00Z"
     }
+  ],
+  "<.7.9.7.6.>Never That Never<.7.9.7.6.>": [
+    {
+      "defid": 18489001,
+      "definition": "<.[7.9].7.6.>[Never That] [Never]<.7.9.7.6.>",
+      "example": "<.[7.9].7.6.>[Never That] [Never]<.7.9.7.6.>",
+      "written_on": "2025-05-16T13:23:40.314Z"
+    }
+  ],
+  "[shlinked]": [
+    {
+      "defid": 3685791,
+      "definition": "To spit [something] [unnatural] [out of your mouth].",
+      "example": "[I just] [shlinked] my gum [on the ground].",
+      "written_on": "2009-02-04T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Place A Towel On The Floor, Urinate On A Certain Spot And From Which, Wence, Throw It Inside A Hamper With Clothes Then Wait 15 Hours To Wash Dirty Clothes With <Waste>Ur<i>ne<wastE>": [
+    {
+      "defid": 18485733,
+      "definition": "<.7.9.7.6.>Place A Towel [On The Floor], [Urinate] On A Certain Spot And From Which, Wence, [Throw It] Inside A Hamper With Clothes Then Wait 15 Hours To Wash Dirty Clothes With <Waste>Ur<i>ne<wastE>",
+      "example": "<.7.9.7.6.>Place A Towel [On The Floor], [Urinate] On A Certain Spot And From Which, Wence, [Throw It] Inside A Hamper With Clothes Then Wait 15 Hours To Wash Dirty Clothes With <Waste>Ur<i>ne<wastE>",
+      "written_on": "2025-05-10T22:20:45.122Z"
+    }
   ]
 }
