@@ -34904,5 +34904,13 @@
       "example": "[borderlands] : zer0 a [bigger] [number] than you",
       "written_on": "2019-11-11T00:00:00Z"
     }
+  ],
+  "Zequan": [
+    {
+      "defid": 13634565,
+      "definition": "[Bot]",
+      "example": "Zequan is [a bot] at [fortnite battle royal]",
+      "written_on": "2019-02-19T00:00:00Z"
+    }
   ]
 }
