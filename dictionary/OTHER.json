@@ -2569,6 +2569,12 @@
       "definition": "Yep, i read most of these but i got bored about halfway through cause i know the truth.. there are 421 chemicals in weed, reef, goodleaf, ganj, buddha, [the sticky] nugs, and yep even that [brown frown]... \r\n\r\nWanna know some real funny sh-t, I learned that at school.\r\n\r\nThat and April 20th u gotta get up wit ya boys and bring back that original rotation y'all started at the [tennis courts] behind school in 9th grade.. SHOTTIES TO THA FACE",
       "example": "420: Its FoTwinny mang.. [roll up] [the windows], u gotta [light]?",
       "written_on": "2006-05-03T00:00:00Z"
+    },
+    {
+      "defid": 1747161,
+      "definition": "[Columbine] Day. 4/20/1999 Eric Harris and Dylan Klebold commited [the worst] school massacre to date, killing 13 and injuring many more in their [suicide mission] at their local Highschool.",
+      "example": "-What's with the [date] 420?\r\n-Dude, it's [Columbine] [day]!",
+      "written_on": "2006-05-21T00:00:00Z"
     }
   ],
   "3D world": [
@@ -13267,6 +13273,12 @@
       "definition": "[webpage] not at this address. \r\nFrom [internet] [error 404] - File Not Found",
       "example": "You step in the stream, \r\nBut [the water] has [moved on]. \r\nThis page is [not here]. \r\n404",
       "written_on": "2004-04-29T00:00:00Z"
+    },
+    {
+      "defid": 3214912,
+      "definition": "404 is an HTTP status code. When you visit a web page, your computer is requesting data from a server using Hypertext Transfer Protocol (HTTP). \r\n\r\nBefore the web page is displayed, your browser sends the web server its HTTP header. The server responds with its HTTP header, which contains [the status] code. \r\n\r\nFor a normal web page, [the status] is 200 (OK). You [don't see] this because the server just sends you [the content] of the page. \r\n\r\nIf you encounter an error, then you see the actual status code, such as 404 Not Found.\r\n\r\nThe first 4 indicates a client error. The server is saying that you've done something wrong, such as misspell the URL or request a page which is no longer there. (For comparison, a 5xx error indicates a server-side problem, which may be transient; if you try it again, it may work.)\r\n\r\nThe middle 0 refers to a general syntax error. This could indicate a spelling mistake.\r\n\r\nThe last 4 just indicates the specific error in the 40x group, which also includes 400: Bad Request, 401: Unauthorized, etc.",
+      "example": "[404 not found]",
+      "written_on": "2008-08-04T00:00:00Z"
     }
   ],
   "2E": [
@@ -56151,6 +56163,46 @@
       "definition": "[Time] for [tour] announcements",
       "example": "[Band]: [announcement] at 7pm!\r\nThis indicates a [tour].",
       "written_on": "2018-06-13T00:00:00Z"
+    }
+  ],
+  ".22": [
+    {
+      "defid": 732347,
+      "definition": "A small caliber hunting cartridge only capable of taking down small game.  In a self-defense role, the .22LR cartridge has little [stopping power] and little [stopping power].  So, just because Ice Cube says [it's cool], don't go out and buy one.  The 9mm is the better choice in defending yourself.  Although it at best is a crappy round for anything but rabbits, it can be used for maximum infection because if used wisely, a .22 will not leave an exit wound.",
+      "example": "Wow, you're gonna use a .22 to knock [the bank] over?  Even [the bank] teller will whoop [your ass]!",
+      "written_on": "2004-06-24T00:00:00Z"
+    }
+  ],
+  "'Uckets": [
+    {
+      "defid": 2588262,
+      "definition": "An [Exclamation] of anything [really good], similar to \"Buckets\" in [basketball].  Also defines the good action or object.",
+      "example": "\"[Let's get] some 'uckets boys\"\r\n\r\n(After hearing of a friend [getting some] ass [last night])\r\n\"dude I totally tapped that\"\r\n\"'Uckets!\"",
+      "written_on": "2007-09-25T00:00:00Z"
+    }
+  ],
+  "/\\/\\/(OoOwOoO)\\/\\/\\": [
+    {
+      "defid": 15303788,
+      "definition": "His [name] is [Billy]\r\nhe [spider]",
+      "example": "/\\/\\/(OoOwOoO)\\/\\/\\",
+      "written_on": "2020-09-09T00:00:00Z"
+    }
+  ],
+  "10 speed killer": [
+    {
+      "defid": 17310765,
+      "definition": "A black [camaro] from hendo nc . Also nicknamed the ego killa . It’s [powered] by a [big cock] ls3 .",
+      "example": "That [right there] is not any ls3 , [that’s 10] speed [killer] .",
+      "written_on": "2022-06-16T13:49:01.578Z"
+    }
+  ],
+  "7 long dark hairs!": [
+    {
+      "defid": 18284893,
+      "definition": "A [bald] [old] [manne].",
+      "example": "PIG!\r\n7 [long] [dark] [hairs]!",
+      "written_on": "2024-08-02T14:25:07.539Z"
     }
   ]
 }
