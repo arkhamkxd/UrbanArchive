@@ -56128,5 +56128,29 @@
       "example": "<.7.9.7.6.>Place A Towel [On The Floor], [Urinate] On A Certain Spot And From Which, Wence, [Throw It] Inside A Hamper With Clothes Then Wait 15 Hours To Wash Dirty Clothes With <Waste>Ur<i>ne<wastE>",
       "written_on": "2025-05-10T22:20:45.122Z"
     }
+  ],
+  "80/20 diet": [
+    {
+      "defid": 12807785,
+      "definition": "A simple diet plan of [eating] only 80% of [healthy foods] and 20% of [unhealthy] foods.",
+      "example": "Eversince a [coworker] told me about the 80/20 diet I now only eat garden salads and fresh fruits during the week but, on [the weekend] [it's nothing] but, burgers, hotdogs, and fries.",
+      "written_on": "2018-05-22T00:00:00Z"
+    }
+  ],
+  "2 minutes, maybe 4": [
+    {
+      "defid": 4007664,
+      "definition": "1. A common phrase uttered by guys [suffering] from [premature ejaculation] when referring to how long they would last during sex\n\n2. Used to persuade a busy girl to [have sex]\n\n3. Said to lighten the mood before an intimate encounter",
+      "example": "Doctor, I have a problem. During sex I last [2 minutes], maybe 4.\n\nHe told me he would last 2 minutes, maybe 4. [A minute and a half] later, I [realized] he wasn't joking",
+      "written_on": "2009-05-31T00:00:00Z"
+    }
+  ],
+  "7pm": [
+    {
+      "defid": 12981747,
+      "definition": "[Time] for [tour] announcements",
+      "example": "[Band]: [announcement] at 7pm!\r\nThis indicates a [tour].",
+      "written_on": "2018-06-13T00:00:00Z"
+    }
   ]
 }
