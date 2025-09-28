@@ -34062,5 +34062,21 @@
       "example": "[Damn], I Zampino'ed [that bitch] [like] there's no tomrrow!!",
       "written_on": "2004-02-20T00:00:00Z"
     }
+  ],
+  "zetoc": [
+    {
+      "defid": 646889,
+      "definition": "[Electronic] table of contents of the British Library.  This is the website to visit if you want to find out all the journal articles which have been published on a [particular] subject since the late 90s.  The only problem is, you need an Athens username and password to get in.  But if you can get on a [university] campus and use a computer there, it should be OK.\r\n\r\nProblem:  you put in an author's name, and get 1652 references - only then do you realise that there's 150 authors with the same obscure name.  It would help if you could search by topic.",
+      "example": "The [address] is zetoc.mimas.ac.uk or [something like that].",
+      "written_on": "2004-05-01T00:00:00Z"
+    }
+  ],
+  "zock": [
+    {
+      "defid": 2134833,
+      "definition": "nick-name for [coke] in wv\r\nZ-zealously\r\nO-over [using]\r\nC-cocaine\r\nK-knowing",
+      "example": "[yo man] you got any zock.\r\n[Last night] we got so [zocked] up",
+      "written_on": "2008-12-09T00:00:00Z"
+    }
   ]
 }
