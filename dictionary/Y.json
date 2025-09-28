@@ -23141,6 +23141,12 @@
       "definition": "yeast",
       "example": "[Person 1]: Yeast\r\n[Person 2]: [yes]",
       "written_on": "2022-06-30T18:08:14.518Z"
+    },
+    {
+      "defid": 14062166,
+      "definition": "[The thing] [vin diesel] ate [for dinner]",
+      "example": "I [put] yeast into [the cake]",
+      "written_on": "2019-07-14T00:00:00Z"
     }
   ],
   "yushada": [
@@ -54351,6 +54357,12 @@
       "definition": "Youse - [Collective] Noun\r\n[Pronunciation] - Yoos\n\nA word used when referring to a group of people. Mostly used in [Australia].",
       "example": "What are youse doing [tomorrow] [night]?",
       "written_on": "2018-11-07T00:00:00Z"
+    },
+    {
+      "defid": 7141654,
+      "definition": "Local dialect for 'mate' used in a greeting by those usually born and bred in Neston/ Little Neston (Cheshire) to a greater degree and Parkgate and Ness to a lesser degree - Largely in decline owing to the traditional 'born and bred' local populous being [watered down] by non-locals, [particularly] those from Ellesmere Port, Birkenhead and Liverpool and those entirely foreign to the area\n\nPronounced 'Use', rhyming with 'Juice' - Not be to confused with the Liverpool [pronunciation] 'Ewes' - Same word but different meaning\n\nHistory - There are two historical theories behind the word;\n\n1. Neston Colliery (Closed in 1927) - A [particular] Foreman at the colliery was said to have chose the men he wanted to work on a daily basis by pointing to each man and stating 'You Sir' - So it allegedly became somewhat of a joke and subsequent use of the two words combined was borne. NB. 'Youser' is one of two words (also 'owden) used to describe a true native of Neston or the surrounding areas\n\n2. Deer Hunting - It is said that when deer hunting took place in Parkgate and the surrounding area, the working parties would greet the hunters/gentlemen with 'Good morning Sir' and were greeted back with 'And to you, Sir' or vice versa or possibly even just between the hunters/gentlemen. Again, the supposition in that the [combination] of the two words 'You, Sir' formed what is still used today",
+      "example": "[Youser] 1 - 'Aw'reet youse?'\n\n[Youser] 2 - 'Aye, aw'reet me [old] tait'",
+      "written_on": "2013-08-19T00:00:00Z"
     }
   ],
   "Yes-Visor": [
@@ -57373,6 +57385,22 @@
       "definition": "ya da da [mean] in [english] is [you know what i mean].",
       "example": "sd: ya da da [mean]\r\nme: what?\r\nsd: ya da\r\nme: huh?\r\nsd: you. [know]. what. i. [mean].\r\nme: oh...\r\nsd: ya da da mean",
       "written_on": "2005-05-13T00:00:00Z"
+    }
+  ],
+  "yousheem": [
+    {
+      "defid": 14539804,
+      "definition": "A girl who is hella mean and calls [you dirty] [disgusting] names but at [the same] time she's nice and amazing",
+      "example": "[did you] see the way yousheem treated that [homeless man]? she just kicked him [and then] gave him $100",
+      "written_on": "2019-12-13T00:00:00Z"
+    }
+  ],
+  "Yeany": [
+    {
+      "defid": 335615,
+      "definition": "a stupid, [idiotic], [self-righteous], pompous, whingeing person of [scottish] origin.",
+      "example": "You [bloody] yeany!",
+      "written_on": "2003-11-06T00:00:00Z"
     }
   ]
 }
