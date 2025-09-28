@@ -42334,5 +42334,21 @@
       "example": "I have a very [limited] udiolect at [present].",
       "written_on": "2010-03-30T00:00:00Z"
     }
+  ],
+  "UPI": [
+    {
+      "defid": 16906081,
+      "definition": "[Universal] Prostate [Institute].\n\nA made-up institution to serve as an excuse when somebody asks where you [graduated].",
+      "example": "George: Do you have a degree in [computer science]?\n\nJohnson: [Oh yeah], I [graduated] at UPI...",
+      "written_on": "2022-01-12T15:50:10.431Z"
+    }
+  ],
+  "Uncouth": [
+    {
+      "defid": 13855063,
+      "definition": "A person who is [basically] an [uncultured] pig who goes out giving spoilers for things such as [Game of thrones] or Marvel Avengers:Endgame",
+      "example": "That uncouth just [spoiled] [battle] of winterfell [for me].",
+      "written_on": "2019-04-28T00:00:00Z"
+    }
   ]
 }
