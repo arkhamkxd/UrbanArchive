@@ -59330,5 +59330,21 @@
       "example": "\"She [wants] the se><0rz\"\r\n\r\n\"He [put] the [PWN0rz] on her\"",
       "written_on": "2003-07-08T00:00:00Z"
     }
+  ],
+  "1337 (leet)": [
+    {
+      "defid": 1096002,
+      "definition": "there are many ways to write each [letter] in leet.\r\nhere are [the most] [common]:\r\n\r\nA= 4\r\nB= 8\r\nC= (\r\nD= |)\r\nE= 3\r\nF= |=\r\nG= 6\r\nH= |-|\r\nI= !\r\nJ= _/\r\nK= |<\r\nL= 1\r\nM= /\\/\\\r\nN= /\\/\r\nO= 0\r\nP= |>\r\nQ= &\r\nR= |2\r\nS= 5\r\nT= 7\r\nU= |_|\r\nV= \\/\r\nW= \\/\\/\r\nX= ><\r\nY= '/\r\nZ= 2",
+      "example": "[LEET]:\\/!|2|_|5\r\n[Translation]: [Virus]",
+      "written_on": "2005-05-13T00:00:00Z"
+    }
+  ],
+  "33rd": [
+    {
+      "defid": 1037539,
+      "definition": "a [way to] exlude [other people]",
+      "example": "[i am not] cool [enough] [to be] a 33rd",
+      "written_on": "2005-02-02T00:00:00Z"
+    }
   ]
 }
