@@ -114,5 +114,13 @@
       "example": "Ægge er en dejlig [dreng].\r\nDet er fedt at være sammen med Ægge.\r\nÆgge [vaper].\r\nÆgge har vægtproblemer.\r\nÆgge er en stor [dreng].",
       "written_on": "2019-05-25T18:08:36.937Z"
     }
+  ],
+  "æ-tensing": [
+    {
+      "defid": 17857924,
+      "definition": "A sound change that [Americans] [invented] to make [British] infiltrators easier to detect.",
+      "example": "He [pronounced] \"hand\" as hænd [rather] than hɛənd, with no æ-tensing , so we knew to be [suspicious] of him.",
+      "written_on": "2023-07-14T19:49:09.466Z"
+    }
   ]
 }
