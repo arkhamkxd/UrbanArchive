@@ -10214,5 +10214,13 @@
       "example": "[Hey You]! XYZ!",
       "written_on": "2003-06-09T00:00:00Z"
     }
+  ],
+  "Xx": [
+    {
+      "defid": 16259463,
+      "definition": "Undeniably [female]",
+      "example": "Only xx can [give birth].",
+      "written_on": "2021-08-20T22:01:22.76Z"
+    }
   ]
 }
