@@ -46562,5 +46562,29 @@
       "example": "[You are an idiot] for [looking up] [that word]",
       "written_on": "2005-02-09T00:00:00Z"
     }
+  ],
+  "ujsa": [
+    {
+      "defid": 17683691,
+      "definition": "[The worst] [titkok] [editor] ever",
+      "example": "She [a nasty] ujsa",
+      "written_on": "2023-02-23T18:36:24.575Z"
+    }
+  ],
+  "Umbrellaquette": [
+    {
+      "defid": 4496067,
+      "definition": "Used to decide who will give the right-away when two people with [umbrellas] are walking towards each other in a narrow passageway. [Generally], the taller person should raise their [umbrella] to avoid collision. This changes in the case of mixed genders, in which case the male should go high.",
+      "example": "Friend - Whoa! How [did you know] they would stay low?\r\nYou - Bro, [it's simple] umbrellaquette!\n\nor\n\nStranger crashes [umbrella] into yours;\r\nYou - Whoa, learn some umbrellaquette...",
+      "written_on": "2010-01-12T00:00:00Z"
+    }
+  ],
+  "uf": [
+    {
+      "defid": 42175,
+      "definition": "[undercover freak]",
+      "example": "Is she an uf?",
+      "written_on": "2003-02-23T00:00:00Z"
+    }
   ]
 }
