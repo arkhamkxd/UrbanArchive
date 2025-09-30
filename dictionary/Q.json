@@ -25436,5 +25436,13 @@
       "example": "[Time] for [a shower] and Q-gasm.",
       "written_on": "2006-04-29T00:00:00Z"
     }
+  ],
+  "q w e r t y u i o p a s d f g h j k l z x c v b n m": [
+    {
+      "defid": 16263905,
+      "definition": "[When you] are so bored you typed every [letter] on your [keyboard] but with a space between them",
+      "example": "Hey Jake, [what are you doing]?\r\n[I'm so bored]: I'm just [gonna] type q w e r t y u i o p a s d f g h j k l z x c v b n m",
+      "written_on": "2021-08-23T07:55:34.251Z"
+    }
   ]
 }
