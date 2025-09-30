@@ -63856,5 +63856,21 @@
       "example": "[spongebob]\u0001[pants], [be there] or be\u0001",
       "written_on": "2007-08-04T00:00:00Z"
     }
+  ],
+  "<.7.9.7.6.>I, Angel JOse Robles Will Continue Whilst Working Hhard At The Same Time<.7.9.7.6.>": [
+    {
+      "defid": 18485489,
+      "definition": "<.7.9.7.6.>I, Angel JOse Robles Will [Continue] Whilst [Working] Hhard At [The Same] Time<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>I, Angel JOse Robles Will [Continue] Whilst [Working] Hhard At [The Same] Time<.7.9.7.6.>",
+      "written_on": "2025-05-10T12:27:48.906Z"
+    }
+  ],
+  "[grand]": [
+    {
+      "defid": 3168184,
+      "definition": "[mean] your [a nerd] or [geek]",
+      "example": "don't be calling me a [grand]",
+      "written_on": "2008-06-20T00:00:00Z"
+    }
   ]
 }
