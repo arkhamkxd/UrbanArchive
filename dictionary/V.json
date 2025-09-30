@@ -59490,5 +59490,21 @@
       "example": "\"Dude, you ready to [finish this] session with [a couple of] sets of Vampiric [Chest Press]?\"\r\n\"Damn, I knew I forgot something. Gotta skip the Vampiric Chest Press today, I left my IV Bag at home.\"",
       "written_on": "2024-05-08T17:42:47.086Z"
     }
+  ],
+  "Vegetable Frisbee": [
+    {
+      "defid": 9594025,
+      "definition": "An [inside joke] between Joe, [Josh] and [Ethan].",
+      "example": "\"[Vegetable] [Frisbee]\" *[Laughing]*",
+      "written_on": "2016-06-04T00:00:00Z"
+    }
+  ],
+  "vagina dialogue": [
+    {
+      "defid": 2079303,
+      "definition": "[Sexual relations] between a man and a woman.  A play on [the play] \"The [Vagina Monologues]\".",
+      "example": "[President] [Bill Clinton] was once heard to say, \"Hey Monica, let's [you and I] have a vagina dialogue.\"",
+      "written_on": "2008-11-10T00:00:00Z"
+    }
   ]
 }
