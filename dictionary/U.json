@@ -47356,5 +47356,29 @@
       "example": "[Girl]: i met the [sweetest] guy\r\nGuy: it must [have been] a male Uroosa",
       "written_on": "2010-10-04T00:00:00Z"
     }
+  ],
+  "unsociable": [
+    {
+      "defid": 4248352,
+      "definition": "Being not sociable, remaining inside and away from the [general public]/[your friends]/[your family]/any form of non-internet person for over 12 hours.",
+      "example": "Ayy: Dude, I haven't seen Ci for a week, is he even alive?\n\nBee: He's [taking] part in some [4chan] raid, [talk about] unsociable.",
+      "written_on": "2009-09-20T00:00:00Z"
+    }
+  ],
+  "UK-anise": [
+    {
+      "defid": 4073879,
+      "definition": "[The language] that is spoken by [people] from [the UK].",
+      "example": "Tom: \"I hate how [they say] wank, what [language] is that [anyway]?\"\r\nDevin: \"It's UK-anise man.\"",
+      "written_on": "2009-06-28T00:00:00Z"
+    }
+  ],
+  "ur mom gae HAHAHAHA!": [
+    {
+      "defid": 14536320,
+      "definition": "no [definition] needed",
+      "example": "1.[ur mom gae] [HAHAHAHA]!\r\n2.[which one]",
+      "written_on": "2019-12-12T00:00:00Z"
+    }
   ]
 }
