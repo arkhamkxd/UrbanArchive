@@ -64246,5 +64246,13 @@
       "example": "my [boss] [just] [walked in], 2bhb",
       "written_on": "2016-11-29T13:13:31.237Z"
     }
+  ],
+  "`'`Paper`'`Box`'` paPer`'`bOx`'`, papeR`'`boX": [
+    {
+      "defid": 18474718,
+      "definition": "`'`[Paper]`'`Box`'` [paPer]`'`bOx`'`, [papeR]`'`boX",
+      "example": "`'`[Paper]`'`Box`'` [paPer]`'`bOx`'`, [papeR]`'`boX",
+      "written_on": "2025-04-23T18:06:14.303Z"
+    }
   ]
 }
