@@ -10910,5 +10910,21 @@
       "example": "Xabiya, [what a] [pretty] name\n\nPardon, is it a name of person? I tho it was [an angel]",
       "written_on": "2022-09-17T22:07:50.066Z"
     }
+  ],
+  "xaz": [
+    {
+      "defid": 5028355,
+      "definition": "[the reason] for _____\r\n[commonly] [misspelled] as zazz.",
+      "example": "i [really] [wanna play] [dnd]!\r\nwhy?\r\nxaz",
+      "written_on": "2010-06-13T00:00:00Z"
+    }
+  ],
+  "xinf": [
+    {
+      "defid": 3021893,
+      "definition": "[times] [infinity]. x's [infinity].",
+      "example": "[Aww]! [I love you] xinf!",
+      "written_on": "2008-04-27T00:00:00Z"
+    }
   ]
 }
