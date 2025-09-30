@@ -25610,5 +25610,37 @@
       "example": "[I saw] [a girl] with a quifletoe.",
       "written_on": "2017-06-01T00:00:00Z"
     }
+  ],
+  "QMO": [
+    {
+      "defid": 18044498,
+      "definition": "A QMO is [a person] who is like a sibling to you. They are also your bestfriend, however, they seem to not [care about] you as much as you [care about] them.",
+      "example": "[name] is my QMO.",
+      "written_on": "2023-12-11T06:16:05.628Z"
+    }
+  ],
+  "Qi": [
+    {
+      "defid": 1507707,
+      "definition": "Abr. [Quite] [Intresting].\r\nalso a show on bbc2 presented by [stephen fry]",
+      "example": "\"[did you] [watch] tht [show] Qi?\"",
+      "written_on": "2005-11-15T00:00:00Z"
+    }
+  ],
+  "questionitis": [
+    {
+      "defid": 14840060,
+      "definition": "Questionitis is a very common [psychological] state where you start [questioning] absolutely [everything] in existence in your vicinity. It is very infectious and very deadly, known to cause confusion if not cured.",
+      "example": "\"[I think I'm] [suffering] from Questionitis\"\r\n\"What makes you [think] so?\"",
+      "written_on": "2020-03-29T13:52:51.484Z"
+    }
+  ],
+  "querging": [
+    {
+      "defid": 8164884,
+      "definition": "To bore a group of Master's [students] to induce a [mass suicide] out of a 6th story window; [typically] in Spain",
+      "example": "After a lengthy querging session by the [analytical] modelling [professor], several [students] threw themselves face-first into the pavement 6 stories below",
+      "written_on": "2015-03-17T00:00:00Z"
+    }
   ]
 }
