@@ -128,5 +128,13 @@
       "example": "[Let's go] [snowboarding] in Ž[ilina]!",
       "written_on": "2008-05-03T00:00:00Z"
     }
+  ],
+  "živjo": [
+    {
+      "defid": 13517711,
+      "definition": "A [Slovenian] [word] for [hello].",
+      "example": "Ž[ivjo]!",
+      "written_on": "2019-01-11T00:00:00Z"
+    }
   ]
 }
