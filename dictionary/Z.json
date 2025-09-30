@@ -39422,5 +39422,21 @@
       "example": "I have tried [qwertyuiopasdfghjklzxcvbnm], [mnbvcxzlkjhgfdsapoiuytrewq], and even [qazedctgbujmolwsxrfvyhnikp], now ima see if anyone did zaqcdebgtmjuloxswvfrnhykip.",
       "written_on": "2019-09-10T00:00:00Z"
     }
+  ],
+  "Zephra": [
+    {
+      "defid": 15837967,
+      "definition": "Zephra: A [hulu] [show] Superstore's [corporate].",
+      "example": "[Example]: 'Amy': \"Zephra cares! Also, they told us to hand out these care packages to people with [wristbands]. So, Dina and me will get [right on that].",
+      "written_on": "2021-03-18T19:45:42.221Z"
+    }
+  ],
+  "Zhi": [
+    {
+      "defid": 16272418,
+      "definition": "People with [this name] [normally] like a certain [someone] with the name \"Justin\" or \"Nubius\".",
+      "example": "[Person 1]: Did [you know that] Zhi likes Justin?\r\n[Person 2]: I thought she likes Nubius?\r\nPerson 1: It's a 50/50 but I think Justin wins.",
+      "written_on": "2021-08-27T07:22:13.704Z"
+    }
   ]
 }
