@@ -49400,5 +49400,29 @@
       "example": "[wow]! [look] a that unipotimus",
       "written_on": "2011-04-10T00:00:00Z"
     }
+  ],
+  "unpossable": [
+    {
+      "defid": 51272,
+      "definition": "[means] that its more impossable than impossable.",
+      "example": "\"[Thats] [unpossible]!!!\"",
+      "written_on": "2003-03-06T00:00:00Z"
+    }
+  ],
+  "Ubuntu": [
+    {
+      "defid": 3361729,
+      "definition": "A linux [distribution] for [people] that [fail at life].",
+      "example": "Noob: I finally [installed] Linux, does that make my uber leet?\r\nLinux Guru: What distro?\r\nNoob: Ubuntu...\r\nLinux Guru: [You suck] [assballs]",
+      "written_on": "2009-01-13T00:00:00Z"
+    }
+  ],
+  "Usha": [
+    {
+      "defid": 15978612,
+      "definition": "noun\n\nhuman who belongs in another galaxy\r\nthis creature reminds you of an old judgey aunty but is a little [labrador] puppy at heart who is [ironically] never up to cuddle.\n\nUsha is a strange [mysterious] being, that will confuse you, but is an addiction. We love Ushas.",
+      "example": "There goes [the village] hag, Usha.\r\nThey is [not really] hag. They is a [little] puppy.",
+      "written_on": "2021-05-09T10:31:07.039Z"
+    }
   ]
 }
