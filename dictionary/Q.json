@@ -3951,6 +3951,12 @@
       "definition": "brand of [clothes], [another] name for [mercury].",
       "example": "they used to put bread filled with [quicksilver] in [rivers] to find [dead people].",
       "written_on": "2004-08-12T00:00:00Z"
+    },
+    {
+      "defid": 455037,
+      "definition": "[Male] [clothing] [brand name]",
+      "example": "[I think] I [might] buy that quiksilver [shirt].",
+      "written_on": "2004-01-18T00:00:00Z"
     }
   ],
   "qopweuirtyaklsdhjfgznmxcbv": [
@@ -26217,6 +26223,22 @@
       "definition": "[random word] with pp at the [start]",
       "example": "qqppwwooeeiirruuttyyaallsskkddjjffhhggmmzznnxxbbccvv",
       "written_on": "2021-08-31T22:27:31.407Z"
+    }
+  ],
+  "Quiznak": [
+    {
+      "defid": 13469722,
+      "definition": "A word found in the animated series Voltron [Legendary] Defender. It from the Altean language and has no confirmed English [equivalent].\n\nHowever, from context it can be discerned that quiznak is some kind of alien swear word. In [the Voltron] fandom it is widely speculated to mean ‘fuck’.",
+      "example": "“[What the] quiznak!”\r\n“Who the quiznak [are you]?!”",
+      "written_on": "2018-12-22T00:00:00Z"
+    }
+  ],
+  "QWOC": [
+    {
+      "defid": 8002598,
+      "definition": "[Acronym] [standing] for [Queer] Women of Color",
+      "example": "QWOC like [Wanda Sykes] are so [important] to [the community].",
+      "written_on": "2014-12-13T00:00:00Z"
     }
   ]
 }
