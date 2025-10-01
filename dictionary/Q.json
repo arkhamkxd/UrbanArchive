@@ -26852,5 +26852,13 @@
       "example": "“That [sushi] was quice”\r\n“You [look] very quice [tonight]”",
       "written_on": "2020-04-06T00:00:00Z"
     }
+  ],
+  "quarkagon": [
+    {
+      "defid": 4260835,
+      "definition": "[The most] [powerful] species of all sea dragons. It is also [the most] feared. Quarkagons are white with blue eyes.",
+      "example": "User: I loooooove [Bill Kaulitz].\n\n[Cleverbot]: I know [you do]. But I love quarkagons.\n\nUser: touche.",
+      "written_on": "2009-09-26T00:00:00Z"
+    }
   ]
 }
