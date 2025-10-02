@@ -27940,5 +27940,29 @@
       "example": "[Game Player]: Quaternions, your game is [broken]! [Fix it]!\r\nQuaternions: no",
       "written_on": "2017-02-04T00:00:00Z"
     }
+  ],
+  "Quintruplets": [
+    {
+      "defid": 11848853,
+      "definition": "Quintruplets:\r\nWhen [giving birth] and [you don't] have [quadruplets]; you have an extra half of a baby.",
+      "example": "[Maybe] the cast of \"[Two and a Half Men]\" were quintruplets. He is only half a [human after all].",
+      "written_on": "2017-08-05T00:00:00Z"
+    }
+  ],
+  "qiibi": [
+    {
+      "defid": 16974509,
+      "definition": "A tall skinny person. This person you can trust to keep your secrets. They will defend you once you gain their trust. They [usually] keep to themselves and won’t show [emotion] [most of the time].",
+      "example": "“Oh, they’re [such a] qiibi.”",
+      "written_on": "2022-02-07T16:48:24.771Z"
+    }
+  ],
+  "qwiz": [
+    {
+      "defid": 17192555,
+      "definition": "A good to have [and is] [amazing] at [Fortnite]",
+      "example": "qwiz [what you doing]",
+      "written_on": "2022-04-28T23:54:04.96Z"
+    }
   ]
 }
