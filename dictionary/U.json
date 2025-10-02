@@ -52368,5 +52368,37 @@
       "example": "[Manchild]: bananas are good!\n\nStranger: bananas are [disgusting]...\r\nManchild: WTF!?!? unfollow me,[RIGHT NOW]!!!! >:(",
       "written_on": "2022-08-18T18:46:02.636Z"
     }
+  ],
+  "unwanted spam": [
+    {
+      "defid": 13460214,
+      "definition": "As opposed to [wanted] spam, [unwanted] spam is spam that is [unwanted].",
+      "example": "\"Get your [unwanted] spam [out of here]! [This place] is for wanted spam only!\"",
+      "written_on": "2018-12-18T00:00:00Z"
+    }
+  ],
+  "Ugandan discussions": [
+    {
+      "defid": 6376913,
+      "definition": "\"Ugandan discussions\" is a [euphemism] for sex coined during the early 1970s by the satirical British magazine \"[Private Eye]\".\n\nThe basis of the term arose at a party in London hosted by Neal Ascherson at which Irish moralist and [journalist] Mary Kenny, during her early, wild phase, spent some time upstairs with a former Ugandan government minister. On rejoining the other guests, Kenny explained their absence by saying they were \"upstairs discussing Uganda\".",
+      "example": "— Where are they?\r\n— I believe they [slipped away] for some private Ugandan discussions.\n\n— She [looks like] she was dragged through a hedge backwards!\r\n— She was upstairs discussing the situation in Uganda, [allegedly].",
+      "written_on": "2012-02-02T00:00:00Z"
+    }
+  ],
+  "Unmuthafcknreal": [
+    {
+      "defid": 11397447,
+      "definition": "When a situation gets so crazy, chaotic, [unreasonable], or just beyond [the point] of unreal and u have had enough of someones [bullshit] and or drama.",
+      "example": "\"[I can't even] [deal with you] because you're [acting] unmuthafcknreal!\"",
+      "written_on": "2017-04-06T00:00:00Z"
+    }
+  ],
+  "unmarried": [
+    {
+      "defid": 9649219,
+      "definition": "When a married couple takes an in-house [sleep divorce]. Time allowed to work on themselves without thinking about marriage and the other person's needs...You have to [fix yourself] before you fix a broken [relationship].",
+      "example": "Work and [family life] are [stressing] me out, we need to be unmarried for a few months, [let's talk] about it .",
+      "written_on": "2016-05-23T00:00:00Z"
+    }
   ]
 }
