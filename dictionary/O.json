@@ -26705,6 +26705,12 @@
       "definition": "To raise the clock speed of a graphics processing unit, central processing unit, or memory module by raising the front side bus (FSB) or the [multiplier].\r\n\r\nThe end clock speed is determined by using the following equation\r\n\r\n[Multiplier] * FSB = mhz\r\n\r\nSometimes additional voltage is required to achieve higher speeds.\r\n\r\nOverclocking [almost always] requires more cooling than \"stock\" parts provide. And generally shortens the life of a componant.",
       "example": "I [overclocked] my Athlon by unlocking the [multiplier] and upping the FSB. I had to add .5v to [make it] stable though.",
       "written_on": "2003-09-29T00:00:00Z"
+    },
+    {
+      "defid": 2701858,
+      "definition": "[under the influence] of [speed]",
+      "example": "[Hey dude], [let's go] get [overclocked]!",
+      "written_on": "2007-12-21T00:00:00Z"
     }
   ],
   "Oh I'm sorry!": [
@@ -90459,6 +90465,62 @@
       "definition": "It's a name used to call a [significant other]; [boyfriend]/[girlfriend] or spouse.",
       "example": "My ooki's [got] my [back], and I've [got his]/hers.",
       "written_on": "2007-12-11T00:00:00Z"
+    }
+  ],
+  "Overha": [
+    {
+      "defid": 4099590,
+      "definition": "The process of overly laughing, most notably during an IM [conversation] or any sort of [electronic] [communication]. The over laugh can be noted by the excess use of haha or lol. It especially gets annoying when others overha over something unfunny or a joke that wasn't that funny.",
+      "example": "Fredrick:Hey Juan, what do you call cheese that's not yours?\n\nJuan:IDK\n\nFredrick:[Nacho Cheese]\n\nJuan:HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\n\nFredrick:[Sometimes] you overha Juan.\n\nJuan:[HAHAHA no] such thing.",
+      "written_on": "2009-07-09T00:00:00Z"
+    }
+  ],
+  "Osley": [
+    {
+      "defid": 3869836,
+      "definition": "A name commonly mispronounced, sounds like \"Oh-zlee.\"  Defines a group of party-hard norwegians that immigrated from Trondheim, Norway.  [Favorite] foods include Lefsa, Ludafisk and [cheese dip].  Weaknesses include brewery tours and vodka.\r\nOften speak loudly and appear to be snobbish and [unapproachable].",
+      "example": "\"[Look at that] group of Osleys [over there]!  They sure know how to [have fun]!\"",
+      "written_on": "2009-04-08T00:00:00Z"
+    }
+  ],
+  "Opizit": [
+    {
+      "defid": 15823210,
+      "definition": "[Drunk] [scrabble]",
+      "example": "It is the opizit way of [spelling] [opposite] when you’re playing drunk [scrabble]. So it always qualifies.",
+      "written_on": "2021-03-13T23:50:08.555Z"
+    }
+  ],
+  "oaahah": [
+    {
+      "defid": 15646808,
+      "definition": "when your [friend] [swears] and [you don't know] what to say",
+      "example": "[Holly]: \"[feckle]\"\r\n[Dave]: \"oaahah\"",
+      "written_on": "2021-01-09T11:05:11.314Z"
+    }
+  ],
+  "Olney MD": [
+    {
+      "defid": 7872882,
+      "definition": "Olney is a [small town] that is quite uneventful. Every resident knows this and spends what time they could be spending driving somewhere else [complaining] about how there is [nothing to do]. It is a town where everybody looks forward to the weekend buts never does anything once the weekend actually arrives. The secret is--most people love it anyways(with the exception if HS students that is). It's the quaint and simple town that forces the relaxation of boredom back into a small portion of this fastpase world",
+      "example": "*anybody not from Olney MD* \"hey where's there a [Chipotle] [around here]\"\r\n\"Let me [look it up]. There's one in 'ale-knee?'\"\r\n\"Where?\"",
+      "written_on": "2014-08-14T00:00:00Z"
+    }
+  ],
+  "Oism": [
+    {
+      "defid": 17800873,
+      "definition": "Obama indirect self medal. If you see someone complimenting a group they are a part of to get [pleasure] by this generalising [narcissistic] act. Then [run the fuck] away.",
+      "example": "Self proclaimed Indian- Ancient Indians were [the greatest].\n\nS.F. American- America is [the greatest] nation.\r\nS.F. Human- Humans are worth more than animals. (Deanimalizing themselves and disregarding their [objectively] true roots and current nature)\r\nXERO- You all just want credit for something someone else did via Oism. By generalizing the credit owner and yourself under the same umbrella label by some arbitrary imbecile fabricated relation.",
+      "written_on": "2023-05-24T20:05:57.56Z"
+    }
+  ],
+  "Ovah": [
+    {
+      "defid": 2673789,
+      "definition": "[exceptional], [incredible], great, [outstanding], one of a kind.",
+      "example": "That house is ovah!\r\n[Did you] see the shoes Beyonce was [wearing]?  [Them shits] were ovah!",
+      "written_on": "2007-11-28T00:00:00Z"
     }
   ]
 }
