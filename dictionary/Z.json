@@ -42104,5 +42104,13 @@
       "example": "Zeynah is [beautiful]",
       "written_on": "2017-04-02T12:33:56.907Z"
     }
+  ],
+  "zaqwertyuiop": [
+    {
+      "defid": 17772000,
+      "definition": "[qazxcvbnm]",
+      "example": "zaqwertyuiop\r\n[qazxcvbnm]",
+      "written_on": "2023-05-01T07:42:42.266Z"
+    }
   ]
 }
