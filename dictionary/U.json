@@ -52630,5 +52630,29 @@
       "example": "He uose that [tissue]",
       "written_on": "2021-10-04T05:56:04.555Z"
     }
+  ],
+  "unyesn't've": [
+    {
+      "defid": 17509034,
+      "definition": "A word you use if you change [your mind] but still [don't know] if [you should] say yes or no after you already answered with yesn't've.",
+      "example": "You: yes\r\nAlso you: yesn't\r\n[Also also] you: [yesn't've]\r\n[Also also] also you: unyesn't've",
+      "written_on": "2022-10-22T20:01:07.399Z"
+    }
+  ],
+  "ursh": [
+    {
+      "defid": 6026487,
+      "definition": "A word used to [express] [frustration], [disappointment], or anger.",
+      "example": "[I just] [realized] that I locked my keys [inside] my car. Ursh!",
+      "written_on": "2011-08-22T00:00:00Z"
+    }
+  ],
+  "unrequited sex": [
+    {
+      "defid": 6127326,
+      "definition": "When you've had sex with someone but for one reason or another, [neither] of you [reached] orgasm. This leaves you feeling afterwards like you haven't had sex even though you have; [frequently] this means you want more.",
+      "example": "Bro 1: Dude, why are you still [thinking] about her, didn't you two [get it on] at that party a few weeks ago? Move on, man!\n\nBro 2: Yeah, but we got interrupted before we could finish. [Unrequited] sex just leaves me wanting more.",
+      "written_on": "2011-10-09T00:00:00Z"
+    }
   ]
 }
