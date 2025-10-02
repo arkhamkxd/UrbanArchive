@@ -52126,5 +52126,29 @@
       "example": "[Wha gwan] my n***a?\n\n[Ion] eon unna-anne [wha gwan].",
       "written_on": "2019-04-23T00:00:00Z"
     }
+  ],
+  "use free": [
+    {
+      "defid": 3069656,
+      "definition": "[beyond] the bounds of [useless] and [worthless], you become use free.",
+      "example": "[Who does] the hiring at [this place]? Every new hire is more use free than [the last]",
+      "written_on": "2008-05-08T00:00:00Z"
+    }
+  ],
+  "USB Nubbin": [
+    {
+      "defid": 14205665,
+      "definition": "A nubbin is a 120V [outlet] -> USB [connector] for [charging] phones etc.",
+      "example": "I plugged my phone into the usb wire but it wasn't [connected] to the USB nubbin, so it didn't charge. I should have [connected] it to the nubbin and plugged the nubbin into [the wall].",
+      "written_on": "2019-09-19T00:00:00Z"
+    }
+  ],
+  "Uyare": [
+    {
+      "defid": 17423998,
+      "definition": "ഉയരെ ⇄ Up, [high], [higher].",
+      "example": "[Fly] [higher] and [higher].\n\nUyare Uyare Uyare",
+      "written_on": "2022-08-24T11:43:18.07Z"
+    }
   ]
 }
