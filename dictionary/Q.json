@@ -27820,5 +27820,29 @@
       "example": "-¿Viste a [ese] qsier?\r\n-Si [dios] le [daría] un muerdo.",
       "written_on": "2021-11-28T15:34:51.774Z"
     }
+  ],
+  "qwertyuiopasdfghjklzxcmnbv": [
+    {
+      "defid": 18324199,
+      "definition": "You are [bored as fuck] right now. [You already] tried [qwertyuiopasdfghjklzxcvbnm], so you just made the last four letters backwards",
+      "example": "qwertyuiopasdfghjklzxcmnbv",
+      "written_on": "2024-09-23T09:52:32.999Z"
+    }
+  ],
+  "qwesadzxcrtyfghvbnuiojklnmp": [
+    {
+      "defid": 17218763,
+      "definition": "When you have tried almost every [different] pattern on the [keyboard] in [english class] so you make this, congrats.",
+      "example": "[I am bored], so I [wrote] qwesadzxcrtyfghvbnuiojklnmp.",
+      "written_on": "2022-05-09T00:40:13.804Z"
+    }
+  ],
+  "QEMCH": [
+    {
+      "defid": 17634425,
+      "definition": "[A player] of STFC/or any online game who makes up rules as they play [and then] either shows [ignorance] of it or lies about having done it",
+      "example": "That [players] team are [all well] [known] at being QEMCH's",
+      "written_on": "2023-01-18T21:04:38.334Z"
+    }
   ]
 }
