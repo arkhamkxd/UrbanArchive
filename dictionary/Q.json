@@ -27844,5 +27844,13 @@
       "example": "That [players] team are [all well] [known] at being QEMCH's",
       "written_on": "2023-01-18T21:04:38.334Z"
     }
+  ],
+  "queen elizabeth II": [
+    {
+      "defid": 13499869,
+      "definition": "is [abouta] [take the L]",
+      "example": "yo, is [queen] [elizabeth II] okay?\r\nnahh she took the L [jan 5].",
+      "written_on": "2019-01-05T00:00:00Z"
+    }
   ]
 }
