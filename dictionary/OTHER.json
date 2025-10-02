@@ -67954,5 +67954,37 @@
       "example": "[of course], if you [have been] there, then just [ignore this] advice, and you can tell me to keep my 0s and 1s to myself.  8P",
       "written_on": "2008-02-06T00:00:00Z"
     }
+  ],
+  "$1": [
+    {
+      "defid": 1719983,
+      "definition": "A buck.  (Not a deer.)  (Or a moose.)\r\n\r\n[One dollar].\r\n\r\nSome stupidly named [variable] in Perl or BASIC or some other useless, loosely typed [programming language].",
+      "example": "\"Gimmee $1, I need a [Snickers]\"\r\n\r\nif ($1==\"stupid\") {\r\n   print \"Who is stupid [enough] to use \\$\\1 as a [variable] name?  Perl sucks\\n\";\r\n}",
+      "written_on": "2006-05-06T00:00:00Z"
+    }
+  ],
+  "[docking] sauce": [
+    {
+      "defid": 6037266,
+      "definition": "the final stage ,product and end result of performing the act of docking. [Generally] shared through urethral exchange and can then be consumed orally\n\nsee docking\n\nalso can be [the product] of [double docking]",
+      "example": "Lets get [together] and make some [docking] sauce\n\nI love [the taste] of our dock sauce",
+      "written_on": "2011-08-25T00:00:00Z"
+    }
+  ],
+  "@Official_Hajime/@Sensxz": [
+    {
+      "defid": 15839715,
+      "definition": "some [tiktoker] who used to be good and very honest and cool but he deleted a lot of his content [and then] his [account] and he was ok",
+      "example": "\"did you hear? \"@[Official]_Hajime/@Sensxz\"[deleted] his [account]!\"",
+      "written_on": "2021-03-19T12:00:00.921Z"
+    }
+  ],
+  "/^\\": [
+    {
+      "defid": 14141477,
+      "definition": "A simple [kawaii] face to [express] my [tiredness].",
+      "example": "“I’m [feeling] [kinda] [tired] /^\\”",
+      "written_on": "2019-08-21T00:00:00Z"
+    }
   ]
 }
