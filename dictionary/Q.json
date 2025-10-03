@@ -29346,5 +29346,29 @@
       "example": "[Look at] the lips [quacking] [away on] that quacker.",
       "written_on": "2017-01-06T00:00:00Z"
     }
+  ],
+  "Quance": [
+    {
+      "defid": 12816684,
+      "definition": "Once, [Twice], [Thrice], Quance.\r\nDerived from /[quad]/, four.",
+      "example": "[Twice], [Thrice], Quance-times a [lady].",
+      "written_on": "2018-05-24T00:00:00Z"
+    }
+  ],
+  "Quake Fruit": [
+    {
+      "defid": 17587974,
+      "definition": "[The Quake] Fruit is a fruit that when eaten the guy/women is [granted] with power to destroy [the world].",
+      "example": "He is so [strong] [its like] he ate [the Quake] Fruit.",
+      "written_on": "2022-12-13T13:00:54.797Z"
+    }
+  ],
+  "Qphobia": [
+    {
+      "defid": 14226113,
+      "definition": "[Fear] of [short] [words]",
+      "example": "[The fear] of short [words] is [called] qphobia",
+      "written_on": "2019-09-28T00:00:00Z"
+    }
   ]
 }
