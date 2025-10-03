@@ -21909,6 +21909,12 @@
       "definition": "[Sound] [made] by [Rake Yohn].",
       "example": "I [hate] [mustard]. [Woo] Woo!",
       "written_on": "2003-11-18T00:00:00Z"
+    },
+    {
+      "defid": 464053,
+      "definition": "[sound] we [like to] make before we [kick someone's ass] in a race.",
+      "example": "haha, [north] [eugene] [sucks], woo woo!",
+      "written_on": "2004-01-22T00:00:00Z"
     }
   ],
   "Wankbiscuit": [
@@ -157591,6 +157597,54 @@
       "definition": "To find a [marijuana] dispensary by means of [reading] [reviews].",
       "example": "How [can I] find weed [around here]? Just weed [yelp] it.",
       "written_on": "2010-12-12T00:00:00Z"
+    }
+  ],
+  "Waffle Bumps": [
+    {
+      "defid": 8534299,
+      "definition": "[Placing] your [cocaine] into [the crispy], golden traps of a waffle before taking a bump.",
+      "example": "Noraa loves [putting] his cocaine into [the tiny] squares on a waffle before taking a [morning] bump, Yay waffle bumps!",
+      "written_on": "2015-11-15T00:00:00Z"
+    }
+  ],
+  "will jump": [
+    {
+      "defid": 3311455,
+      "definition": "Plumeting of [spirits]",
+      "example": "That [downfall] [lead to] a real [will] jump.",
+      "written_on": "2008-10-19T00:00:00Z"
+    }
+  ],
+  "Windie": [
+    {
+      "defid": 4897932,
+      "definition": "a [reference] to wind energy. The term refers to the fact that wind energy isn't as \"big\" as oil or coal - [for example] - and hasn't \"sold-out\" yet. Therefore, the energy can be described as indie, and when one combines [the words] \"indie\" and \"windy\" the result is \"windie.\"",
+      "example": "[That's so] windie.",
+      "written_on": "2010-04-19T00:00:00Z"
+    }
+  ],
+  "Wopgo": [
+    {
+      "defid": 6361721,
+      "definition": "[Wast] of [perfectly] good [oxygen]",
+      "example": "the [cast] of [jersey shore] is [truly] a wopgo.",
+      "written_on": "2012-01-15T00:00:00Z"
+    }
+  ],
+  "war head": [
+    {
+      "defid": 4071576,
+      "definition": "A [spliff], weed,[wacky backy], [marajuana], green, ganga",
+      "example": "Oh man I've had a [long day],gunna roll a war head and chill,[can't wait] for [the first] toke!",
+      "written_on": "2009-06-27T00:00:00Z"
+    }
+  ],
+  "wankpilot": [
+    {
+      "defid": 529143,
+      "definition": "[an idiot], an [arsehole], [someone] who's annoyingly stupid",
+      "example": "[michael] cram, [you are a] [total] wankpilot",
+      "written_on": "2004-02-26T00:00:00Z"
     }
   ]
 }
