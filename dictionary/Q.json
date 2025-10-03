@@ -15043,6 +15043,12 @@
       "definition": "[Fast]",
       "example": "[I’m] quick",
       "written_on": "2023-10-04T07:05:42.89Z"
+    },
+    {
+      "defid": 1601234,
+      "definition": "or [nesquick]. [chocolate milk].",
+      "example": "Ahh, the [good old days]...rideing [down the street] on my Big Wheel, all [hopped up] on Quick.",
+      "written_on": "2006-02-12T00:00:00Z"
     }
   ],
   "quantum concrete": [
@@ -29417,6 +29423,14 @@
       "definition": "[Alternate] [spelling] for queer. [Meaning] gay.",
       "example": "[You are a] [bit] qir!",
       "written_on": "2004-03-08T00:00:00Z"
+    }
+  ],
+  "Quarter pounder": [
+    {
+      "defid": 4026983,
+      "definition": "A maneuver, similar to the \"Pound It\" maneuver, that is performed while two people are walking in opposite directions. Rather than [full fist] contact, the quarter pounder involves each person grazing the edge (about one quarter) of each other's fist with his/her own and following through with the swing, therefore not interrupting the walking momentum of either [individual]. The arm movement of the quarter pounder analogizes more to that of a hook, whereas [the standard] \"Pound It\" maneuver takes on the appearance of a jab.",
+      "example": "We didn't [feel like] [stopping] to say hi, so we walked past with a [quarter] pounder and peaced.",
+      "written_on": "2009-06-08T00:00:00Z"
     }
   ]
 }
