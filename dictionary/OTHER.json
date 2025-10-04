@@ -74328,5 +74328,29 @@
       "example": "Me: Where should I book my [vacation]?\r\n[Everyone] [else]: 'Peria!",
       "written_on": "2017-07-21T00:00:00Z"
     }
+  ],
+  "'n shit": [
+    {
+      "defid": 4627059,
+      "definition": "A less [refined] [variation] on the Latin \"et [cetera]\".",
+      "example": "\"That man is most [definitely] one who arranges sexual encounters for others, as he has obvious signs of being [nouveau riche], such as jewelry and decorations on his car, etc.\"\n\n\"[That nigga] be a pimp, he got dollaz errywhere... bling and grillz and rims 'n shit!\"",
+      "written_on": "2010-02-04T00:00:00Z"
+    }
+  ],
+  ":o omg": [
+    {
+      "defid": 12089702,
+      "definition": ":o [omg]",
+      "example": ":o [omg]",
+      "written_on": "2017-10-24T00:00:00Z"
+    }
+  ],
+  "#lifestyle": [
+    {
+      "defid": 11857656,
+      "definition": "[Life] of yoginis [smoking weed].",
+      "example": "[That dude] [lives] the #[lifestyle].",
+      "written_on": "2017-08-07T00:00:00Z"
+    }
   ]
 }
