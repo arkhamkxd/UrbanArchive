@@ -45342,5 +45342,13 @@
       "example": "Last week I paid off the card and today they called to tell me there was a fee not paid and then a late fee for not paying [the unknown] fee. My card keeps dying and coming [back to life] to [torture me] and my bank account like it is a zombie credit card.",
       "written_on": "2010-05-24T00:00:00Z"
     }
+  ],
+  "ZTTrak": [
+    {
+      "defid": 17422532,
+      "definition": "A [virtual] [railroad] created in the year [2021].",
+      "example": "ZTTrak [Railroad]",
+      "written_on": "2022-08-23T14:03:04.847Z"
+    }
   ]
 }

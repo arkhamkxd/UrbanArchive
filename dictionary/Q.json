@@ -30250,5 +30250,13 @@
       "example": "\"quagmiARGHes!\" - [says] a [pirate]",
       "written_on": "2013-02-26T00:00:00Z"
     }
+  ],
+  "qwhisper": [
+    {
+      "defid": 5328155,
+      "definition": "a [question] that is asked very quietly in order to not cause a [distraction] or maybe to ask a [question] that is to do with a private secret between two people.",
+      "example": "John (qwhispering): \"did [you get that] [chlamydia test]?\"\n\nElliot ([whispering]): \" yeah all clear ;)\"",
+      "written_on": "2010-11-04T00:00:00Z"
+    }
   ]
 }
