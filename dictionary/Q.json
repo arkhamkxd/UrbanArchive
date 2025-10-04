@@ -30320,5 +30320,21 @@
       "example": "\"Hey this [person] is qwertyuiopghjklfdsavbnmcxz [right now].\"\r\n\"Should we [call the police].\"\r\n\"Nah we are about to win.\"",
       "written_on": "2019-10-25T00:00:00Z"
     }
+  ],
+  "qwertyuiopazxsdcvfgbnhjmkl": [
+    {
+      "defid": 15430655,
+      "definition": "You're too bored, [get a life]. This word is produced when a person types the [first row] of they keyboard in order, and then the second and third in a snake-like fashion. Go do [something productive]",
+      "example": "I'm [extremely bored], i've tried every other possible [combination] like [qwertyuiopasdfghjklzxcvbnm], i need to try qwertyuiopazxsdcvfgbnhjmkl",
+      "written_on": "2020-10-28T18:08:22.146Z"
+    }
+  ],
+  "qwali": [
+    {
+      "defid": 9359180,
+      "definition": "[Someone] who is very caring,cool,and sweet, [despite] having some issues and being [slightly] broken.",
+      "example": "\"That guy [looks like] a Qwali! I'm [totally] inviting him to [the party].\"",
+      "written_on": "2016-08-10T00:00:00Z"
+    }
   ]
 }
