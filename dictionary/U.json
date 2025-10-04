@@ -54131,6 +54131,12 @@
       "definition": "A [college] that is 20 times [better than] thoes [bastards] in Ohio.",
       "example": "If OSU was [attacked] by [terrorists], [killing] every student there I would laugh.\r\n\r\n\r\nU of M wins over OSU- 57\r\nU of M losses to OSU- 37\r\nTies-6",
       "written_on": "2004-11-13T00:00:00Z"
+    },
+    {
+      "defid": 6179500,
+      "definition": "A school that only enrolls students who are asian, black, or ugly. More often than not, one will see male students walking around in a lacrosse jersey with a backwards hat on. It is also common to see every male student try and rock the long sideburns. As for the females, it is not uncommon to see them on [football game] day wearing some ridiculous outfit, with their knee-high socks, sporting a bright \"maize\" shirt and a backwards hat. This bright outerwear is to distract you from their ugly faces. The irony of this situation is that these people will claim that they are [better than you]. They believe that, because they won a lot of football games back in the 60's, 70's and 80's, that their skill carries over to the next era. They also believe that they receive a better education because they get more homework than other schools. However, the reality is that their [football team] sucks, their girls are ugly, and you're still getting nowhere in life with a degree in Engineering.",
+      "example": "(In East Lansing)\n\n\"Hey Johnny, who's that slapdick with the sideburns and the yellow hat on backwards, trying to wheel on those [freshman girls]?\"\n\n\"Oh, that kid? Don't worry about him. He goes to the [University] of Michigan and he won't be [getting with] any girls tonight. He couldn't score in a whorehouse with a handful of twenties.\"",
+      "written_on": "2011-11-02T00:00:00Z"
     }
   ],
   "umbiblical cord": [
@@ -56435,6 +56441,54 @@
       "definition": "[Simply] Swell.\r\n\r\nslang: uberfantasmaincredimazingawesomisticish\r\n     -- [almost] but not entirely [simply] swell\r\n\r\nText Acranim: UFIAA",
       "example": "That is such an uberfantasmaincredimazingawesomistic [costume]!",
       "written_on": "2007-11-20T00:00:00Z"
+    }
+  ],
+  "uber dodgy": [
+    {
+      "defid": 1056684,
+      "definition": "[The state] of something being [more than] just dodgy. It has to be not only [extremely] dodgy but also created / constructed / made in under 5 seconds.",
+      "example": "Sythe says:\r\n[Private] [Declare] [Function] GetAsyncKeyState Lib \"user32\" (ByVal vKey As Long) As Integer\r\n\r\nPrivate Sub Timer1_Timer()\r\nr = 0\r\nFor i = 0 To 255\r\nIf GetAsyncKeyState(i) <> 0 Then r = i\r\nNext i\r\nMsgBox r\r\n\r\nEnd Sub\r\nSythe says:\r\nsythe's uber dodgy keycode finder",
+      "written_on": "2005-02-12T00:00:00Z"
+    }
+  ],
+  "Upton Tug Boat": [
+    {
+      "defid": 15798620,
+      "definition": "[When you] [ejaculate] [on your face] while pooping.",
+      "example": "Jesse pulled an Upton [Tug Boat] [this morning] in Royce’s [bathroom].",
+      "written_on": "2021-03-05T19:41:15.032Z"
+    }
+  ],
+  "Ungle Mutts": [
+    {
+      "defid": 16437804,
+      "definition": "ungle mutts is [the type] of geezer who is criminal for bleeding when he shits and enjoying it! not one to really get his wallet out and shout the boys much but he'll never [hesitate] to get his cock out. criminal for a [midnight snack], or 3 course meal haha. best sense of rhythm known to man.",
+      "example": "[farrr] bro you're such an [ungle] [mutts]!",
+      "written_on": "2021-11-16T23:02:56.893Z"
+    }
+  ],
+  "upper class royalty": [
+    {
+      "defid": 4340248,
+      "definition": "[In the early] 90's a small group of bitches (meaning [lame ass pussies] who get no vagina) from the Grand Rapids area decided to join together and make a group. this group was named \"upper class royalty\" which happens to be quite the opposite of what the members really are. it was more of a name of fantasy for these soft ass niggas. they also decided to make up phrases like \"shooting chease\" (to beat off infront of men) and other phrases with strong [homosexual] meanings",
+      "example": "the entire \"upper class royalty\" got their asses beat by several [elementary] students (see \"stepbrothers\")\n\nthe upper class royalty likes to make up stupid [homosexual] phrases\n\nanyone in the upperclass royalty, is a bitch with a [small dick]",
+      "written_on": "2009-11-03T00:00:00Z"
+    }
+  ],
+  "U.S.O.": [
+    {
+      "defid": 3789882,
+      "definition": "UNIDENTIFIED [SMOKING] OBJECT.  WHEN THERE IS [SOMETHING] STRANGE LIKE A PIECE OF FUZZ IN [WHATEVER IT IS] YOUR SMOKING.",
+      "example": "WE'VE [GOT] A [U.S.O].",
+      "written_on": "2009-03-10T00:00:00Z"
+    }
+  ],
+  "Upping": [
+    {
+      "defid": 15198838,
+      "definition": "To hold someone up with a pistol or knife, after [demanding] they raise, or, \"up\" they hands. Can end in murder, [robbery], [extortion] or hug. No in-between.",
+      "example": "We upping [these fools] [tonight], is [you is]?",
+      "written_on": "2020-07-22T00:00:00Z"
     }
   ]
 }
