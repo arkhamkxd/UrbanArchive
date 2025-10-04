@@ -16145,6 +16145,12 @@
       "definition": "A beast who looks [hard as nails], a proper gymlad who [you wouldn't] want to get on the [wrong side] of.",
       "example": "Oi mate [you don't] wanna be [messing with] Alex [over there].\r\nWhy?\r\nHe's a proper unit.",
       "written_on": "2018-02-20T00:00:00Z"
+    },
+    {
+      "defid": 355827,
+      "definition": "A [mean] [look]",
+      "example": "He [shot me] a unit!",
+      "written_on": "2003-11-18T00:00:00Z"
     }
   ],
   "unicorning": [
@@ -57197,6 +57203,30 @@
       "definition": "[playing golf] in crowded areas [especial] town centres where [the fun] beggins",
       "example": "urban golf [getting] a [golf ball] putting it down a jus [hitting it] anywhere to see where it lands",
       "written_on": "2008-06-26T00:00:00Z"
+    }
+  ],
+  "Under the Cream": [
+    {
+      "defid": 15560994,
+      "definition": "When you are feeling incredibly terrible, [especially] relating to being hungover. Comes from cream rising to the top (i.e. feeling [your best]). If you are under [the cream], you feel like a loser.",
+      "example": "I drank 47 beers last night and puked [everywhere], I'm [definitely] under [the cream] today.",
+      "written_on": "2020-12-09T11:19:56.083Z"
+    }
+  ],
+  "unintentional hipster": [
+    {
+      "defid": 12361845,
+      "definition": "Someone who acts very much like a hipster without even trying. Most if not all their favorite books, movies, [video games], etc will be completely non-mainstream or obscure. They don't normally like things that are mainstream but unlike a [traditional] hipster it's not just for the [arbitrary] reason that they are mainstream.",
+      "example": "unintentional hipster: \"Eminem has great lyrics but he lacks the [vocabulary] that Aesop Rock has, [I like him] alot more.\"\r\nfriend of unintentional hipster: \"Who tf is Aesop Rock? Do [you mean] A$AP Rocky?\"\r\nunintentional hipster: \"No.\"",
+      "written_on": "2018-01-02T00:00:00Z"
+    }
+  ],
+  "USAMO": [
+    {
+      "defid": 1335970,
+      "definition": "A [difficult], prestigious math [competition] for the students with the top AMC + AIME schools in the [United States]. Simply qualifying for the exam means that you're among the best in the nation.",
+      "example": "[Thomas Jefferson] of Science and [Technology] has more USAMO qualifiers than any other school in the [United States].",
+      "written_on": "2008-07-15T00:00:00Z"
     }
   ]
 }
