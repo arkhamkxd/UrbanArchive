@@ -72214,5 +72214,21 @@
       "example": "Val Qian and emhan went to pim to [ice skate] back in 2016!\r\nVal Qian and emhan are BFF [since DAY] 1!\r\nVal Qian and emhan love MHA, HAIKYUU, BOBA and cute guys, [PERIODT] LUVV!",
       "written_on": "2020-11-10T08:41:59.805Z"
     }
+  ],
+  "vampire diaries": [
+    {
+      "defid": 10411423,
+      "definition": "a [show] [watched] by [teens]",
+      "example": "[ily] [vampire] diaries",
+      "written_on": "2016-10-26T00:00:00Z"
+    }
+  ],
+  "voulez-vous coucher avec moi": [
+    {
+      "defid": 558226,
+      "definition": "[would you like to] [sleep with me] in [french]",
+      "example": "[some guy] goes up to a girl and says voulez-vous [coucher] avec moi? *5 seconds later* he gets [slapped]",
+      "written_on": "2004-03-14T00:00:00Z"
+    }
   ]
 }
