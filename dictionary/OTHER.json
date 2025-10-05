@@ -77978,5 +77978,45 @@
       "example": "Bro Jrue [Holiday] just [locked up] CP3 so bad. Put [that nigga] in a 4 by 4",
       "written_on": "2021-07-17T21:49:34.521Z"
     }
+  ],
+  "%253Cscript%253Ealert('XSS')%253C%252Fscript%253E": [
+    {
+      "defid": 15904205,
+      "definition": "%253Cscript%253Ealert('XSS')%253C%252Fscript%253E",
+      "example": "%253Cscript%253Ealert('XSS')%253C%252Fscript%253E",
+      "written_on": "2021-04-12T02:58:13.945Z"
+    }
+  ],
+  "#RememberTreyDay": [
+    {
+      "defid": 17114559,
+      "definition": "Trey was a great casino worker (when he came into work) you always wanted to go to his table to stare at his big [voluptuous] juicy titties while he took all your money and never seen him again. Please [for the love] of god [suck a dick] in his memory #RememberTreyDay",
+      "example": "[Husband]: “Honey later [tonight] we need to [celebrate] #RememberTreyDay!” 😉😉\r\nWife: “Fine but only for Trey” 🙄",
+      "written_on": "2022-03-30T22:00:14.944Z"
+    }
+  ],
+  "3141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342110679821": [
+    {
+      "defid": 15583496,
+      "definition": "A curious [phenomena] that happens when a person types 104 digits of pi. They are [usually] [bored to death]. Oh yeah, you forgot the decimal point",
+      "example": "[I'm bored] so I'll [just] type 3141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342110679821 into [Google] :)))))",
+      "written_on": "2020-12-17T07:03:14.853Z"
+    }
+  ],
+  "21st March": [
+    {
+      "defid": 17005618,
+      "definition": "It's a [special day] some says [something] divine and very godly [happened] on this day",
+      "example": "Some says 21st [March] is a [birthday] of a [legend]",
+      "written_on": "2022-02-19T02:23:55.828Z"
+    }
+  ],
+  "+2": [
+    {
+      "defid": 3321626,
+      "definition": "+2 can also be used as + 3 or any other number, and is used as a joke refering to mostly [Role-Playing] Games, or RPGs itself. In RPGs a Player can obtain items that add bonuses to stats the player has. So if the player has a weapon, lets say a sword, it can be known as a +5 Sword, adding 5 to the stats it is reffering to (+5). On a more real scale it is mostly used in [real world] items for either [playing around], or if your a real 1337 you might be serious about it.",
+      "example": "Online Example: Hey DragonSlayer1987, is that a new sword I see?\r\nYes, [thank you] for noticing. I was killing Backwards Demons and this dropped. Its a +2 [Bastard Sword].\r\n[Real Life] Example: Hey Jerry how was your blind date?\r\nIt was going well, she was pretty and all but it quickly ended when I asked her if she wanted to see my +2 Flail.",
+      "written_on": "2008-10-18T00:00:00Z"
+    }
   ]
 }
