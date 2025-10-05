@@ -22381,6 +22381,12 @@
       "definition": "A Mathmeticians [way] of [saying] \"[I win]\"",
       "example": "Mathmetician: [Q.E.D]., [Fuckface].",
       "written_on": "2005-07-14T00:00:00Z"
+    },
+    {
+      "defid": 3048359,
+      "definition": "Certainly an [abbreviation] of quod erat demonstrandum but after [watching], [suffering] through, proving thousands of proofs, a math major might just say Quite Easily Done.",
+      "example": "The final line of many proofs of the [Pythagorean Theorem].\r\n\r\n[a squared] + [b squared] = c squared\r\n\r\nQ.E.D.",
+      "written_on": "2008-04-30T00:00:00Z"
     }
   ],
   "QTK": [
@@ -31897,6 +31903,14 @@
       "definition": "A questie is a person who uses the Oculus Quest or [Oculus Quest 2] in VRchat. They are often [associated] with [annoying children] and tend to be treated like a nuisance.",
       "example": "These [Questies] are so damn [annoying], why can’t I find a lobby [without] them.",
       "written_on": "2021-08-15T16:25:32.632Z"
+    }
+  ],
+  "Questionable": [
+    {
+      "defid": 15796723,
+      "definition": "[Something] [people] can [question].",
+      "example": "She was [always] with [kids] that were not hers, which was questionable.",
+      "written_on": "2021-03-05T06:19:47.626Z"
     }
   ]
 }
