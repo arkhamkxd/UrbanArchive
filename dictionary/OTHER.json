@@ -77312,5 +77312,29 @@
       "example": "<.[7.9].7.6>That Is What IiI [Mean] <.[7.9].7.6.>",
       "written_on": "2025-04-29T12:53:32.735Z"
     }
+  ],
+  "<.7.9.7.6.>Absurd, absUurd, absurD<.7.9.7.6.>": [
+    {
+      "defid": 18493810,
+      "definition": "<.[7.9].7.6.>[Absurd], absUurd, [absurD]<.7.9.7.6.>",
+      "example": "<.[7.9].7.6.>[Absurd], absUurd, [absurD]<.7.9.7.6.>",
+      "written_on": "2025-05-25T12:13:27.411Z"
+    }
+  ],
+  "1st degree murder": [
+    {
+      "defid": 13057929,
+      "definition": "First-degree [murder]: any [intentional] murder that is [willful] and premeditated with malice aforethought.",
+      "example": "Expamle: Is when some [shoot some] one that counts as a 1st degree murder and you [possibly] receive the [death penalty].",
+      "written_on": "2018-07-10T00:00:00Z"
+    }
+  ],
+  "2 Beer Bisexual": [
+    {
+      "defid": 3039466,
+      "definition": "A guy who starts to [act out] his [bisexual] desires after just one or two [drinks].",
+      "example": "[The guys] at Alpha Sig didn’t care that Mark was bi, they just wished he would be honest about it instead of being a 2 Beer [Bisexual] who uses [drinking] as an excuse to be his real self.",
+      "written_on": "2008-04-27T00:00:00Z"
+    }
   ]
 }

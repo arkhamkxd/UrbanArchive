@@ -47010,5 +47010,21 @@
       "example": "I [went] to [Zona] Rosa to buy some [clothes].",
       "written_on": "2007-08-04T00:00:00Z"
     }
+  ],
+  "zahndra": [
+    {
+      "defid": 16066164,
+      "definition": "A cool name for a [cool person], she's super [strong], funny and [energetic].",
+      "example": "\"[you know] Zahndra?\"\n\n\"Yeah, she [beat up] [me and the boys] today. She plays like every sport to exist.\"",
+      "written_on": "2021-06-06T00:45:51.887Z"
+    }
+  ],
+  "zaboomafoo": [
+    {
+      "defid": 13007419,
+      "definition": "Two [brothers] who have [a crazy] lemur that sees weird [animals] in India",
+      "example": "The [banute] [brothers] are zaboomafoo",
+      "written_on": "2018-06-18T00:00:00Z"
+    }
   ]
 }
