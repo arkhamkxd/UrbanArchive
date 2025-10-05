@@ -48306,5 +48306,21 @@
       "example": "[Oh no]! Brett stuck his hand on that [dead snake] and got \"Zigity\" [all over it].",
       "written_on": "2010-07-22T00:00:00Z"
     }
+  ],
+  "Zapple Rule": [
+    {
+      "defid": 6212130,
+      "definition": "The rule governing the procedure for backseat vehicular seating [arrangements]. If three passengers are forced to sit [in the backseat] of vehicle containing three spots, the Zapple Rule applies. The first two passengers to yell 'zapple' are given a door-side seat. The remaining [passenger] is given the middle seat.",
+      "example": "Jimmy: \"Hey Joe, Frank, and Sam. My cousin Tim is riding in the [front passenger seat], so you will all have to ride [in the backseat] of my 1996 Toyota Camry.\"\r\nJoe: \"Zapple!\"\r\nFrank: \"Zapple!\"\r\nSam: \"Oh shucks, the Zapple Rule. I guess I will have to ride [in the middle], but luckily, this Camry's backseat is spacious!\"",
+      "written_on": "2011-11-16T00:00:00Z"
+    }
+  ],
+  "zootspace": [
+    {
+      "defid": 12426350,
+      "definition": "[The space] in which one would \"zoot\" or somewhere [that one] would [smoke a joint] or spliff",
+      "example": "Yo [Woadie] we gunna [meet up] at the zootspace [later]?",
+      "written_on": "2018-01-12T00:00:00Z"
+    }
   ]
 }
