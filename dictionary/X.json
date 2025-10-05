@@ -13664,5 +13664,13 @@
       "example": "\"I feel xumerous when I'm [talking with] [Becca],\" says Eric who met Becca for [the first time].",
       "written_on": "2016-07-17T00:00:00Z"
     }
+  ],
+  "x-femme": [
+    {
+      "defid": 646807,
+      "definition": "x-femme = xquisite [females]\r\na group of girls (ie ally, [kathy], and [khanh].)",
+      "example": "here comes x-femme!",
+      "written_on": "2004-05-01T00:00:00Z"
+    }
   ]
 }
