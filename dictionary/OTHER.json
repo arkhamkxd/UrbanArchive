@@ -79766,5 +79766,45 @@
       "example": "[Hey] [Jake] Im 🤒❤️",
       "written_on": "2021-03-11T06:11:16.03Z"
     }
+  ],
+  "^)": [
+    {
+      "defid": 15583435,
+      "definition": "Tone [indicator] for joking; [alternate] to /j\r\n[When you] can’t tell if someone is joking in text, they can end it in ^)",
+      "example": "[So nice] [weather] we’re having, right? ^)\r\nWow I hate [Harry styles] ^)",
+      "written_on": "2020-12-17T06:21:21.903Z"
+    }
+  ],
+  "(//.^)": [
+    {
+      "defid": 5222047,
+      "definition": "An emoticon [representing] the oxymoron of a happy [emo person]. Can also be [considered] a \"scene emote.\"",
+      "example": "Emo #1: [I got us] [tickets] to the MCR [concert].\n\nEmo #2: (//.^)",
+      "written_on": "2010-09-16T00:00:00Z"
+    }
+  ],
+  "2venge": [
+    {
+      "defid": 15760289,
+      "definition": "[TikTok user] who always spits facts [regardless] of whoever disagrees. His [opinion] is always law",
+      "example": "Sorry, 2venge disagrees [with you] so [you’re] [wrong]!",
+      "written_on": "2021-02-20T19:04:58.956Z"
+    }
+  ],
+  "-apso": [
+    {
+      "defid": 4323431,
+      "definition": "A mode in DotA ([Defense of the Ancients]), a popular [multiplayer] team game, All Pick/[Switch On].",
+      "example": "[Player 2]: Type the game mode now noob\r\n[Player 1]: [I'm sorry] (types -apso)\r\nGame: The mode has been chosen as All Pick/Switch On",
+      "written_on": "2009-10-27T00:00:00Z"
+    }
+  ],
+  "*name*-ism": [
+    {
+      "defid": 6051074,
+      "definition": "A term one uses whenever someone makes up a word. Simply insert their name in front of the -ism and viola! Also works if the word is just [two words] meshed together [in a way] that doesn't make up any actual word that can be found in the [dictionary].",
+      "example": "Gordon: \"I was just [talking to] [that guy] [over there]. He was a real shufflemess.\"\r\nJeff: \"... Shufflemess? ... Hehehe... It's a Gordon-ism.\" (aka, a *name*-ism)",
+      "written_on": "2011-09-02T00:00:00Z"
+    }
   ]
 }
