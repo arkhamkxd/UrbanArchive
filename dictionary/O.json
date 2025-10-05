@@ -24393,6 +24393,12 @@
       "definition": "[literally] so cool and [awesome] and [amazing] and swag",
       "example": "oliver is so [swag]",
       "written_on": "2021-07-09T13:03:05.695Z"
+    },
+    {
+      "defid": 13719802,
+      "definition": "[A type] of [asshole]",
+      "example": "he is such an oliver",
+      "written_on": "2019-03-17T00:00:00Z"
     }
   ],
   "Ocelot iOS": [
@@ -38927,6 +38933,12 @@
       "definition": "[OH OH OH]\n\nOZEMPIC\n\n[OH WOAH] OH [OHHHHHHHHHH]",
       "example": "Guy 1: Yo how does the jingle for the Ozempic ad go?\r\nGuy 2: [Oh Oh Oh], Ozempic! [Oh Woah] Oh [Ohhhhhhh].\r\nGuy 1: Thanks.",
       "written_on": "2023-06-08T16:18:14.382Z"
+    },
+    {
+      "defid": 18532632,
+      "definition": "An [unflattering] term of disparagement for people who are too skinny, whether [or not] they use ozempic [or not].",
+      "example": "She looks ozempic, no curves, no [muscle], gaunt face and [scrawny] body, [way too] ozempic.",
+      "written_on": "2025-08-17T21:33:54.11Z"
     }
   ],
   "obesiphobia": [
@@ -95471,6 +95483,12 @@
       "definition": "[One pump chump]",
       "example": "[Kelly] says he's an OPC, he [stuck it] in once and said he was [done].",
       "written_on": "2003-08-25T00:00:00Z"
+    },
+    {
+      "defid": 14572054,
+      "definition": "[Open] [Party] at [Crib]",
+      "example": "bro: [hey bro]’s opc tonight at olivia\n\nother bro: oh [dope man] [i’ll pull up] later send me the address",
+      "written_on": "2019-12-23T00:00:00Z"
     }
   ],
   "owwfuckmeinmyass": [
@@ -100859,6 +100877,62 @@
       "definition": "Short for [ON MY MOMMA]. 7 letters. The perfect amount to make a great [mississippi] car tag. ONMOMMA. An idea from higball especially for his bestie, rachel. To swear this is the truth. I put it [on my momma].",
       "example": "On momma, [That man] knows me [better than] anyone else in this world. Hes truly my bestie till the [bitter end].",
       "written_on": "2023-02-24T01:01:13.878Z"
+    }
+  ],
+  "ocaml": [
+    {
+      "defid": 2418498,
+      "definition": "A French-made [programming language], that can be made to work like lisp, C, Java [or whatever] else you like. It can be interpreted, compiled natively or compiled to bytecode. Overall it's a rather academic but very powerful [programming language].",
+      "example": "# let rec ocaml_[reverse] lst =\r\n    match lst with\r\n    |  -> \r\n    | h::t -> (ocaml_[reverse] t)@h\r\n  ;;\r\nval ocaml_[reverse] : 'a list -> 'a list = <fun>\r\n# ocaml_reverse 1;2;3;;\r\n- : int list = 3; 2; 1",
+      "written_on": "2007-05-31T00:00:00Z"
+    }
+  ],
+  "Oh my wow": [
+    {
+      "defid": 3965583,
+      "definition": "An [alternative] to saying \"Oh my God\" or \"OMG\"\n\nIt is abbreviated with O.M.W. like O.M.G\n\nIt also has [nothing to do] with being [under the influence] of marijuana!",
+      "example": "Person 1: I went to .: [youtube.com]/user/HoiHoyProductions :. [and it is] [hilarious]!\r\nPerson 2: OH MY WOW!!! That is funny! Those guys rock! OMW!\r\nPerson 3: Hoi Hoy!",
+      "written_on": "2009-05-14T00:00:00Z"
+    }
+  ],
+  "oralrapist": [
+    {
+      "defid": 3884250,
+      "definition": "A title for someone who's both an oral [examiner] and a [therapist].\r\n\r\nSee also [analrapist]",
+      "example": "Janet: So Steve, what do you do for a living?\r\nSteve: Well, I'm an oralrapist. I just came back from a [therapy session].\r\nJanet: *drops jaw and backs away*\r\nSteve: Yeah, it's a tough job alright. Those lengthy orals can be quite enduring, but the end results definitely [make up for it] if you [catch my drift].",
+      "written_on": "2009-04-13T00:00:00Z"
+    }
+  ],
+  "Ooer": [
+    {
+      "defid": 11897292,
+      "definition": "The strangest subreddit on [the internet]. Known for its weird messed-up layout and completely [nonsensical] posts about [lemons] and OMAN.",
+      "example": "When I first visited Ooer, [I was like] \"[what am I] [looking] at?\"",
+      "written_on": "2017-08-22T00:00:00Z"
+    }
+  ],
+  "Orin": [
+    {
+      "defid": 14071884,
+      "definition": "[Retard]",
+      "example": "That orin is [retard]",
+      "written_on": "2019-07-19T00:00:00Z"
+    }
+  ],
+  "Orgasical": [
+    {
+      "defid": 9230395,
+      "definition": "[The experience] of an [orgasm] induced by Magic: The [Gathering]",
+      "example": "Oh, [I just] had an orgasical expirience [today].",
+      "written_on": "2016-09-19T00:00:00Z"
+    }
+  ],
+  "osmir": [
+    {
+      "defid": 16496493,
+      "definition": "Osmir is a boy who has glasses and is really talented and he also he a very nice [personality] funny to be around with he is also shy and tall he love to wear [aesthetic] clothes has brown [beautiful eyes] every girl and boy falls in love with him.",
+      "example": "Guy 1: I got a [boyfriend]\n\nGuy 2: who?\r\nGuy 1: [It’s] Osmir\r\nGuy 2: [lucky]",
+      "written_on": "2021-11-21T16:23:51.647Z"
     }
   ]
 }
