@@ -62044,5 +62044,29 @@
       "example": "\"Yeah, so our friend was in the hospital for 2 weeks.  He had 3 different [infectious] diseases, all of which were previously undiscovered to science.\"\r\n\r\n\"Holy crap!  What did he do?\"\r\n\r\n\"He had a [reservation] at Uncle Mung's [Chunky Shrimp] Buffet.\"\r\n\r\n\"Oh damn.\"",
       "written_on": "2008-03-13T00:00:00Z"
     }
+  ],
+  "ugeni": [
+    {
+      "defid": 15057204,
+      "definition": "[Better than] [lizabet]",
+      "example": "Ugeni is [better than] [lizabet]",
+      "written_on": "2020-06-03T00:00:00Z"
+    }
+  ],
+  "Unching Style": [
+    {
+      "defid": 4900885,
+      "definition": "The style of [unching].\r\n[Unching], a [japanese] word, is slang for 'pooing'.\r\nUnching Style is to poo with style, with a certain flare.",
+      "example": "\"Dude, I totally [unching] styled over the [Walmart] toilet. It was [fucking epic].\"",
+      "written_on": "2010-04-20T00:00:00Z"
+    }
+  ],
+  "undeclarational": [
+    {
+      "defid": 12216264,
+      "definition": "not in accordance with the [Declaration] Of [Independence]",
+      "example": "The [Declaration] Of [Independence] says we should have the right to pursue life, liberty, and the pursuit of [happiness]. But nothing in it says we have the right to pursue death. Which means that killing someone no matter who you are is undeclarational.",
+      "written_on": "2017-12-06T00:00:00Z"
+    }
   ]
 }
