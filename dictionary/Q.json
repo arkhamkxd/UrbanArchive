@@ -33802,5 +33802,13 @@
       "example": "[Person 1]: have [you heard] of qClutch\n\n[Person 2]: no?",
       "written_on": "2022-04-28T10:35:33.903Z"
     }
+  ],
+  "Quiet Liar": [
+    {
+      "defid": 15133396,
+      "definition": "Someone that bottles [everything] up. They [generally] never takes the steps to [communicate] how they feel to others and spend their free time dwelling on what they should have said.",
+      "example": "I'd [rather] be an [honest] [asshole], than a quiet liar.",
+      "written_on": "2020-06-25T00:00:00Z"
+    }
   ]
 }
