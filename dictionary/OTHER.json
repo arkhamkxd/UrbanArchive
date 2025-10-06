@@ -82990,5 +82990,21 @@
       "example": "[awe] [thank you so much] :,)",
       "written_on": "2019-01-24T00:00:00Z"
     }
+  ],
+  "《¤》March《¤》maRch《¤》marcH《¤》": [
+    {
+      "defid": 18446355,
+      "definition": ".",
+      "example": "《¤》[March]《¤》[maRch]《¤》[marcH]《¤》",
+      "written_on": "2025-03-06T18:06:39.255Z"
+    }
+  ],
+  "1337 piece of pan cake": [
+    {
+      "defid": 446477,
+      "definition": "[When you] re [better than everyone] and [everything] else.",
+      "example": "A 1337 [piece] of pan cake what I [strive] [to be].",
+      "written_on": "2004-01-14T00:00:00Z"
+    }
   ]
 }
