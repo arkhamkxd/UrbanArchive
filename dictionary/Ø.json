@@ -84,5 +84,13 @@
       "example": "[hold] [din] kæft [dit] øldyr",
       "written_on": "2016-08-17T00:00:00Z"
     }
+  ],
+  "Øjesekund": [
+    {
+      "defid": 16811082,
+      "definition": "[Alternative] way of saying [moment] in [danish]",
+      "example": "Der går [lige] et øjesekund før [jeg] er [klar]",
+      "written_on": "2021-12-04T14:04:53.318Z"
+    }
   ]
 }
