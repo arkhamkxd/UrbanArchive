@@ -83498,5 +83498,29 @@
       "example": "[Look at] all the #dpoe's [over there]",
       "written_on": "2013-11-30T00:00:00Z"
     }
+  ],
+  "&flip=1": [
+    {
+      "defid": 6366397,
+      "definition": "add it on [the end] of a url [and the] page will be [flipped]",
+      "example": "[uhhhh]&[flip]=1",
+      "written_on": "2012-01-21T00:00:00Z"
+    }
+  ],
+  "847": [
+    {
+      "defid": 17964378,
+      "definition": "[Endlessly] [loving] you",
+      "example": "847\r\n[Always]",
+      "written_on": "2023-10-27T19:21:59.657Z"
+    }
+  ],
+  "\"J\"": [
+    {
+      "defid": 1010669,
+      "definition": "A one letter [abbreviation] of \"[Jumper]\". It refers to a person's shot in [basketball].",
+      "example": "Some cocky [assclown]: \"[Yo dawg], I know you not puttin' that [Rock up] from here 'cause you ain't gots no J.\"",
+      "written_on": "2005-01-20T00:00:00Z"
+    }
   ]
 }
