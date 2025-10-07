@@ -34772,5 +34772,21 @@
       "example": "They had queen Anne's lace [growing] [everywhere] [in there].",
       "written_on": "2010-04-24T00:00:00Z"
     }
+  ],
+  "quackops": [
+    {
+      "defid": 16577558,
+      "definition": "Am very [swag] [person]",
+      "example": "She is quackops",
+      "written_on": "2021-11-22T15:21:59.07Z"
+    }
+  ],
+  "q1x": [
+    {
+      "defid": 13698390,
+      "definition": "A slang term for an [alternate] [account] [you no] longer have access to.",
+      "example": "Pinfish7 - 'If you make your [password] too easy [you better] be q1x to [change it].'",
+      "written_on": "2019-03-10T00:00:00Z"
+    }
   ]
 }
