@@ -86104,5 +86104,29 @@
       "example": "[Weasel]: [I'm bored]. [I'm going to go] listen to some ACDC.\r\n\r\nJeff: aight bye \\m/(>o<)\\m/",
       "written_on": "2004-02-29T00:00:00Z"
     }
+  ],
+  "6osmic": [
+    {
+      "defid": 17805615,
+      "definition": "A [handsome] looking guy who likes to [play games]. Also, a 6osmic [typically] wears glasses",
+      "example": "[That man] is a 6osmic",
+      "written_on": "2023-05-29T02:31:37.75Z"
+    }
+  ],
+  "<.7.9.7.6.>THey SIngled Out an Angel For A virginia Slim<.7.9.7.6.>": [
+    {
+      "defid": 18493963,
+      "definition": "<.7.9.7.6.>THey [SIngled Out] [an Angel] For A [virginia Slim]<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>THey [SIngled Out] [an Angel] For A [virginia Slim]<.7.9.7.6.>",
+      "written_on": "2025-05-25T17:51:04.584Z"
+    }
+  ],
+  "$1.25 guy": [
+    {
+      "defid": 4770522,
+      "definition": "a 100% [nice guy] with [two bits] in [change]",
+      "example": "[that dude] [ain't] no fiddy-center... he's a $1.25 [guy]",
+      "written_on": "2010-03-07T00:00:00Z"
+    }
   ]
 }
