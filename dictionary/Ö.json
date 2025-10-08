@@ -210,5 +210,13 @@
       "example": "özberk is [a name]",
       "written_on": "2017-11-08T02:05:49.167Z"
     }
+  ],
+  "ömer growl": [
+    {
+      "defid": 15191929,
+      "definition": "ömer [growl] ömer [growl] ömer [growl] ömer growl ömer growl ömer growl ömer growl ömer growl ömer growl ömer growl",
+      "example": "p1: hey [what are you doing]\r\np2: [breathing] ömer growl\r\np1: [understandable] have a great day",
+      "written_on": "2020-07-19T16:27:51.756Z"
+    }
   ]
 }
