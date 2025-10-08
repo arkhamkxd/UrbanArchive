@@ -65670,5 +65670,21 @@
       "example": "\"You see Lisa [last night]?\" \"[I'm up] in that, G.\" \"[Word].\"",
       "written_on": "2004-06-06T00:00:00Z"
     }
+  ],
+  "USgAy": [
+    {
+      "defid": 14983540,
+      "definition": "A [CountryHumans] [Thing] but when US is [Gae]",
+      "example": "[German Empire]: lel [USA] [more like] USgAy",
+      "written_on": "2020-05-12T00:00:00Z"
+    }
+  ],
+  "Under-alley": [
+    {
+      "defid": 15564167,
+      "definition": "A shorter version of saying [Under-alleyway]; [pretty much] slang for the taint (which is the area between your genitals and [your asshole].)",
+      "example": "Me: \"[Last night] I got jumped by some thugs by a goodwill and they kicked me in the Under-alley.\"\r\nFriend: \"Under-alley, do [you mean] [the taint]?\"\r\nMe: \"No, Under-alley (-_-).\"",
+      "written_on": "2020-12-10T12:15:45.507Z"
+    }
   ]
 }
