@@ -226,5 +226,13 @@
       "example": "1: [Did you] [hear] ([current event])?\r\n2: ö",
       "written_on": "2022-01-22T14:29:04.527Z"
     }
+  ],
+  "özce": [
+    {
+      "defid": 15964739,
+      "definition": "Özce is [a crazy] girl [name] of [Turks].",
+      "example": "[This is] just Özce [thing] [to do].",
+      "written_on": "2021-05-04T02:06:58.109Z"
+    }
   ]
 }
