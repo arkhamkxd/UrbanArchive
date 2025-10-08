@@ -218,5 +218,13 @@
       "example": "p1: hey [what are you doing]\r\np2: [breathing] ömer growl\r\np1: [understandable] have a great day",
       "written_on": "2020-07-19T16:27:51.756Z"
     }
+  ],
+  "ö": [
+    {
+      "defid": 16932630,
+      "definition": "A [shocked] [face].",
+      "example": "1: [Did you] [hear] ([current event])?\r\n2: ö",
+      "written_on": "2022-01-22T14:29:04.527Z"
+    }
   ]
 }
