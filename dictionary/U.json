@@ -67478,5 +67478,21 @@
       "example": "[My head] still [hurts] from that utah [cliffhanger].",
       "written_on": "2007-09-02T00:00:00Z"
     }
+  ],
+  "u are so mean": [
+    {
+      "defid": 15321717,
+      "definition": "Im [trying to] [fuck u]",
+      "example": "-omg why are u [so mean]\r\n-bitch do u want me to [fuck u]?\n\n-u are [so mean]\r\n-ikr",
+      "written_on": "2020-09-17T12:50:49.824Z"
+    }
+  ],
+  "unobtainium": [
+    {
+      "defid": 216645,
+      "definition": "An [imaginary] unavailable material used humourously to solve [otherwise] [impossible] problems; an item of unaffordable price.",
+      "example": "[Of course], it would [have to] be made of pure unobtainium to [work].",
+      "written_on": "2003-08-16T00:00:00Z"
+    }
   ]
 }
