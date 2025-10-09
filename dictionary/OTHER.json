@@ -34099,6 +34099,12 @@
       "definition": "to [question], not sure, [confused], [somethin] quick to type to respond",
       "example": "[bob]:hi\r\n[bob]:sup?\r\nbob:[hello]?\r\nme:?",
       "written_on": "2007-01-06T00:00:00Z"
+    },
+    {
+      "defid": 14752196,
+      "definition": "?\n\n[W h a t] ?",
+      "example": "Guy 1 : ?\r\n[Guy 2] : ?\r\n[Guy 2] : [W h a t] ?",
+      "written_on": "2020-02-25T19:39:24.816Z"
     }
   ],
   "4422": [
@@ -91107,6 +91113,38 @@
       "definition": "[one upped] [the guy] who [typed] it like 5 times or smth idk",
       "example": "[Someone] typed 1234567890123456789012345678901234567890123456789012345678901234567890, [you should] type 12345678901234567890123456789012345678901234567890123456789012345678901234567890 to [one up them]!",
       "written_on": "2022-11-04T09:22:59.719Z"
+    }
+  ],
+  "`1234567890-=asdfghjkl;;'zxcvbnm,./": [
+    {
+      "defid": 13260830,
+      "definition": "When you have already typed [qwertyuiopasdfghjklzxcvbnm] [but then] thought you'd be a [smartass] by typing numbers",
+      "example": "\" ok now we are going to write a 5 page essay on [William Shakespeare] \" says Mrs.Loren. [5 minutes] later Jonny gets bored and types qwertyuioasdfghjkzxcvbnm then `1234567890-=[asdfghjkl];;'zxcvbnm,./.",
+      "written_on": "2018-10-11T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Marcus, marUcus, marcuS<.7.9.7.6.>": [
+    {
+      "defid": 18504122,
+      "definition": "<.[7.9].7.6.>[Marcus], marUcus, [marcuS]<.7.9.7.6.>",
+      "example": "<.[7.9].7.6.>[Marcus], marUcus, [marcuS]<.7.9.7.6.>",
+      "written_on": "2025-06-15T16:45:38.305Z"
+    }
+  ],
+  "2016 Ford Mustang": [
+    {
+      "defid": 4286454,
+      "definition": "The new, redesigned, peppy \"muscle\" car of the future that will only be available in 4-cylinders totally making a mockery of [the Mustang] line, all to please the [global warming] fantics and [enviromentalists].",
+      "example": "2016 [Ford Mustang]: Think rebadged base [Ford Probe]...or [escort].",
+      "written_on": "2009-10-09T00:00:00Z"
+    }
+  ],
+  "12qw34er56ty78ui90op": [
+    {
+      "defid": 17143204,
+      "definition": "When you have gotten SO bored, that you type [QWERTYUIOP] and [123456789] in a pattern where you type [the first] 2 numbers, then first 2 letters, etc.",
+      "example": "Me: 12qw34er56ty78ui90op\r\n[The Internet]: [Oh no]! He's so bored he's gonna [explode]! RUN!",
+      "written_on": "2022-04-11T08:26:16.071Z"
     }
   ]
 }
