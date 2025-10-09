@@ -81183,6 +81183,12 @@
       "definition": "Ooblonk or Ooblonked is the [action] of [quitting] a [horror] game because its to scary",
       "example": "[Guy 1]:HAH! [JERRY] JUST OOBLONKED\r\n[Jerry]:It was to scary.",
       "written_on": "2023-12-03T04:27:55.481Z"
+    },
+    {
+      "defid": 18035371,
+      "definition": "Ooblonk or Ooblonked/ing the [action] of [quitting] a [horror] game because its to scary",
+      "example": "Guy 1:HAH JERRY JUST OOBLONKED! HES SUCH A BABY!\r\nJerry:[Im sorry] its just [the game] is really scary [that's why] I left.",
+      "written_on": "2023-12-03T08:30:26.936Z"
     }
   ],
   "Ovie": [
@@ -115547,6 +115553,30 @@
       "definition": "Ottmar is a man with many charms.He is loved by many and can also be crazy.If you [don’t like] him don’t try to [switch it up] because he will [off you].",
       "example": "[You know] ottmar ?\r\nYea [that dude] is so [crazy]",
       "written_on": "2019-10-29T00:00:00Z"
+    }
+  ],
+  "oobstacle": [
+    {
+      "defid": 4755535,
+      "definition": "An obese person's arm that is so huge and heavy that it is hard to move, obstructs the rest of the torso and seems merely an extension of [the chest] and/or stomach of [that person]. From oob + \"[obSTACLE]\".",
+      "example": "That's not [just] an [arm on] that [lady]. That's an oobstacle!",
+      "written_on": "2010-03-02T00:00:00Z"
+    }
+  ],
+  "Ominous": [
+    {
+      "defid": 17633219,
+      "definition": "[Something] bad that is [likely] to [happen]",
+      "example": "[E.g]: [Sounds] ominous.",
+      "written_on": "2023-01-18T03:34:50.163Z"
+    }
+  ],
+  "OWGF": [
+    {
+      "defid": 13215429,
+      "definition": "Out with [good friends]",
+      "example": "OWGF-Night out, or planned [event] with [good friends]",
+      "written_on": "2018-09-23T00:00:00Z"
     }
   ]
 }
