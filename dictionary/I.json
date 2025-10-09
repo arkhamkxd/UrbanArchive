@@ -135138,5 +135138,61 @@
       "example": "[Friend] 1: What should we do [tonight]?\r\nFriend 2: [I don’t know] how idziemy na peta?",
       "written_on": "2022-06-07T22:45:40.853Z"
     }
+  ],
+  "its like": [
+    {
+      "defid": 9258325,
+      "definition": "[a word] used to mean the [opposite] of what its [intended] to mean",
+      "example": "its [like] its [funny]\r\nits like [you're pretty]",
+      "written_on": "2016-09-10T00:00:00Z"
+    }
+  ],
+  "ikysc": [
+    {
+      "defid": 15640549,
+      "definition": "I know you [stupid cunt]\r\n[when you] talk with a dumbass who thinks [you know] nothing",
+      "example": "[Dumbass]: did [you know that] [trump lost]!\r\nPerson: ikysc",
+      "written_on": "2021-01-07T02:28:42.305Z"
+    }
+  ],
+  "iss wass": [
+    {
+      "defid": 1817186,
+      "definition": "[Somali] word [meaning]\"[Fuck yourself]\"",
+      "example": "[nigga] [shut the fuck up] and iss [wass]",
+      "written_on": "2006-06-19T00:00:00Z"
+    }
+  ],
+  "it's all good": [
+    {
+      "defid": 1147987,
+      "definition": "Means [nothing] is bad.\r\n\r\nUsed in an [optimistic] sense to show the lightheartedness of [something].",
+      "example": "-Hey man, [sorry about that]. I had someone on [the other] line.\r\n-Oh [it's all] good.",
+      "written_on": "2005-05-13T00:00:00Z"
+    }
+  ],
+  "Infinity pods": [
+    {
+      "defid": 13883194,
+      "definition": "[The definition] of thanos' [airpods]",
+      "example": "[Infinity] pods are [extremely] [rare]",
+      "written_on": "2019-05-08T00:00:00Z"
+    }
+  ],
+  "ictia": [
+    {
+      "defid": 17383003,
+      "definition": "[Abbreviation] for [I can’t take it] [anymore]",
+      "example": "This job is so [draining] can [someone] take my shift on [Friday] ictia.",
+      "written_on": "2022-07-27T14:37:48.644Z"
+    }
+  ],
+  "If only": [
+    {
+      "defid": 1369555,
+      "definition": "A retort that means, \"What you've just said is plainly [not true], [although] I [certainly] wish it were.\"",
+      "example": "\"I'm [never going] to call or e-mail you again.\" \"If only!\"\r\n\r\n\"Aren't you worried about the [Republicans]? Once they get into office, they'll reduce the size of [government].\" \"If only!\"",
+      "written_on": "2005-08-03T00:00:00Z"
+    }
   ]
 }
