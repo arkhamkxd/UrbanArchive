@@ -90248,5 +90248,37 @@
       "example": "[Example]:\r\nThing: Are you [a good person]?\r\nOther thing: “I am Evil”\n\nThat’s how you get striked by [the gods].\n\nFYI YOU WILL D I E",
       "written_on": "2019-02-09T00:00:00Z"
     }
+  ],
+  ">*": [
+    {
+      "defid": 4009783,
+      "definition": "\"Greater than all\"\n\nCombines two elements:\r\n> The greater-than symbol\r\n* Asterisk, [the wildcard] character [representing] \"all\" in [computing]",
+      "example": "[Chocolate milk] is >*",
+      "written_on": "2009-06-01T00:00:00Z"
+    }
+  ],
+  "404d": [
+    {
+      "defid": 4897119,
+      "definition": "When a web page is [intentionally] taken off-line, likely due to the [documentation] of illegal [activities] or contents.",
+      "example": "That /s/ [pre-teen] [page] was 404d before I could dl them all!",
+      "written_on": "2010-04-18T00:00:00Z"
+    }
+  ],
+  "#wgw": [
+    {
+      "defid": 7600126,
+      "definition": "1. [White Girl Wasted]\r\n2. (the wgw) A close group of girls that drink together often and have [developed] [communication] beyond a verbal point.",
+      "example": "1. After 6 fishbowls each, Charlene and Betty were [sufficiently] #wgw.\n\n2. The #wgw stumble out of their apartment into the sunshine. One gestures, [two fingers] scissoring together. The other hands her a cigarette, and they both stand [wordlessly] smoking.",
+      "written_on": "2014-03-07T00:00:00Z"
+    }
+  ],
+  "[BOFTT]": [
+    {
+      "defid": 3622951,
+      "definition": "[Belly] Out [Farther] Than [Tits]",
+      "example": "\"Dude, [check out] that BOFTT [over there]\"\r\n\r\n\"That's [the biggest] BOFTT I have ever seen\"",
+      "written_on": "2009-01-14T00:00:00Z"
+    }
   ]
 }
