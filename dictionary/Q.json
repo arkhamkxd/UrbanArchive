@@ -37234,5 +37234,21 @@
       "example": "I [herd] she [likes] to quarphle",
       "written_on": "2020-05-02T00:00:00Z"
     }
+  ],
+  "qazmine": [
+    {
+      "defid": 15893027,
+      "definition": "A [nick name] for [Jasmine] but with a ✨Q✨",
+      "example": "Qazmine is my [Nick name].",
+      "written_on": "2021-04-07T17:04:07.419Z"
+    }
+  ],
+  "quams": [
+    {
+      "defid": 2419951,
+      "definition": "\"Quams\" [word] for [pussy]",
+      "example": "[last night] i [got some] quams",
+      "written_on": "2007-06-01T00:00:00Z"
+    }
   ]
 }
