@@ -90114,5 +90114,37 @@
       "example": "Doctor: [Unfortunately] [I don't think] you will [make it]...\n\nMe:ျ ᎤⵙL. ᎠⵡDⵟ",
       "written_on": "2018-07-11T00:00:00Z"
     }
+  ],
+  "00": [
+    {
+      "defid": 58257,
+      "definition": "The lowest you [can hit].",
+      "example": "\"Life is like [landing] on [double zero]\"\r\n\r\n[Less than zero] but greater than a minus value",
+      "written_on": "2003-03-13T00:00:00Z"
+    }
+  ],
+  "“Rosie” beef": [
+    {
+      "defid": 13279943,
+      "definition": "[Fake beef] that’s [mainly] onesided.",
+      "example": "[Ruth] and I have big “[Rosie]” [beef].",
+      "written_on": "2018-10-18T00:00:00Z"
+    }
+  ],
+  ":-}]": [
+    {
+      "defid": 5137963,
+      "definition": "Typical [smiley face] with a mustache, [especially] awesome for [the fellas] with the nose buddies :D",
+      "example": "Are u serious......its a [freakin guy] wit a [mustache], why should i give an [example]?!!??!?! :-}",
+      "written_on": "2010-08-04T00:00:00Z"
+    }
+  ],
+  "1.5V": [
+    {
+      "defid": 457238,
+      "definition": "A very [stupid person]. [The only] use for their brain is to stick a copper nail in one end, a zinc nail in [the other], and you might get 1.5 volts by using their brain as a battery. Works well if they eat plenty of salty foods.",
+      "example": "(1) This [whole] [classroom] yields no [more than] 6 volts.\r\n\r\n(2) I'd say he's a half-volt. Maybe less.",
+      "written_on": "2004-01-19T00:00:00Z"
+    }
   ]
 }
