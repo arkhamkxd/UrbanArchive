@@ -5117,6 +5117,12 @@
       "definition": "[something] [seriously] [cool]",
       "example": "omg [look at] him [drink out] of that can [thats] so ish",
       "written_on": "2008-06-11T00:00:00Z"
+    },
+    {
+      "defid": 3588314,
+      "definition": "Another name for a person's boo, or someone their [interested] in. Not a [girlfriend]/[boyfriend] but the stages before that.",
+      "example": "You and your ish are [so cute]! When [are you] gonna start [going out]?",
+      "written_on": "2008-12-31T00:00:00Z"
     }
   ],
   "Immigrant's Song": [
@@ -34809,6 +34815,12 @@
       "definition": "MJ-Authentication\r\n\r\nThis is similar to the TCP/IP syn [response] during the setup phases of the 3-way [handshake] process.  This [response] is specific to MJ-Authentication from the M party.\r\n\r\nik and iag are of the mjml protocal standard",
       "example": "MJ-Authentication\r\n\r\nJ sends ik to M\r\nM send iag to J\r\n\r\nWhen both parties [receive] this symmetric key authentication has been performed and [communication] can safely [continue].",
       "written_on": "2007-10-21T00:00:00Z"
+    },
+    {
+      "defid": 16376556,
+      "definition": "[your name] is mike and your [trying to] do [that one] tiktok trend",
+      "example": "[mike] [without] the m and e",
+      "written_on": "2021-10-15T08:39:34.022Z"
     }
   ],
   "Inversely proportional": [
@@ -99829,6 +99841,12 @@
       "definition": "Ishrak is a guy who is relentless and works very hard to achieve goals. Loves to have fun but is stuck between [introvert] and extrovert. Looks very tough but is a [delicate flower] from the inside. Hurt him once, he'll hurt you twice. [Love him] once, get loved forever.",
       "example": "[I wish] [I had] an Ishrak for a bf, [instead] of this Chad.",
       "written_on": "2021-11-22T20:03:43.793Z"
+    },
+    {
+      "defid": 16455685,
+      "definition": "[Good looking] dude that can be [annoying af] sometimes. Chill and crazy [personality]",
+      "example": "An ishrak is a [good] [asset] [in my life].",
+      "written_on": "2021-11-20T18:24:59.518Z"
     }
   ],
   "Insert Word Here": [
@@ -134397,6 +134415,38 @@
       "definition": "[If it] is [already] known, do I [have to] tell you?",
       "example": "\"[How come] you didn't tell me you two are dating?\"\n\n\"If [the sky is blue] should we tell [everyone]?\"",
       "written_on": "2018-12-18T00:00:00Z"
+    }
+  ],
+  "Imoné": [
+    {
+      "defid": 17739109,
+      "definition": "Most [beautiful girl] [you know] she is mostly addicted to nicotine and [energy drinks] she is a very loving person you’re lucky to have her as a friend",
+      "example": "She [sounds] [like] an [imon]é",
+      "written_on": "2023-04-04T13:27:47.138Z"
+    }
+  ],
+  "Ijfoijfoijfeijefiei": [
+    {
+      "defid": 13606618,
+      "definition": "When [you don't know] what to name a [Google Doc] and also when your [brain] malfunctions.",
+      "example": "During a test when I'm [trying to] think of an [answer] [my brain] is just ijfoijfoijfeijefiei!",
+      "written_on": "2019-02-11T00:00:00Z"
+    }
+  ],
+  "ILBW": [
+    {
+      "defid": 17717046,
+      "definition": "Instagram Loving [Bitch Wife] - [Meghan Markle], wife of [Prince Harry].",
+      "example": "Look at [the Dumb] Prince and his [Instagram] Loving [Bitch Wife] (ILBW).",
+      "written_on": "2023-03-18T10:21:29.472Z"
+    }
+  ],
+  "iaal": [
+    {
+      "defid": 1152091,
+      "definition": "I Am A [Lawyer].  [Antonym] to [IANAL]",
+      "example": "BTW,IAAL, but [IANYL] (\"[I Am Not] Your [Lawyer]\")",
+      "written_on": "2005-03-29T00:00:00Z"
     }
   ]
 }
