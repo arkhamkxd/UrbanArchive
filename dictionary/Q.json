@@ -38060,5 +38060,21 @@
       "example": "Quynhduyen Is a vietnimesse [name]",
       "written_on": "2018-03-26T00:00:00Z"
     }
+  ],
+  "Queenager": [
+    {
+      "defid": 14763729,
+      "definition": "[Women] over 70 [years] of [age].",
+      "example": "My [grandmother] is a queenager, and [that is all] you [need to know].",
+      "written_on": "2020-03-01T00:00:00Z"
+    }
+  ],
+  "qwertyuiopasfghjklzxcvbnm": [
+    {
+      "defid": 13507099,
+      "definition": "when [yore] so [fucking bored] you type [qwertyuiopasdfghjklxcvbnm]",
+      "example": "qwertyuiopasfghjklzxcvbnm",
+      "written_on": "2019-01-07T00:00:00Z"
+    }
   ]
 }

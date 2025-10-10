@@ -92,5 +92,13 @@
       "example": "Der går [lige] et øjesekund før [jeg] er [klar]",
       "written_on": "2021-12-04T14:04:53.318Z"
     }
+  ],
+  "øl": [
+    {
+      "defid": 3363072,
+      "definition": "Øl is [beer] in [Norwegian]",
+      "example": "Faen! så deilig og kald øl [dette] var! = [Fuck] how [delicious] and cold beer this was!",
+      "written_on": "2009-01-13T00:00:00Z"
+    }
   ]
 }
