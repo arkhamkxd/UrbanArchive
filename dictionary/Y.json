@@ -91004,5 +91004,29 @@
       "example": "\"Hey [wanna go] to [the movies]?\"\r\n\"idk\"\r\n\"[its ok], ydht\"",
       "written_on": "2012-08-11T00:00:00Z"
     }
+  ],
+  "y tu mama tambien": [
+    {
+      "defid": 4115671,
+      "definition": "[Translation]: \". . .and your mother, too.\" Used to answer back when somebody says, \"Chinga tu madre\" (\"[Fuck your mother]\"), or even when it's not said, but you think [the other guy] has it in his mind to say it.",
+      "example": "Y [Tu Mama] Tambien was a [Mexican] movie [nominated] for an Oscar for best foreign film in 2002.",
+      "written_on": "2009-07-17T00:00:00Z"
+    }
+  ],
+  "youngjung": [
+    {
+      "defid": 16747212,
+      "definition": "반말하지 마라 니 내 아나?",
+      "example": "[Hey], [this is] youngjung.\r\n반말하지마라 니 내 아나?",
+      "written_on": "2021-11-24T14:07:41.318Z"
+    }
+  ],
+  "yoi": [
+    {
+      "defid": 4442935,
+      "definition": "[Colloquial] slang for [bullshit] used at [Shrewsbury School].",
+      "example": "\"[he is good] at [football]\"\r\n\"yoi, he is [crap]\"",
+      "written_on": "2009-12-17T00:00:00Z"
+    }
   ]
 }
