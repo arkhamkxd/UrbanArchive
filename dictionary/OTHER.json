@@ -8601,6 +8601,12 @@
       "definition": "[smile]",
       "example": "[person 1]: hi! [how are you] doing?\r\nperson2: [hola]! yes, i'm doing good! :)",
       "written_on": "2021-09-05T20:52:47.641Z"
+    },
+    {
+      "defid": 6649510,
+      "definition": ":) is a [smiley face], also known as an emoticon, expressing happiness or excitement.\n\nYou can also type it backwards [like this] (:\n\nThey both mean the same. But they can be used to [distinguish] between a girl(: or a boy:). But they are both used by anyone.",
+      "example": "[Conversation]:\n\n- Hey, [how are you]?\n\n- [Really excited] for the game, you?! :)",
+      "written_on": "2012-06-24T00:00:00Z"
     }
   ],
   "[Ellenwood]": [
@@ -10663,6 +10669,12 @@
       "definition": "[Korean] [Profanity]: [meaning] FUCK",
       "example": "1 = Shi \r\n8 = Bal\r\n\r\n[therefore] 18 = [ShiBal]/[FUCK]!",
       "written_on": "2003-10-21T00:00:00Z"
+    },
+    {
+      "defid": 17197570,
+      "definition": "That's a [number].",
+      "example": "[Person]: 18 is [my favorite number].\r\nPerson2: Omg that is [so fetch].",
+      "written_on": "2022-05-01T04:29:33.218Z"
     }
   ],
   "😀🖕": [
@@ -24297,6 +24309,12 @@
       "definition": "[Way] Of [Parting] An Ending A [Conversation] !",
       "example": "[I'll See You] Tomorrow. Ok 10-4 !\r\nSomeone Is On The Other Line [I'll Call You Back] 10-4.\r\nAy Hitt Me Up Tonight [Before You Go] . 10-4",
       "written_on": "2010-12-08T00:00:00Z"
+    },
+    {
+      "defid": 14161447,
+      "definition": "A term [indicating] you have received and [understood] a message, and confirm it.\n\nAs it is used by law enforcement, using the term is a indication you suggest the [receiver] is a fascist.",
+      "example": "- Please leave Sir, [without] [making a scene]\r\n- 10-4 you fascist pig\r\n- [Fuck you] hippie",
+      "written_on": "2019-08-31T00:00:00Z"
     }
   ],
   "111 = Death on brawl theory": [
@@ -62513,6 +62531,12 @@
       "definition": "[Another] [name] for [policemen]",
       "example": "[Oh No]! 5-0! [Get the] [fcuk] out of ere! Run!",
       "written_on": "2004-12-03T00:00:00Z"
+    },
+    {
+      "defid": 217041,
+      "definition": "[policecops], they don't [like] you",
+      "example": "\"[Shit nigga], its da' 5-0's!\"",
+      "written_on": "2003-08-17T00:00:00Z"
     }
   ],
   "2110": [
@@ -91909,6 +91933,38 @@
       "definition": "A [straight] faced or deadpan wink. Meant to let someone know that a statement was [ridiculous] or a lie, and [you know it].",
       "example": "That zit on [your face is] so big they should [call it] [Mount] Zhitney. ;|",
       "written_on": "2011-09-20T00:00:00Z"
+    }
+  ],
+  "269": [
+    {
+      "defid": 5386023,
+      "definition": "Known for wild parties and the city of Climax, MI, this is an area code of Southwest Michigan developed [in the early] 21st century including the township of Climax and [the following] areas:\n\nAllegan\r\nAthens\r\nAugusta\r\nBangor\r\nBaroda\r\nBedford\r\nBellevue\r\nBenton Harbor\r\nBerrien Center\r\nBerrien Springs\r\nBloomingdale\r\nBradley\r\nBreedsville\r\nBridgman\r\nBuchanan\r\nBurr Oak\r\nCassopolis\r\nCentreville\r\nCeresco\r\nClimax (100% real!)\r\nCloverdale\r\nColoma\r\nColon\r\nComstock\r\n[Constantine]\r\nCovert\r\nDecatur\r\nDelton\r\nDouglas\r\nDowagiac\r\nDowling\r\nEast Leroy\r\nEau Claire \t\r\nEdwardsburg\r\nFennville\r\nFulton\r\nGalesburg\r\nGalien\r\nGlenn\r\nGobles\r\nGrand Junction\r\nHagar Shores\r\nHamilton\r\nHarbert\r\nHartford\r\nHastings\r\nHickory Corners\r\nHopkins\r\nJones\r\nKendall\r\nLacota\r\nLakeside\r\nLawrence\r\nLawton\r\nLeonidas\r\nMarcellus\r\nMarshall\r\nMartin\r\nMattawan\r\nMendon\r\nMiddleville\r\nNazareth\r\nNew Buffalo\r\nNew Troy\r\nNiles\r\nNottawa \t\r\nOlivet\r\nOshtemo\r\nOtsego\r\nPaw Paw\r\nPlainwell\r\nPullman\r\nRichland\r\nRiverside\r\nSaint Joseph\r\nSaugatuck\r\nSawyer\r\nSchoolcraft\r\nScotts\r\nShelbyville\r\nSodus\r\nSouth Haven\r\nStevensville\r\nSturgis\r\nThree Oaks\r\nThree Rivers\r\nUnion\r\nUnion Pier\r\nVandalia\r\nVicksburg\r\nWatervliet\r\nWayland\r\n[White Pigeon]\r\nWoodland",
+      "example": "There's a [wild party] in the 269.",
+      "written_on": "2010-12-04T00:00:00Z"
+    }
+  ],
+  "@sarahszlp": [
+    {
+      "defid": 15716222,
+      "definition": "@sarahszlp is a very [gorgeous] and sweet zonut who supports [zoe laverne]! she is always there when you need her, sar sar is one of her [nicknames]. anyways, if your anything other than nice to sar sar nothing will end well for you :))",
+      "example": "“@sarahszlp is very [gorgeous]!!”",
+      "written_on": "2021-02-03T23:06:58.317Z"
+    }
+  ],
+  "`1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./ !@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:\"ZXCVBNM<>?": [
+    {
+      "defid": 15753309,
+      "definition": "why would you [type] [everything] on your [keyboard] wtf",
+      "example": "Im bored so im just gonna `1234567890-=[qwertyuiop]\\[asdfghjkl];'zxcvbnm,./ !@#$%^&*()_+[QWERTYUIOP]{}ASDFGHJKL:\"ZXCVBNM<>?",
+      "written_on": "2021-02-18T08:36:37.151Z"
+    }
+  ],
+  "*skull emoji*💀": [
+    {
+      "defid": 18213074,
+      "definition": "A way to show shock, like saying, I'm dead, when reacting to [something funny] or just downright crazy, or lessen the importance of [something] while talking online. If [there is nothing] funny then it represents actual death.",
+      "example": "\"Bro just pulled [a monkey] out what *[skull emoji]*💀\"\n\n\"[That's crazy]\"",
+      "written_on": "2024-05-05T17:56:27.789Z"
     }
   ]
 }
