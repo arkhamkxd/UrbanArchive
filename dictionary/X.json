@@ -15622,5 +15622,21 @@
       "example": "That's xool!",
       "written_on": "2003-11-09T00:00:00Z"
     }
+  ],
+  "X^ and ^X or ^^^": [
+    {
+      "defid": 12625096,
+      "definition": "X refers to the sentence/context of the message you're replying to. (^) the direction of this symbol, will determend the direction of the message you're replying to. X^ means one message up [to the right] (usually your own message). ^^^^^X means 5 messages up [to the left]. This symbol can be displayed on it's own, usually this means that the person just wants you to [look at this] message, but it depends on the context of course.\n\nX can be used in capital or not, you often don't even use X on It's own, but it can be used for directions if you don't have a/any sentence/context.",
+      "example": "X^ and ^X or ^^^ are mostly used in chats for practical reasons:\n\nI'm fine\r\nAre you fine?\n\nx^\n\n(This [conversation] points to that you have all ready said that [you're fine] and [you don't want] to waste time on writing it again).",
+      "written_on": "2018-03-01T17:49:56.868Z"
+    }
+  ],
+  "Xaccai": [
+    {
+      "defid": 18550101,
+      "definition": "A [really cool], sweet, and [funny guy] who hardly has to try. Should also [definitely] be my boyfriend and not levis. I hate you levi",
+      "example": "Hey Xaccai, [I like you lots]! Levi [leave] Xaccai [alone]!!",
+      "written_on": "2025-09-26T22:15:20.587Z"
+    }
   ]
 }
