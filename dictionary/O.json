@@ -23065,6 +23065,12 @@
       "definition": "ok",
       "example": "ok",
       "written_on": "2018-12-02T00:00:00Z"
+    },
+    {
+      "defid": 17811398,
+      "definition": "ok",
+      "example": "[person 1]: no\r\n[person 2]: ok",
+      "written_on": "2023-06-02T19:17:57.16Z"
     }
   ],
   "Onning": [
@@ -59541,6 +59547,12 @@
       "definition": "1.Using somethingcool so much that it starts to get [annoying].\r\n2.Making [something] much serious/making [something] take longer than what it should.",
       "example": "Jill:Hey [do you wanna go] out?\r\nJonny:No, [I'm busy].\r\nJill:Will you ever want to go out?\r\nJonny:Uhmm.\r\nJill:When will you be [available]?\r\nJill:HELLLLLOOOO?!\r\nJonny:Overkill.",
       "written_on": "2009-07-22T00:00:00Z"
+    },
+    {
+      "defid": 3719589,
+      "definition": "Verb/ A term used in [Final Fantasy X] which means that you did a massive amount of to an enemy who had a smaller amount of life. [In real life] it can be used when someone kills a joke or tells a dead-on-arrival joke and tries to add to the joke to make it funny but ends up destroying it [even more].",
+      "example": "guy1: dude listen to this joke\r\nguy2: k\r\n(guy1 tells a [bad joke])\r\nguy2: that sucked\r\nguy1: no, no, [no you don't] get it let me [explain]\r\n(guy1 explains and throws in some extra stuff)\r\nguy2: please dude don't overkill",
+      "written_on": "2009-02-13T00:00:00Z"
     }
   ],
   "oisin": [
@@ -120989,6 +121001,38 @@
       "definition": "it's a play on the disease and awful immobility of obesity, [highlighting] the hypnotic and draining effect a city can have on you. It's a dig on [capitalism] by saying that the collection of money is an immobilizing plague that is consuming the very excitement and passion that humans have for life. It describes the one that you could predicate the phrase to be about, Obe and his financial struggles that he has faced throughout his childhood, while also saying that those struggles have shaped him as a person and the surrounding [environment] around him, friends, housing, life, showing that these struggles have made him able to shape his own surroundings, no longer restricted by money and man-made paper.\n\nIt's also a cool rapper",
       "example": "\"that boy [lives] in obe city\"\r\n\"have [you heard] that new obe city song?\"\r\n\"blinnker [sent me] to obe city\"",
       "written_on": "2023-05-12T19:34:08.004Z"
+    }
+  ],
+  "oclo": [
+    {
+      "defid": 17907204,
+      "definition": "An [open] to [close] [shift] at any job.",
+      "example": "“Zach [can you] [hangout] today”\r\n“nah [sorry I] work an oclo today”",
+      "written_on": "2023-09-02T20:31:27.118Z"
+    }
+  ],
+  "one-deck": [
+    {
+      "defid": 135540,
+      "definition": "stoned [county boy] [excellent] DJ [brilliant] in bed",
+      "example": "extrav",
+      "written_on": "2003-05-22T00:00:00Z"
+    }
+  ],
+  "One fish": [
+    {
+      "defid": 14512996,
+      "definition": "[Meaning] $[150]",
+      "example": "[How much] are those [sneakers]? One fish? Cmon man how about just a [hundred]",
+      "written_on": "2019-12-05T00:00:00Z"
+    }
+  ],
+  "open bar": [
+    {
+      "defid": 28790,
+      "definition": "1) a bar where the [drinks] are free\r\n2) [something] that troy does not have at his [wedding]",
+      "example": "1) man, I'm [drunk]. [Thank you] open bar\r\n2) man, I'm [sober]. Wish there was an open bar",
+      "written_on": "2003-02-02T00:00:00Z"
     }
   ]
 }
