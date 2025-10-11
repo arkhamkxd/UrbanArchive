@@ -94428,5 +94428,29 @@
       "example": "E.g [Tanaya] [please] pay our [race] fees, don't be #notateamplayer",
       "written_on": "2017-04-10T00:00:00Z"
     }
+  ],
+  "\"Junior\" Senior": [
+    {
+      "defid": 16890892,
+      "definition": "Seniors are [considered] those 65 and older but [younger] seniors don't [identify] as \"seniors\" given the demographic has such a wide span - from 65-100+.",
+      "example": "I'm [not ready] to move to a [retirement] [community]. I'm a \"junior\" senior.",
+      "written_on": "2022-01-06T09:52:30.804Z"
+    }
+  ],
+  "7 Days": [
+    {
+      "defid": 60716,
+      "definition": "a [metaphor] for [weak]",
+      "example": "",
+      "written_on": "2003-03-16T00:00:00Z"
+    }
+  ],
+  "*children screaming*": [
+    {
+      "defid": 13098495,
+      "definition": "[The sound] you [hear] in an [american school]",
+      "example": "*[pulls] gun out* *[children] [screaming]*",
+      "written_on": "2018-07-28T00:00:00Z"
+    }
   ]
 }
