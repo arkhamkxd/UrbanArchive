@@ -96486,5 +96486,21 @@
       "example": "[Oh you] 3er!",
       "written_on": "2018-12-07T16:05:25.893Z"
     }
+  ],
+  "31 Blood set": [
+    {
+      "defid": 14159649,
+      "definition": "31 blood set is a set found either in [south side] alief or [north side] this set was founded in prison created In the [south side] of alief",
+      "example": "[Person 1]: “What set are you”\n\n[Person 2]: “31 blood set”\r\n[Person 1]:oh",
+      "written_on": "2019-08-30T00:00:00Z"
+    }
+  ],
+  "#thedarkcloud": [
+    {
+      "defid": 13463328,
+      "definition": "the [depression] [taking] over",
+      "example": "[i can] [feel it] #thedarkcloud",
+      "written_on": "2018-12-19T00:00:00Z"
+    }
   ]
 }
