@@ -39692,5 +39692,21 @@
       "example": "[Look at] all the QAmorons at [the Capitol] [Building].",
       "written_on": "2021-03-08T03:18:38.253Z"
     }
+  ],
+  "QUOTA": [
+    {
+      "defid": 899239,
+      "definition": "one [quarter]; 25 [percent] of a dolla or [dollar]",
+      "example": "[Teacher]: \"Class, who can spell quota?\"\r\n\r\nJamal:  \"I sho can't spell quota, but two make [fitty cent]\"\r\n\r\nTeacher: \"[Fo shizzle]\"",
+      "written_on": "2004-11-14T00:00:00Z"
+    }
+  ],
+  "Qwelpt": [
+    {
+      "defid": 18270955,
+      "definition": "A [questionable] decision made [under the influence] or extreme exhaustion, often regretted [the morning after].",
+      "example": "[Last night] was a total qwelpt, I woke up with a tattoo of [fucking] [pickle rick] riding a taco.",
+      "written_on": "2024-07-14T23:11:52.154Z"
+    }
   ]
 }
