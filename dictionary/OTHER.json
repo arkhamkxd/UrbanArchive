@@ -97272,5 +97272,21 @@
       "example": "[Do you] [wanna] 2man",
       "written_on": "2022-03-12T18:41:22.523Z"
     }
+  ],
+  "`1234567890-qwertyuiop[]\\ASDFGHJKL;'": [
+    {
+      "defid": 17771819,
+      "definition": "What happens [when you] swipe your keys around the [keyboard], excluding [the enter key].",
+      "example": "\"lets [see what happens] when i swipe all [the keys] excluding the tab key\"\r\n`1234567890-qwertyuiop\\[ASDFGHJKL;']\r\n*hits enter key*\r\n\"aw damn it why cant i do the other half\"",
+      "written_on": "2023-05-01T03:18:16.192Z"
+    }
+  ],
+  "<.7.9.7.6.>Fa PleUasE fA<.7.9.7.6.>": [
+    {
+      "defid": 18493399,
+      "definition": "<.[7.9].[7.6].>Fa PleUasE fA<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>Fa PleUasE fA<.[7.9].7.6.>",
+      "written_on": "2025-05-24T16:00:15.352Z"
+    }
   ]
 }
