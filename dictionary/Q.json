@@ -39934,5 +39934,21 @@
       "example": "[James] [walks] [up to] Jacob and takes both of his hands and jabs Jacob in his sides and says \"Quiggles\"",
       "written_on": "2011-11-03T00:00:00Z"
     }
+  ],
+  "Quadragon": [
+    {
+      "defid": 11887631,
+      "definition": "[The Pentagon], but with one less side (\"quadr-\" replacing \"pent-\"). Penned by [The Onion] in a censored joke following the [September 11, 2001] attacks.",
+      "example": "[The Onion]: \"[America] [Stronger] Than Ever, Say Quadragon Officials\"",
+      "written_on": "2017-08-18T00:00:00Z"
+    }
+  ],
+  "quackcandle": [
+    {
+      "defid": 1962963,
+      "definition": "A [made up] [drug] its [rubbish]",
+      "example": "I got completely off my [spunky backpack] on quackcandle and now i feel like a [fortnight] in a [bad balloon]",
+      "written_on": "2006-09-08T00:00:00Z"
+    }
   ]
 }
