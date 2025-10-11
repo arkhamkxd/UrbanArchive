@@ -1189,6 +1189,12 @@
       "definition": "[means] you love [maddie] [brooke]🤝🏼💓",
       "example": "[4 fingers] up means you sent [a picture] to me with for [fingers] up for atiktok",
       "written_on": "2022-10-11T07:39:27.517Z"
+    },
+    {
+      "defid": 17161653,
+      "definition": "[you fuck] [a crazy] [amount] of boys",
+      "example": "[Did you] see [James] [holding 4 fingers up] he must fuck so many dudes",
+      "written_on": "2022-04-18T03:06:13.716Z"
     }
   ],
   "<.0.7.9.7.1.5.3.7.4.6.3.4.3.6.2.6.6.2.9.6.9.6.6.9.7.7.4.6.1.5.3.7.9.7.0.> <.0.6.7.6.0.>Decir La OppOsitE lA deciR<.0.6.7.6.0.> <.0.7.9.7.1.5.3.7.4.6.3.4.3.6.2.6.6.2.9.6.9.6.6.9.7.7.4.6.1.5.3.7.9.7.0.>": [
@@ -10117,6 +10123,12 @@
       "definition": "holding [three fingers up] in a photo represents\n\na [secret way] of you saying [you don't] have a dad",
       "example": "did u see brodys post of him [holding 3 fingers up] [i guess] he cant [eat cereal]",
       "written_on": "2022-04-10T11:45:38.479Z"
+    },
+    {
+      "defid": 17497946,
+      "definition": "[it means you] like someone, but [too shy] to admit because they might like [someone else].",
+      "example": "[look] she did [the 3] [fingers] up pose!",
+      "written_on": "2022-10-15T08:49:36.645Z"
     }
   ],
   "516": [
@@ -96029,6 +96041,86 @@
       "definition": "The [white rapper] that [got to] take his stilts [with him] in jail, they liked the stilts so much.",
       "example": "[Nobody] fucked with 4 seezins in jail, [that dude] [looked] about 8 foot 20.",
       "written_on": "2021-06-17T14:01:30.743Z"
+    }
+  ],
+  "@};-": [
+    {
+      "defid": 2124366,
+      "definition": "[a rose], often used in [chatrooms]. Try it in [yahoo messenger], it works.",
+      "example": "[Justin]: [I luv u]\r\nMe: aww [i luv u] 2! @};-\r\nJustin: aww ur so nice! *smells rose* <3",
+      "written_on": "2006-12-03T00:00:00Z"
+    }
+  ],
+  "[freefill]": [
+    {
+      "defid": 3428931,
+      "definition": "When a [restaurant] or other eating [establishment] gives you a [free refill].",
+      "example": "[I just] bought this huge drink, It was [expensive] but i get a [freefill].",
+      "written_on": "2009-02-28T00:00:00Z"
+    }
+  ],
+  "[Adjective here] as": [
+    {
+      "defid": 3819905,
+      "definition": "Basicly, any adjective followed by the word as, increasing the strength of the adjective.\r\n[Originated] from [New zealand].\r\n\r\nTo describe that it is cold: \"its cold as bro, cold as a chili bin bro\"\r\n\r\nTo describe that you think something is stink(unfair,stupid):\"stink as man\"\r\n\r\nGenerally this is [one of the most] used phrases in New Zealand \"____ as\"",
+      "example": "\"Bro I cant make it to [the party] tonite\"\r\n\"sweet as\"\r\n\r\n\"Oi Mrs Coles failed me on that assessment!\"\r\n\"Thats shit as man\"\r\n\r\n\"Bro _____ [Happened]\"\r\n\"Man, thats [adjective] here as",
+      "written_on": "2009-03-21T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>.9.LoliIzIulA.9.<.7.9.7.6.>": [
+    {
+      "defid": 18515045,
+      "definition": "<.[7.9].[7.6].>.9.LoliIzIulA.9.<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>.9.LoliIzIulA.9.<.[7.9].7.6.>",
+      "written_on": "2025-07-11T01:26:44.539Z"
+    }
+  ],
+  "`~`Goya`~`paSta`~`goyA`~`": [
+    {
+      "defid": 18476382,
+      "definition": "`~`[Goya]`~`[paSta]`~`[goyA]`~`",
+      "example": "`~`[Goya]`~`[paSta]`~`[goyA]`~`",
+      "written_on": "2025-04-26T09:17:08.385Z"
+    }
+  ],
+  "4F-MPH": [
+    {
+      "defid": 15526889,
+      "definition": "4F-MPH is pharmaceutical drug that was originally designed to medicate people that have Attention Deficit Hyperactivity Disorder (ADHD).\n\nIt was also put forward as a possible medication to help reduce dependency on cocaine for addicted users.\n\nIt is now commonly known amongst [recreational] drug users by the following names:\r\n- super quick (quickie)\r\n- charlie2 (becasue if it longer lasting effect and its similar chemical structure to cocaine i.e. charlie)\r\n- turbo meth (turbo)\r\n- Isao (abbreviated from Isao Machii, who is strongly regarded to have superhuman abilities which user's report to feel when ingesting the drug)\r\nRecreational drug users like to take 4f-mph or turbo meth as it is commonly known, as a stronger and cleaner [alternative] to [methamphetamine].",
+      "example": "[Today] [I am] [going] to precribe you 4F-MPH.",
+      "written_on": "2020-11-29T01:15:18.734Z"
+    }
+  ],
+  "/dev/null": [
+    {
+      "defid": 814824,
+      "definition": "/dev/null is a character device file on UNIX computer [operating systems] that accepts all data written to it, without storing it. It can be opened by many processes [simultaneously], and writing to it doesn't cause the file to grow. Formally, it's described as being an infinite data sink. In shell programming, unwanted output from a command can be redirected there. For example:\r\n\r\n find / 2>/dev/null\r\n\r\nThis would display the full paths to all the accessible files on the computer, without displaying the \"Permission denied\" errors that are likely to occur.\r\n\r\nWhen programs try to read from /dev/null, they get an end-of-file error.\r\n\r\nThe idea of a null device was imitated by Microsoft in MS-DOS. In DOS, 'NUL' is a reserved filename. When you open a file with that name, DOS opens its [equivalent] of /dev/null. This behavior was inherited by Windows. In Windows,\r\neven versions of it that are based on the NT kernel, you cannot create a file called \"NUL\".\r\n\r\nIt is usually pronounced as \"dev null\", not \"slash dev, slash null.\" Programmers sometimes refer to /dev/null as a place to send any unwanted [information], even if, for example, the data is being transmitted as spoken words from a human's mouth.",
+      "example": "\"I didn't [give a shit] about [what the] Resident was saying, so I simply redirected [everything] he said to /dev/null.\"",
+      "written_on": "2004-09-02T00:00:00Z"
+    }
+  ],
+  "312": [
+    {
+      "defid": 219526,
+      "definition": "[Crip Love]",
+      "example": "[3rd] and 12th [letters] or [alphabet]: C.L.",
+      "written_on": "2003-08-19T00:00:00Z"
+    }
+  ],
+  "[FISH TALK]": [
+    {
+      "defid": 3017000,
+      "definition": "when men (or women) having [nothing better to do] then chat about [fishing] and [nothing] else all day.",
+      "example": "Bucc:\"Rac, i caught a big bass in the [gravel pit] lake on saturday.\" \r\nRac:\"Cool, i borrowed my buddies jon boat [because i can't] afford my own and went fishing for jew fish, caught two nice ones.\" \r\n\r\nTank: \"Enough with the FISH TALK, it's [getting old].\"",
+      "written_on": "2008-04-18T00:00:00Z"
+    }
+  ],
+  "-][=][-][-][Y][-": [
+    {
+      "defid": 1849508,
+      "definition": "the screen version of [the word] HIM, used in [reference] to the band His [Infernal] Majesty",
+      "example": "[now] [playing]: -=--Y- ~ The Begining Of [The End]",
+      "written_on": "2006-07-07T00:00:00Z"
     }
   ]
 }
