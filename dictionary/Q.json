@@ -39958,5 +39958,29 @@
       "example": "[Hey Mom]!  Can you go out and [pick me up] a [six pack] of Qui-Gon Jin?",
       "written_on": "2001-11-05T00:00:00Z"
     }
+  ],
+  "qwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxzqazwsxedcrfvtgbyhnujmikolpplokimjunhybgtvfrcdexswzaqqweasdzxcrtyfghvbnuiojklmppoilkjmnbuythgfvcxrewdsazq": [
+    {
+      "defid": 17070042,
+      "definition": "[ultimate boredom]",
+      "example": "qwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxzqazwsxedcrfvtgbyhnujmikolpplokimjunhybgtvfrcdexswzaqqweasdzxcrtyfghvbnuiojklmppoilkjmnbuythgfvcxrewdsazq",
+      "written_on": "2022-03-14T09:45:18.515Z"
+    }
+  ],
+  "Quakxivo": [
+    {
+      "defid": 17179636,
+      "definition": "The action when [you run] too fast and trip [face down], and [slide for] a few meters",
+      "example": "The quakxivo of the thief was [immediate] karma\r\nHe quakxivoed [yesterday] and went to the [hospital]",
+      "written_on": "2022-04-24T14:19:16.278Z"
+    }
+  ],
+  "Quantum Extraphysics": [
+    {
+      "defid": 15666231,
+      "definition": "Quantum Extraphysics is a hypothesis about [quantum mechanics] and [extraphysical mechanics] whete there are quantum states of matter on extraphysical level. Where both, quantum mechanics and [extraphysical mechanics] are the same thing on different levels of nature.",
+      "example": "\"Quantum Extraphysics is a really mindblowing [hypothesis], it might be useful to explain [extraphysical superposition] and [quantum afterlife].\"",
+      "written_on": "2021-01-16T17:27:32.994Z"
+    }
   ]
 }
