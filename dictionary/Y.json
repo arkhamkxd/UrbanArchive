@@ -93158,5 +93158,29 @@
       "example": "Me: “is there any [reason why] you’re such a tool?”\r\n[The tool]: (shakes head [up and down]) “yeah, no, yeah.....”",
       "written_on": "2019-09-23T00:00:00Z"
     }
+  ],
+  "you're": [
+    {
+      "defid": 8114166,
+      "definition": "[A word] [most people] on [the Internet] cannot spell",
+      "example": "Person 1: Your [full of shit]!\r\n[Person 2]: Your grammar is shit!\n\nPerson 1: Your such an asshole!\r\nPerson 2: [You're not] worth my time.",
+      "written_on": "2015-02-19T00:00:00Z"
+    }
+  ],
+  "yacked up": [
+    {
+      "defid": 1796826,
+      "definition": "[To be] [under the influence] of [cocaine].",
+      "example": "10 [grams]! We're gonna be [yacked] [up for] awhile.",
+      "written_on": "2006-06-11T00:00:00Z"
+    }
+  ],
+  "Yuanyao": [
+    {
+      "defid": 16539035,
+      "definition": "[A humble] and simple [average joe]. Yet at [the same] time, a hot buff shuai ge.",
+      "example": "Wah you damn yuanyao sia. I [really] [wanna be] [like] you leh.",
+      "written_on": "2021-11-22T08:01:07.907Z"
+    }
   ]
 }
