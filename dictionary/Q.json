@@ -39374,5 +39374,21 @@
       "example": "have [you seen] qyqja’s [video] it was great\r\nqyqja is [the best]",
       "written_on": "2021-06-06T00:39:40.726Z"
     }
+  ],
+  "Quidditch Rules": [
+    {
+      "defid": 15840028,
+      "definition": "Refers to any competition or game, official or otherwise, where there is one task that has a [significantly] disproportionate effect on the scoring; Especially where this single task has a huge luck element to it.\n\nThis term originates from the rules of Quidditch, a sport in author J.K. Rowling's fictional world of witchcraft & wizardry, in which there are multiple ways to score a handful of points, but the if a seeker catches the [Golden Snitch] –an action that immediately ends the game– they receive 15x a normal scoring point in the game, thus almost always securing the victory even if they were [significantly] behind in the rest of the game.",
+      "example": "We worked our butts off to score well all semester, but [the professor] pulled some [Quidditch] Rules bullsh*t and gave the team who did best on last week's assignment 15x the points of all the other [assignments], so the team in last place won.",
+      "written_on": "2021-03-19T13:58:25.354Z"
+    }
+  ],
+  "QUBER": [
+    {
+      "defid": 15785372,
+      "definition": "person who creates [content] [inside] [a cube]",
+      "example": "[you are] [creating] a post or [making] a quber",
+      "written_on": "2021-03-01T13:42:53.228Z"
+    }
   ]
 }
