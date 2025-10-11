@@ -1055,6 +1055,12 @@
       "definition": "A [phenomenon] of neurons firing in someone's brain causing them to feel bored and press all of [the keys] on their [keyboard] in an orderly fashion.",
       "example": "[Did you] see [John] qwertyuiopasdfghjklzxcvbnm [earlier]?",
       "written_on": "2019-06-29T00:00:00Z"
+    },
+    {
+      "defid": 12199288,
+      "definition": "When a [human being] is at a loss for any [possible] ideas and is [bored to death].",
+      "example": "Put into a [sentence]: [The civil war] was qwertyuiopasdfghjklzxcvbnm. (Boring, [clearly].)",
+      "written_on": "2017-11-22T00:00:00Z"
     }
   ],
   "qper": [
@@ -39389,6 +39395,14 @@
       "definition": "person who creates [content] [inside] [a cube]",
       "example": "[you are] [creating] a post or [making] a quber",
       "written_on": "2021-03-01T13:42:53.228Z"
+    }
+  ],
+  "Qurble": [
+    {
+      "defid": 17661088,
+      "definition": "When you or [someone else] are [doing well] [and then] you fuck up badly",
+      "example": "Oh [he's done] a Qurble",
+      "written_on": "2023-02-07T08:50:26.106Z"
     }
   ]
 }
