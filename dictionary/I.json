@@ -147322,5 +147322,37 @@
       "example": "[Girl] ikufl",
       "written_on": "2023-10-23T18:15:55.559Z"
     }
+  ],
+  "i have depression so sad": [
+    {
+      "defid": 15891038,
+      "definition": "when [people] seek [attention] [online]",
+      "example": "*chatroom*\r\n[player1]: i have [depression] so sad\r\n[player2]: sad",
+      "written_on": "2021-04-07T03:01:13.662Z"
+    }
+  ],
+  "ill bang you with my blicky": [
+    {
+      "defid": 15908498,
+      "definition": "[the word] the big scary scrawny man who is [out to get] you and his name is joey dun dun duuuuun so he will try [to bang] you wit his blicky raaaaaah uhhh ooooh owi yeeees",
+      "example": "[come on] 1v1 in a [basket ball] game cause ill bang you with my [blicky]",
+      "written_on": "2021-04-13T14:38:41.225Z"
+    }
+  ],
+  "idiot tax rebate": [
+    {
+      "defid": 5548569,
+      "definition": "An unexpected windfall that makes you feel [really excited] and happy - as long as [you don't] think about how much idiot tax you paid in the [first place].",
+      "example": "Me: Hooray! Hoorah! I've won ten quid on [the lottery]!\n\nWife: Yeah, but you buy two tickets a week, so over the [last year] you've wasted over a hundred quid. This is just an [idiot tax] rebate.",
+      "written_on": "2011-01-27T00:00:00Z"
+    }
+  ],
+  "Inkheart": [
+    {
+      "defid": 3656724,
+      "definition": "1.A book that involves characters from other books.\r\n\r\n2.A movie based on said book.\r\n\r\n3.Someone who loves books [more than] [anything else] in this world or [the next].",
+      "example": "Sally loves books, she reads them [all the time]! She must be an inkheart.\r\n\r\n[Did you] see the new movie, Inkheart? It was [different] from the novel.",
+      "written_on": "2009-01-25T00:00:00Z"
+    }
   ]
 }
