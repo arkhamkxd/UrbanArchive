@@ -60230,5 +60230,21 @@
       "example": "[Allo]! hg ng z'ga [man] ? ja nh ng [heyy] z'ga.",
       "written_on": "2019-11-25T00:00:00Z"
     }
+  ],
+  "Zyrene": [
+    {
+      "defid": 16395051,
+      "definition": "Zyrene is a very [cool person]. She's born on the 30th of July, and her [favorite person] is [Taylor Swift].",
+      "example": "\"[What is] Zyrene's [favorite] song again?\"\r\n\"It was [Hey Jude].\"",
+      "written_on": "2021-10-27T20:11:57.943Z"
+    }
+  ],
+  "Zainie": [
+    {
+      "defid": 14579800,
+      "definition": "A strong [powerful] person that is kind to [others] and doesn’t take [advantage] of any one",
+      "example": "Zainie is [generous]",
+      "written_on": "2019-12-27T00:00:00Z"
+    }
   ]
 }
