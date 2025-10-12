@@ -60450,5 +60450,21 @@
       "example": "Zedol is [like] her [name], awesom",
       "written_on": "2021-11-21T09:03:53.102Z"
     }
+  ],
+  "Zone 1": [
+    {
+      "defid": 3798696,
+      "definition": "Zone 1 is a zone that covers the Westside of Atlanta.\r\n\r\nIts full name is Atlanta Patrol Zone 1. \r\n\r\n\r\nAreas, hoods and roads in Zone 1 include:\r\n\r\n- Bankhead\r\n- Bankhead Courts\r\n- The Bluff\r\n- Boone Ave. ([Simpson Road])\r\n- Bowen Homes\r\n- Center Hill\r\n- Collier Heights\r\n- Dixie Hill\r\n- Donald Lee Hollowell Parkway (Bankhead Highway)\r\n- [Hollywood] Road\r\n- [Hollywood] Courts\r\n- Lincoln Homes\r\n- Monroe Heights\r\n- Perry Homes\r\n- Vine City\r\n- West Lake",
+      "example": "A: What zone you from?\r\n\r\nB: [Westside] Zone 1 [on deck].\r\n\r\nA: Where you stay?\r\n\r\nB: [Bowen Homes], Bankhead.",
+      "written_on": "2009-03-14T00:00:00Z"
+    }
+  ],
+  "zombie shit": [
+    {
+      "defid": 3253573,
+      "definition": "When you [take a dump] and flush it, but some or all of your turds come back up ([back from the dead], hence [the term] \"zombie shit\").",
+      "example": "[Example]: Dude, if you happen to take a [zombie] shit again, [could you please] flush a second time?",
+      "written_on": "2008-08-26T00:00:00Z"
+    }
   ]
 }
