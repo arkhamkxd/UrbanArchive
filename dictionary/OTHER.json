@@ -97458,5 +97458,21 @@
       "example": "she put her [marshmallows],[pillows]} into his [mouth]...",
       "written_on": "2009-01-12T00:00:00Z"
     }
+  ],
+  "1a2s3d4f5g6h7j8k9": [
+    {
+      "defid": 17268409,
+      "definition": "[video game] [username]",
+      "example": "my [username] is 1a2s3d4f5g6h7j8k9",
+      "written_on": "2022-05-27T23:44:55.95Z"
+    }
+  ],
+  "\"I think I heard somthing\"": [
+    {
+      "defid": 2902549,
+      "definition": "Somthing you say when you hear a noise [out of the ordinary]. When said you should usually sound like [Herbert the Pervert] from [Family Guy].",
+      "example": "\"Did you hear [something]?\"\r\n\"I think I heard somthing\"\r\n\"Maybe [you should] [check it out]?\"\r\n\"Mmmmm I think, I should.\"",
+      "written_on": "2008-03-05T00:00:00Z"
+    }
   ]
 }
