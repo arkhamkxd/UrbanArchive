@@ -147206,5 +147206,21 @@
       "example": "Are you aware that iJazzy [Classical] is Haiti' only Jazz radio station [and one] of the country' most popular radio stations owned by Werley Nortreus (60%) and [Ceraphin Radio Network] (40%)?",
       "written_on": "2019-06-10T00:00:00Z"
     }
+  ],
+  "i am living in your walls": [
+    {
+      "defid": 16837735,
+      "definition": "[i am] in [your walls]",
+      "example": "Hey Paul, did [you realize] that [i am living] in [your walls]?",
+      "written_on": "2021-12-13T19:43:45.142Z"
+    }
+  ],
+  "I’m with the guys": [
+    {
+      "defid": 13695409,
+      "definition": "[Code word] for “I’m with [my friends] [leave me alone]”",
+      "example": "[Girlfriend]: How’s your day going?\r\n[Boyfriend]: Good, I’m with [the guys]",
+      "written_on": "2019-03-09T00:00:00Z"
+    }
   ]
 }
