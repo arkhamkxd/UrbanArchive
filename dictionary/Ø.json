@@ -106,5 +106,13 @@
       "example": "Faen! så deilig og kald øl [dette] var! = [Fuck] how [delicious] and cold beer this was!",
       "written_on": "2009-01-13T00:00:00Z"
     }
+  ],
+  "ø": [
+    {
+      "defid": 675596,
+      "definition": "This is the 28th letter of the [Norwegian] Alphabet.  Contrary to [popular belief] the letter ø is NOT diphthong, however it is another way to write the vowel [combination] \"oe\"",
+      "example": "The [Norwegian] letter 'ø' sounds [similar] to the 'u' soubd in [the English] word \"hurt.\"",
+      "written_on": "2004-05-18T00:00:00Z"
+    }
   ]
 }
