@@ -3713,6 +3713,12 @@
       "definition": "1- Collateral's spouse's ascendant\r\n2- Collateral's spouse's collateral\r\n3- Descendant's spouse's ascendant (except: child-in-law's parent = co-parent-in-law)\r\n4- Descendant's spouse's collateral\r\n5- Collateral's spouse's ascendant's spouse\r\n6- Collateral's spouse's collateral's spouse\r\n7- Descendant's spouse's ascendant's spouse (except: child-in-law's stepparent = [step-co-parent-in-law])\r\n8- Descendant's spouse's collateral's spouse\r\n9- Spouse's collateral's spouse's ascendant\r\n10- Spouse's collateral's spouse's collateral\r\n11- Spouse's descendant's spouse's ascendant (except: stepchild-in-law's parent = [step-co-parent-in-law])\r\n12- Spouse's descendant's spouse's collateral\r\n13- Spouse's collateral's spouse's ascendant's spouse\r\n14- Spouse's collateral's spouse's collateral's spouse\r\n15- Spouse's descendant's spouse's ascendant's spouse\r\n16- Spouse's descendant's spouse's collateral's spouse\r\n17- Relative's widowed (non [biological])'s new spouse\r\n18- Relative's widowed (non biological)'s new spouse's relative\r\n19- Relative's widowed (non biological)'s new spouse's relative's spouse\r\n20- Spouse's relative's widowed (non biological)'s new spouse\r\n21- Spouse's relative's widowed (non biological)'s new spouse's relative\r\n22- Spouse's relative's widowed (non biological)'s new spouse's relative's spouse\r\n23- Absence of any kinship (nor biological, nor by affinity, nor by [indefinite] classification, nor by adoption)",
       "example": "Unrelated",
       "written_on": "2023-06-15T17:32:05.472Z"
+    },
+    {
+      "defid": 17825053,
+      "definition": "-Collateral relative's spouse's ascendant\r\n-Collateral relative's spouse's [collateral relative]\r\n-Descendant-in-law's ascendant (except: child-in-law's parent = co-parent-in-law)\r\n-Descendant-in-law's [collateral relative]\r\n-Spouse's collateral relative's spouse's ascendant\r\n-Spouse's collateral relative's spouse's collateral relative\r\n-Stepdescendant-in-law's ascendant (except: stepchild-in-law's parent = step-co-parent-in-law)\r\n-Stepdescendant-in-law's collateral relative\r\n-Collateral relative's spouse's stepascendant\r\n-Collateral relative's spouse's collateral relative's spouse\r\n-Descendant-in-law's stepascendant (except: child-in-law's stepparent = step-co-parent-in-law)\r\n-Descendant-in-law's collateral relative's spouse\r\n-Spouse's collateral relative's spouse's stepascendant\r\n-Spouse's collateral relative's spouse's collateral relative's spouse\r\n-Stepdescendant-in-law's stepascendant\r\n-Stepdescendant-in-law's collateral relative's spouse\r\n-Relative's widowed (non biological)'s new spouse\r\n-Relative's widowed (non biological)'s new spouse's relative\r\n-Relative's widowed (non biological)'s new spouse's relative's spouse\r\n-Spouse's relative's widowed (non biological)'s new spouse\r\n-Spouse's relative's widowed (non biological)'s new spouse's relative\r\n-Spouse's relative's widowed (non biological)'s new spouse's relative's spouse\r\n-Absence of any kinship (nor biological, nor by affinity, nor by [indefinite] [classification], nor by adoption)",
+      "example": "Unrelated.",
+      "written_on": "2023-06-14T15:51:32.618Z"
     }
   ],
   "USophant": [
@@ -76767,6 +76773,30 @@
       "definition": "Someone who keeps submitting the same [definition] repeatedly to [Urban Dictionary] hoping to get published. Often a personal slam on someone they do not like, or a disgusting made-up sex act. [Illiterate] U-Twits, or IUTs, cannot even spell most of the words correctly when they bag on someone or make up a violent sexual act.",
       "example": "Jeff is such a U-Twit, he keeps posting on [Urban Dictionary] that [Jane Smith] is a totally [skanky ho] from who has gotten a (insert gross sex act) from every guy in school.",
       "written_on": "2007-06-16T00:00:00Z"
+    }
+  ],
+  "Urban Woketionary": [
+    {
+      "defid": 15802340,
+      "definition": "When a website known for [explaining] [the latest] in urban lingo is tiggered by [Blue Anon]",
+      "example": "[Urban dictionary] has gone full [urban] [woketionary]",
+      "written_on": "2021-03-07T09:30:30.564Z"
+    }
+  ],
+  "unfactual": [
+    {
+      "defid": 13172561,
+      "definition": "Not [actually] a word, but [sounds good] [enough].",
+      "example": "[You are] calling me [stupid] while [using] \"unfactual\".",
+      "written_on": "2018-09-03T00:00:00Z"
+    }
+  ],
+  "ur moms cooch": [
+    {
+      "defid": 14715548,
+      "definition": "when a [place] is very [barren] and [lifeless]",
+      "example": "*enters a [desert]*\n\nbruh [it’s] like ur moms [cooch] in here",
+      "written_on": "2020-02-12T00:00:00Z"
     }
   ]
 }
