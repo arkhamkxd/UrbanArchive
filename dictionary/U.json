@@ -18219,6 +18219,12 @@
       "definition": "[Fat]",
       "example": "[It’s] [simple]: fat. What more [do you] deman from ur mum?",
       "written_on": "2019-03-24T00:00:00Z"
+    },
+    {
+      "defid": 11741386,
+      "definition": "A term that can be used [universally] in replace of any known word. It can be used in [sentences] and probing [questions]",
+      "example": "[Gary]: [what do you think] of [the economy]?\r\nBob: ur mum",
+      "written_on": "2017-06-28T00:00:00Z"
     }
   ],
   "Unit": [
@@ -76021,6 +76027,30 @@
       "definition": "Not [unique]; common.\r\nCould also indirectly mean lame ([not funny], [obvious], stupid)",
       "example": "Stop being a [stupid kid] and [behaving] so ununiquely.\n\n[This is] such an ununique joke\n\nThat was an ununique answer",
       "written_on": "2009-06-03T00:00:00Z"
+    }
+  ],
+  "Uncle Horchata": [
+    {
+      "defid": 12892750,
+      "definition": "Your [Mexican uncle] that doesn't let you [touch] his [bald head].",
+      "example": "My uncle [horchata] shot me after I tried [touching] his [bald head]",
+      "written_on": "2018-06-02T00:00:00Z"
+    }
+  ],
+  "usense": [
+    {
+      "defid": 3677341,
+      "definition": "In [Filipino] [Spanish], native or belonging to [the USA]",
+      "example": "Los usenses nos jodieron bien jodidos\r\n[The Americans] [really fucked] us\r\n\r\nMi coche usense es maganda\r\nMy [American car] is beautiful",
+      "written_on": "2009-02-01T00:00:00Z"
+    }
+  ],
+  "Unnamed 0": [
+    {
+      "defid": 15650449,
+      "definition": "A GD ([Geometry Dash]) [online] level [usually] created by Player.",
+      "example": "- [Hey dude] have u played [the star] rated 10, XL, [featured], epic level \"Unnamed 0\" by Player? It's amazing!\r\n- Nope\r\n- Then u don't exist men",
+      "written_on": "2021-01-10T22:56:32.65Z"
     }
   ]
 }
