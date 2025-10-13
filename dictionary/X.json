@@ -17460,5 +17460,13 @@
       "example": "Girl 1: I [wish wish] there was someone [out there] for me.\r\nGirl 2: Meet [my friend] xaen.",
       "written_on": "2018-10-11T00:00:00Z"
     }
+  ],
+  "xyler": [
+    {
+      "defid": 13024179,
+      "definition": "Most [unstable] [person] you will ever meet. Crazy, [idiotic],rudest person ever",
+      "example": "[Person]:Hey\r\nXyler:what\r\n[Person]:?,I said hey that means [you say] back hello\r\nXyler:ok bye",
+      "written_on": "2018-06-24T00:00:00Z"
+    }
   ]
 }
