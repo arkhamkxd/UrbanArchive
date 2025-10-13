@@ -131266,5 +131266,45 @@
       "example": "o'doherty",
       "written_on": "2019-11-13T00:00:00Z"
     }
+  ],
+  "Osja": [
+    {
+      "defid": 5255776,
+      "definition": "[evil] [meep]! Very [evil]!",
+      "example": "Osja is a very [evil] [meep]!",
+      "written_on": "2010-10-04T00:00:00Z"
+    }
+  ],
+  "ONI": [
+    {
+      "defid": 1531271,
+      "definition": "Acronym for Office of Naval [Intelligence], in the Halo book: The Fall of Reach. [Possibly] also used in [the rest] of the Halo series.",
+      "example": "\"[Red Leader], sir. We've got [something] for ONI. We've spotted some kind of Covenant race.\" -Page 185, [The Fall] of Reach.",
+      "written_on": "2008-07-20T00:00:00Z"
+    }
+  ],
+  "osgood": [
+    {
+      "defid": 8102263,
+      "definition": "[Shrek],[beast] [like man].",
+      "example": "[To be] in [beast mode] [like] a osgood",
+      "written_on": "2015-02-12T00:00:00Z"
+    }
+  ],
+  "On dead dawgs": [
+    {
+      "defid": 15655603,
+      "definition": "That is how you merch in Boston.\n\nSimilar to Foe’nem / I [swear to god].\n\nIf they put something “on [dead dawgs]” they are putting it on their [dead friends]/Dawgs.",
+      "example": "On [dead dawgs] I didn’t cheat, it was only a little [flirting]/say [on dawgs] you fucked her",
+      "written_on": "2021-01-12T18:51:31.189Z"
+    }
+  ],
+  "Obama nigetrocity": [
+    {
+      "defid": 4834147,
+      "definition": "An Obama nigertrocity is what [has been] perpetrated on the [United States] since Obama took [office].",
+      "example": "This new [health care] bill is a [complete] [Obama] nigetrocity.",
+      "written_on": "2010-03-26T00:00:00Z"
+    }
   ]
 }
