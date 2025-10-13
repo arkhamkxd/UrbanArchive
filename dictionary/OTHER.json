@@ -102656,5 +102656,13 @@
       "example": "'What is that?' 'That [is the new] [Kitchen Sink](||-//)'",
       "written_on": "2018-07-09T00:00:00Z"
     }
+  ],
+  "#demonmode": [
+    {
+      "defid": 17917913,
+      "definition": "\"[a stupid] [free game] that you can laugh about [playing]\"",
+      "example": "This [game] is #demonmode",
+      "written_on": "2023-09-13T14:15:17.635Z"
+    }
   ]
 }
