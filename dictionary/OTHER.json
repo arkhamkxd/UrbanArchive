@@ -100650,5 +100650,45 @@
       "example": "5x6 is 30",
       "written_on": "2023-11-09T14:11:18.875Z"
     }
+  ],
+  "<.7.9.7.6.>I, Angel Jose RObles, Is, The Country Of Greece's <bachlut>Uvilada<Bachlut><.7.9.7.6.>": [
+    {
+      "defid": 18485766,
+      "definition": "<.7.9.7.6.>I, [Angel] Jose [RObles], Is, The [Country] Of Greece's <bachlut>Uvilada<Bachlut><.7.9.7.6.>",
+      "example": "<.7.9.7.6.>I, [Angel] Jose [RObles], Is, The [Country] Of Greece's <bachlut>Uvilada<Bachlut><.7.9.7.6.>",
+      "written_on": "2025-05-10T23:21:56.365Z"
+    }
+  ],
+  "#chichobiisoverparty": [
+    {
+      "defid": 15116661,
+      "definition": "A popular tag among [social media] used to express [distaste] against the Osu! player Chichobi's crude remarks against [African Americans].",
+      "example": "LOL [nobody] watches [that shit] [streamer] #chichobiisoverparty",
+      "written_on": "2020-06-19T00:00:00Z"
+    }
+  ],
+  "9/11 plates": [
+    {
+      "defid": 4306956,
+      "definition": "License plates that predominately or totally feature the [American flag], whether in the foreground or background. The name is derived from how, after the attacks on 9/11, there was an explosion of patriotism, leading to the creation of [exclamatory] [American flag] plates.",
+      "example": "\"Dave just [bought a car], and it came with [9/11] [plates].\"",
+      "written_on": "2009-10-19T00:00:00Z"
+    }
+  ],
+  "135463": [
+    {
+      "defid": 15975040,
+      "definition": "1.i\n\n3.[will]\r\n5.[never]\r\n4.stop\r\n6.[loving]\r\n3.you",
+      "example": "[i know] we [don’t] talk [anymore] but 135463",
+      "written_on": "2021-05-07T17:38:27.275Z"
+    }
+  ],
+  "4-0": [
+    {
+      "defid": 1563340,
+      "definition": "[slang] for a fourdypronunced [four-o].",
+      "example": "He the [the store] and [get me] a 4-0.",
+      "written_on": "2005-12-23T00:00:00Z"
+    }
   ]
 }
