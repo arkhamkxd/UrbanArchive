@@ -17734,5 +17734,29 @@
       "example": "I Xinyied to [level 99]",
       "written_on": "2011-06-02T00:00:00Z"
     }
+  ],
+  "x-pinion": [
+    {
+      "defid": 1829103,
+      "definition": "when [someone] has a [bad] [opinion]",
+      "example": "[yo dawg] you have a [wack] x-pinion [man]!",
+      "written_on": "2006-06-26T00:00:00Z"
+    }
+  ],
+  "xanthopsia": [
+    {
+      "defid": 17796915,
+      "definition": "a visual [condition] that makes [everything] appear [yellow]",
+      "example": "JJ: Bro, I think I have xanthopsia…\r\nZach: [what is that]?\r\nJJ: it’s [when you] see [everything] yellow and I feel like I’m living in a lemon",
+      "written_on": "2023-05-21T18:02:04.49Z"
+    }
+  ],
+  "Xali": [
+    {
+      "defid": 16820598,
+      "definition": "It [means] bitch or a chic. Xali or Chali is [pronounced] >>[Khali]<<",
+      "example": "Do you see this Xali [over there] ? Did you [invited] the xali from [last weekend] ?",
+      "written_on": "2021-12-07T13:32:04.982Z"
+    }
   ]
 }

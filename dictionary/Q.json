@@ -42944,5 +42944,21 @@
       "example": "\"are [you gay]?\" \"[extremely], you could even [call me] qu11c.\"",
       "written_on": "2023-03-18T17:21:53.415Z"
     }
+  ],
+  "quarantineaversary": [
+    {
+      "defid": 15792551,
+      "definition": "The annual [celebration] of when [quarantine] first [started]!",
+      "example": "Happy Quarantineaversary! Can't [believe] it's [already] [been one] year!!!",
+      "written_on": "2021-03-03T18:53:09.881Z"
+    }
+  ],
+  "q.e.d.": [
+    {
+      "defid": 188749,
+      "definition": "Abbr. of quod erat demonstrandum, lit. \"which was demonstrated\";\r\ncf. res ipse loquitur ([the thing] speaks for itself), circumstantial [evidence], the \"[smoking gun]\"",
+      "example": "",
+      "written_on": "2003-07-21T00:00:00Z"
+    }
   ]
 }
