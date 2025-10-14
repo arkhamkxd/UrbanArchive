@@ -78824,5 +78824,21 @@
       "example": "[person 1]: I wish I was Udochukwu\n\n[person 2]: Udochukwu is soo [perfect].",
       "written_on": "2019-03-07T00:00:00Z"
     }
+  ],
+  "uniparous": [
+    {
+      "defid": 338502,
+      "definition": "Producing ([ONE]) at [birth].",
+      "example": "",
+      "written_on": "2003-11-07T00:00:00Z"
+    }
+  ],
+  "Unvisiblecowchair": [
+    {
+      "defid": 16199310,
+      "definition": "[Adverb]\r\nUnvisiblecowchair can be used as an [everyday] adverb for just about [anything]",
+      "example": "That [tree] [swung] unvisiblecowchair.\n\n[I ran] unvisiblecowchair.",
+      "written_on": "2021-07-21T22:54:40.693Z"
+    }
   ]
 }
