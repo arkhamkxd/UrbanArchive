@@ -108316,5 +108316,13 @@
       "example": "<.[7.9].[7.6].>CowlickZ, cowlUickz, cowlickZ<.[7.9].7.6.>",
       "written_on": "2025-06-06T21:30:57.914Z"
     }
+  ],
+  "`1234567890-=qwertyuiop[]\\asdfghjkl;'xcvbnm,./": [
+    {
+      "defid": 15768247,
+      "definition": "A human will use `1234567890-=[qwertyuiop]\\[asdfghjkl];'xcvbnm,./ on [the verge] of death, if someone uses this word call an ambulance! They're so bored that they might kill themselves.",
+      "example": "Liz:`1234567890-=[qwertyuiop]\\asdfghjkl;'xcvbnm,./\r\nRob: OMG! I'm calling an ambulance, [stay with me]!\r\nLiz: `1234567890-=[qwertyuiop]\\asdfghjkl;'xcvbnm,./",
+      "written_on": "2021-02-23T10:46:48.076Z"
+    }
   ]
 }
