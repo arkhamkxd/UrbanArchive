@@ -103640,5 +103640,29 @@
       "example": "Bob: I'll go [clubbing], as long as there are no Yetis\r\n\r\nJack: [You are] [such a] Yetist",
       "written_on": "2009-01-16T00:00:00Z"
     }
+  ],
+  "YAWE": [
+    {
+      "defid": 12950088,
+      "definition": "YAWE - Yet [Another] [Wasted] [Effort]",
+      "example": "[What ever] I [studied] for [exam] was , YAWE!!!",
+      "written_on": "2018-06-09T00:00:00Z"
+    }
+  ],
+  "Yooran": [
+    {
+      "defid": 11821120,
+      "definition": "A ship name for [yoosung] and [saeran] on [mystic messenger].",
+      "example": "My [favorite] [ship] is yooran.",
+      "written_on": "2017-07-25T00:00:00Z"
+    }
+  ],
+  "You're can go fuck yourself": [
+    {
+      "defid": 13425870,
+      "definition": "A term used for [respond] when smartasses [point out] your grammar [mistakes] using you're",
+      "example": "\"Your as mild as [Classic Lays]\"\r\n\"You're* [not good] at grammar\"\r\n\"You're can [go fuck yourself]\"",
+      "written_on": "2018-12-05T00:00:00Z"
+    }
   ]
 }
