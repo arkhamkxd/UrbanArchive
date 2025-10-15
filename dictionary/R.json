@@ -286008,5 +286008,77 @@
       "example": "Are they [pesetas] or only Rechistas? Both, [who cares]? They're [awesome].",
       "written_on": "2021-11-22T07:42:53.782Z"
     }
+  ],
+  "Rotorhead": [
+    {
+      "defid": 3818881,
+      "definition": "[Wankel] Rotory [engine] [enthusiast].",
+      "example": "[Person 1]: That guy loves his [Mazda RX7]..\r\n\r\n[Person 2]: Yeah he's a Rotorhead.",
+      "written_on": "2009-03-21T00:00:00Z"
+    }
+  ],
+  "RIM JOB": [
+    {
+      "defid": 773084,
+      "definition": "What [JULIE] does with her [men]",
+      "example": "[Julie] [gave] the stalcker [a rim job]",
+      "written_on": "2004-07-27T00:00:00Z"
+    }
+  ],
+  "rusty underwear": [
+    {
+      "defid": 2962931,
+      "definition": "[Underwear] that has been worn and when taken off has a [brownish] [shit stain] on it.",
+      "example": "i dont let my mother wash my [underwear] because i [always] have rusty [underwear]",
+      "written_on": "2008-03-29T00:00:00Z"
+    }
+  ],
+  "ryan moment": [
+    {
+      "defid": 16005472,
+      "definition": "claiming to be an [intellect] whilst being [oblivious] to one's own blatant [stupidity]",
+      "example": "\"but many more were taken on that [persona]\"\r\n\"[lol what] a ryan [moment]\"",
+      "written_on": "2021-05-18T20:15:15.24Z"
+    }
+  ],
+  "Racing": [
+    {
+      "defid": 1839675,
+      "definition": "When 2 or more men are [urinating] at [the same] time and it becomes a race to see who can finish [urinating] first.",
+      "example": "Todd and Jimmy were racing in the [men's room] after they [consumed] a large amount of [liquids].",
+      "written_on": "2008-09-04T00:00:00Z"
+    }
+  ],
+  "Rubberbanding": [
+    {
+      "defid": 14872243,
+      "definition": "When someone in an online [video] game teleports back to where they were before because of lag.\n\nPacket loss or generally bad internet is usually the cause of this problem. To make the game feel less laggy, when the game client sends packets to the server about your character moving, it will show your character moving on your screen before it has actually verified that the server knows you moved. In rare cases, those packets are not received by the server because of packet loss or just delayed by a large amount of time because of high ping. In that case, the server doesn't know your character moved and will sooner or later send back a packet telling the client about the actual position of the character ([the position] you were last time the server received a packet). On your screen , it will then look like you suddenly [teleported] back but the server thinks you were always at the position you [teleported] to.",
+      "example": "\"I keep rubberbanding [all the time], it's [really] [annoying]!\"",
+      "written_on": "2020-04-09T00:00:00Z"
+    }
+  ],
+  "riding the bicycle": [
+    {
+      "defid": 5552561,
+      "definition": "[going on] an [anabolic] [steroid] cycle",
+      "example": "bro 1: [Sup brah], damn Az got swole, can't be natty can he?\r\nbro 2: Naw brah, he's been [riding] [the bicycle] these past weeks.",
+      "written_on": "2011-02-18T00:00:00Z"
+    }
+  ],
+  "rick clough": [
+    {
+      "defid": 5424362,
+      "definition": "the hottest man that has ever lived. Commonly into theatre and thick rim glasses. Wears tight shirts [that show] off his muscles and [tight pants] show off [other things]. In general a woman pleaser and an uncommonly good guy.",
+      "example": "[rick] cloughs [coming]! [look] cute!",
+      "written_on": "2010-12-11T00:00:00Z"
+    }
+  ],
+  "Rushaan": [
+    {
+      "defid": 16513175,
+      "definition": "Rushaan can be best described as an entity of pure evil, heavily allegorical to the Antichrist and the Beast. His wanton cruelty and depthless malice do not appear to be humanized by traits or drives such as hatred, vengeance, lust, a point to prove, or even sadism; being fully aware of his nature and devoid of any need to justify himself, his actions are about as reasonless, [emotionless], and [nihilistic] as he is—thus possibly rendering his evil as [literally] pure and undiluted as can be, given his lack of any discernible gain from it or even a consistent identity. It is perhaps for this reason that he earns such condemnations as monster, devil, vampire, alien",
+      "example": "Be [careful] [when you] [enter] near Rushaans house",
+      "written_on": "2021-11-21T23:53:13.404Z"
+    }
   ]
 }
