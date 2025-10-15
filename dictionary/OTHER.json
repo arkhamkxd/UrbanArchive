@@ -107854,5 +107854,21 @@
       "example": "《¤》[Officer] 《¤》Grivalja 《¤》Is《¤》 [Hisoka] 《¤》[Morrow]《¤》",
       "written_on": "2025-02-25T14:15:44.398Z"
     }
+  ],
+  "(Two words used seperately) Neva and Always": [
+    {
+      "defid": 355497,
+      "definition": "Neva= meaning that an action did not [take place] or a statement was never spoken.\r\nAlways= meaning that an action [definitely] did take place or a statement was [definitely] voiced about an opinion.",
+      "example": "Shawn:You told shawna I said she was ugly!\r\n\r\nJohn: Neva did I [tell her] dat you said she was ugly. [Always] did I [tell her] you said she was cute.",
+      "written_on": "2003-11-18T00:00:00Z"
+    }
+  ],
+  "-obama": [
+    {
+      "defid": 4188585,
+      "definition": "Is the use of [Barack Obama's last name] as a suffix, such as gobama or nobama, and is a quick way to box yourself in as being on either extreme end of the [political spectrum] by anyone who hears you or sees your [bumper sticker] with one of the aforementioned phrases.",
+      "example": "\"are those people talking about the election? I have to tell them gobama all the way!\"\n\n\"look, that pick-up truck had a nobama [bumper sticker] on it, now check to see if there is a [confederate flag] [license plate].\"\n\n\"-obama\"",
+      "written_on": "2009-08-19T00:00:00Z"
+    }
   ]
 }
