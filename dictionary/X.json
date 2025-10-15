@@ -18516,5 +18516,13 @@
       "example": "The Xephon has the [ability] to shoot energy arrows and create an energy [barrier] among [other things].",
       "written_on": "2004-02-24T00:00:00Z"
     }
+  ],
+  "xraying": [
+    {
+      "defid": 8928580,
+      "definition": "[Hacks] used in games that [allows] you to see through [the walls] or floor.",
+      "example": "\"... I was xraying on [minecraft] [to be] able to see [diamond]...\"",
+      "written_on": "2016-03-27T00:00:00Z"
+    }
   ]
 }
