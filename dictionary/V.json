@@ -99546,5 +99546,29 @@
       "example": "Vishistha [cheated] her [best friend]",
       "written_on": "2021-11-24T06:57:30.364Z"
     }
+  ],
+  "vegetable man": [
+    {
+      "defid": 15652348,
+      "definition": "One of the earliest [examples] of punk rock alongside Beatles' [Helter Skelter]. Written by Syd Barrett in 1967 and performed by him and The [Pink Floyd]",
+      "example": "[Vegetable] [man], where [are you]?",
+      "written_on": "2021-01-11T15:25:50.546Z"
+    }
+  ],
+  "V-8": [
+    {
+      "defid": 1528412,
+      "definition": "The popular engine [configuration] used in sports cars and trucks. Large torque and [horsepower] [numbers] and relativly compact design, also give that classic sound.",
+      "example": "My V-8 [Camaro] will smoke the tires off the rims.\r\nMy V-8's [rumble] [scares] any honda boys into hideing",
+      "written_on": "2005-12-28T00:00:00Z"
+    }
+  ],
+  "vesta": [
+    {
+      "defid": 163687,
+      "definition": "a [big boned] princess usually found [drinking] beer in a not so flattering [red dress].",
+      "example": "See that vesta [at that] keg, she sure [looks like] she [needs] to go on a diet.",
+      "written_on": "2003-06-24T00:00:00Z"
+    }
   ]
 }
