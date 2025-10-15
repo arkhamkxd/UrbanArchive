@@ -100692,5 +100692,37 @@
       "example": "[That slut] has her vagelly [showing]!",
       "written_on": "2010-11-02T00:00:00Z"
     }
+  ],
+  "vomiting out": [
+    {
+      "defid": 17848954,
+      "definition": "It refers to the act of giving [psychological] damage and discomfort by suddenly confessing love to someone who is not [interested] in or dislikes oneself or who has no [relationship] of love feelings.",
+      "example": "he said that he has [feelings] [for me]. it was completely vomiting out!\r\nI couldn't [help] to vomiting out.",
+      "written_on": "2023-07-05T22:39:01.132Z"
+    }
+  ],
+  "Van-Damme it": [
+    {
+      "defid": 3045850,
+      "definition": "1.To push aside [personal feelings] or obstacles and focus on the task at hand.\r\n\r\n2.To, somehow, be able to land a full-splits spinning [roundhouse kick to the face] of a [superior] opponenet whilst blinded by salt thrown by said oponent.",
+      "example": "You:\"Dude, I can't [go to work]. I feel like crap after Cindy dumped me.\"\r\n\r\nMe:\"You gotta Van-Damme it and go anyway. [Frank Dux] didn't [want to] go to the Kumite but he did it AND he won.\"",
+      "written_on": "2008-04-29T00:00:00Z"
+    }
+  ],
+  "voting machine": [
+    {
+      "defid": 3016178,
+      "definition": "A device that records the choices of voters in an election. It can take several forms:\r\n\r\n---\r\n1. A [mechanical] device, where the voter flips small levers next to the candidates' names to indicate their choices, then pulls a big lever to record the votes. Considered very difficult to hack.\r\n\r\n---\r\n2. A direct-recording [electronic] (DRE) machine. May print vote totals on paper, but there is no way for a voter to verify that his/her votes were accurately recorded. Unlike mechanical voting machines, DRE machines are extremely vulnerable to fraud and malware that can steal a [percentage] of votes, reassigning them to the rigged candidate.\r\n\r\n---\r\n3. An [electronic] machine that lets the voter make choices, then PRINTS AN ACTUAL FILLED-OUT PAPER BALLOT, which the voter can review and either discard (and start over) or cast. THE PAPER BALLOT IS THE OFFICIAL RECORD OF THE VOTE.\r\n\r\nBallots can be quickly counted by optical scanning technology. (Voters could also choose to fill in a blank ballot by hand.) [Importantly], ballots can be RECOUNTED, by hand if necessary.\r\n\r\nCounts from the voting machines need not be trusted as anything more than quick estimates or \"exit polls\". This scheme makes it difficult to commit the large-scale fraud so easy to do invisibly with paperless DRE machines.\r\n\r\n---",
+      "example": "A number of Diebold [electronic voting] machines have been in the news, first for criminally incompetent software and database design, leaving vote records wide open to undetectable tampering, more recently for vulnerability to \"[computer virus]\" style malware that can spread from machine to machine through the data cards used to collect voting data.\r\n\r\nMaking such [electronic voting] machines widespread is the perfect way to lay the groundwork for large-scale, invisible voter fraud.\r\n\r\nThere's plenty of information on this on the Web. A good place to start: the Coalition for Voting Integrity, www.coalitionforvotingintegrity.org .",
+      "written_on": "2008-04-18T00:00:00Z"
+    }
+  ],
+  "vatoid": [
+    {
+      "defid": 249295,
+      "definition": "[awesomely] gagful",
+      "example": "my [relationship] is so vatoid",
+      "written_on": "2003-09-12T00:00:00Z"
+    }
   ]
 }
