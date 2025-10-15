@@ -43950,5 +43950,29 @@
       "example": "After [playing] [Earthbound], many people are [inspired] to make their own QRPG in RPG Maker.",
       "written_on": "2023-06-21T10:35:09.894Z"
     }
+  ],
+  "Qiesya": [
+    {
+      "defid": 17272486,
+      "definition": "Qiesya is a person who is ready to take [advantage] of anything.If her friends are bullied by others, she will think of a good comeback and [in the end], able to Show others she is [one of a kind]!",
+      "example": "Is that Qiesya!? [Hurry] [RUN]!!",
+      "written_on": "2022-05-29T22:12:03.052Z"
+    }
+  ],
+  "quixotic": [
+    {
+      "defid": 822084,
+      "definition": "1. Named [after the] classic litereary character [Don Quixote], it means to pursue ideals without any thought to practicality.\r\n\r\n2. The mood in livejournal's mood theme list that no-one knows [what the hell] it means. Especially not those that make mood theme icons.",
+      "example": "[Current] [Mood]: Quixotic",
+      "written_on": "2004-09-09T00:00:00Z"
+    }
+  ],
+  "quafuffle": [
+    {
+      "defid": 16989702,
+      "definition": "[complicated]",
+      "example": "[oh that]’[s a] [bit of a] quafuffle",
+      "written_on": "2022-02-13T08:55:24.156Z"
+    }
   ]
 }
