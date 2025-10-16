@@ -110010,5 +110010,21 @@
       "example": "[yo that] 1999 [mustang] just got [murdered] by that sierra",
       "written_on": "2009-04-25T00:00:00Z"
     }
+  ],
+  "...I...Keep...": [
+    {
+      "defid": 18462066,
+      "definition": "...I...[Keep]...",
+      "example": "...I...[Keep]...",
+      "written_on": "2025-03-30T10:20:36.13Z"
+    }
+  ],
+  "]": [
+    {
+      "defid": 16295937,
+      "definition": "is a stupid-ass key which just so happens to be below the [backspace] key and above [the enter key]. Similar to [the infamous] \\ (backslash) key.",
+      "example": "[Person 1]: Hello!\r\n[Person 2]: Why did you type \"\"?\r\nPerson 1: Damnit, that stupid fucking closing square [parenthesis]...",
+      "written_on": "2021-09-06T08:46:10.34Z"
+    }
   ]
 }
