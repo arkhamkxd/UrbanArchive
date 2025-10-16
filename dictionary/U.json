@@ -80994,5 +80994,29 @@
       "example": "[Hey man], [order] me some [fries] and Ubergravy.",
       "written_on": "2008-03-20T00:00:00Z"
     }
+  ],
+  "Undisable": [
+    {
+      "defid": 13938453,
+      "definition": "[Similar] to [enable], but like, [better].",
+      "example": "Yo, [I just] undisabled the [microphone] on [my phone].",
+      "written_on": "2019-05-27T00:00:00Z"
+    }
+  ],
+  "Ultimate Fail": [
+    {
+      "defid": 4111953,
+      "definition": "When someone has failed beyond proportions that would [otherwise] be [considered] \"Epic\", they are stricken with the \"[Ultimate] Fail!\"",
+      "example": "Guy to other person: [Epic Fail].\n\n[Other Guy] to person who failed: No, it's [Ultimate] Fail. It has to be.",
+      "written_on": "2009-07-15T00:00:00Z"
+    }
+  ],
+  "usetabe": [
+    {
+      "defid": 1921632,
+      "definition": "1.[The only] thing more useless than a wannabe!\r\n2.A worthles PUNK who RUNS, rather than [backing up] his [Brothers]!",
+      "example": "That USETABE [got his] patch pulled for [running] when his Braus' got [in the shit]!",
+      "written_on": "2006-08-18T00:00:00Z"
+    }
   ]
 }
