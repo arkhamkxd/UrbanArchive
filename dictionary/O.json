@@ -20875,6 +20875,12 @@
       "definition": "The [lonely] [number]",
       "example": "[one is] the [lonely] [number]",
       "written_on": "2019-01-12T00:00:00Z"
+    },
+    {
+      "defid": 15114850,
+      "definition": "one",
+      "example": "one",
+      "written_on": "2020-06-19T00:00:00Z"
     }
   ],
   "onehundredsome": [
@@ -38603,6 +38609,12 @@
       "definition": "[National] BF [Yes Day]\n\nOn this day your bf has to say yes to you no matter [what it is].",
       "example": "\"Hi babe! [Will you] rub my back?\"\r\n\"Yes [whatever] only because it's [October] 13\"",
       "written_on": "2021-10-12T19:57:51.085Z"
+    },
+    {
+      "defid": 14277778,
+      "definition": "It's [Jimin] [Day]!",
+      "example": "It's [October] 13. It's [happy day] because it's [Jimin] day!",
+      "written_on": "2019-10-15T00:00:00Z"
     }
   ],
   "overarted": [
@@ -142027,6 +142039,38 @@
       "definition": "Stands for \"Oh My Fucking Bollycao Lord\", it's an [expression] you can use when you are caught by [surprise], and you can't seem to find words to describe your [feelings] from the shock of it.",
       "example": "\"OMFBL was that an UFO?!\"\n\n\" - [Are you ready] for [the test]?\r\n- OMFBL I [TOTALLY FORGOT] IT\"",
       "written_on": "2014-05-27T00:00:00Z"
+    }
+  ],
+  "Open-Ended Questions": [
+    {
+      "defid": 14370471,
+      "definition": "open-ended [questions] are the [questions] that you have to type in your answer. For these [questions] you will need to provide as complete an answer as the question demands. You do not want be too brief or too wordy, when you are answering an open-ended question in a test.",
+      "example": "open-ended [questions] are the [questions] that you have to type in your answer. For these [questions] you will need to provide as complete an answer as the question demands. You do not want be too brief or too wordy, when you are answering an open-ended question in a test.",
+      "written_on": "2019-11-01T00:00:00Z"
+    }
+  ],
+  "Obsessive Phone Disorder": [
+    {
+      "defid": 5091320,
+      "definition": "AKA OPD\n\nTo constantly have one's phone in hand. Whether it is for work, personal [organization], [entertainment], or research, the phone is always being used.\n\nOPD is most typically seen with [excessive] iPhone use but can be any device that is used more than 60% of the time.",
+      "example": "He suffers from a serious case of [Obsessive] Phone [Disorder]. I can only [remember] one time when he didn't have his phone in his hand.",
+      "written_on": "2010-07-13T00:00:00Z"
+    }
+  ],
+  "On hood": [
+    {
+      "defid": 10589135,
+      "definition": "[The word] or phrase on hood signifies a serious [agreeance] to someone or [something]",
+      "example": "[Jerry] : you Fw that [party] at club Twelve20\n\nFred : \"On [Hood]\"",
+      "written_on": "2016-12-04T00:00:00Z"
+    }
+  ],
+  "Original": [
+    {
+      "defid": 15673273,
+      "definition": "I have [confused] [my self] with this [statement]",
+      "example": "Original(I have [confused] [my self] with this [statement])",
+      "written_on": "2021-01-19T12:31:51.168Z"
     }
   ]
 }
