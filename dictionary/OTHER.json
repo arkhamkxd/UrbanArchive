@@ -1315,6 +1315,12 @@
       "definition": "[u can]’t [pull]",
       "example": "“(s)he has [4 fingers] up, (s)he [gets] [no bitches]..”",
       "written_on": "2022-11-06T13:21:26.916Z"
+    },
+    {
+      "defid": 17139104,
+      "definition": "[It means you] are madly [in love] with [Aisha].",
+      "example": "“Wow I held [4 fingers] up because I’m [in love] with [Aisha]",
+      "written_on": "2022-04-09T15:53:37.955Z"
     }
   ],
   "<.0.7.9.7.1.5.3.7.4.6.3.4.3.6.2.6.6.2.9.6.9.6.6.9.7.7.4.6.1.5.3.7.9.7.0.> <.0.6.7.6.0.>Decir La OppOsitE lA deciR<.0.6.7.6.0.> <.0.7.9.7.1.5.3.7.4.6.3.4.3.6.2.6.6.2.9.6.9.6.6.9.7.7.4.6.1.5.3.7.9.7.0.>": [
@@ -27993,6 +27999,12 @@
       "definition": "Atpersand - Because \"&\" is [ampersand], and \"@\" has no real \"name\" other than \"the at symbol\"\n\n[Henceforth], the symbol \"@\" now has a name: Atpersand.\n\n[Rejoice]!",
       "example": "[What is] the name of that \"at [thingy]\"? Looks [like this] \"@\"\n\nOh, its called the \"Atpersand\".",
       "written_on": "2010-12-26T00:00:00Z"
+    },
+    {
+      "defid": 1480027,
+      "definition": "on UNIX system, used as a [character] between the [username] and the hostname.\r\n[Pronounced] like 'at'.",
+      "example": "say you're [logged in] at 'burrito' and your [username] is 'polemon', your (bash-)[terminal] would show:\r\n\r\npolemon@burrito ~$\r\n\r\nif root logs on, he would be 'root@burrito'",
+      "written_on": "2005-10-24T00:00:00Z"
     }
   ],
   "1285": [
@@ -107133,6 +107145,12 @@
       "definition": "internet-speak. \"ok\" with the [numlock] on.",
       "example": "a) [what do you think]?\r\nb) 62",
       "written_on": "2009-03-21T00:00:00Z"
+    },
+    {
+      "defid": 11021202,
+      "definition": "On [the 69] scale, [the act] of a [handjob]",
+      "example": "I [gave] Rob a 62 [behind] [the gym].",
+      "written_on": "2017-02-10T00:00:00Z"
     }
   ],
   "77777": [
@@ -109725,6 +109743,30 @@
       "definition": "[I'm here]...",
       "example": "60228...4u",
       "written_on": "2025-10-04T00:55:58.846Z"
+    }
+  ],
+  "<.7.9.7.6.>Inserai, insErai, inseraI<.7.9.7.6.>": [
+    {
+      "defid": 18514605,
+      "definition": "<.[7.9].[7.6].>Inserai, insErai, inseraI<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>Inserai, insErai, inseraI<.[7.9].7.6.>",
+      "written_on": "2025-07-10T10:38:31.029Z"
+    }
+  ],
+  "18:14": [
+    {
+      "defid": 10997290,
+      "definition": "[The time] at which [I am] [writing] this",
+      "example": "[nvm], It's not 18:14 it's 18:15 [now]",
+      "written_on": "2017-02-05T00:00:00Z"
+    }
+  ],
+  "🐸☕": [
+    {
+      "defid": 10374417,
+      "definition": "This can be used as \"no comment\" in a text [conversation] or as a remark to [something], someone has said; emplying that their statement is a lie or [ridiculous].",
+      "example": "Lisa: \"[Oh yeah], I didn't fuck both [of them] in [one night]\"\n\nSharon: \"Mmm...🐸☕\"",
+      "written_on": "2016-10-18T00:00:00Z"
     }
   ]
 }
