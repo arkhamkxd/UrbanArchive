@@ -140406,5 +140406,21 @@
       "example": "Hey, I didn't know you lived in Odense?\n\nNah, I [sort of] moved away and came back. [I just] [like this] place.",
       "written_on": "2012-01-12T00:00:00Z"
     }
+  ],
+  "obtanium": [
+    {
+      "defid": 1082077,
+      "definition": "A precious substance, gleaned from the desks of departing [coworkers], or [otherwise] gained from [non-standard] channels.",
+      "example": "So, that [difficult] guy in [marketing] was let go [this morning] -- want to go down to his cube and look for obtainium?",
+      "written_on": "2005-05-13T00:00:00Z"
+    }
+  ],
+  "oops-sama": [
+    {
+      "defid": 3874111,
+      "definition": "Term to describe someone who cannot talk/type [without] [splitting up] his [sentences].",
+      "example": "Joe: That guy can't talk [without] [splitting up] his [sentences]. \r\nBob: He must be an oops-sama.",
+      "written_on": "2009-04-09T00:00:00Z"
+    }
   ]
 }

@@ -101742,5 +101742,29 @@
       "example": "[Girl 1]: hey is that Virgie?\r\n[Girl 2]: yea! Omg she is soo [funny] and sweet!",
       "written_on": "2018-05-29T00:00:00Z"
     }
+  ],
+  "volleytennis": [
+    {
+      "defid": 2924018,
+      "definition": "[The best] sport ever to be played in gym class.  A game played on a [tennis court] with a [volleyball].  So badass it leads to schoolwide tournaments, and games being set up outside of school.",
+      "example": "O, man [I forgot] it is [wednesday], we are playing volleytennis, [kickass]!",
+      "written_on": "2008-03-13T00:00:00Z"
+    }
+  ],
+  "VIN burn": [
+    {
+      "defid": 17556464,
+      "definition": "When a part that has an [electronic] serial number embedded in it and [corresponding] control software which requires [recognition] or a tying arrangement.",
+      "example": "You must VIN Burn the [moisture meter] when replacing [it in] a [combine].",
+      "written_on": "2022-11-22T04:04:57.521Z"
+    }
+  ],
+  "voting irregularities": [
+    {
+      "defid": 1909302,
+      "definition": "[The default] [explanation] for an electoral defeat given by a losing [candidate] for public office.",
+      "example": "[Reporter]: \"But [you lost] the election by a 50% margin!\"\r\n[Candidate]: \"Well, that's because of voting irregularities.\"",
+      "written_on": "2008-09-12T00:00:00Z"
+    }
   ]
 }
