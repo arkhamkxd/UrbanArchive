@@ -108074,5 +108074,29 @@
       "example": "you should",
       "written_on": "2019-04-06T01:43:20.862Z"
     }
+  ],
+  "Y33T": [
+    {
+      "defid": 13673148,
+      "definition": "The [bootlegged] [version] of what 9 year olds and [Logan Paul] say",
+      "example": "[I will] Y33T this [ball] into the [hoop]",
+      "written_on": "2019-03-02T00:00:00Z"
+    }
+  ],
+  "yellow sauce": [
+    {
+      "defid": 5864509,
+      "definition": "[Hollandaise], that [yellow] gunk on [poached eggs].",
+      "example": "Chef: I maded some [poached eggs]\r\nother chef: Word, do you want me to make some [yellow] sauce to put [on top].\r\nChef: yep.",
+      "written_on": "2011-11-21T00:00:00Z"
+    }
+  ],
+  "Yonnus": [
+    {
+      "defid": 4566544,
+      "definition": "A poet who knows it. A deep caring [individual] who is connected to [the world] in more ways then they can [comprehend].",
+      "example": "[When I] [feel] alonenus I call [my friend] Yonnus.",
+      "written_on": "2010-02-03T00:00:00Z"
+    }
   ]
 }
