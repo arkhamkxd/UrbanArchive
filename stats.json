@@ -1,314 +1,10 @@
 {
-  "last_updated": "2025-10-17T07:19:48.074253",
-  "total_unique_entries": 1100025,
+  "last_updated": "2025-10-17T07:36:43.747489",
+  "total_unique_entries": 1100432,
   "daily_files": 37,
   "dictionary_files": 411,
   "entries_by_letter": {
-    "ভ": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ह": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ð": {
-      "words": 3,
-      "definitions": 3
-    },
-    "𝐚": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ק": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ཌ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ব": {
-      "words": 1,
-      "definitions": 1
-    },
-    "خ": {
-      "words": 2,
-      "definitions": 2
-    },
-    "П": {
-      "words": 12,
-      "definitions": 12
-    },
-    "嗨": {
-      "words": 1,
-      "definitions": 1
-    },
-    "P": {
-      "words": 50062,
-      "definitions": 62922
-    },
-    "T": {
-      "words": 54437,
-      "definitions": 67558
-    },
-    "ɚ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝑓": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ю": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ﱞ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ا": {
-      "words": 7,
-      "definitions": 7
-    },
-    "H": {
-      "words": 32161,
-      "definitions": 41191
-    },
-    "ق": {
-      "words": 3,
-      "definitions": 3
-    },
-    "ك": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ح": {
-      "words": 3,
-      "definitions": 3
-    },
-    "𝓟": {
-      "words": 1,
-      "definitions": 1
-    },
-    "이": {
-      "words": 4,
-      "definitions": 4
-    },
-    "𝑽": {
-      "words": 1,
-      "definitions": 1
-    },
-    "逼": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𐂂": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ম": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Τ": {
-      "words": 6,
-      "definitions": 6
-    },
-    "Ɐ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝑨": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝚍": {
-      "words": 1,
-      "definitions": 1
-    },
-    "祤": {
-      "words": 1,
-      "definitions": 1
-    },
-    "한": {
-      "words": 1,
-      "definitions": 1
-    },
-    "빡": {
-      "words": 1,
-      "definitions": 1
-    },
-    "他": {
-      "words": 1,
-      "definitions": 1
-    },
-    "엿": {
-      "words": 1,
-      "definitions": 1
-    },
-    "꺼": {
-      "words": 1,
-      "definitions": 1
-    },
-    "叶": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ƒ": {
-      "words": 2,
-      "definitions": 2
-    },
-    "안": {
-      "words": 1,
-      "definitions": 1
-    },
-    "囧": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Љ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "த": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Џ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "เ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "려": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ố": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ɛ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "로": {
-      "words": 1,
-      "definitions": 1
-    },
-    "А": {
-      "words": 4,
-      "definitions": 4
-    },
-    "Ŵ": {
-      "words": 2,
-      "definitions": 2
-    },
-    "棍": {
-      "words": 1,
-      "definitions": 1
-    },
-    "J": {
-      "words": 25815,
-      "definitions": 36499
-    },
-    "ඩ": {
-      "words": 2,
-      "definitions": 3
-    },
-    "쭉": {
-      "words": 1,
-      "definitions": 1
-    },
-    "사": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝕽": {
-      "words": 1,
-      "definitions": 1
-    },
-    "I": {
-      "words": 17950,
-      "definitions": 21829
-    },
-    "Ꮤ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ª": {
-      "words": 2,
-      "definitions": 2
-    },
-    "去": {
-      "words": 2,
-      "definitions": 2
-    },
-    "틀": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ƙ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "방": {
-      "words": 1,
-      "definitions": 1
-    },
-    "L": {
-      "words": 28347,
-      "definitions": 38044
-    },
-    "Ｑ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "แ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ő": {
-      "words": 1,
-      "definitions": 1
-    },
-    "卐": {
-      "words": 2,
-      "definitions": 3
-    },
-    "Ù": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝒷": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ꮆ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ɲ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "大": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Í": {
-      "words": 4,
-      "definitions": 6
-    },
-    "Ş": {
-      "words": 21,
-      "definitions": 23
-    },
-    "郡": {
+    "𓂺": {
       "words": 1,
       "definitions": 1
     },
@@ -316,167 +12,23 @@
       "words": 1,
       "definitions": 1
     },
-    "Ч": {
-      "words": 1,
-      "definitions": 1
+    "È": {
+      "words": 8,
+      "definitions": 8
     },
-    "Å": {
-      "words": 26,
-      "definitions": 31
-    },
-    "Α": {
-      "words": 4,
-      "definitions": 4
-    },
-    "ض": {
-      "words": 2,
-      "definitions": 2
-    },
-    "𝕲": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Μ": {
-      "words": 7,
-      "definitions": 7
-    },
-    "Œ": {
-      "words": 5,
-      "definitions": 6
-    },
-    "Һ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "呵": {
-      "words": 1,
-      "definitions": 2
-    },
-    "紀": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ș": {
-      "words": 4,
-      "definitions": 5
-    },
-    "Я": {
-      "words": 1,
-      "definitions": 1
-    },
-    "德": {
-      "words": 1,
-      "definitions": 1
-    },
-    "박": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ꌚ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "İ": {
+    "Λ": {
       "words": 3,
       "definitions": 3
     },
-    "Ɯ": {
-      "words": 2,
-      "definitions": 2
+    "J": {
+      "words": 25822,
+      "definitions": 36511
     },
-    "𝕻": {
-      "words": 2,
-      "definitions": 2
-    },
-    "𝕄": {
+    "Ẁ": {
       "words": 1,
       "definitions": 1
     },
-    "臭": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Σ": {
-      "words": 7,
-      "definitions": 7
-    },
-    "Õ": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Ш": {
-      "words": 5,
-      "definitions": 5
-    },
-    "𝚂": {
-      "words": 2,
-      "definitions": 2
-    },
-    "装": {
-      "words": 1,
-      "definitions": 2
-    },
-    "Χ": {
-      "words": 2,
-      "definitions": 2
-    },
-    "K": {
-      "words": 24379,
-      "definitions": 31629
-    },
-    "𝐏": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ｗ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "山": {
-      "words": 1,
-      "definitions": 1
-    },
-    "무": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ブ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ف": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Π": {
-      "words": 7,
-      "definitions": 11
-    },
-    "ん": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ľ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "依": {
-      "words": 1,
-      "definitions": 1
-    },
-    "R": {
-      "words": 30719,
-      "definitions": 39377
-    },
-    "コ": {
-      "words": 2,
-      "definitions": 3
-    },
-    "Ё": {
-      "words": 3,
-      "definitions": 3
-    },
-    "乂": {
+    "あ": {
       "words": 1,
       "definitions": 1
     },
@@ -484,11 +36,67 @@
       "words": 1,
       "definitions": 1
     },
-    "𝘒": {
+    "ج": {
+      "words": 2,
+      "definitions": 2
+    },
+    "マ": {
       "words": 1,
       "definitions": 1
     },
-    "ₖ": {
+    "や": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ه": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ɲ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Æ": {
+      "words": 23,
+      "definitions": 26
+    },
+    "안": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ㅗ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ম": {
+      "words": 1,
+      "definitions": 1
+    },
+    "康": {
+      "words": 1,
+      "definitions": 1
+    },
+    "E": {
+      "words": 18767,
+      "definitions": 24866
+    },
+    "Ç": {
+      "words": 19,
+      "definitions": 20
+    },
+    "ล": {
+      "words": 1,
+      "definitions": 1
+    },
+    "老": {
+      "words": 1,
+      "definitions": 1
+    },
+    "批": {
+      "words": 1,
+      "definitions": 1
+    },
+    "迪": {
       "words": 1,
       "definitions": 1
     },
@@ -496,47 +104,23 @@
       "words": 1,
       "definitions": 1
     },
-    "Ν": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Ლ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Б": {
-      "words": 6,
-      "definitions": 7
-    },
     "ʎ": {
       "words": 1,
       "definitions": 1
     },
-    "Ç": {
-      "words": 19,
-      "definitions": 20
-    },
-    "Ō": {
-      "words": 3,
-      "definitions": 3
-    },
-    "Ħ": {
+    "𐍄": {
       "words": 1,
       "definitions": 1
     },
-    "𒊹": {
+    "同": {
       "words": 1,
       "definitions": 1
     },
-    "ᵘ": {
+    "ひ": {
       "words": 1,
       "definitions": 1
     },
-    "Ś": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ባ": {
+    "𝐙": {
       "words": 1,
       "definitions": 1
     },
@@ -544,7 +128,139 @@
       "words": 1,
       "definitions": 1
     },
-    "Δ": {
+    "Ä": {
+      "words": 13,
+      "definitions": 13
+    },
+    "囧": {
+      "words": 1,
+      "definitions": 1
+    },
+    "你": {
+      "words": 4,
+      "definitions": 6
+    },
+    "紀": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ż": {
+      "words": 5,
+      "definitions": 5
+    },
+    "𝕲": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ō": {
+      "words": 3,
+      "definitions": 3
+    },
+    "ヨ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "不": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Κ": {
+      "words": 4,
+      "definitions": 4
+    },
+    "ª": {
+      "words": 2,
+      "definitions": 2
+    },
+    "ม": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ş": {
+      "words": 21,
+      "definitions": 23
+    },
+    "곰": {
+      "words": 1,
+      "definitions": 1
+    },
+    "嘉": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ר": {
+      "words": 2,
+      "definitions": 2
+    },
+    "ভ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "ल": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ז": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ს": {
+      "words": 3,
+      "definitions": 3
+    },
+    "Ꝺ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "社": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ඩ": {
+      "words": 2,
+      "definitions": 3
+    },
+    "然": {
+      "words": 1,
+      "definitions": 1
+    },
+    "한": {
+      "words": 1,
+      "definitions": 1
+    },
+    "മ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𒆙": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Q": {
+      "words": 4877,
+      "definitions": 6061
+    },
+    "Џ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ч": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ő": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ק": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Z": {
+      "words": 7088,
+      "definitions": 8819
+    },
+    "Ù": {
       "words": 1,
       "definitions": 1
     },
@@ -552,33 +268,965 @@
       "words": 3,
       "definitions": 3
     },
-    "N": {
-      "words": 27815,
-      "definitions": 36531
+    "Ʞ": {
+      "words": 1,
+      "definitions": 1
     },
-    "א": {
+    "Î": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ł": {
+      "words": 2,
+      "definitions": 2
+    },
+    "م": {
+      "words": 4,
+      "definitions": 4
+    },
+    "ᴺ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "X": {
+      "words": 2109,
+      "definitions": 2485
+    },
+    "B": {
+      "words": 64569,
+      "definitions": 84278
+    },
+    "リ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ˢ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "山": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ソ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "헐": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Μ": {
+      "words": 7,
+      "definitions": 7
+    },
+    "Ɛ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "く": {
+      "words": 1,
+      "definitions": 1
+    },
+    "代": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ニ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "𝓟": {
+      "words": 1,
+      "definitions": 1
+    },
+    "아": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝓁": {
+      "words": 1,
+      "definitions": 1
+    },
+    "他": {
+      "words": 1,
+      "definitions": 1
+    },
+    "H": {
+      "words": 32173,
+      "definitions": 41207
+    },
+    "𓆉": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ľ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "İ": {
       "words": 3,
       "definitions": 3
     },
-    "К": {
+    "ह": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ά": {
+      "words": 1,
+      "definitions": 1
+    },
+    "笨": {
+      "words": 1,
+      "definitions": 1
+    },
+    "S": {
+      "words": 97824,
+      "definitions": 124514
+    },
+    "М": {
       "words": 7,
       "definitions": 7
+    },
+    "乂": {
+      "words": 1,
+      "definitions": 1
+    },
+    "세": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ĺ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "イ": {
+      "words": 1,
+      "definitions": 1
     },
     "卍": {
       "words": 1,
       "definitions": 2
     },
-    "Ɥ": {
+    "豪": {
       "words": 1,
       "definitions": 1
     },
-    "С": {
-      "words": 12,
-      "definitions": 12
+    "依": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ÿ": {
+      "words": 4,
+      "definitions": 4
+    },
+    "К": {
+      "words": 7,
+      "definitions": 7
+    },
+    "懵": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Α": {
+      "words": 4,
+      "definitions": 4
+    },
+    "冬": {
+      "words": 1,
+      "definitions": 1
+    },
+    "サ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "خ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ɐ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ů": {
+      "words": 1,
+      "definitions": 1
+    },
+    "天": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ᓚ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ド": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ᕳ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "こ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ö": {
+      "words": 35,
+      "definitions": 39
+    },
+    "ㅂ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "T": {
+      "words": 54447,
+      "definitions": 67579
+    },
+    "ד": {
+      "words": 1,
+      "definitions": 2
+    },
+    "주": {
+      "words": 1,
+      "definitions": 1
+    },
+    "À": {
+      "words": 4,
+      "definitions": 4
+    },
+    "ប": {
+      "words": 1,
+      "definitions": 1
+    },
+    "冰": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ā": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𓁹": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ا": {
+      "words": 7,
+      "definitions": 7
+    },
+    "喜": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝐚": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ᖁ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝕽": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ව": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Й": {
+      "words": 4,
+      "definitions": 4
+    },
+    "Ð": {
+      "words": 3,
+      "definitions": 3
+    },
+    "郡": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ʘ": {
+      "words": 2,
+      "definitions": 3
+    },
+    "வ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ⱃ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "逆": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ᵘ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ヤ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "틀": {
+      "words": 1,
+      "definitions": 1
+    },
+    "이": {
+      "words": 4,
+      "definitions": 4
+    },
+    "Ლ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝘒": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ツ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ස": {
+      "words": 1,
+      "definitions": 1
+    },
+    "د": {
+      "words": 3,
+      "definitions": 3
+    },
+    "Л": {
+      "words": 2,
+      "definitions": 2
+    },
+    "த": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝑓": {
+      "words": 1,
+      "definitions": 1
+    },
+    "屌": {
+      "words": 2,
+      "definitions": 2
+    },
+    "L": {
+      "words": 28360,
+      "definitions": 38061
+    },
+    "叶": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝕻": {
+      "words": 2,
+      "definitions": 2
+    },
+    "ض": {
+      "words": 2,
+      "definitions": 2
+    },
+    "ʕ": {
+      "words": 5,
+      "definitions": 6
+    },
+    "𐂂": {
+      "words": 1,
+      "definitions": 1
+    },
+    "א": {
+      "words": 3,
+      "definitions": 3
+    },
+    "ₖ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "G": {
+      "words": 36031,
+      "definitions": 46735
+    },
+    "А": {
+      "words": 4,
+      "definitions": 4
+    },
+    "Г": {
+      "words": 3,
+      "definitions": 3
+    },
+    "𝕄": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Φ": {
+      "words": 3,
+      "definitions": 3
+    },
+    "Ы": {
+      "words": 1,
+      "definitions": 1
     },
     "Ï": {
       "words": 3,
       "definitions": 5
+    },
+    "祤": {
+      "words": 1,
+      "definitions": 1
+    },
+    "다": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ゴ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "𝘕": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ɗ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ś": {
+      "words": 2,
+      "definitions": 2
+    },
+    "𝘚": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ü": {
+      "words": 32,
+      "definitions": 35
+    },
+    "Ū": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ʂ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ŵ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Π": {
+      "words": 7,
+      "definitions": 11
+    },
+    "Ğ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "꺼": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Н": {
+      "words": 8,
+      "definitions": 8
+    },
+    "أ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ባ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "빡": {
+      "words": 1,
+      "definitions": 1
+    },
+    "I": {
+      "words": 17953,
+      "definitions": 21835
+    },
+    "ن": {
+      "words": 3,
+      "definitions": 3
+    },
+    "滚": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ꌚ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ϫ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "コ": {
+      "words": 2,
+      "definitions": 3
+    },
+    "𝕘": {
+      "words": 1,
+      "definitions": 1
+    },
+    "C": {
+      "words": 62459,
+      "definitions": 81123
+    },
+    "ん": {
+      "words": 1,
+      "definitions": 1
+    },
+    "П": {
+      "words": 12,
+      "definitions": 12
+    },
+    "ﱞ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Б": {
+      "words": 6,
+      "definitions": 7
+    },
+    "𓀐": {
+      "words": 3,
+      "definitions": 3
+    },
+    "Ꮆ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "전": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ƃ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ಠ": {
+      "words": 3,
+      "definitions": 5
+    },
+    "แ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝕛": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝔍": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ᵍ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ق": {
+      "words": 3,
+      "definitions": 3
+    },
+    "เ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝓕": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝚂": {
+      "words": 2,
+      "definitions": 2
+    },
+    "去": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ь": {
+      "words": 1,
+      "definitions": 1
+    },
+    "跣": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ո": {
+      "words": 1,
+      "definitions": 1
+    },
+    "엿": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ｖ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Τ": {
+      "words": 6,
+      "definitions": 6
+    },
+    "స": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ป": {
+      "words": 1,
+      "definitions": 1
+    },
+    "로": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ｑ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝒱": {
+      "words": 1,
+      "definitions": 1
+    },
+    "И": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ℕ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ア": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ح": {
+      "words": 3,
+      "definitions": 3
+    },
+    "Ჯ": {
+      "words": 1,
+      "definitions": 2
+    },
+    "ブ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "쭉": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ñ": {
+      "words": 21,
+      "definitions": 26
+    },
+    "ɚ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ก": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ν": {
+      "words": 2,
+      "definitions": 2
+    },
+    "仲": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Á": {
+      "words": 21,
+      "definitions": 24
+    },
+    "Ə": {
+      "words": 3,
+      "definitions": 3
+    },
+    "Ɯ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "棍": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Χ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Õ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ọ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Â": {
+      "words": 5,
+      "definitions": 5
+    },
+    "려": {
+      "words": 1,
+      "definitions": 1
+    },
+    "웃": {
+      "words": 1,
+      "definitions": 1
+    },
+    "N": {
+      "words": 27825,
+      "definitions": 36546
+    },
+    "Ш": {
+      "words": 5,
+      "definitions": 5
+    },
+    "Ꮤ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ಡ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ꙩ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Т": {
+      "words": 7,
+      "definitions": 7
+    },
+    "Í": {
+      "words": 4,
+      "definitions": 6
+    },
+    "ᵃ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ο": {
+      "words": 1,
+      "definitions": 1
+    },
+    "O": {
+      "words": 14655,
+      "definitions": 19017
+    },
+    "𒊓": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ब": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ش": {
+      "words": 3,
+      "definitions": 3
+    },
+    "가": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ⲕ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ý": {
+      "words": 2,
+      "definitions": 2
+    },
+    "ᶘ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝑔": {
+      "words": 1,
+      "definitions": 1
+    },
+    "뭉": {
+      "words": 1,
+      "definitions": 1
+    },
+    "내": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ḍ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Č": {
+      "words": 10,
+      "definitions": 10
+    },
+    "Ȳ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ᗷ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ക": {
+      "words": 2,
+      "definitions": 2
+    },
+    "𝓯": {
+      "words": 2,
+      "definitions": 3
+    },
+    "𝐍": {
+      "words": 1,
+      "definitions": 1
+    },
+    "い": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ú": {
+      "words": 2,
+      "definitions": 2
+    },
+    "ع": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ì": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ر": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ｗ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Y": {
+      "words": 11126,
+      "definitions": 14201
+    },
+    "Д": {
+      "words": 7,
+      "definitions": 11
+    },
+    "𝑽": {
+      "words": 1,
+      "definitions": 1
+    },
+    "औ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ƨ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "అ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ę": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝑠": {
+      "words": 1,
+      "definitions": 1
+    },
+    "明": {
+      "words": 1,
+      "definitions": 1
+    },
+    "K": {
+      "words": 24386,
+      "definitions": 31639
+    },
+    "Ж": {
+      "words": 1,
+      "definitions": 1
+    },
+    "В": {
+      "words": 3,
+      "definitions": 3
+    },
+    "𓈝": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Γ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "逼": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ё": {
+      "words": 3,
+      "definitions": 3
+    },
+    "𝕖": {
+      "words": 1,
+      "definitions": 1
+    },
+    "十": {
+      "words": 1,
+      "definitions": 1
+    },
+    "畅": {
+      "words": 1,
+      "definitions": 2
+    },
+    "Ư": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ș": {
+      "words": 4,
+      "definitions": 5
+    },
+    "卐": {
+      "words": 2,
+      "definitions": 3
+    },
+    "Љ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "V": {
+      "words": 11173,
+      "definitions": 13587
+    },
+    "Ƒ": {
+      "words": 2,
+      "definitions": 2
+    },
+    "W": {
+      "words": 25086,
+      "definitions": 31949
+    },
+    "D": {
+      "words": 48571,
+      "definitions": 63028
+    },
+    "Ò": {
+      "words": 2,
+      "definitions": 2
     },
     "É": {
       "words": 20,
@@ -588,1003 +1236,19 @@
       "words": 1,
       "definitions": 1
     },
-    "ℊ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ᕳ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𖣘": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ब": {
-      "words": 1,
-      "definitions": 1
-    },
-    "М": {
-      "words": 7,
-      "definitions": 7
-    },
-    "Р": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ℴ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ر": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ʞ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Đ": {
-      "words": 15,
-      "definitions": 17
-    },
-    "Н": {
-      "words": 8,
-      "definitions": 8
-    },
-    "Ⱃ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ы": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ｖ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "뭉": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ý": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Е": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Ŋ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "흑": {
-      "words": 1,
-      "definitions": 1
-    },
-    "跣": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ඞ": {
-      "words": 9,
-      "definitions": 34
-    },
-    "𓂺": {
-      "words": 1,
-      "definitions": 1
-    },
-    "社": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ẞ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "아": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ο": {
-      "words": 1,
-      "definitions": 1
-    },
-    "అ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ჯ": {
-      "words": 1,
-      "definitions": 2
-    },
-    "태": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ł": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ᖇ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "あ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ư": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Z": {
-      "words": 7088,
-      "definitions": 8818
-    },
-    "Ε": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ಠ": {
-      "words": 3,
-      "definitions": 5
-    },
-    "다": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ȳ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "や": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ش": {
-      "words": 3,
-      "definitions": 3
-    },
-    "𝑔": {
-      "words": 1,
-      "definitions": 1
-    },
-    "م": {
-      "words": 4,
-      "definitions": 4
-    },
-    "ᓚ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ά": {
-      "words": 1,
-      "definitions": 1
-    },
-    "И": {
-      "words": 1,
-      "definitions": 1
-    },
-    "జ": {
-      "words": 1,
-      "definitions": 2
-    },
-    "老": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ж": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Â": {
-      "words": 5,
-      "definitions": 5
-    },
-    "𝖅": {
-      "words": 1,
-      "definitions": 1
-    },
-    "З": {
-      "words": 3,
-      "definitions": 3
-    },
-    "세": {
-      "words": 1,
-      "definitions": 1
-    },
-    "B": {
-      "words": 64550,
-      "definitions": 84250
-    },
-    "ล": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Þ": {
-      "words": 10,
-      "definitions": 10
-    },
-    "冬": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𓁹": {
-      "words": 1,
-      "definitions": 1
-    },
-    "仲": {
-      "words": 1,
-      "definitions": 1
-    },
-    "స": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ω": {
-      "words": 3,
-      "definitions": 3
-    },
-    "ば": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Т": {
-      "words": 7,
-      "definitions": 7
-    },
-    "ᵍ": {
-      "words": 1,
-      "definitions": 1
-    },
     "ᵫ": {
       "words": 1,
       "definitions": 1
-    },
-    "い": {
-      "words": 1,
-      "definitions": 1
-    },
-    "X": {
-      "words": 2107,
-      "definitions": 2483
-    },
-    "𝕖": {
-      "words": 1,
-      "definitions": 1
-    },
-    "リ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Î": {
-      "words": 2,
-      "definitions": 2
-    },
-    "草": {
-      "words": 2,
-      "definitions": 2
-    },
-    "𝑠": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ž": {
-      "words": 23,
-      "definitions": 29
-    },
-    "喜": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Æ": {
-      "words": 23,
-      "definitions": 26
-    },
-    "然": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ب": {
-      "words": 3,
-      "definitions": 3
-    },
-    "ع": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Á": {
-      "words": 21,
-      "definitions": 24
-    },
-    "ᖁ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝕛": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ז": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ÿ": {
-      "words": 4,
-      "definitions": 4
-    },
-    "니": {
-      "words": 1,
-      "definitions": 1
-    },
-    "批": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ô": {
-      "words": 2,
-      "definitions": 2
-    },
-    "卢": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ל": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ッ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝐍": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ස": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𓆉": {
-      "words": 1,
-      "definitions": 1
-    },
-    "פ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "海": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ר": {
-      "words": 2,
-      "definitions": 2
-    },
-    "同": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Φ": {
-      "words": 3,
-      "definitions": 3
-    },
-    "Ƃ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ʂ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝘚": {
-      "words": 1,
-      "definitions": 1
-    },
-    "懵": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ꝺ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "十": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ꙩ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ä": {
-      "words": 13,
-      "definitions": 13
-    },
-    "ه": {
-      "words": 1,
-      "definitions": 1
-    },
-    "औ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝒱": {
-      "words": 1,
-      "definitions": 1
-    },
-    "헐": {
-      "words": 1,
-      "definitions": 1
-    },
-    "В": {
-      "words": 3,
-      "definitions": 3
-    },
-    "OTHER": {
-      "words": 11876,
-      "definitions": 14603
-    },
-    "가": {
-      "words": 2,
-      "definitions": 2
-    },
-    "滚": {
-      "words": 1,
-      "definitions": 1
-    },
-    "豪": {
-      "words": 1,
-      "definitions": 1
-    },
-    "웃": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𓀐": {
-      "words": 3,
-      "definitions": 3
-    },
-    "د": {
-      "words": 3,
-      "definitions": 3
-    },
-    "𝕘": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ก": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ม": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ᶘ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ɗ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ប": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Γ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ę": {
-      "words": 1,
-      "definitions": 1
-    },
-    "少": {
-      "words": 1,
-      "definitions": 1
-    },
-    "മ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "F": {
-      "words": 41157,
-      "definitions": 53034
-    },
-    "ജ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ひ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ż": {
-      "words": 5,
-      "definitions": 5
-    },
-    "查": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ã": {
-      "words": 1,
-      "definitions": 1
-    },
-    "く": {
-      "words": 1,
-      "definitions": 1
-    },
-    "전": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝓕": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ℕ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "畅": {
-      "words": 1,
-      "definitions": 2
-    },
-    "ن": {
-      "words": 3,
-      "definitions": 3
-    },
-    "M": {
-      "words": 50740,
-      "definitions": 66239
     },
     "Θ": {
       "words": 3,
       "definitions": 3
     },
-    "Ϫ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "イ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ρ": {
-      "words": 3,
-      "definitions": 3
-    },
-    "Ø": {
-      "words": 14,
-      "definitions": 16
-    },
-    "מ": {
-      "words": 4,
-      "definitions": 4
-    },
-    "주": {
-      "words": 1,
-      "definitions": 1
-    },
-    "C": {
-      "words": 62440,
-      "definitions": 81089
-    },
-    "𐍄": {
-      "words": 1,
-      "definitions": 1
-    },
-    "明": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ů": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ĥ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ñ": {
-      "words": 20,
-      "definitions": 25
-    },
-    "サ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "씨": {
-      "words": 1,
-      "definitions": 1
-    },
-    "W": {
-      "words": 25082,
-      "definitions": 31940
-    },
-    "U": {
-      "words": 8606,
-      "definitions": 10936
-    },
-    "Д": {
-      "words": 7,
-      "definitions": 11
-    },
-    "ᗷ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "G": {
-      "words": 36023,
-      "definitions": 46723
-    },
-    "ᵃ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Г": {
-      "words": 3,
-      "definitions": 3
-    },
-    "ⵉ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ⲕ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "こ": {
+    "草": {
       "words": 2,
       "definitions": 2
     },
-    "冰": {
-      "words": 1,
-      "definitions": 1
-    },
-    "A": {
-      "words": 43470,
-      "definitions": 58068
-    },
-    "Š": {
-      "words": 41,
-      "definitions": 43
-    },
-    "𝙹": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ป": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝓁": {
-      "words": 1,
-      "definitions": 1
-    },
-    "О": {
-      "words": 4,
-      "definitions": 4
-    },
-    "Ö": {
-      "words": 35,
-      "definitions": 39
-    },
-    "ソ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ī": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ヨ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "惹": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝑭": {
-      "words": 1,
-      "definitions": 1
-    },
-    "康": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Λ": {
-      "words": 3,
-      "definitions": 3
-    },
-    "Q": {
-      "words": 4875,
-      "definitions": 6058
-    },
-    "𝔍": {
-      "words": 1,
-      "definitions": 1
-    },
-    "내": {
-      "words": 1,
-      "definitions": 1
-    },
-    "逆": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ს": {
-      "words": 3,
-      "definitions": 3
-    },
-    "Ć": {
-      "words": 4,
-      "definitions": 4
-    },
-    "Ə": {
-      "words": 3,
-      "definitions": 3
-    },
-    "ド": {
-      "words": 1,
-      "definitions": 1
-    },
-    "V": {
-      "words": 11168,
-      "definitions": 13581
-    },
-    "ക": {
-      "words": 2,
-      "definitions": 2
-    },
-    "𝘕": {
-      "words": 1,
-      "definitions": 1
-    },
-    "マ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝓢": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ط": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ツ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ẁ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "S": {
-      "words": 97797,
-      "definitions": 124474
-    },
-    "ゴ": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Й": {
-      "words": 4,
-      "definitions": 4
-    },
-    "𒊓": {
-      "words": 1,
-      "definitions": 1
-    },
-    "不": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ò": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Ф": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ո": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ㅂ": {
-      "words": 2,
-      "definitions": 2
-    },
-    "È": {
-      "words": 8,
-      "definitions": 8
-    },
-    "Ț": {
-      "words": 3,
-      "definitions": 3
-    },
-    "ヤ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "迪": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝐤": {
-      "words": 1,
-      "definitions": 1
-    },
-    "我": {
-      "words": 2,
-      "definitions": 2
-    },
-    "أ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "嘉": {
-      "words": 1,
-      "definitions": 1
-    },
-    "你": {
-      "words": 4,
-      "definitions": 6
-    },
-    "ʕ": {
-      "words": 5,
-      "definitions": 6
-    },
-    "天": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ア": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Х": {
-      "words": 6,
-      "definitions": 6
-    },
-    "E": {
-      "words": 18764,
-      "definitions": 24860
-    },
-    "D": {
-      "words": 48551,
-      "definitions": 62996
-    },
-    "ව": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ū": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ā": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Κ": {
-      "words": 4,
-      "definitions": 4
-    },
-    "𒆙": {
-      "words": 1,
-      "definitions": 1
-    },
-    "累": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ص": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ᘜ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ㅗ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ד": {
-      "words": 1,
-      "definitions": 2
-    },
-    "ᴺ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ʘ": {
-      "words": 2,
-      "definitions": 3
-    },
-    "Ƨ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Č": {
-      "words": 10,
-      "definitions": 10
-    },
-    "Ü": {
-      "words": 32,
-      "definitions": 35
-    },
-    "ج": {
-      "words": 2,
-      "definitions": 2
-    },
-    "ز": {
-      "words": 5,
-      "definitions": 5
-    },
-    "O": {
-      "words": 14652,
-      "definitions": 19009
-    },
-    "곰": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ḍ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "ಡ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "À": {
-      "words": 4,
-      "definitions": 4
-    },
-    "Ì": {
-      "words": 1,
-      "definitions": 1
-    },
-    "代": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ó": {
-      "words": 7,
-      "definitions": 7
-    },
-    "𓈝": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ọ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Ğ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "Л": {
-      "words": 2,
-      "definitions": 2
-    },
-    "Y": {
-      "words": 11122,
-      "definitions": 14196
-    },
-    "Ь": {
+    "흑": {
       "words": 1,
       "definitions": 1
     },
@@ -1592,29 +1256,169 @@
       "words": 1,
       "definitions": 1
     },
+    "Х": {
+      "words": 6,
+      "definitions": 6
+    },
+    "З": {
+      "words": 3,
+      "definitions": 3
+    },
+    "A": {
+      "words": 43485,
+      "definitions": 58092
+    },
+    "Я": {
+      "words": 1,
+      "definitions": 1
+    },
     "𓅮": {
       "words": 1,
       "definitions": 1
     },
-    "笨": {
+    "Ó": {
+      "words": 7,
+      "definitions": 7
+    },
+    "F": {
+      "words": 41171,
+      "definitions": 53055
+    },
+    "查": {
       "words": 1,
       "definitions": 1
     },
-    "Ú": {
+    "씨": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Е": {
       "words": 2,
       "definitions": 2
     },
-    "ˢ": {
+    "Ố": {
       "words": 1,
       "definitions": 1
     },
-    "ल": {
+    "Ρ": {
+      "words": 3,
+      "definitions": 3
+    },
+    "ᖇ": {
       "words": 1,
       "definitions": 1
     },
-    "屌": {
+    "Đ": {
+      "words": 15,
+      "definitions": 17
+    },
+    "𝑨": {
+      "words": 1,
+      "definitions": 1
+    },
+    "少": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ব": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ط": {
       "words": 2,
       "definitions": 2
+    },
+    "ك": {
+      "words": 2,
+      "definitions": 2
+    },
+    "卢": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ħ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𒊹": {
+      "words": 1,
+      "definitions": 1
+    },
+    "방": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ば": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Һ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ⵉ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "О": {
+      "words": 4,
+      "definitions": 4
+    },
+    "박": {
+      "words": 1,
+      "definitions": 1
+    },
+    "R": {
+      "words": 30731,
+      "definitions": 39394
+    },
+    "𝖅": {
+      "words": 1,
+      "definitions": 1
+    },
+    "海": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝐏": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ص": {
+      "words": 2,
+      "definitions": 2
+    },
+    "사": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ε": {
+      "words": 2,
+      "definitions": 2
+    },
+    "惹": {
+      "words": 1,
+      "definitions": 1
+    },
+    "装": {
+      "words": 1,
+      "definitions": 2
+    },
+    "Ŋ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝓢": {
+      "words": 1,
+      "definitions": 1
+    },
+    "โ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ജ": {
+      "words": 1,
+      "definitions": 1
     },
     "س": {
       "words": 4,
@@ -1624,68 +1428,264 @@
       "words": 1,
       "definitions": 1
     },
-    "வ": {
+    "Å": {
+      "words": 26,
+      "definitions": 31
+    },
+    "니": {
       "words": 1,
       "definitions": 1
     },
-    "โ": {
+    "జ": {
       "words": 1,
-      "definitions": 1
+      "definitions": 2
     },
-    "Ĺ": {
-      "words": 1,
-      "definitions": 1
-    },
-    "𝓯": {
-      "words": 2,
+    "Ω": {
+      "words": 3,
       "definitions": 3
     },
-    "ニ": {
+    "𝒷": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Š": {
+      "words": 41,
+      "definitions": 43
+    },
+    "德": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ℴ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ț": {
+      "words": 3,
+      "definitions": 3
+    },
+    "Þ": {
+      "words": 10,
+      "definitions": 10
+    },
+    "Ɥ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Δ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ž": {
+      "words": 23,
+      "definitions": 29
+    },
+    "𝑭": {
+      "words": 1,
+      "definitions": 1
+    },
+    "태": {
+      "words": 1,
+      "definitions": 1
+    },
+    "臭": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝐤": {
+      "words": 1,
+      "definitions": 1
+    },
+    "U": {
+      "words": 8608,
+      "definitions": 10938
+    },
+    "ب": {
+      "words": 3,
+      "definitions": 3
+    },
+    "Р": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Σ": {
+      "words": 7,
+      "definitions": 7
+    },
+    "ᘜ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ز": {
+      "words": 5,
+      "definitions": 5
+    },
+    "Ã": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ℊ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ẞ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ô": {
       "words": 2,
       "definitions": 2
     },
-    "𝐙": {
+    "P": {
+      "words": 50077,
+      "definitions": 62944
+    },
+    "С": {
+      "words": 12,
+      "definitions": 12
+    },
+    "OTHER": {
+      "words": 11877,
+      "definitions": 14605
+    },
+    "Œ": {
+      "words": 5,
+      "definitions": 6
+    },
+    "ל": {
+      "words": 2,
+      "definitions": 2
+    },
+    "我": {
+      "words": 2,
+      "definitions": 2
+    },
+    "M": {
+      "words": 50764,
+      "definitions": 66274
+    },
+    "ッ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ƙ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ø": {
+      "words": 14,
+      "definitions": 16
+    },
+    "𖣘": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ف": {
+      "words": 2,
+      "definitions": 2
+    },
+    "Ī": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ф": {
+      "words": 1,
+      "definitions": 1
+    },
+    "嗨": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ཌ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝚍": {
+      "words": 1,
+      "definitions": 1
+    },
+    "ඞ": {
+      "words": 9,
+      "definitions": 34
+    },
+    "מ": {
+      "words": 4,
+      "definitions": 4
+    },
+    "무": {
+      "words": 1,
+      "definitions": 1
+    },
+    "𝙹": {
+      "words": 1,
+      "definitions": 1
+    },
+    "累": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ć": {
+      "words": 4,
+      "definitions": 4
+    },
+    "פ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "大": {
+      "words": 1,
+      "definitions": 1
+    },
+    "呵": {
+      "words": 1,
+      "definitions": 2
+    },
+    "Ĥ": {
+      "words": 1,
+      "definitions": 1
+    },
+    "Ю": {
       "words": 1,
       "definitions": 1
     }
   },
   "daily_breakdown": {
-    "2025-09-21": 33752,
-    "2025-09-18": 31573,
-    "2025-10-14": 26267,
     "2025-10-12": 30322,
-    "2025-09-29": 29544,
-    "2025-10-08": 27224,
-    "2025-09-12": 35754,
-    "2025-10-11": 31469,
     "2025-10-04": 32513,
+    "2025-09-28": 32915,
     "2025-10-02": 30446,
+    "2025-10-15": 25651,
+    "2025-09-23": 30658,
+    "2025-10-08": 27224,
+    "2025-10-06": 27910,
+    "2025-09-18": 31573,
+    "2025-09-14": 37278,
+    "2025-09-29": 29544,
+    "2025-09-20": 34939,
+    "2025-10-11": 31469,
+    "2025-09-15": 31673,
+    "2025-09-27": 33363,
+    "2025-09-30": 29038,
+    "2025-10-14": 26267,
+    "2025-09-12": 35754,
+    "2025-09-21": 33752,
+    "2025-10-01": 28441,
     "2025-10-03": 30593,
-    "2025-10-07": 27731,
     "2025-09-11": 22467,
     "2025-09-22": 29854,
-    "2025-10-05": 31986,
-    "2025-10-15": 25651,
-    "2025-10-17": 5555,
-    "2025-10-13": 25445,
-    "2025-09-15": 31673,
-    "2025-09-14": 37278,
-    "2025-10-06": 27910,
-    "2025-09-23": 30658,
-    "2025-09-27": 33363,
-    "2025-09-19": 32360,
-    "2025-10-10": 27757,
-    "2025-10-01": 28441,
-    "2025-09-26": 30596,
-    "2025-09-28": 32915,
-    "2025-10-16": 25924,
-    "2025-09-20": 34939,
     "2025-09-17": 32729,
-    "2025-09-24": 30327,
-    "2025-09-30": 29038,
     "2025-10-09": 26193,
     "2025-09-25": 29408,
+    "2025-10-05": 31986,
     "2025-09-13": 37969,
-    "2025-09-16": 32401
+    "2025-10-17": 5962,
+    "2025-09-26": 30596,
+    "2025-10-13": 25445,
+    "2025-09-24": 30327,
+    "2025-09-16": 32401,
+    "2025-10-10": 27757,
+    "2025-10-07": 27731,
+    "2025-10-16": 25924,
+    "2025-09-19": 32360
   }
 }
