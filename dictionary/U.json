@@ -82670,5 +82670,13 @@
       "example": "Joe: Bruh, [did you] see UnmaskedBoi69\n\n[Candice]: [Yeah no] one likes him",
       "written_on": "2020-03-16T00:00:00Z"
     }
+  ],
+  "unfeatureable": [
+    {
+      "defid": 4116761,
+      "definition": "Can't be [featured].\n\nSuch as a person who is too [controversial] to be featured on [youtube.com].",
+      "example": "thechurchofdave on youtube is unfeatureable since no one in their right mind is going to risk [annoying] sponsors by putting HIM up on the [front page] and saying \"Hey [look at THIS] guy!\"",
+      "written_on": "2009-07-17T00:00:00Z"
+    }
   ]
 }
