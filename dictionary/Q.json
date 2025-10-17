@@ -30427,6 +30427,12 @@
       "definition": "An [annoying] [virus] [program].",
       "example": "FUCK YOU QUICKTIME! LET ME EDIT THIS VIDEO!\n\n[OH MY GOD] I WASTED MY MONEY ON QUICKTIME\n\n[THIS IS SHIT]! [LAUGH OUT LOUD], DON'T EVEN TOUCH MY VIDEOS!\n\n\"Did you just download Quicktime?\"\r\n\"Ya\"\r\n\"Oh shit... you just ruined your videos.\"",
       "written_on": "2009-05-04T00:00:00Z"
+    },
+    {
+      "defid": 1746864,
+      "definition": "A video format from Apple with the shittiest and gayest SDK I have ever seen, and even worse [documentation]. Includes such revealing function names as MoviesTask(), and short, easy to type constant names as kQTMovieAudioExtractionPropertyID _AudioStreamBasicDescription. Actually has a constant called DoTheRightThing, and calls setting things up \"preflighting\". I can just picture Quicktime engineers sitting in their [turtleneck] sweaters thinking that using words like \"preflight\" somehow makes them cool. Having spent some time with the Quicktime APIs I think I can safely assume that general Mac [development] is just as retarded.",
+      "example": "Dude, I [have been] [trying to] find what numerical value kQTAnnoyingLongAssConstantNames _IDontHaveTwentyFingersToTypeThisShit maps to in the Quicktime [header] files, but haven't had any luck so far.",
+      "written_on": "2006-05-22T00:00:00Z"
     }
   ],
   "Qwikshot": [
@@ -46281,6 +46287,14 @@
       "definition": "When you quit smoking, the tumultuous [exchange] of your [sphincter] with [the world].",
       "example": "As the [marching band] [passed] by, he [reared up] and blew his \r\n\r\nQuittigasen towards the grandstands.",
       "written_on": "2008-01-19T00:00:00Z"
+    }
+  ],
+  "Quick spits": [
+    {
+      "defid": 15015510,
+      "definition": "A [Treesh] that you [smashed]",
+      "example": "I only [used] her for [quick] [spits]",
+      "written_on": "2020-05-23T00:00:00Z"
     }
   ]
 }
