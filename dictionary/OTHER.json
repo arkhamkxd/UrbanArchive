@@ -14773,6 +14773,12 @@
       "definition": "[When you] have a [image] [saved] as a file",
       "example": "[I am] [gonna] use [hamburger].pdf",
       "written_on": "2022-11-21T01:04:31.574Z"
+    },
+    {
+      "defid": 15100294,
+      "definition": "(Noun): [a person] or [expression] that is over-the-top [information]; could also be described as extra.\n\nSimilar: .jpeg",
+      "example": "\"[I came] home after curfew and dad.pdf gave me a [lecture] [the next day]\"",
+      "written_on": "2020-06-14T00:00:00Z"
     }
   ],
   "<in>": [
@@ -110781,6 +110787,30 @@
       "definition": "2.1Certification, or to be 2.1C Certified is an achievement earned via The Institute for [Responsible] Online and Cell-Phone [Communication], certifying that you as an individual [understand] how to proactively avoid making a life altering mistake with any form of current or future digital technology.",
       "example": "Each of the students at Jon Doe Middle School earned their 2.1Certification, or, were 2.1C Certified by The Institute for [Responsible] Online and Cell-Phone [Communication] due to their satisfactory completion of \u000bthe “I Rock [Responsibility 2.1C] Concert” & Certification Survey.",
       "written_on": "2009-11-22T00:00:00Z"
+    }
+  ],
+  "`~`Yo`~`No`~`Quiero`~`Saber`~`De`~`Ti`~`": [
+    {
+      "defid": 18476803,
+      "definition": "`~`Yo`~`No`~`[Quiero]`~`[Saber]`~`De`~`Ti`~`",
+      "example": "`~`Yo`~`No`~`[Quiero]`~`[Saber]`~`De`~`Ti`~`",
+      "written_on": "2025-04-26T23:17:56.855Z"
+    }
+  ],
+  ". Candice.offical": [
+    {
+      "defid": 16399125,
+      "definition": "A [cool hot] sexy [alpha] [tiktoker]",
+      "example": "Person: \"omg. Candice.[offical] is a real\n\nChad\"\r\n[Person 2]: yeah and their a [comedic genius].\"",
+      "written_on": "2021-10-29T15:56:08.174Z"
+    }
+  ],
+  "().()": [
+    {
+      "defid": 12215698,
+      "definition": "[The Face] anyone could make when they are {[amazed]} or [surprised].",
+      "example": "{[Jerry] I don´t [love you] any more\r\n[Tony]:().()}",
+      "written_on": "2017-12-07T00:00:00Z"
     }
   ]
 }
