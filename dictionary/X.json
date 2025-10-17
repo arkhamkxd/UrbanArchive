@@ -19498,5 +19498,13 @@
       "example": "“Have you tasted Xanthious’s food? It’s [AMAZING].” “Well [what do] you [expect], Xanthious is his name.”",
       "written_on": "2020-12-11T12:59:25.667Z"
     }
+  ],
+  "Xandog": [
+    {
+      "defid": 15747666,
+      "definition": "A [Purple] [Yoshi].",
+      "example": "Xandog [bad] at [SMG2].",
+      "written_on": "2021-02-16T05:48:46.266Z"
+    }
   ]
 }
