@@ -62095,6 +62095,12 @@
       "definition": "A seat in a [movie theater] [auditorium] that is open but undesirable because person(s) in seat [to the left] or right are occupied.",
       "example": "The only seat [available] in [auditorium] 8 is an orphan seat [in the middle] of row H.",
       "written_on": "2016-09-01T00:00:00Z"
+    },
+    {
+      "defid": 10175578,
+      "definition": "A seat in a [movie theater] [auditorium] that is open but undesirable because person(s) in seat [to the left] or right are occupied.",
+      "example": "The only seat [available] in [auditorium] 8 is an orphan seat [in the middle] of row H.",
+      "written_on": "2016-09-01T00:00:00Z"
     }
   ],
   "olde english": [
@@ -143159,6 +143165,14 @@
       "definition": "A nerd who dates the [hottest] chic in class. He is [probably] from turkey but lives in [America].",
       "example": "Girl 1: OMG thats Omran.\r\n[Hot girl]: yea he is a good kisser.\r\nGirl 2: No way he is my crush\r\n[Hot girl]: who would date [your fatass].",
       "written_on": "2021-12-21T08:31:33.425Z"
+    }
+  ],
+  "OptiPlex": [
+    {
+      "defid": 130767,
+      "definition": "A [business] [system] made by Dell\r\n[Noobie] guy @ ieXbeta, Neowin, and NowInBeta!!!",
+      "example": "",
+      "written_on": "2003-05-17T00:00:00Z"
     }
   ]
 }
