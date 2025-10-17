@@ -302,5 +302,13 @@
       "example": "[You are] so ömü[rcan]",
       "written_on": "2017-01-08T21:20:18.145Z"
     }
+  ],
+  "Ö": [
+    {
+      "defid": 16320092,
+      "definition": "Ö",
+      "example": "Ö",
+      "written_on": "2021-09-16T23:45:28.914Z"
+    }
   ]
 }
