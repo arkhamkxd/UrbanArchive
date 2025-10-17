@@ -169156,5 +169156,45 @@
       "example": "([Your Name]) [I.N].[D.O]",
       "written_on": "2013-03-31T00:00:00Z"
     }
+  ],
+  "iHand": [
+    {
+      "defid": 5748700,
+      "definition": "When [a person] uses their [iPhone] so much it becomes a part of their body. They no longer have a hand, or an [iPhone], but an iHand.",
+      "example": "[I can't] [live] [without] my iHand.",
+      "written_on": "2011-05-05T00:00:00Z"
+    }
+  ],
+  "Inconsolablebubble": [
+    {
+      "defid": 16543258,
+      "definition": "A person who is and who is not at [the same] time. Who are they. One who cannot live [without] being [surrounded] by others.\n\nPeople who try to sustain themselves by being praised.",
+      "example": "[You should] not [run away] inconsolablebubble.",
+      "written_on": "2021-11-22T08:51:13.423Z"
+    }
+  ],
+  "IDFN": [
+    {
+      "defid": 11161318,
+      "definition": "[I don't fucking know]",
+      "example": "I see, and am I [supposed to] [create] a new [section] on the UI for this?\r\nIDFN",
+      "written_on": "2017-03-09T00:00:00Z"
+    }
+  ],
+  "irason": [
+    {
+      "defid": 16679330,
+      "definition": "[The realest] [nigga] [alive]",
+      "example": "[The boi] irason a [goat]",
+      "written_on": "2021-11-23T13:05:32.682Z"
+    }
+  ],
+  "I'm Lovin It": [
+    {
+      "defid": 592878,
+      "definition": "[The three] most evil words in [the world] orignally sung by the most evil bum in [the world].",
+      "example": "BADA [BA BA] [BAAAA]! I'm [lovin] it!",
+      "written_on": "2004-04-03T00:00:00Z"
+    }
   ]
 }

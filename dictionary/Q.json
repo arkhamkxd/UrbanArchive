@@ -46396,5 +46396,29 @@
       "example": "[Example]: “[I love] Qwyn. [I don’t know] anyone that hates her.”",
       "written_on": "2020-04-16T00:00:00Z"
     }
+  ],
+  "Quante": [
+    {
+      "defid": 13774523,
+      "definition": "They're the coolest guy you'll meet. They care deeply for their friends and they [got your back]. They super fun to be around and their laugh is [contagious]. Super fun, happy, and just all around great. They are very modest and they help others at their own [expense], and they need to love themselves a little more.",
+      "example": "Quante is a [really cool guy] and [I'm glad] he's [my friend], I got really lucky.",
+      "written_on": "2019-04-03T00:00:00Z"
+    }
+  ],
+  "queryable": [
+    {
+      "defid": 11902436,
+      "definition": "[making] [something] searchable",
+      "example": "By [putting] the [information] in the [database], it became queryable.",
+      "written_on": "2017-08-24T00:00:00Z"
+    }
+  ],
+  "Quesadilla \"Alamo\" Jenkins; The First Juvenile Release: The First Juvenile Release": [
+    {
+      "defid": 18441823,
+      "definition": ".",
+      "example": "[Quesadilla] \"Alamo\" Jenkins; The First [Juvenile] Release: The First [Juvenile] Release",
+      "written_on": "2025-02-28T18:05:07.634Z"
+    }
   ]
 }
