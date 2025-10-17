@@ -19354,5 +19354,13 @@
       "example": "[Xavier] a [Russian] is a [Russian]",
       "written_on": "2019-06-02T00:00:00Z"
     }
+  ],
+  "Xabad": [
+    {
+      "defid": 17328016,
+      "definition": "[Synonym] of 'Habads'\r\n[Meaning] 'Gun' In [Somali]",
+      "example": "Xabads [on deck], man [swerve] through [the city]",
+      "written_on": "2022-06-25T12:12:03.978Z"
+    }
   ]
 }

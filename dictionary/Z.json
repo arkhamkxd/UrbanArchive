@@ -67786,5 +67786,37 @@
       "example": "Zyzy",
       "written_on": "2021-07-05T09:06:48.587Z"
     }
+  ],
+  "Zbanglish": [
+    {
+      "defid": 17853093,
+      "definition": "A fantasy [language]; a blend of Spanish and [English], add Zs at the [beginning] and end of a word (ex.: Zwowz)",
+      "example": "I am [fluent] in Zbanglish and I [speak] it [everyday].",
+      "written_on": "2023-07-10T04:49:10.617Z"
+    }
+  ],
+  "Zipbomb": [
+    {
+      "defid": 4111625,
+      "definition": "When you [extract] the files from a zip file to a folder with other files before [checking] if the files are stored in a folder [in the zip].\n\nThis also applies to 7z, tar, and other archive files.",
+      "example": "$ tar -xvcf [something].tar.gz\r\nfile.txt\r\nanotherfile.txt\r\net.c.\r\net.c.\n\nNOOOO MY HOME [DIRECTORY] JUST GOT ZIPBOMBED! I'LL [NEVER BE] ABLE TO REMOVE ALL THOSE FILES!",
+      "written_on": "2009-07-15T00:00:00Z"
+    }
+  ],
+  "zombie's kiss": [
+    {
+      "defid": 2809807,
+      "definition": "Usually occurs after waking up or [otherwise] not in full control of your faculties.\r\n\r\nA man sits [on the toilet] to [take a crap] but not paying enough attention allows his penis to hang low and touch the cold porcelain bowl.\r\n\r\nThis is a zombie's kiss.",
+      "example": "\"I got myself [a nasty] zombie's [kiss this] [morning].\"",
+      "written_on": "2008-01-23T00:00:00Z"
+    }
+  ],
+  "zay the gemini": [
+    {
+      "defid": 16672705,
+      "definition": "The worlds greatest artist , has a unique flow and is different from any other artist. Zay the gemini is known for remixing songs and being very [versatile] with his music , he can do any genre. He is also very handsome and has a [japanese] [neck tattoo] that says “Loyalty Over love” Zay the gemini is up next in 2022.",
+      "example": "[Oh my god] it’s Zay [The Gemini] ! He’s so [versatile] with music he does any genre.",
+      "written_on": "2021-11-23T11:41:46.961Z"
+    }
   ]
 }
