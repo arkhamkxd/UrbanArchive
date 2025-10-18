@@ -47930,5 +47930,13 @@
       "example": "My [doctor] has [given] me a [prescription] for quaaludes.",
       "written_on": "2004-02-24T00:00:00Z"
     }
+  ],
+  "Quasite": [
+    {
+      "defid": 17066456,
+      "definition": "[Adj].\n\nHuman-like [creatures]\r\n([Kin])",
+      "example": "[Gorillas] are quasite.",
+      "written_on": "2022-03-12T22:41:23.416Z"
+    }
   ]
 }
