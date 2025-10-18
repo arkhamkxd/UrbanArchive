@@ -47434,5 +47434,21 @@
       "example": "[FRIEND]: *Says [something] crazy funny*\r\nYOU: *Spams them with [gibberish]* qwertyuiopasdgjklzxcbm",
       "written_on": "2020-10-07T15:53:54.709Z"
     }
+  ],
+  "quaranthin": [
+    {
+      "defid": 14882736,
+      "definition": "The [phenomenon] of [weight loss] during [quarantine].",
+      "example": "Wow, [you lost] a lot of [weight] during [quarantine], you quaranthin.",
+      "written_on": "2020-04-12T00:00:00Z"
+    }
+  ],
+  "Quavis": [
+    {
+      "defid": 14961660,
+      "definition": "[Another word] for [friend], or [homie].",
+      "example": "*[friend] 1 walks in*\n\n*[friend] 2* “[wuddup] quavis!”",
+      "written_on": "2020-05-05T00:00:00Z"
+    }
   ]
 }
