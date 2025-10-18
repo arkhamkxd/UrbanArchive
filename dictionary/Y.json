@@ -111260,5 +111260,29 @@
       "example": "Dude1:You [little] ニガ\r\n[Dudes]: [wuh]?",
       "written_on": "2022-03-19T05:20:50.982Z"
     }
+  ],
+  "yesturnight": [
+    {
+      "defid": 1126991,
+      "definition": "1. [Last night] \r\n(How it came to be) It [actually] just makes sence, [yesturday], yesturnight....",
+      "example": "what did u do yesturnight?",
+      "written_on": "2005-03-17T00:00:00Z"
+    }
+  ],
+  "yhy": [
+    {
+      "defid": 12290335,
+      "definition": "It's shortter form of \"yeah, [ofcourse]\". Can be also [understood] as [sarcasm].",
+      "example": "-why [are you] calling me? [I can't] speak\r\n-dude, you called my first\r\n-by [accident]\r\n-yhy",
+      "written_on": "2017-12-16T00:00:00Z"
+    }
+  ],
+  "yibble": [
+    {
+      "defid": 1420210,
+      "definition": "[just a little bit], a [small portion], [a short] amount of time.",
+      "example": "1. Man 1 - [Can I] have a [piece of that]?\r\n   Man 2 - Sure, [how much]?\r\n   Man 1 - Just a YIBBLE",
+      "written_on": "2005-09-16T00:00:00Z"
+    }
   ]
 }
