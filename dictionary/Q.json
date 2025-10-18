@@ -47450,5 +47450,13 @@
       "example": "*[friend] 1 walks in*\n\n*[friend] 2* “[wuddup] quavis!”",
       "written_on": "2020-05-05T00:00:00Z"
     }
+  ],
+  "Quake Live": [
+    {
+      "defid": 3623289,
+      "definition": "Quake Live is an arena style FPS making it's tournament début July 31st - [August 3rd] 2009. The game will be completely free. Although designed primarily for online [competitive] play an offline bot mode will be [available]. Quake live will be played using a browser and is developed by id software.",
+      "example": "It's [really cool] that Quake live is being [released] entirely for free, it will be good to see an arena game widely used for [competitive] play, as the arena genre is quite dead at the moment.",
+      "written_on": "2009-01-14T00:00:00Z"
+    }
   ]
 }
