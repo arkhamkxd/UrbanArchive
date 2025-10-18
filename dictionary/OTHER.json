@@ -114828,5 +114828,21 @@
       "example": "10 [points] for [Gryffindor]!",
       "written_on": "2010-07-05T00:00:00Z"
     }
+  ],
+  "“Whatever suits your boots!”": [
+    {
+      "defid": 14138532,
+      "definition": "[Another] way of [saying], “[Whatever floats your boat]!”.",
+      "example": "Person 1 says, \"Where [you wanna go] today?\"\n\n[Person 2] replies, “[Whatever] suits your boots!”",
+      "written_on": "2019-08-20T00:00:00Z"
+    }
+  ],
+  "#fam": [
+    {
+      "defid": 13451997,
+      "definition": "[fake ass] [fam]",
+      "example": "i [always] [choose] [whatever] drug over the #fam",
+      "written_on": "2018-12-15T00:00:00Z"
+    }
   ]
 }
