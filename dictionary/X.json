@@ -19828,5 +19828,13 @@
       "example": "She [looked] [absolutely] xintillating in that [dress]!",
       "written_on": "2003-07-02T00:00:00Z"
     }
+  ],
+  "x talent": [
+    {
+      "defid": 11646060,
+      "definition": "That not have any [talent]",
+      "example": "He [is an] x [talent]",
+      "written_on": "2017-06-03T19:30:06.021Z"
+    }
   ]
 }
