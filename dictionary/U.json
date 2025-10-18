@@ -84804,5 +84804,21 @@
       "example": "I took a vote and we are [eating out] [tonight], can't [argue], the vote was umanimous.",
       "written_on": "2010-11-14T00:00:00Z"
     }
+  ],
+  "UD Induction Speech": [
+    {
+      "defid": 8394898,
+      "definition": "A speech to express gratitude to the user-publishers at [Urbandictionary] for inducting [definitions] into the database. Akin to the speeches made by [accomplished] athletes who have excelled at their sport. These are definitions which have been accepted after many arduous attempts but well worth it too. Also similar to Academy Award Speech or Grammy Speech.",
+      "example": "I won't make my UD Induction Speech long, I only have [30 seconds]. But I would like to [thank God], my parents, my children, my cats, my pets, my [teachers], my workmates for all their support. But special thanks to all great user publishers who make this place great and inducting my Sadie",
+      "written_on": "2015-09-17T00:00:00Z"
+    }
+  ],
+  "un-blah": [
+    {
+      "defid": 9423035,
+      "definition": "To [make] yourself/[someone else] not [feel like shit].",
+      "example": "Yo [my nigga] [I need] [to go] un-blah",
+      "written_on": "2016-07-21T00:00:00Z"
+    }
   ]
 }
