@@ -110606,5 +110606,13 @@
       "example": "[hey] Yahzelle, [wanna hang] out [today]?",
       "written_on": "2019-10-27T00:00:00Z"
     }
+  ],
+  "You too": [
+    {
+      "defid": 13643188,
+      "definition": "When your African teacher said [good day] in a [really high] pitch tone because she wants to give you [the suck]",
+      "example": "[Teacher]: you too\r\n[Student] I’m not [interested]",
+      "written_on": "2019-02-22T00:00:00Z"
+    }
   ]
 }
