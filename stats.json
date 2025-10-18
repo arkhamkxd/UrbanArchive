@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-18T21:25:53.855901",
-  "total_unique_entries": 1145765,
+  "last_updated": "2025-10-18T21:39:41.316635",
+  "total_unique_entries": 1146150,
   "daily_files": 38,
   "dictionary_files": 418,
   "entries_by_letter": {
@@ -45,12 +45,12 @@
       "definitions": 1
     },
     "P": {
-      "words": 51960,
-      "definitions": 65518
+      "words": 51976,
+      "definitions": 65537
     },
     "T": {
-      "words": 56410,
-      "definitions": 70210
+      "words": 56424,
+      "definitions": 70231
     },
     "ɚ": {
       "words": 1,
@@ -73,8 +73,8 @@
       "definitions": 7
     },
     "H": {
-      "words": 33395,
-      "definitions": 42906
+      "words": 33405,
+      "definitions": 42918
     },
     "ق": {
       "words": 3,
@@ -213,8 +213,8 @@
       "definitions": 1
     },
     "J": {
-      "words": 26838,
-      "definitions": 38063
+      "words": 26846,
+      "definitions": 38075
     },
     "ඩ": {
       "words": 2,
@@ -233,8 +233,8 @@
       "definitions": 1
     },
     "I": {
-      "words": 18659,
-      "definitions": 22758
+      "words": 18663,
+      "definitions": 22765
     },
     "Ꮤ": {
       "words": 1,
@@ -261,8 +261,8 @@
       "definitions": 1
     },
     "L": {
-      "words": 29429,
-      "definitions": 39646
+      "words": 29439,
+      "definitions": 39658
     },
     "Ｑ": {
       "words": 1,
@@ -425,8 +425,8 @@
       "definitions": 2
     },
     "K": {
-      "words": 25350,
-      "definitions": 32985
+      "words": 25359,
+      "definitions": 32998
     },
     "𝐏": {
       "words": 1,
@@ -473,8 +473,8 @@
       "definitions": 1
     },
     "R": {
-      "words": 31870,
-      "definitions": 41049
+      "words": 31878,
+      "definitions": 41062
     },
     "コ": {
       "words": 2,
@@ -569,8 +569,8 @@
       "definitions": 3
     },
     "N": {
-      "words": 28837,
-      "definitions": 38076
+      "words": 28844,
+      "definitions": 38087
     },
     "א": {
       "words": 3,
@@ -741,8 +741,8 @@
       "definitions": 1
     },
     "Z": {
-      "words": 7326,
-      "definitions": 9150
+      "words": 7329,
+      "definitions": 9154
     },
     "Ε": {
       "words": 2,
@@ -817,8 +817,8 @@
       "definitions": 1
     },
     "B": {
-      "words": 66926,
-      "definitions": 87780
+      "words": 66944,
+      "definitions": 87804
     },
     "ล": {
       "words": 1,
@@ -869,8 +869,8 @@
       "definitions": 1
     },
     "X": {
-      "words": 2187,
-      "definitions": 2585
+      "words": 2191,
+      "definitions": 2590
     },
     "𝕖": {
       "words": 1,
@@ -1045,8 +1045,8 @@
       "definitions": 3
     },
     "OTHER": {
-      "words": 12337,
-      "definitions": 15212
+      "words": 12340,
+      "definitions": 15216
     },
     "가": {
       "words": 2,
@@ -1113,8 +1113,8 @@
       "definitions": 1
     },
     "F": {
-      "words": 42733,
-      "definitions": 55252
+      "words": 42740,
+      "definitions": 55267
     },
     "ജ": {
       "words": 1,
@@ -1161,8 +1161,8 @@
       "definitions": 3
     },
     "M": {
-      "words": 52640,
-      "definitions": 68982
+      "words": 52651,
+      "definitions": 68998
     },
     "Θ": {
       "words": 3,
@@ -1193,8 +1193,8 @@
       "definitions": 1
     },
     "C": {
-      "words": 64808,
-      "definitions": 84485
+      "words": 64826,
+      "definitions": 84513
     },
     "𐍄": {
       "words": 1,
@@ -1225,12 +1225,12 @@
       "definitions": 1
     },
     "W": {
-      "words": 25978,
-      "definitions": 33249
+      "words": 25987,
+      "definitions": 33259
     },
     "U": {
-      "words": 8916,
-      "definitions": 11378
+      "words": 8920,
+      "definitions": 11383
     },
     "Д": {
       "words": 8,
@@ -1241,8 +1241,8 @@
       "definitions": 1
     },
     "G": {
-      "words": 37336,
-      "definitions": 48593
+      "words": 37351,
+      "definitions": 48612
     },
     "ᵃ": {
       "words": 1,
@@ -1269,8 +1269,8 @@
       "definitions": 1
     },
     "A": {
-      "words": 45140,
-      "definitions": 60531
+      "words": 45162,
+      "definitions": 60557
     },
     "Š": {
       "words": 42,
@@ -1325,8 +1325,8 @@
       "definitions": 3
     },
     "Q": {
-      "words": 5037,
-      "definitions": 6279
+      "words": 5041,
+      "definitions": 6286
     },
     "𝔍": {
       "words": 1,
@@ -1357,8 +1357,8 @@
       "definitions": 1
     },
     "V": {
-      "words": 11527,
-      "definitions": 14074
+      "words": 11533,
+      "definitions": 14081
     },
     "ക": {
       "words": 2,
@@ -1389,8 +1389,8 @@
       "definitions": 1
     },
     "S": {
-      "words": 101527,
-      "definitions": 129675
+      "words": 101557,
+      "definitions": 129718
     },
     "ゴ": {
       "words": 2,
@@ -1477,12 +1477,12 @@
       "definitions": 6
     },
     "E": {
-      "words": 19473,
-      "definitions": 25900
+      "words": 19485,
+      "definitions": 25914
     },
     "D": {
-      "words": 50403,
-      "definitions": 65666
+      "words": 50420,
+      "definitions": 65693
     },
     "ව": {
       "words": 1,
@@ -1557,8 +1557,8 @@
       "definitions": 5
     },
     "O": {
-      "words": 15258,
-      "definitions": 19858
+      "words": 15262,
+      "definitions": 19865
     },
     "곰": {
       "words": 1,
@@ -1605,8 +1605,8 @@
       "definitions": 2
     },
     "Y": {
-      "words": 11543,
-      "definitions": 14786
+      "words": 11545,
+      "definitions": 14790
     },
     "Ь": {
       "words": 1,
@@ -1693,7 +1693,7 @@
     "2025-09-11": 22467,
     "2025-09-22": 29854,
     "2025-10-05": 31986,
-    "2025-10-18": 24787,
+    "2025-10-18": 25172,
     "2025-10-15": 25651,
     "2025-10-17": 26508,
     "2025-10-13": 25445,
