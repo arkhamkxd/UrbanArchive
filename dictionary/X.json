@@ -20258,5 +20258,13 @@
       "example": "[my name is] [kate] and [i'm a] xenite.",
       "written_on": "2006-05-02T00:00:00Z"
     }
+  ],
+  "xtina": [
+    {
+      "defid": 795185,
+      "definition": "She is the [coolest] girl in [the world]. Shes so awsome. She smells like a pretty [flower]. She is just all around an awsome person",
+      "example": "Xtina is the [coolest] [person].",
+      "written_on": "2004-08-15T00:00:00Z"
+    }
   ]
 }
