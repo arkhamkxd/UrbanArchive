@@ -10493,6 +10493,12 @@
       "definition": "Fjdjdh",
       "example": "Whatever",
       "written_on": "2019-11-30T00:00:00Z"
+    },
+    {
+      "defid": 17721183,
+      "definition": "A shitty rock band that consists of 3...sorry 4 complete fucking retards. I [thought it was] 3 because the sexy bassist named McSweeney moved to Ohio [without warning]. The other fucktards are Rob, Caleb, and Braylon. Braylon is hot as fuck, Caleb is underage, and Rob is the ugliest [Motherfucker] I've ever seen with my own 3 eyes.",
+      "example": "Steve - [Hey dude] [did you] hear [the new] Whatever song?\n\nRoger - Pukes and agressivly shits himself",
+      "written_on": "2023-03-21T09:21:58.971Z"
     }
   ],
   "whoopisize": [
@@ -11735,6 +11741,12 @@
       "definition": "1. When [something] is [disappointing]\r\n\r\n2. [Jack] Drew",
       "example": "\"I can't believe [the Patriots] lost [the Super Bowl]\"\r\n\" [Yeah man], that was some weaksauce\"\r\n\r\nJack Drew",
       "written_on": "2009-01-20T00:00:00Z"
+    },
+    {
+      "defid": 5481617,
+      "definition": "1. [anything] that you [decide] is [weaker] than you. 2. Kalia Lor.",
+      "example": "John: Man that was some weaksauce [stuff].\n\nJoe: Who [Kalia] Lor?\n\nJohn: [Definitely].",
+      "written_on": "2011-01-02T00:00:00Z"
     }
   ],
   "whalé": [
@@ -74291,6 +74303,12 @@
       "definition": "Neek\n\nTrash at cod\n\n[And is] [a short] monkey\r\n[This is] what kids named Wais are",
       "example": "“Wais is [dead] at [cod].”",
       "written_on": "2020-04-21T00:00:00Z"
+    },
+    {
+      "defid": 18012887,
+      "definition": "A lying [piece of shit] in [every] [language]",
+      "example": "👧: hey I’m [talking to] wais\r\n👧🏿: don’t talk to him he’s a [piece of shit] and an [asshole]",
+      "written_on": "2023-11-21T18:38:58.526Z"
     }
   ],
   "warrisburg": [
@@ -214957,6 +214975,12 @@
       "definition": "to [jack off] until [one] [cums].",
       "example": "I [had to] wack off after i [watched] [baywatch].",
       "written_on": "2003-02-06T00:00:00Z"
+    },
+    {
+      "defid": 1694780,
+      "definition": "Same as [Jack Off] and [Jerk Off].",
+      "example": "\"I am gonna wack off with [coconut] [shampoo]... then it will smell like [coconut].\"",
+      "written_on": "2006-04-27T00:00:00Z"
     }
   ],
   "Windows variables": [
@@ -256827,6 +256851,86 @@
       "definition": "A city where only [testosterone] monkeys live, its fucking wild. Crazy big parties, imagine a City with [Project X] like parties every [single day]. There no place like it, once you enter you`ll never wanna leave.",
       "example": "[Mom], Can [we go] to Wildville?",
       "written_on": "2022-04-27T23:34:39.267Z"
+    }
+  ],
+  "Worr Bout It Chart": [
+    {
+      "defid": 2983880,
+      "definition": "A chart that delineates the level of worr bout it when dealing with the beautiful symptoms of the great buddha/worr bout it/ganja/chronic/crip/kush/worr about it/mary jane/brocolli/leprechauns/worr bout its/[jolly green giant]/the sleepy sea turtle in the sky, so on and so forth.\r\n\r\nThe chart goes as follows (weakest-strongest):\r\n1) Regular People- yeah...so we are here, not high.\r\n2) The Sky- Slowly but surely it's creeping up on you like Bubba when you drop the soap.\r\n3) The Stars- You...are...high.\r\n4) WORR BOUT IT- NOT alot...you are NOT worr'in bout it!\r\n5) Slurpee Worr Bout It- You know when you get a slurpee from 7-11...that is your brain right now.\r\n6) Pokemon Worr Bout It- eff...you feel like the pokemon of your choice...we usually pick snorlax.\r\n7) Towelie Worr Bout It- [You have no idea] whats going on.\r\n8) Cease Fire- You have given up the fight for now.\r\n9) Peace- Your mind and body are one with the universe.\r\n10) Corn About It- u iz vegetable. This is [the final chapter] in your life.  You must resurrect to reach stage one and restart.\r\n\r\nThese all be troofisms.\r\n\r\nWe are talking about weed people...weed.  WORR BOUT IT!",
+      "example": "Judas- Whats at the end of the worr bout it chart? i like 30 pieces of silver.\r\nKansas- Guy [DONT WORRY ABOUT IT]...[I'M NOT] GONNA DIE CORNIN [ABOUT IT]!\r\nALKI- NOT ALOT?!\r\nBear- no guy...NOT ALOT!\r\nPierre- worr bout it!",
+      "written_on": "2008-04-06T00:00:00Z"
+    }
+  ],
+  "We all have chodes": [
+    {
+      "defid": 8421355,
+      "definition": "[When you] feel that no [one is] [listening] simply yell out \"we all have chodes\"",
+      "example": "[Everybody]: [talking]\n\nYou: hello\n\n[Everybody]: ignores\n\nYou: we all have chodes",
+      "written_on": "2015-10-16T00:00:00Z"
+    }
+  ],
+  "what type of chiken is that": [
+    {
+      "defid": 16375199,
+      "definition": "[chiken]",
+      "example": "what [type] of [chiken] is that\r\n[chiken]",
+      "written_on": "2021-10-14T16:11:14.611Z"
+    }
+  ],
+  "Whore Variable": [
+    {
+      "defid": 13295763,
+      "definition": "A [variable] that you use [throughout] a code without [printing] it.",
+      "example": "arr = input('Enter your array: ');\r\nr,c = size(arr);\r\nfor j = 1:c\n\nsum = 0;\n\nfor i = 1:r\n\nsum = sum + arr(i,j);\n\nend\n\narr2(j) = sum;\r\nend\r\ndisp(arr2);\n\n[Oh man], that \"sum\" [variable] is a whore [variable]!",
+      "written_on": "2018-10-24T00:00:00Z"
+    }
+  ],
+  "Wiscobilly": [
+    {
+      "defid": 6718890,
+      "definition": "teabillies that [live in] [Wisconsin] and vote for the GOP such as [Scott Walker].",
+      "example": "Wiscobilly moron Tony Malcein [decided] [to troll] my latest Jan [Brewer] post.",
+      "written_on": "2012-08-16T00:00:00Z"
+    }
+  ],
+  "who-who": [
+    {
+      "defid": 1100950,
+      "definition": "[Another] anme [for dick], [schlong], cock, wang, ect.",
+      "example": "\"[Mommy]! DON'T [TOUCH] MY WHO-WHO!!!11!\"",
+      "written_on": "2005-03-04T00:00:00Z"
+    }
+  ],
+  "WADLANOY": [
+    {
+      "defid": 13560371,
+      "definition": "[a person] who is [watching] awful documentaries late at night on [youtube].",
+      "example": "Felix: Caro, why are you yawning all the time?\n\nCaro: Oh its because I am a wadlanoy. I saw a [documentary] until 3 o'clock this morning. It was about a settlement of Siberian hippos meditating on whale songs. I can send you the Youtube link.\n\nFelix: Better not, otherwise it would end up like [the last time], when you sent me the [documentary] about capitalistic motivation trainers. The nightmares about Höller have been enough for me...",
+      "written_on": "2019-01-26T16:54:54.653Z"
+    }
+  ],
+  "WSACF": [
+    {
+      "defid": 5714619,
+      "definition": "WSACF stands for \"Wet Soapy [Ass Cheek] Fuck\". This is when you let your partner fuck your soaped up [ass cheeks]. This act is mostly done [in the shower] or bath. See also \"WSTF\".",
+      "example": "Becky - \"Paul gave me a WSACF [last night]. He was so close to [slipping] it into my ass\".\r\nEmma - \"You [really] are a slut Becky\".",
+      "written_on": "2011-04-19T00:00:00Z"
+    }
+  ],
+  "WallyWhop": [
+    {
+      "defid": 14452665,
+      "definition": "THE CORRECT- ORIGINAL saying was WALLY WHOP not MOLLYWHOP. Blacks NEVER said MOLLYWHOP what bitch nanee Molly getting her ass beat!\n\nWally is a term used for [White boys] that came from “[Leave It to Beaver]”. So every square [white boy] was and is a Wally! You white bastards tried to use our terms and fucked up the word for ages to come.",
+      "example": "Keep [fucking up] our slang and [TRUST] you will get WALLYWHOPPED [PERIOD]",
+      "written_on": "2019-11-19T00:00:00Z"
+    }
+  ],
+  "W&W": [
+    {
+      "defid": 17560478,
+      "definition": "Weak and Wealthy.\n\nWhen someone grows up as the youngest of three children and expects [everything] in life to be easy. Breast-fed until the tender age of 16 with mummy doing all your chores until you move out at 30, upon such time your wife takes over carer duties. These individuals are also physically underdeveloped with pasty [white skin] like casper the ghost, anything above UV6+ is deadly to them.\n\nIf left alone they'll either order take away or eat [white bread] with coon cheese, due to the lack of practical household skills.",
+      "example": "Man1: Dude George is so W&W, I heard he doesn't know how to clean his [clothes] or even cook\r\nMan 2: Yeah, its unreal, his wife is a full time carer like his mum was [previously]\r\nMan 1: [I know right], I'd still suck his mums tits though",
+      "written_on": "2022-11-24T19:24:17.689Z"
     }
   ]
 }
