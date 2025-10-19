@@ -70248,5 +70248,21 @@
       "example": "[What is] the [farm animal] doing in a car?\r\nOh her? That's [Zach] S' Mom",
       "written_on": "2022-02-27T19:20:02.185Z"
     }
+  ],
+  "zashfaq": [
+    {
+      "defid": 16582505,
+      "definition": "Zashfaq Is The [Lengest] [Thing] To [Exist]",
+      "example": "[Potato] X [Chocolate] is Zashfaq",
+      "written_on": "2021-11-22T16:38:32.434Z"
+    }
+  ],
+  "zelifcam": [
+    {
+      "defid": 15987066,
+      "definition": "a group of old AOL mac dorks with a [new r]/zelifcam [community] on [Reddit]",
+      "example": "[If you ever] visited Zelifcam on [anything] but AOL 2.7, you [deserve] to be TOSed",
+      "written_on": "2021-05-12T13:15:22.352Z"
+    }
   ]
 }
