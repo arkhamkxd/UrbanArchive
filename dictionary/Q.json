@@ -1247,6 +1247,12 @@
       "definition": "Used [when you are so bored that] you pressed [all the letters] on your [keyboard].",
       "example": "I'm [feeling] so qwertyuiopasdfghjklzxcvbnm [right now].",
       "written_on": "2023-05-31T14:26:47.105Z"
+    },
+    {
+      "defid": 18233536,
+      "definition": "[Something] that occurs during [social studies] when [the teacher] is yapping.",
+      "example": "Because [the teacher] was a [yapper], Johnny [decided] to type qwertyuiopasdfghjklzxcvbnm",
+      "written_on": "2024-05-29T10:07:07.068Z"
     }
   ],
   "qper": [
@@ -48571,6 +48577,14 @@
       "definition": "Part of Speech: Adjective\n\n[Definition]: Characteristic of or resembling the literary works of Don Quixote; extravagantly idealistic, visionary, or impractical.\n\nEtymology: The term \"Quixotian\" is derived from \"Don Quixote,\" the titular character of the novel \"Don Quixote\" written by Spanish author Miguel de Cervantes. Don Quixote is known for his chivalrous and often impractical adventures, driven by his lofty ideals and an almost delusional sense of reality. The character's name has become synonymous with [extravagant] idealism, which is captured in the adjective \"Quixotian.\" The suffix \"-ian\" is added to \"Quixote\" to create an adjective form, indicating that something is [reminiscent] of or related to the character's qualities and adventures.\n\nCoined by Professor Justin Ho Guo Shun",
       "example": "Sarah's quixotian belief in [the power] of love to conquer all obstacles often led her to pursue grand [romantic] gestures that left others [bewildered].",
       "written_on": "2023-08-27T16:34:51.208Z"
+    }
+  ],
+  "Qoliffer": [
+    {
+      "defid": 17082616,
+      "definition": "Caliphoure ([Cauliflower])",
+      "example": "I [poured] out the Qoliffer",
+      "written_on": "2022-03-18T20:21:20.168Z"
     }
   ]
 }
