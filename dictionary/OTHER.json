@@ -117550,5 +117550,13 @@
       "example": "[Oh my god] 7achs [got] a [callback]!",
       "written_on": "2021-10-09T11:43:12.135Z"
     }
+  ],
+  "*Word": [
+    {
+      "defid": 8150513,
+      "definition": "The place where you write [the word] you're going to make a [definition] for on [Urban Dictionary]",
+      "example": "*Word, write [the word] [you would like] to [define].",
+      "written_on": "2015-03-09T00:00:00Z"
+    }
   ]
 }
