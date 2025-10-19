@@ -71258,5 +71258,21 @@
       "example": "[I can’t] [believe] Zainoun [did that] for me.",
       "written_on": "2021-11-23T19:01:29.735Z"
     }
+  ],
+  "Zeam": [
+    {
+      "defid": 11665543,
+      "definition": "To turn [another] student's bag [inside out] and [fill] it with it's contents.",
+      "example": "[Student]: \"[Quick] [Gary's] gone, let's zeam his bag.\"",
+      "written_on": "2017-06-07T00:00:00Z"
+    }
+  ],
+  "zobot": [
+    {
+      "defid": 2286269,
+      "definition": "A [zombie] with [fucking] robot parts.\r\n[Zombie] + Robot = Zobot.",
+      "example": "[Man], that [motherfucking] zobot [chainsawed] me.",
+      "written_on": "2007-03-06T00:00:00Z"
+    }
   ]
 }
