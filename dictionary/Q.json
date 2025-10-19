@@ -48646,5 +48646,21 @@
       "example": "\"i'm [super bored].\"\r\n\"[lets go] [play] quong!\"",
       "written_on": "2007-05-12T00:00:00Z"
     }
+  ],
+  "Qwok": [
+    {
+      "defid": 3341783,
+      "definition": "An unexpected [happening], [usually] occuring at times of [inconvenience]; related to colon gas/liqiud.",
+      "example": "While in a [board of directors] [meeting], Sally sat [uncomfortably] whilst realising she had done a qwok in her pants.",
+      "written_on": "2008-10-29T00:00:00Z"
+    }
+  ],
+  "quirky relatable": [
+    {
+      "defid": 12325682,
+      "definition": "[Someone] who acts in a [quirky] matter and makes you relate to [your own] life.",
+      "example": "Wow. Zoe [Deschanel] is so [quirky] [relatable] le in New Girl.",
+      "written_on": "2017-12-25T00:00:00Z"
+    }
   ]
 }

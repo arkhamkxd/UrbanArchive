@@ -152440,5 +152440,21 @@
       "example": "Person1: [Don't play] Halo with Dave\n\nPerson2: [Why not]?\n\nPerson1 : He's a one-handed [gamer]",
       "written_on": "2016-04-30T00:00:00Z"
     }
+  ],
+  "oska": [
+    {
+      "defid": 684228,
+      "definition": "A [koala bear] that stays on your desktop. The [equivalent] to bonzi buddy, oska will work as spyware and should not be [downloaded].",
+      "example": "[Damn you], oska! I wish [I never] [downloaded] you!",
+      "written_on": "2004-05-23T00:00:00Z"
+    }
+  ],
+  "Oh dear black ops!": [
+    {
+      "defid": 5905448,
+      "definition": "[a common] phrase exclaimed when any [black ops] [reference] is mentioned",
+      "example": "Dylan: What seat are you in for the exam? [I'm in] seat J9.\r\nAchmed: I'm in seat C4.\r\nDylan: [Oh dear] [black ops]!",
+      "written_on": "2011-06-22T00:00:00Z"
+    }
   ]
 }
