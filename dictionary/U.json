@@ -86484,5 +86484,37 @@
       "example": "After [spending] some time [together] on a car ride sarah went from being a friend to an [unfiltered] friend; I know too much about her.",
       "written_on": "2023-08-22T13:08:08.399Z"
     }
+  ],
+  "Uncle Bob": [
+    {
+      "defid": 17759630,
+      "definition": "[Uncle Tom] but specifically for [white people]",
+      "example": "[Margaret].. For the 50th time.. I enjoy seeing other [white boys] get [beaten up] on Twitter! I'M AN UNCLE BOB.",
+      "written_on": "2023-04-20T18:15:23.716Z"
+    }
+  ],
+  "uda": [
+    {
+      "defid": 4543656,
+      "definition": "u [dumb ass]",
+      "example": "that's [not a] [tumor] uda",
+      "written_on": "2010-02-01T00:00:00Z"
+    }
+  ],
+  "upsetness": [
+    {
+      "defid": 748866,
+      "definition": "[The condition] of being [upset]. [The state] of being upset.",
+      "example": "The Dr. expressed his upsetness about the lateness of his [patient].",
+      "written_on": "2004-07-07T00:00:00Z"
+    }
+  ],
+  "uncheap": [
+    {
+      "defid": 17789209,
+      "definition": "not [cheap]",
+      "example": "my last shirt i got was so [cheap], it fell apart [instantly]. but this new [one is] so uncheap!\"",
+      "written_on": "2023-05-15T12:14:02.906Z"
+    }
   ]
 }
