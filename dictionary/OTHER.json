@@ -28123,6 +28123,12 @@
       "definition": "1",
       "example": "1",
       "written_on": "2017-04-26T02:15:16.807Z"
+    },
+    {
+      "defid": 16059391,
+      "definition": "a [number]",
+      "example": "[i am] 1 [years] [old]",
+      "written_on": "2021-06-03T19:38:31.466Z"
     }
   ],
   "++": [
@@ -37561,6 +37567,12 @@
       "definition": "[Two thumbs up]. [Something] great\r\nIf you count binary on your fingers, and one of the thumbs is the LSB; gives 2^0 = 1, then the other thumb wil be 2^5 = 32. The [two thumbs] will then yeald 33 (100001).",
       "example": "- Nice [movie], 33.\r\n- [Go for it], 33.\r\n- 33 is [the best] age.",
       "written_on": "2010-07-23T00:00:00Z"
+    },
+    {
+      "defid": 13607063,
+      "definition": "[The number 33] is the answer of life. it is use in math and can answer every [questions] [you don't know].",
+      "example": "[1+1]=33. 7x123456789=33",
+      "written_on": "2019-02-11T10:52:05.557Z"
     }
   ],
   "1200": [
@@ -41887,6 +41899,12 @@
       "definition": "Three-digit code used by police to [identify] a robbery.  Not nearly as popular among early 90s [West Coast] gangster rappers as 187, which was used by the LAPD to [identify] a homicide.",
       "example": "\"Tried to set me up for a two-eleven, [turned around] and got [caught up] in a one-eight-seven.\" -Dr. Dre, \"[Let Me Ride]\"",
       "written_on": "2005-02-27T00:00:00Z"
+    },
+    {
+      "defid": 14694818,
+      "definition": "An [armed robbery]",
+      "example": "Yo [let]’s [pull a] 211",
+      "written_on": "2020-02-05T00:00:00Z"
     }
   ],
   "( Y )": [
@@ -118237,6 +118255,54 @@
       "definition": ".9.[Emotions] Are The [Currency] Of Being [Chaste].9.",
       "example": ".9.[Emotions] Are The [Currency] Of Being [Chaste].9.",
       "written_on": "2025-10-05T15:45:02.091Z"
+    }
+  ],
+  "<============8": [
+    {
+      "defid": 15635892,
+      "definition": "A [big large] thing that girls [suck on] while [having it]",
+      "example": "[Laura]= man [i wanna] [suck on] ur <============8\n\nHim= sure",
+      "written_on": "2021-01-05T11:39:28.803Z"
+    }
+  ],
+  "<.7.9.7.6.>Alex Mercedes Vas A Matar Manuel Eduardo Rodriguez Hernandez<.7.9.7.6.>": [
+    {
+      "defid": 18504579,
+      "definition": "<.7.9.7.6.>Alex [Mercedes] Vas A Matar Manuel [Eduardo Rodriguez] [Hernandez]<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>Alex [Mercedes] Vas A Matar Manuel [Eduardo Rodriguez] [Hernandez]<.7.9.7.6.>",
+      "written_on": "2025-06-16T17:16:34.062Z"
+    }
+  ],
+  ".9.This Nigga Has Been Touching My Shoulder For Thirty Three Years.9.": [
+    {
+      "defid": 18523480,
+      "definition": ".9.[This Nigga] Has Been [Touching] My Shoulder For [Thirty Three] Years.9.",
+      "example": ".9.[This Nigga] Has Been [Touching] My Shoulder For [Thirty Three] Years.9.",
+      "written_on": "2025-07-28T23:11:05.044Z"
+    }
+  ],
+  "10C7R": [
+    {
+      "defid": 16000463,
+      "definition": "Tenth-cousin-seven-times-removed.",
+      "example": "[I don't know] my 10C7R.",
+      "written_on": "2021-05-17T10:25:43.001Z"
+    }
+  ],
+  "7th Street": [
+    {
+      "defid": 1746298,
+      "definition": "A slang term for where [someones] [going] or is at [after death].",
+      "example": "1) [Person 1]: Wheres Johnny?\r\n   [Person 2]: Hes on heroin we havent seen him for 4 days.\r\n   [Person 1]: heading for 7th street I guess.\r\n\r\n2) Person: My cousin died, he lives on 7th street now.",
+      "written_on": "2006-05-18T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Do The Thing thE dO<.7.9.7.6.>": [
+    {
+      "defid": 18489151,
+      "definition": "<.[7.9].7.6.>[Do The Thing] [thE dO]<.7.9.7.6.>",
+      "example": "<.[7.9].7.6.>[Do The Thing] [thE dO]<.7.9.7.6.>",
+      "written_on": "2025-05-16T18:01:39.847Z"
     }
   ]
 }
