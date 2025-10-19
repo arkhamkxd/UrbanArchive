@@ -110042,5 +110042,21 @@
       "example": "“Hey [Jack], [Violet] is such [a virgin]/“",
       "written_on": "2017-09-30T00:00:00Z"
     }
+  ],
+  "vandalizable": [
+    {
+      "defid": 17297482,
+      "definition": "action involving deliberate [destruction] of or damage to public or [private property] repeatedly.\n\n\"an act of mindless vandalism [over and over]”",
+      "example": "he was vandalizable [to the] [neighbors].",
+      "written_on": "2022-06-09T21:18:54.47Z"
+    }
+  ],
+  "veechi": [
+    {
+      "defid": 6741281,
+      "definition": "[synonymous] with mad dragon. breaths fire. snorts loudly when you complain and usually yelling [instructions] at someone or [something].",
+      "example": "guy: [what is that] dragon doing [over there] [breathing fire] and shit?\n\nFriend: chucking a veechi!",
+      "written_on": "2012-10-06T00:00:00Z"
+    }
   ]
 }
