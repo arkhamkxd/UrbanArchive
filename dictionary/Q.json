@@ -48006,5 +48006,21 @@
       "example": "The quipping in [Fire Emblem] seems kinda lazy, but I guess it [saves time] and money during [production].",
       "written_on": "2018-10-10T00:00:00Z"
     }
+  ],
+  "Quaxly": [
+    {
+      "defid": 17038015,
+      "definition": "Quaxly is [the Water] Starter of [Pokemon] Gen 9. He is known to look a lot like [Donald Duck].",
+      "example": "Quaxly [looks like] [Donald Duck] [ngl]",
+      "written_on": "2022-03-02T21:59:13.569Z"
+    }
+  ],
+  "quod erat demostratem": [
+    {
+      "defid": 502975,
+      "definition": "ego sum discipulus [optimus]. ego non sum discipulus malus. saxtus est discipulus malus. \r\n\"Veto!\"\r\n\r\n[Oh right], and it's a math term. It means \"what was to be demonstrated\", used in proofs of [innumerable] math proofs.",
+      "example": "x=-b+-root(b^2-4ac)/2a\r\n\r\n[QED] ([Quod] [Erat] Demonstratem)",
+      "written_on": "2004-02-11T00:00:00Z"
+    }
   ]
 }
