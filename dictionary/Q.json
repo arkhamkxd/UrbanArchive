@@ -48908,5 +48908,29 @@
       "example": "I really [triggered] them [last night] and they [started] qheccing",
       "written_on": "2020-03-27T00:00:00Z"
     }
+  ],
+  "Quovelling": [
+    {
+      "defid": 17729243,
+      "definition": "Polly-style [quaking]. [Applicable] to any [situation]",
+      "example": "“[The child] quovelled at the sight of it.”\r\n“ Mark was left quovelling in [front] [of them]”",
+      "written_on": "2023-03-27T13:09:42.653Z"
+    }
+  ],
+  "quitchabitchin": [
+    {
+      "defid": 4103635,
+      "definition": "[Shut the fuck up]",
+      "example": "[Ay yo]! Quitchabitchin!",
+      "written_on": "2009-07-11T00:00:00Z"
+    }
+  ],
+  "qwertywertyuertyuirtyuiotyuiopasdfghsdfghjdfghjkfghjklzxcvbxcvbncvbnm": [
+    {
+      "defid": 17639806,
+      "definition": "[bored] [much]?",
+      "example": "[Person 1]: Hi\r\n[Person 2]: qwertywertyuertyuirtyuiotyuiopasdfghsdfghjdfghjkfghjklzxcvbxcvbncvbnm",
+      "written_on": "2023-01-23T00:09:21.896Z"
+    }
   ]
 }
