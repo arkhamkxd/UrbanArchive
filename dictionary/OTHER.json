@@ -1695,6 +1695,12 @@
       "definition": "[LGBTQ]+",
       "example": "🏳️ 🌈",
       "written_on": "2022-11-21T22:11:50.375Z"
+    },
+    {
+      "defid": 13004106,
+      "definition": "The [pride flag] for [LGBTQ]+",
+      "example": "[Boy]: I [support] you [100]% 🏳️ 🌈",
+      "written_on": "2018-06-17T00:00:00Z"
     }
   ],
   "@sleepychuxya": [
@@ -2537,6 +2543,12 @@
       "definition": ".",
       "example": ".",
       "written_on": "2020-05-10T00:00:00Z"
+    },
+    {
+      "defid": 16820272,
+      "definition": ".",
+      "example": ".",
+      "written_on": "2021-12-07T11:31:45.884Z"
     }
   ],
   "🤨": [
@@ -10255,6 +10267,12 @@
       "definition": "If you are [shocked], [surprised] or think [something] is weird you use this emoji.",
       "example": "“I did [something] [really] [embarrassing]”\r\n“🤠”",
       "written_on": "2022-01-10T15:14:03.747Z"
+    },
+    {
+      "defid": 16042500,
+      "definition": "[An emoji] [sometimes] used for censoring [a bad word].",
+      "example": "F🤠 S🤠, C🤠!",
+      "written_on": "2021-05-29T11:46:39.242Z"
     }
   ],
   "45 Degrees": [
@@ -119631,6 +119649,46 @@
       "definition": "[the most] [badass] ford [ever] made =)",
       "example": "she [drives] an 08 [ford focus]... im so [jealous].",
       "written_on": "2009-02-24T00:00:00Z"
+    }
+  ],
+  "3022": [
+    {
+      "defid": 17091555,
+      "definition": "[A random] [year]",
+      "example": "3022",
+      "written_on": "2022-03-22T09:35:32.567Z"
+    }
+  ],
+  "[soccer]": [
+    {
+      "defid": 2172089,
+      "definition": "the american term for [football]. why [the yanks] call it `soccer`, who knows? 10 players on each team try and score in the opponent`s goal, defended by the goal keeper, who is the only player allowed to pick up the ball. the other ten must use their feet. thus the name [football].",
+      "example": "boy: hey mom lets play soccer! then we can [watch a movie]!\r\n\r\n[translation]:(pukka english) oi mum! lets play [football]! then maybe a film",
+      "written_on": "2008-12-09T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Que Lo Que Tu Dicex<.7.9.7.6.>": [
+    {
+      "defid": 18503763,
+      "definition": "<.[7.9].7.6.>[Que Lo Que] Tu Dicex<.[7.9].7.6.>",
+      "example": "<.[7.9].7.6.>[Que Lo Que] Tu Dicex<.[7.9].7.6.>",
+      "written_on": "2025-06-14T20:10:56.923Z"
+    }
+  ],
+  "[vania]": [
+    {
+      "defid": 3308155,
+      "definition": "A woman who is so fine, sexy, hot, [intelligent], [beautiful], and [gorgeous] that you can't get your eyes off of her, and will make you feel good all day.",
+      "example": "[vania]",
+      "written_on": "2008-08-27T16:33:46Z"
+    }
+  ],
+  "[fuckled]": [
+    {
+      "defid": 2322785,
+      "definition": "The [past tense] of [fuckle].",
+      "example": "At the [tender age] of ten, Steve was [fuckled] by [Uncle] elmo.",
+      "written_on": "2007-03-28T00:00:00Z"
     }
   ]
 }
