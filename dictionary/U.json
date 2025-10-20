@@ -90004,5 +90004,13 @@
       "example": "you [urk] me",
       "written_on": "2003-02-09T00:00:00Z"
     }
+  ],
+  "urban tag": [
+    {
+      "defid": 2629579,
+      "definition": "tagging game played on foot and in cars. \r\nRules:\r\nplayed with 10+ people\r\n3 groups (Runners, drivers, passengers)\r\nRunners goal is to reach a safe point (usually about one mile away, set before game starts)\r\nDrivers leave two minutes after runners begin and drive [neighborhood] streets to find the runners.\r\nWhen a runner is found, [the driver] stops, [passenger](s) gets out and runs to tag the runner on foot. when a runner is tagged, they become a passenger.",
+      "example": "[Last night], the Seniors at [Cascia Hall] played urban tag. They started at 32nd & Deleware and their [safe spot] was Edison School.",
+      "written_on": "2007-11-01T00:00:00Z"
+    }
   ]
 }
