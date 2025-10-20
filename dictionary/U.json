@@ -4349,6 +4349,12 @@
       "definition": "-Collateral relative's spouse's ascendant\r\n-Collateral relative's spouse's [collateral relative]\r\n-Descendant-in-law's ascendant (except: child-in-law's parent = co-parent-in-law)\r\n-Descendant-in-law's [collateral relative]\r\n-Spouse's collateral relative's spouse's ascendant\r\n-Spouse's collateral relative's spouse's collateral relative\r\n-Stepdescendant-in-law's ascendant (except: stepchild-in-law's parent = step-co-parent-in-law)\r\n-Stepdescendant-in-law's collateral relative\r\n-Collateral relative's spouse's stepascendant\r\n-Collateral relative's spouse's collateral relative's spouse\r\n-Descendant-in-law's stepascendant (except: child-in-law's stepparent = step-co-parent-in-law)\r\n-Descendant-in-law's collateral relative's spouse\r\n-Spouse's collateral relative's spouse's stepascendant\r\n-Spouse's collateral relative's spouse's collateral relative's spouse\r\n-Stepdescendant-in-law's stepascendant\r\n-Stepdescendant-in-law's collateral relative's spouse\r\n-Relative's widowed (non biological)'s new spouse\r\n-Relative's widowed (non biological)'s new spouse's relative\r\n-Relative's widowed (non biological)'s new spouse's relative's spouse\r\n-Spouse's relative's widowed (non biological)'s new spouse\r\n-Spouse's relative's widowed (non biological)'s new spouse's relative\r\n-Spouse's relative's widowed (non biological)'s new spouse's relative's spouse\r\n-Absence of any kinship (nor biological, nor by affinity, nor by [indefinite] [classification], nor by adoption)",
       "example": "Unrelated.",
       "written_on": "2023-06-14T15:51:32.618Z"
+    },
+    {
+      "defid": 16270693,
+      "definition": "1- Ascendants and collateral relatives of spouses of collateral relatives.\r\n2- Ascendants and collateral relatives of spouses of [descendants], only with the exception of the child's parent-in-law who is the co-parent-in-law.\r\n3- Person in relation to another person who has none consanguinity, none common ancestor, none kinship by affinity, none kinship by [indefinite] classification, none kinship by adoption and none other kind of kinship.\r\n4- Without kinship.\r\n5- [Nothing relationally].\r\n6- Relative's lover.",
+      "example": "My parent's sibling's parents-in-law are unrelated to me.",
+      "written_on": "2021-08-26T09:44:46.422Z"
     }
   ],
   "USophant": [
@@ -62609,6 +62615,12 @@
       "definition": "When you [get a blow] job, [followed] by fucking in the giner, next putting it in her ass, then [the mouth] again.",
       "example": "Sandy got a full taste of [her ass] [when the] [end of] the Uganda came around.",
       "written_on": "2005-05-13T00:00:00Z"
+    },
+    {
+      "defid": 13609379,
+      "definition": "A [spliff] that isn't [properly] [rolled], one can refer to as an \"uganda\".",
+      "example": "[The first] [joint] that I [rolled] was an uganda, I didn't know what I was doing.",
+      "written_on": "2019-02-12T00:00:00Z"
     }
   ],
   "Uncoolski brewski": [
@@ -88941,6 +88953,14 @@
       "definition": "In an effort to poke fun at [political correctness].\n\nUrologically disinclinated is a [smart-assed] [way to say] pissed off !",
       "example": "The H R witch spouts [new rules] to keep our lousy fukking jobs ...so I say, [ah jeez] ...[something else] to be urologically disinclinated about.",
       "written_on": "2021-09-04T19:01:51.138Z"
+    }
+  ],
+  "uttp": [
+    {
+      "defid": 18204563,
+      "definition": "[People] who ruin [others] lives because they feel [like it].",
+      "example": "uttp [fucking] [sucks]",
+      "written_on": "2024-04-27T04:23:55.227Z"
     }
   ]
 }
