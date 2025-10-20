@@ -49152,5 +49152,21 @@
       "example": "Siroush is a queebb.",
       "written_on": "2003-05-13T00:00:00Z"
     }
+  ],
+  "Queen bee": [
+    {
+      "defid": 16067396,
+      "definition": "A dress doesn't make her a lady, and having [a crown] doesn't make her [a queen] or [a queen] bee.",
+      "example": "There is such [a thing] as an [imitation] of [a queen] bee.",
+      "written_on": "2021-06-06T11:37:57.369Z"
+    }
+  ],
+  "Quitfire": [
+    {
+      "defid": 7234081,
+      "definition": "When a manager wants someone to quit but doesn't want to fire them, he gets them to quit by either discussing the negatives of [the position] with no solution or positives, or he tells them they wont be [successful] and displays no [confidence] in their ability to succeed unit they quit.",
+      "example": "After Kevin Grissom knocked up his secretary, he wanted to fire her. He knew it was illegal to fire her for that reason, but knew it was necessary. As a solution he explained to her that the negatives of [the position] far outweighed any positives and that she should [think about that]. Consequently, she quit, saving KGrissom from the headache of [working with] her everyday. It was a textbook quitfire right out of management 101.",
+      "written_on": "2013-10-22T00:00:00Z"
+    }
   ]
 }
