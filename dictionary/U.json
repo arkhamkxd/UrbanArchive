@@ -88480,5 +88480,29 @@
       "example": "I [cried] then had an [unhappy] [squeeze]",
       "written_on": "2014-07-13T00:00:00Z"
     }
+  ],
+  "Uncap your face": [
+    {
+      "defid": 4512286,
+      "definition": "[break your face].",
+      "example": "[If you don't] [shut up] I'm gonna uncap [your face].",
+      "written_on": "2010-01-18T00:00:00Z"
+    }
+  ],
+  "unquit": [
+    {
+      "defid": 17861005,
+      "definition": "What you [do the day] after [quitting] while being [blacked out] drunk.",
+      "example": "Sean [always] unquits at [least] 3 times before he [actually] drags up.",
+      "written_on": "2023-07-17T21:03:18.582Z"
+    }
+  ],
+  "Undersuit": [
+    {
+      "defid": 12928458,
+      "definition": "When a [female] buys [matching] bra and [underwear] to wear to look sexy.",
+      "example": "You see Mia new [Calvin Klein] Undersuit, she [straight] [sexy]",
+      "written_on": "2018-06-06T00:00:00Z"
+    }
   ]
 }
