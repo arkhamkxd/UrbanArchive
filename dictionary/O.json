@@ -159730,5 +159730,29 @@
       "example": "[That man] [tried] to stain me so i [had to] off him.",
       "written_on": "2018-06-03T00:00:00Z"
     }
+  ],
+  "operation dick move": [
+    {
+      "defid": 6460021,
+      "definition": "The act of parking so close to another's driver side door that they must get in from the [passenger] side and climb over. Execution of [operation dick] move requires an empty [parking space] adjacent to the victim's driver side.",
+      "example": "We executed [operation dick] move on [your mom] at the [grocery store].",
+      "written_on": "2012-05-08T00:00:00Z"
+    }
+  ],
+  "Oikophobia": [
+    {
+      "defid": 17634449,
+      "definition": "[the fear] of [homes]",
+      "example": "I have Oikophobia, [I'm afraid] of [homes].",
+      "written_on": "2023-01-18T21:30:58.695Z"
+    }
+  ],
+  "Oh My Dickens": [
+    {
+      "defid": 6000726,
+      "definition": "A [way to say] Oh my ____ [without] using the Lord's name in vain or any [swear words].",
+      "example": "Oh my dickens, those marital [relations] we [engaged in] were [wonderful]!",
+      "written_on": "2011-08-06T00:00:00Z"
+    }
   ]
 }
