@@ -9957,6 +9957,12 @@
       "definition": "A place to [look up] funky words, or make some up with a very [interesting] [definition].",
       "example": "[Hey]! Have [you seen] the urbandictionary [meaning] for yo",
       "written_on": "2006-11-01T00:00:00Z"
+    },
+    {
+      "defid": 18203568,
+      "definition": "THE [WEBSITE] YOU'RE ON [RIGHT NOW] [DUHHH]",
+      "example": "guy 1: urbandictionary\r\nguy 2: yeh\r\nguy 1: idk i need to right an example for how it's used in a [sentence] and oh would you [look at that], i just broke [the fourth wall]",
+      "written_on": "2024-04-26T03:32:19.417Z"
     }
   ],
   "UwU papi": [
@@ -21627,6 +21633,12 @@
       "definition": "Only use this phrase if you are prepared for the [consequences]. This phrase is the offspring of “[ur mom gay]” and “ur daddy lesbian,” and the breeder of it was Satan himself. It is the worst thing that you can say to someone. If the arguments gets to “[ur grandpap a trap]” and it’s your turn, chain yourself down before you use this. It’s deadly.",
       "example": "Steve: [ur mom gay lol]\r\nJohn: no u\r\nSteve: [ur dad lesbian]\r\nJohn: ur granny tranny\r\nSteve: [ur grandpap a trap], ha, no coming back from that!\r\nJohn: *chains himself down while fire sprouts from every hole of his body*\r\nUR SISTER A MISTER!!!!!!!\r\nSteve: *explodes into atom size pieces that are on fire as Satan pulls his soul down past hell to the unknown\r\nGod: *tears pour down his face* holy shit!",
       "written_on": "2018-05-15T00:00:00Z"
+    },
+    {
+      "defid": 12707712,
+      "definition": "The worse possible insult above \"ur mom gay\" \"[ur dad lesbian]\" \"[ur granny a tranny]\" and \"[ur granpap a trap]\"",
+      "example": "James: lol ur mom gay\r\nHolden: [ur dad lesbian]\r\nJames: [ur granny a tranny]\r\nHolden: [ur granpap a trap]\r\nJames: well ur sister a mister\r\nHolden: *shrivels up and dies*",
+      "written_on": "2018-05-13T00:00:00Z"
     }
   ],
   "UNWILLING TO GIVE MY REAL ADDRESS WITHOUT A GOOD REASON": [
@@ -91089,6 +91101,22 @@
       "definition": "what [you do] when you're [looking up] words at [urban dictionary dot com]",
       "example": "I was urban [dictionarying] [last night] [when I] found 'Tweet-Dropping'",
       "written_on": "2009-04-24T00:00:00Z"
+    }
+  ],
+  "urban camouflage": [
+    {
+      "defid": 1130174,
+      "definition": "The ability to remain indistinct in city crowds.  Often involves the wearing of [sunglasses] and mp3 [headphones].\r\nsunglasses urban [camouflage] mp3",
+      "example": "Fred is using urban [camouflage].  You can't see him, he can't [hear you]...[you don't] exist.",
+      "written_on": "2005-05-13T00:00:00Z"
+    }
+  ],
+  "ULSAC": [
+    {
+      "defid": 3664261,
+      "definition": "By [trying to] make a API [method] more generalized- you [make it] too generalized.",
+      "example": "Anti-Pattern Name: \r\nULSAC Anti Pattern\r\nAliases: \r\nFailed Façade Command Pattern Problem \r\nContext \r\nBy trying to make a API method more generalized- you make it too generalized\r\nForces \r\n-\tTrying to prevent code change\r\n-\tFailing to program to interface,  in the sense if the implemented class changes it should signal failures else where in the code base.\r\nSolution \r\n Create well defined methods (and names) that explain the exact nature of the method.\r\n[Consequences] and Resulting Context \r\n-\t[The complexity] of the call gets embedded with in a parameter.\r\n-\tAPI can’t be readily [understood].\r\n-\tFunctionally [Overloaded] method\r\n-\tHard to change.\r\n-\tDifficult API to use.\r\nWhat's Wrong with the Solution \r\nConsider [the following] API which contains self describing methods that can be readily [understood] and used.\r\n\r\nvoid getCustomerNumber(…);\r\nvoid getCustomerAddress(…);\r\nvoid getCustomerTelephone(…);\r\n\r\n\r\nIf a scenario arises in which a developer tries to prevent the API exposed to change by creating an overly generalized method\r\n\r\nvoid getX(…., String actionDesc)\r\n\r\nin which the actionDesc contains some sort of internal pseudo language which determines the correct data to return. i.e.\r\n\r\n            call getCustomerNumber(…) gets replaced with call getX(….,”CustomerNumber”);\r\n            call getCustomerNumber(…)+    call getCustomerAddress(…)   gets replaced with call getX(….,”CustomerNumber,CustomerAddress”);\r\nLesson's Learned\r\nTry not to make a single method be all things to everyone. Rely on programming to interface and contractible programming it allows.\r\nCorrect Patterns\r\nAuthor(s): \r\nJohn Wilson\r\nDate: \r\n01/01/2009\r\nReferences \r\nKeywords: \r\nExample",
+      "written_on": "2009-01-28T00:00:00Z"
     }
   ]
 }
