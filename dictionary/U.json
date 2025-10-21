@@ -14367,6 +14367,12 @@
       "definition": "A dirty little ditty, recited by [American school] children during the 1970s, especially at summer camps everywhere:\n\n\"Um chucka Willy from the [Coconut Grove], he was a mean [mutha fucka] you could tell by his clothes.\n\nHe had a black suede jacket and a big hairy ass. His balls were as big as the tits on Mama Cass.\n\nHe lined a hundred girls up against the wall and he sweared to the devil that he'd fuck 'em all. On the 98th one he had to stop, cuz a fraction of his balls were about to pop.\n\nHe went to the doctor and the doctor said, 'um chucky willy, your balls are dead!'\n\nWritten on his grave all pure 'n green, 'Um Chucka Willy was a fuckin' machine.' \"\n\nThis exists in several similar variations.",
       "example": "You [remember when] we used to sing \"um chucka willy\"? [Hahaha]! [Those were the days].",
       "written_on": "2011-10-30T00:00:00Z"
+    },
+    {
+      "defid": 938438,
+      "definition": "Um Chucka Willy from a [coconut grove] he was a mean [mother fucker] you could tell by his clothes. Black leather jacket and a hairy ass, between his legs was a pound of grass.  Lined 100 women against the wall, swore to god he could fuck em all.\r\nFucked 98 til his balls turned blue, took a shot of whiskey and fucked the other 2.  [When he died], he went to hell.  Fucked the devil and his wife as well.  On his tomb stone written in green was \"Um Chucka Willy was a fuckin machine\".",
+      "example": "Have [I told you] about Um [Chucka] [Willy]?",
+      "written_on": "2004-12-09T00:00:00Z"
     }
   ],
   "Uwaguosa": [
@@ -91117,6 +91123,30 @@
       "definition": "By [trying to] make a API [method] more generalized- you [make it] too generalized.",
       "example": "Anti-Pattern Name: \r\nULSAC Anti Pattern\r\nAliases: \r\nFailed Façade Command Pattern Problem \r\nContext \r\nBy trying to make a API method more generalized- you make it too generalized\r\nForces \r\n-\tTrying to prevent code change\r\n-\tFailing to program to interface,  in the sense if the implemented class changes it should signal failures else where in the code base.\r\nSolution \r\n Create well defined methods (and names) that explain the exact nature of the method.\r\n[Consequences] and Resulting Context \r\n-\t[The complexity] of the call gets embedded with in a parameter.\r\n-\tAPI can’t be readily [understood].\r\n-\tFunctionally [Overloaded] method\r\n-\tHard to change.\r\n-\tDifficult API to use.\r\nWhat's Wrong with the Solution \r\nConsider [the following] API which contains self describing methods that can be readily [understood] and used.\r\n\r\nvoid getCustomerNumber(…);\r\nvoid getCustomerAddress(…);\r\nvoid getCustomerTelephone(…);\r\n\r\n\r\nIf a scenario arises in which a developer tries to prevent the API exposed to change by creating an overly generalized method\r\n\r\nvoid getX(…., String actionDesc)\r\n\r\nin which the actionDesc contains some sort of internal pseudo language which determines the correct data to return. i.e.\r\n\r\n            call getCustomerNumber(…) gets replaced with call getX(….,”CustomerNumber”);\r\n            call getCustomerNumber(…)+    call getCustomerAddress(…)   gets replaced with call getX(….,”CustomerNumber,CustomerAddress”);\r\nLesson's Learned\r\nTry not to make a single method be all things to everyone. Rely on programming to interface and contractible programming it allows.\r\nCorrect Patterns\r\nAuthor(s): \r\nJohn Wilson\r\nDate: \r\n01/01/2009\r\nReferences \r\nKeywords: \r\nExample",
       "written_on": "2009-01-28T00:00:00Z"
+    }
+  ],
+  "Uglies for Uglies": [
+    {
+      "defid": 1575357,
+      "definition": "an [organization] that promotes the idea that ugly ppl should only date ugly ppl so they don't spoil the [gene pool] for the [beautiful] ppl",
+      "example": "Mike: Yo, did you see that hot girl [with that] bufugly dude?\r\nJaymses: [What the fuck is going on]?!!\r\nPrak: OMG, I would never walk around in daylight [with him].\r\nMichelle: We need to get that chic an Uglies for Uglies brochure ASAP.",
+      "written_on": "2008-07-24T00:00:00Z"
+    }
+  ],
+  "unnamed50": [
+    {
+      "defid": 18515293,
+      "definition": "A person who lost all his friends because he was gay to [everyone], not in a sus way, in a [real gay] way, he had Gay porn, and he [jerked off] to it and showed all his friends, who then grew distant from him",
+      "example": "[Dude stop] being such an unnamed50\r\n[Oh my god] can you stop being gay, you're overdoing it its almost like you're [trying to] act like unnamed50",
+      "written_on": "2025-07-11T15:50:16.724Z"
+    }
+  ],
+  "uliel": [
+    {
+      "defid": 16512990,
+      "definition": "When you in the jam with [good weed] and [good music] and [all you want] to do is to burn with the bros",
+      "example": "“No I’m not [going] to this party I’m ulieling at [my friend]’s [house]”",
+      "written_on": "2021-11-21T23:47:27.716Z"
     }
   ]
 }
