@@ -157606,5 +157606,21 @@
       "example": "[Person]: My [printer] won't work\n\nAlso [Person]: OnO",
       "written_on": "2020-12-17T17:25:37.34Z"
     }
+  ],
+  "on-enjoyment": [
+    {
+      "defid": 2158694,
+      "definition": "A play on the word \"[unemployment]\", referring to a person that is receiving [unemployment] benefits but not pursuing a [replacement] job.",
+      "example": "After Josh lost his job at the warehouse he didn't even glance at the classifieds for three or four weeks.  He sat [around the house], [playing Xbox] and [jacking off] on the government's dime.  Gotta love those on-enjoyment benefits!",
+      "written_on": "2006-12-25T00:00:00Z"
+    }
+  ],
+  "ofto fool": [
+    {
+      "defid": 17095471,
+      "definition": "of or to, not da",
+      "example": "u [ofto] [fool], be",
+      "written_on": "2022-03-23T16:59:32.487Z"
+    }
   ]
 }
