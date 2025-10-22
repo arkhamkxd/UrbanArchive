@@ -51368,5 +51368,13 @@
       "example": "I [had to] wait [4 hours] at A&E coz of [someone] queue hoping!",
       "written_on": "2006-12-06T00:00:00Z"
     }
+  ],
+  "Quadrant teen": [
+    {
+      "defid": 15075860,
+      "definition": "[A Person] who [wishes] [Quarantine] never ends",
+      "example": "[Person]#1:Hey where's kyle?\r\nPerson#2:Oh hes staying home [lately]\r\nPerson#3: Oh so he's a [QUADRANT] TEEN",
+      "written_on": "2020-06-07T00:00:00Z"
+    }
   ]
 }
