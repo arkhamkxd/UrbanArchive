@@ -51616,5 +51616,21 @@
       "example": "[James] has a [quatre] peau that increases [tenfold]!",
       "written_on": "2005-05-02T00:00:00Z"
     }
+  ],
+  "qtz": [
+    {
+      "defid": 9222417,
+      "definition": "[Cuties]",
+      "example": "There are so [many] QTZ in my [class]",
+      "written_on": "2016-09-21T00:00:00Z"
+    }
+  ],
+  "QJS": [
+    {
+      "defid": 12930535,
+      "definition": "a [codeword] [acronym] for ‘[Quick] Juul Sesh’",
+      "example": "“dude I needa QJS [right now] before we we [go back] [in class]”",
+      "written_on": "2018-06-07T00:00:00Z"
+    }
   ]
 }
