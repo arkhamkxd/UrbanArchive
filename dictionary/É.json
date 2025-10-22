@@ -194,5 +194,13 @@
       "example": "[Comment] qui va le [bonhomme]!\n\n[Bonjour] Émeric",
       "written_on": "2021-11-22T05:52:15.485Z"
     }
+  ],
+  "Événement": [
+    {
+      "defid": 16381353,
+      "definition": "[Fuck you]",
+      "example": "[Person 1]: [hey] Événement\r\n[Person 2]: Événement",
+      "written_on": "2021-10-17T14:08:51.896Z"
+    }
   ]
 }
