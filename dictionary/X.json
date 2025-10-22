@@ -21440,5 +21440,13 @@
       "example": "[Isn’t] xyasia [dating] [marquan]?",
       "written_on": "2023-11-21T13:26:46.045Z"
     }
+  ],
+  "x-rays layered": [
+    {
+      "defid": 15683813,
+      "definition": "When two x-ray images are combined [together] using an image [editing] [program].",
+      "example": "\"It's just two x-rays [layered].\"\r\n\"...or just [Photoshop].\"\r\n\"Well yes, that's how they are [layered].\"",
+      "written_on": "2021-01-23T09:18:32.146Z"
+    }
   ]
 }
