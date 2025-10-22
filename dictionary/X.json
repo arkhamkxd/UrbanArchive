@@ -21456,5 +21456,13 @@
       "example": "\"Xenon? [Who's that]?\"\r\n\"Oh, you know him, the [pretty boy] who likes teasing his [girlfriend] a bunch.\"\r\n\"OHHHH him!! Isn't he cute?\"",
       "written_on": "2018-08-29T00:00:00Z"
     }
+  ],
+  "x.natashas_wife.x": [
+    {
+      "defid": 16341626,
+      "definition": "x.natashas_wife.x is a [depressed] cancer that is zesty straight. She is also very cool and a [good friend]. She is [besties with] x.yelenas_wife.x",
+      "example": "\"Oh [look] it's x.natashas_[wife].x isn't she rlly cool and [besties with]\"\r\n\"Yup\"",
+      "written_on": "2021-09-28T11:43:45.844Z"
+    }
   ]
 }
