@@ -11121,6 +11121,12 @@
       "definition": "[somebody] being very [obnoxious] and replying with [two words].",
       "example": "[Matthew]: Hey [what's up]!\r\n[Francene]: Ur Mom",
       "written_on": "2018-08-09T00:00:00Z"
+    },
+    {
+      "defid": 17526492,
+      "definition": "\"Ur Mom\" is a [compound word] specifically used for [a filler] in [sentences].",
+      "example": "[woman]: Jeff, [what are you doing]?\r\nman: UR MOM\r\n[woman]: ...",
+      "written_on": "2022-11-03T11:48:12.953Z"
     }
   ],
   "Underhyping": [
@@ -28561,6 +28567,12 @@
       "definition": "[Unsolicited Dick Pic]",
       "example": "Awhhh [man] [Jay] [sent me] a UDP again!",
       "written_on": "2021-05-30T01:28:49.143Z"
+    },
+    {
+      "defid": 1439344,
+      "definition": "Part of the TCP/IP [protocol] suite, UDP is a connectionless [transport] layer [protocol].",
+      "example": "[Streaming] video uses UDP [rather] than TCP because it is [faster].",
+      "written_on": "2005-09-24T00:00:00Z"
     }
   ],
   "Uno reverse card": [
@@ -94105,6 +94117,22 @@
       "definition": "*A fully comprehensive [university] located in the city of Glasgow, Scotland\r\n*Glasgow is the 2nd oldest [university] in Scotland (founded in 1451) and the 4th oldest university in the english speaking world. \r\n*Rated 81st in the world, far ahead of any other scottish university. \r\n*Located in the attractive west end of the city, the main building is in the collegiate gothic style, with two attractive quads.\r\n*Has the unique position of having two separate student unions: the Glasgow University Union and the [Queen Margaret] Union, although membership in one denies the right of membership in another.",
       "example": "Student 1: Fancy heading to the QMU and seeing The Fratellis?\r\nStudent 2: Nah, I'm going to head to the GUU and watch the Parliamentary debates.\r\n\r\nGlasgow has the best geology (or earth science, as it happens) department in Scotland!\r\n\r\n[University] of Glasgow alumni invented/discovered/pioneered: television, thermodynamics, modern [engineering], steam power, [the Scottish Parliament] etc...",
       "written_on": "2008-12-14T00:00:00Z"
+    }
+  ],
+  "Unread Online Syndrome": [
+    {
+      "defid": 3942505,
+      "definition": "A temporary fit of anxiety. This is a very common [affliction] caused when you send a message to someone on MySpace when you see they are online, then sit and wait for them to respond. After [a couple of] minutes you open your Sent Mail and see that it is still Unread. You have now entered the Unread Online Syndrome. You sit there hoping beyond hope that the message gets opened before he/she logs off, because if not, then who knows how long till the person logs back in. You refresh the page every couple seconds. You check your Inbox anyways, making sure that it isn’t a glitch saying [it’s] Unread when it’s [really not]. You begin to feel panic. “Is he/she gonna see that there’s a new message before logging?!?” There is no escape. You have been infected with Unread Online Syndrome and the only cures are if the person finally opens the message or just logs off.",
+      "example": "Joey got sick [last night]. He was on MySpace and for 3 hours he suffered from Unread Online [Syndrome] before Angel finally wrote him back. But by then it was too late and he was convulsing [on the floor].",
+      "written_on": "2009-05-05T00:00:00Z"
+    }
+  ],
+  "umitturkmen": [
+    {
+      "defid": 18486403,
+      "definition": "A variety of [Indian people] who live without tidiness or courtesy, [and shit] on [the streets].",
+      "example": "Umitturkmen'e bak, [bok] iç[inde] yaşı[yor].",
+      "written_on": "2025-05-12T04:31:53.611Z"
     }
   ]
 }
