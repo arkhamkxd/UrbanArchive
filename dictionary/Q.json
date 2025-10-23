@@ -52496,5 +52496,29 @@
       "example": "“This car? [Hornet] R/T in [obsidian black] with QLE [built] in.”",
       "written_on": "2025-07-25T19:47:29.273Z"
     }
+  ],
+  "Querdenker": [
+    {
+      "defid": 11682339,
+      "definition": "[someone] who [thinks] quit [different]",
+      "example": "[this guy] has crazy [ideas], he's an [extreme] Querdenker!",
+      "written_on": "2017-06-12T00:00:00Z"
+    }
+  ],
+  "Quest Hoe": [
+    {
+      "defid": 17301341,
+      "definition": "When your on a [quest] for [a hoe]",
+      "example": "Where is Baz? Baz is on a [Quest] [Hoe] [adventure].",
+      "written_on": "2022-06-11T22:39:49.173Z"
+    }
+  ],
+  "qweaf": [
+    {
+      "defid": 9587615,
+      "definition": "[Bad slang] for [a word]",
+      "example": "That cars [airbag] is a qweaf for [the car], and for [humanity].",
+      "written_on": "2016-06-05T00:00:00Z"
+    }
   ]
 }
