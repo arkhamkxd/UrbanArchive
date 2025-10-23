@@ -191544,5 +191544,45 @@
       "example": "[Hey] [jay], ind [right now]",
       "written_on": "2020-04-11T00:00:00Z"
     }
+  ],
+  "inappropriate": [
+    {
+      "defid": 10104098,
+      "definition": "The [word that] used to [actually] mean [something], but doesn't mean anything anymore.",
+      "example": "Kid: Ima post a dic pic to [instagram]\r\nMom: hey [you can't do that], it's inappropriate\r\nKid: Im sorry, what?\r\nMom: It's too inappropriate to post\r\nKid: That's [not even] a word!",
+      "written_on": "2016-08-11T00:00:00Z"
+    }
+  ],
+  "Indascreet": [
+    {
+      "defid": 6748393,
+      "definition": "\"In [the Street]\"",
+      "example": "I told dem [kids] to [quit] [playin] indascreet!",
+      "written_on": "2012-09-11T00:00:00Z"
+    }
+  ],
+  "i0i": [
+    {
+      "defid": 3955384,
+      "definition": "This shows that you are sad/ crying\r\n[The dots] on the \"i\" are its eyes\r\n[The line] of the \"i\" are the tears\r\nthe 0 is [the mouth]",
+      "example": "A: What [happened]?\r\nB: I [got] [dumped] i0i",
+      "written_on": "2009-05-10T00:00:00Z"
+    }
+  ],
+  "initial observation": [
+    {
+      "defid": 11996552,
+      "definition": "An initial observation is the [measurement] that you take before you start any process that might cause a change. When you compare your subsequent observations with the initial one, [you will see] whether any change has taken place, and you will be able to measure [the change].",
+      "example": "The coach's Initial observation to his [players] will help him find out about the [strengths] and weaknesses of his [players].",
+      "written_on": "2017-09-26T00:00:00Z"
+    }
+  ],
+  "IHTN": [
+    {
+      "defid": 15484015,
+      "definition": "IHTN is a [short term] for someone who has to nut, meaning \"I Have To Nut.\" [Sometimes] also replaced by IHTC meaning \"I Have To Cum\" or IHTE meaning \"I Have To [Ejaculate].\"",
+      "example": "Sally: Hey John, can you [come over] and play [Roblox]?\n\nJohn: [Not now] Sally, IHTN.",
+      "written_on": "2020-11-14T16:54:29.012Z"
+    }
   ]
 }
