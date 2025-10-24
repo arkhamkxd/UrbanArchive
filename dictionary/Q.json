@@ -52770,5 +52770,13 @@
       "example": "Ouch! My [toe broke] [after the] queerbox fell [upon] it.",
       "written_on": "2005-04-01T00:00:00Z"
     }
+  ],
+  "qhat": [
+    {
+      "defid": 15294630,
+      "definition": "qhat is [the word] what but [much] [better].",
+      "example": "[hello].\r\nqhat",
+      "written_on": "2020-09-06T00:00:00Z"
+    }
   ]
 }
