@@ -21033,6 +21033,12 @@
       "definition": "Visually [Intoxicated] Person.\r\n\r\nCertain [Restaurants] and Cantinas [do not] serve VIPs",
       "example": "Sorry, [you're a] VIP, [no more] [drinks].",
       "written_on": "2006-11-06T00:00:00Z"
+    },
+    {
+      "defid": 1530093,
+      "definition": "([Pronounced] as [seperate] letters)\r\n\r\nA very [important person]",
+      "example": "Here comes our [resident] VIP.",
+      "written_on": "2005-11-26T00:00:00Z"
     }
   ],
   "Vorachi": [
@@ -119939,6 +119945,14 @@
       "definition": "[The best] is [anything]. [The ultimate]",
       "example": "He's the [smartest] in [the group], he's a Vivaswat of this [company].",
       "written_on": "2020-01-15T00:00:00Z"
+    }
+  ],
+  "Verdaphile": [
+    {
+      "defid": 18416862,
+      "definition": "Someone who enjoys nature, but only when it is lush and green. Also implies aversion to environments with little foliage and [desolate] terrain.\n\nOrigin: \"Verda\" from [the word] \"[verdant],\" or \"verde\" in Spanish.",
+      "example": "A: \"I heard John was planning a trip to [the Amazon].\"\r\nB: \"Ah, finally fulfilling his verdaphilic dream, huh?\"\n\n----\n\nA: \"If you could choose one thing to bring with you to survive on a [deserted island], with no coconut trees or anything, what would it be?\"\r\nB: \"Infinite pizza, probably. But [you know] I'm a verdaphile. My sanity would go before my hundredth slice.\"",
+      "written_on": "2025-01-25T01:04:51.35Z"
     }
   ]
 }
