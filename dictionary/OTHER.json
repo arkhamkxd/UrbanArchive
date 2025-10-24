@@ -29353,6 +29353,12 @@
       "definition": "The QI of [Joe Biden] and [Jimmy Carter] combined",
       "example": "Mais tu plaisantes, j’espère! [Monsieur] Biden et [Monsieur] Carter avait le QI de seulement 1!\r\nBut you're joking, I hope! Mr. Biden and [Mr. Carter] had an IQ of only 1!",
       "written_on": "2023-02-25T07:46:30.879Z"
+    },
+    {
+      "defid": 1728533,
+      "definition": "The IQ of [President] [George Bush].",
+      "example": "[George Bush] has an IQ of 1.",
+      "written_on": "2006-05-11T00:00:00Z"
     }
   ],
   "++": [
@@ -47523,6 +47529,12 @@
       "definition": "/j is a note appended to a [message] to signify it was meant to be [sarcastic] or a joke. [Commonly] used in the phrase \"i'm /j\".",
       "example": "Dude, I bet Mark's gonna like [the new] [update]. /j\n\n[Racism], white goes first then black, chess is dumb! (im /j btw)",
       "written_on": "2022-07-24T09:51:53.593Z"
+    },
+    {
+      "defid": 15608369,
+      "definition": "tone [indicator], [standing] for \"joke\" or \"[joking]\".",
+      "example": "[S/O]: [Wow], [I hate you so much]. /J",
+      "written_on": "2020-12-26T01:56:20.426Z"
     }
   ],
   "1555": [
@@ -128849,6 +128861,22 @@
       "definition": "Also referred to as [5 dollars].",
       "example": "Me: [how much] does that [pack] cost?\n\nRob: \"5 [beans]\".",
       "written_on": "2016-07-04T00:00:00Z"
+    }
+  ],
+  "6661": [
+    {
+      "defid": 7084075,
+      "definition": "[Zacky Vengeance] uses the number 6661 in his online clothing line: Vengeance [University]. The number is also 1999 upside down, which is the year that [Avenged Sevenfold] (of which Zacky Vengeance is a founding member of) was established. But the significance is that 6661 means that the devil (the 666 part) won (1). Zacky Vengeance commonly displays this number on his guitar.",
+      "example": "Someone else: What is 6661?\r\nMe: [The Devil] Won.\n\nSomeonce else: Where does it come from?\r\nMe: [Zacky Vengeance] of [Avenged Sevenfold].",
+      "written_on": "2013-06-12T00:00:00Z"
+    }
+  ],
+  "#biological": [
+    {
+      "defid": 11018549,
+      "definition": "When [something] is [awkward] but biologically awkward. #[biological].",
+      "example": "\"In a hundred years [everyone] in this [building] will be dead.\"\r\n\"That's #[biological].\"",
+      "written_on": "2017-02-09T00:00:00Z"
     }
   ]
 }
