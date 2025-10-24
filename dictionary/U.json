@@ -97350,5 +97350,29 @@
       "example": "[I love you], Uria.",
       "written_on": "2011-04-27T00:00:00Z"
     }
+  ],
+  "uphill dish washing": [
+    {
+      "defid": 4876239,
+      "definition": "A [difficult] task to perform. A task that requires a [great deal] of effort to complete, reaching near [impossibility].",
+      "example": "I want to convince my brother to switch back to PC, but his old XP box froze [all the time]. His iMac has never had any problems. [Convincing] him would be a real uphill [dish washing].",
+      "written_on": "2010-04-10T00:00:00Z"
+    }
+  ],
+  "Unseamed": [
+    {
+      "defid": 16908927,
+      "definition": "(Verb) To open the seam or seams, to rip, to cut or to cut open.\n\n[Synonym]: [separate]\r\n[Antonym]: mend",
+      "example": "He unseamed him from the [nave] to th’[chops].",
+      "written_on": "2022-01-13T16:55:04.096Z"
+    }
+  ],
+  "Uglony": [
+    {
+      "defid": 15475059,
+      "definition": "[Ugly] [person]",
+      "example": "[Wow]! He is such an uglony, that [gene pool] is [terrible].",
+      "written_on": "2020-11-11T19:34:45.486Z"
+    }
   ]
 }

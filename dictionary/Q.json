@@ -53576,5 +53576,21 @@
       "example": "[Eric] is a queerbot",
       "written_on": "2003-09-25T00:00:00Z"
     }
+  ],
+  "Queen of Flavor": [
+    {
+      "defid": 16850750,
+      "definition": "[Fish Sauce], [Fuiyoh]!",
+      "example": "[Fish Sauce] is [The Queen] of [Flavor] Fuiyoh!",
+      "written_on": "2021-12-19T11:07:18.564Z"
+    }
+  ],
+  "quadcopter": [
+    {
+      "defid": 7830613,
+      "definition": "When [two men] bond over four rotors and spying on [naked women] from a great [height].",
+      "example": "I [loved] my quadcopter until I [flew] it full [speed] into a tree",
+      "written_on": "2014-07-11T00:00:00Z"
+    }
   ]
 }
