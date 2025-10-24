@@ -125318,5 +125318,21 @@
       "example": "Youx [not right].",
       "written_on": "2018-06-12T00:00:00Z"
     }
+  ],
+  "Yhumptedto": [
+    {
+      "defid": 736636,
+      "definition": "[Do you] [want to]",
+      "example": "Im [Going to the store] Yhumptedto",
+      "written_on": "2004-06-27T00:00:00Z"
+    }
+  ],
+  "you're mom xd": [
+    {
+      "defid": 12653617,
+      "definition": "[When you] mistakenly [write] \"you're\" [instead] of \"your\".",
+      "example": "[Guy1]: lol\n\nGuy:2 [you're mom] xd\r\nGuy:1 [wtf]",
+      "written_on": "2018-03-08T05:44:54.932Z"
+    }
   ]
 }
