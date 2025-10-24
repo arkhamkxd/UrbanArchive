@@ -22130,5 +22130,21 @@
       "example": "Xaiylah is [thick]",
       "written_on": "2023-01-19T08:47:15.48Z"
     }
+  ],
+  "X-Æ-A-12": [
+    {
+      "defid": 15219595,
+      "definition": "[The son] of [grimes] and [Elon musk]",
+      "example": "[Random]: what's his [name]\r\n[Elon musk]: X-Æ-A-12",
+      "written_on": "2020-08-01T00:00:00Z"
+    }
+  ],
+  "Xastor": [
+    {
+      "defid": 16188809,
+      "definition": "A [progressive metal] band based in canada [founded] by cayden [lehmann]",
+      "example": "Have [you heard] Xastor's new [song] [yet]?",
+      "written_on": "2021-07-17T14:47:13.351Z"
+    }
   ]
 }
