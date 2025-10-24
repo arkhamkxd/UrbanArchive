@@ -97082,5 +97082,21 @@
       "example": "upile?\n\nyou [peel] [a what]?\n\nupile [bannana]...",
       "written_on": "2010-02-09T00:00:00Z"
     }
+  ],
+  "Urkel my wife": [
+    {
+      "defid": 6771289,
+      "definition": "The [expression] \"well [blow me down]\" for [people] under the age of 60",
+      "example": "The [Jaguars] won [the Super Bowl]!!!\r\nWell Urkel [my wife]!!!",
+      "written_on": "2012-09-30T00:00:00Z"
+    }
+  ],
+  "uzbekistan": [
+    {
+      "defid": 1494266,
+      "definition": "The \"Cote D'Ivoire\" of South-West Asia.  A country that nobody's heard of.  Generally used in [conversation] not as an actual place, but a [hypothetical] location that epitomizes [the middle of nowhere].",
+      "example": "\"We was on the I-60, hundreds of miles from discernable [civilization], and right as we were [crossing] Uzbekistan, the damn truck dern [puttered out].\"",
+      "written_on": "2005-11-02T00:00:00Z"
+    }
   ]
 }
