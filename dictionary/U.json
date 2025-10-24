@@ -4525,6 +4525,12 @@
       "definition": "[Your face].",
       "example": "[Hey you] wanna see ugly? [look in] [the mirror]!",
       "written_on": "2018-01-21T00:00:00Z"
+    },
+    {
+      "defid": 17065940,
+      "definition": "[This guy] on [TikTok] goes by [chicken monkey]",
+      "example": "Hey [did you] see [that ugly] guy on TikTok.\r\nFriend: who [chicken monkey]?",
+      "written_on": "2022-03-12T18:23:30.783Z"
     }
   ],
   "UGR": [
@@ -96271,6 +96277,14 @@
       "definition": "a [white russian] with all [vodka] an [nuttin] else.",
       "example": "I worked 12 hours [the last] three days.  I got home an fixed meself a uncut [white russian] with a splash a [Bailey's].",
       "written_on": "2004-05-27T00:00:00Z"
+    }
+  ],
+  "urbanlining": [
+    {
+      "defid": 5502302,
+      "definition": "Having great fun walking, jumping and [tricking] on a one or two inch [webbing] pulled tight between two anchor points, also known as urbing or urban [slacklining].",
+      "example": "[Hey] [Tim]! [Let's go] out urbanlining!",
+      "written_on": "2011-01-11T00:00:00Z"
     }
   ]
 }
