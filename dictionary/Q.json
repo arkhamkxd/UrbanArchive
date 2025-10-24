@@ -52784,5 +52784,21 @@
       "example": "[hello].\r\nqhat",
       "written_on": "2020-09-06T00:00:00Z"
     }
+  ],
+  "quaresma": [
+    {
+      "defid": 8274053,
+      "definition": "The 40 days in the year between [carnival] and easter [dedicated] to [awesome] people called Quaresma or Jesus.",
+      "example": "\"[I'm glad] Quaresma is [starting], [I love that] Quaresma girl!\"",
+      "written_on": "2015-05-14T00:00:00Z"
+    }
+  ],
+  "qwetyuioplkjhgfdsazxcvbnmnbvcxzasdfghjklpoiuytrewq": [
+    {
+      "defid": 16149632,
+      "definition": "The [living] [defined] spam of [boredness]\r\nOk that is it",
+      "example": "Q [w e] r t y u I o p a [s d f] g h j k l [a s] c v b n m\r\nqwetyuioplkjhgfdsazxcvbnmnbvcxzasdfghjklpoiuytrewq",
+      "written_on": "2021-07-02T11:00:14.849Z"
+    }
   ]
 }
