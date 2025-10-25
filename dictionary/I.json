@@ -199650,5 +199650,45 @@
       "example": "[Herbie] [with that] [internet] talk again",
       "written_on": "2018-06-30T00:00:00Z"
     }
+  ],
+  "IT Solution": [
+    {
+      "defid": 3567848,
+      "definition": "[The common] solution for companies when addressing any incoming Tech Call which is to completely restore a system to it's original state with no regard to [information] [previously] stored.",
+      "example": "I incorrectly [installed] a driver but when I called [tech support] they wanted me to recover the entire system and they didn't even attempt to find an [alternative] solution. Wow, the typical IT Solution hits again..",
+      "written_on": "2008-12-22T00:00:00Z"
+    }
+  ],
+  "ilysfmtmbs": [
+    {
+      "defid": 4949936,
+      "definition": "[i love you] so f**king much that my [belly] [sparkles].",
+      "example": "mim: ilysfmtmbs\r\nbelle: naww thanks ^_^\r\nlauren: [excuse] em moi?\r\nmim & belle: [i love you] so f**king much that my belly [sparkles]\r\nlauren: weird but thanks ilysfmtmbs",
+      "written_on": "2010-05-09T00:00:00Z"
+    }
+  ],
+  "it's the tits": [
+    {
+      "defid": 3829620,
+      "definition": "Used to describe the best of [something]. [Not to be confused with] those are some [nice tits].",
+      "example": "This [beer] [man], it's [the tits].",
+      "written_on": "2009-03-24T00:00:00Z"
+    }
+  ],
+  "inchedible": [
+    {
+      "defid": 17959949,
+      "definition": "The [number 1] streamer in H-town. Known for [drinking] [twisted tea] and pulling pussy.",
+      "example": "Hey [wanna go] to [twitch.tv] and [watch] Inchedible?",
+      "written_on": "2023-10-22T16:58:15.135Z"
+    }
+  ],
+  "is it this one?": [
+    {
+      "defid": 642832,
+      "definition": "[phrase] used solely to annoy [people], made [famous] by TIM \r\nsee food and rabie",
+      "example": "A: Pass [the eraser]. B: ([holding] it, repeats over again and again, not [passing] it) Is it this one??????????? this one???????? THIS ONE?????????",
+      "written_on": "2004-04-30T00:00:00Z"
+    }
   ]
 }
