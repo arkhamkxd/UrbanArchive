@@ -131964,5 +131964,29 @@
       "example": "[Amber]: [hey], 7:10?\r\n[Jessie]: 7:10!",
       "written_on": "2010-02-25T00:00:00Z"
     }
+  ],
+  "7C": [
+    {
+      "defid": 15999949,
+      "definition": "Seventh-cousin.",
+      "example": "[I don't know] my 7C.",
+      "written_on": "2021-05-17T08:11:16.139Z"
+    }
+  ],
+  "<.7.9.7.6.>Shurims, shuRims, shurimS<.7.9.7.6.>": [
+    {
+      "defid": 18486159,
+      "definition": "<.[7.9].[7.6].>Shurims, shuRims, shurimS<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>Shurims, shuRims, shurimS<.[7.9].7.6.>",
+      "written_on": "2025-05-11T18:07:27.898Z"
+    }
+  ],
+  "<.7.9.7.6.>Go Fuck Yours<.7.9.7.6.>": [
+    {
+      "defid": 18501660,
+      "definition": "<.[7.9].7.6.>Go [Fuck Yours]<.[7.9].7.6.>",
+      "example": "<.[7.9].7.6.>Go [Fuck Yours]<.[7.9].7.6.>",
+      "written_on": "2025-06-10T12:43:31.445Z"
+    }
   ]
 }
