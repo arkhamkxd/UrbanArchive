@@ -79982,5 +79982,13 @@
       "example": "[When I] cut the [taxi driver] off; He [showed] me a Zap-sign.",
       "written_on": "2004-10-28T00:00:00Z"
     }
+  ],
+  "zuk": [
+    {
+      "defid": 5660691,
+      "definition": "[Zero]",
+      "example": "I [scored] a zuk!",
+      "written_on": "2011-03-27T00:00:00Z"
+    }
   ]
 }
