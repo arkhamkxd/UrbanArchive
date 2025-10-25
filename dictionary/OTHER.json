@@ -69211,6 +69211,12 @@
       "definition": "1234 is [the first] 4 things [you say] when [counting]",
       "example": "1234",
       "written_on": "2020-06-30T00:00:00Z"
+    },
+    {
+      "defid": 14489805,
+      "definition": "A [good] [password]",
+      "example": "my [password] is 1234",
+      "written_on": "2019-11-29T00:00:00Z"
     }
   ],
   "#FLOTITS": [
@@ -132281,6 +132287,14 @@
       "definition": "Means \"No Mistakes.\" As in, [everything] happens for a reason and all events serve a purpose regardless of whether whether [the event] is [positive or negative].",
       "example": "[I'm sorry] [your boyfriend] cheated on you. #nm\n\nYou randomly found $100 bill in a [parking garage]. #nm",
       "written_on": "2016-07-06T00:00:00Z"
+    }
+  ],
+  "\"Louing\" it": [
+    {
+      "defid": 4216036,
+      "definition": "Termed named after Cubs' skipper Lou Piniella. It is the tendency to leave a [struggling] pitcher [in the game] until there is no hope of ever snatching victory from the jaws of defeat. Also, pulling a winning pitcher from the game, then letting the reliever stay [in the game] when he struggles and loses the game when the Cubs were once 11 ahead.",
+      "example": "\"[The manager] must be throwing the game- he let the pitcher walk [the bases] full and [delivered] a grand slam pitch- I hate when he's \"Louing\" it",
+      "written_on": "2009-09-03T00:00:00Z"
     }
   ]
 }
