@@ -14,5 +14,13 @@
       "example": "Mihaela and Robert are [proponents] of Îdinism; they support the complete removal of the letter 'â' from [the Romanian] [alphabet] in favour of the letter 'î'.",
       "written_on": "2023-11-03T04:06:58.611Z"
     }
+  ],
+  "î": [
+    {
+      "defid": 15537631,
+      "definition": "î, pronounced as \"eye-cap\", symbol used in Physics and [Mathematics] to denote a unit vector [in the forward] X-axis direction. This is the direction away from the Origin and parallel to the X-axis, in the chosen frame of reference.\n\nELI5:\r\nWhen you draw physics shit, you make the graph lines, see, like the X-axis and the Y-axis. And if it's 3D, then there's also a Z-axis. They're like, ya know, the East-West line, the North-South line, and the Up-Down line. And the î is the name of the \"East\" direction in this graph. The [horizontal] rightwards.",
+      "example": "The particle was only accelerated in the î [direction], hence only the x-component of its [velocity] will only be [affected].",
+      "written_on": "2020-12-02T06:06:44.431Z"
+    }
   ]
 }
