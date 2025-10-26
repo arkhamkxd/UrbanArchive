@@ -100718,5 +100718,37 @@
       "example": "The [user] ur.gf.lol.14 [is crazy] [slow]",
       "written_on": "2021-07-21T22:41:35.189Z"
     }
+  ],
+  "udts": [
+    {
+      "defid": 6342288,
+      "definition": "Udts: [Texting] slang for [Urban Dictionary] [that Shit]",
+      "example": "[Hey dude] [whats] a chode\r\n*texts back*\r\nDude you [gotta] Udts",
+      "written_on": "2012-01-05T00:00:00Z"
+    }
+  ],
+  "ur-ban": [
+    {
+      "defid": 17637085,
+      "definition": "one who [gets] ban [from a] game by a [white kid]",
+      "example": "ur-ban [kid]",
+      "written_on": "2023-01-20T19:51:59.452Z"
+    }
+  ],
+  "Urban diccy": [
+    {
+      "defid": 16233496,
+      "definition": "Yet [another] [abbreviation] for the [urban dictionary]",
+      "example": "Oh look, [watermelon sugar] is still somehow [trending] on [the urban] diccy",
+      "written_on": "2021-08-07T09:17:57.206Z"
+    }
+  ],
+  "up your jaffe": [
+    {
+      "defid": 1724690,
+      "definition": "An [unpleasant] [object] shoved up places they [do not] belong.",
+      "example": "Up your Jaffe, [Jordan].\r\n\r\n[Jordan], I hope you shove that [soccer ball] up your Jaffe.",
+      "written_on": "2006-05-10T00:00:00Z"
+    }
   ]
 }
