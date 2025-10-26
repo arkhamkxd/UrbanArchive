@@ -2763,6 +2763,12 @@
       "definition": "If you use this term this [year], [you’re] [dead wrong].",
       "example": "Friend: I can’t wait until we don’t have to be [stuck in] [quarantine] 24/7/365. I’m [literally] SO over this.\n\nMe: Did you mean: 24/7/366",
       "written_on": "2020-06-11T00:00:00Z"
+    },
+    {
+      "defid": 275801,
+      "definition": "\"24 hours a day, 7 days a week, [365 days] a year.\" \r\n\r\nMeaning: [constantly] occuring, [without] a moments cessation.",
+      "example": "[That dude] is [horny] [24/7]/365!",
+      "written_on": "2003-10-04T00:00:00Z"
     }
   ],
   "7-11's other tax": [
@@ -3437,6 +3443,12 @@
       "definition": "[the thing] that pops over npc's heads in [pokemon red] and blue when they see you [cowering] in fear",
       "example": "!",
       "written_on": "2025-02-07T06:09:09.268Z"
+    },
+    {
+      "defid": 1163597,
+      "definition": "In the programming world, this means NOT. It is mostly used in boolean [expressions], mostly found in if statements, to express the non-equality of something.\r\n\r\nIt can be used with an '=' sign like this: 3 != 4, meaning 3 does not equal 4. This is a true [expression], and so the [expression] would return TRUE. However, if I put: ((6-3) != (5-2)) I'm basically saying 6-3 is not equal to 5-2, or 3 does not equal 3. But 3 DOES equal 3. So this expression would return false.\r\n\r\nNOTE: != is pronounced as \"Does Not Equal\"\r\n\r\nThis can also be used in dialog.",
+      "example": "int main()\r\n{\r\nint john = 6;\r\nint mary = 7;\r\nif(john != mary)\r\n{\r\nprintf(\"John does not equal Mary.\\nJohn does equal %d, and Mary does equal %d.\\nThere is %d between them.\\n\",john,mary,(john-mary));\r\n}\r\n}\r\n\r\n\r\nJohn: \"Hey, did you here that science dude say e = mc3?\"\r\nMary: \"[Yeah man]! e totally != mc3! (NOTE: ! at end of Mary's quote does not mean the same thing. Please refer to [definition] [number 1] here !)\"",
+      "written_on": "2005-04-03T00:00:00Z"
     }
   ],
   "'Saur": [
@@ -5681,6 +5693,12 @@
       "definition": "code for calling someone a \"cunt\" using the [corresponding] numbers on a phone key pad [without] saying the [offensive] word itself",
       "example": "My [girlfriend] was [out of control] [today], she was a real 2868.",
       "written_on": "2006-01-10T00:00:00Z"
+    },
+    {
+      "defid": 13864707,
+      "definition": "2868. [The letters] [on the phone] [keys] spells out “Cunt”",
+      "example": "[Hey man], [that girl] is a [straight] 2868!!",
+      "written_on": "2019-05-01T00:00:00Z"
     }
   ],
   "1111122": [
@@ -133599,6 +133617,14 @@
       "definition": "[Crippled], cannot move legs nor arms, [stuck in] a [wheel] chsr",
       "example": "[Hey man] [did you] hear [Johnny] is a 👩 🦼? Wow man never knew",
       "written_on": "2021-04-05T02:27:52.115Z"
+    }
+  ],
+  "߷ ( ͡° ͜ʖ ͡°)߷": [
+    {
+      "defid": 11744608,
+      "definition": "A [Lenny Face] holding [fidget spinners].\r\nIt can be used to brag about having [fidget spinners].",
+      "example": "߷ ( ͡° ͜ʖ ͡°)߷ ߷ ( ͡° ͜ʖ ͡°)߷ ߷ ( ͡° ͜ʖ ͡°)߷ ߷ ( ͡° ͜ʖ ͡°)߷߷ ( ͡° ͜ʖ ͡°)߷߷ ( ͡° ͜ʖ ͡°)߷߷ ( ͡° ͜ʖ ͡°)߷߷ ( ͡° ͜ʖ ͡°)߷߷ ( ͡° ͜ʖ ͡°)߷߷ ( ͡° ͜ʖ ͡°)߷",
+      "written_on": "2017-06-29T00:00:00Z"
     }
   ]
 }
