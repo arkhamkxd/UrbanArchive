@@ -47641,6 +47641,12 @@
       "definition": "when [something] is [cool] or [awesome] etc..",
       "example": "[Dude].. [last night] was [totally] Whitman...",
       "written_on": "2006-12-15T00:00:00Z"
+    },
+    {
+      "defid": 7428806,
+      "definition": "Very small suburban town in southeastern Mass. Suburb of Brockton. Lots of apartments. No money, but the people don't care. The adults are working-class and friendly. Mostly [conservative], but becoming more liberal. Voted Obama in 2012. The kids tend to be slackers and the girls tend to be slutty, but there are exceptions. Most people smoke weed. The [chocolate chip cookie] was invented there, but the restaurant burned down years ago. Always people walking around, no matter [what time it is]. Not much water, just an artificial lake in the center of town.",
+      "example": "\"Wanna walk to the [basketball] courts at 3 am?\"\r\n\"[Why not]? We're from Whitman. I'll bring the weed and [chocolate chip cookies].\"",
+      "written_on": "2013-12-22T00:00:00Z"
     }
   ],
   "wyding": [
@@ -294355,6 +294361,22 @@
       "definition": "regarding an [individual] who had\r\nto do what it takes to get to the top of [corporate] latter or [advancement].",
       "example": "ex; [check out] who-to-do [working on] next [promotion].",
       "written_on": "2018-01-01T00:00:00Z"
+    }
+  ],
+  "wonderball": [
+    {
+      "defid": 456953,
+      "definition": "[A hollow] [chocolate] ball that contains candy inside.  There also may be [stickers] or other small toys inside.",
+      "example": "It's [candy] in [chocolate] in foil [in a box]!",
+      "written_on": "2004-01-19T00:00:00Z"
+    }
+  ],
+  "What’s the": [
+    {
+      "defid": 15490762,
+      "definition": "What_the",
+      "example": "[What’s] the is used in a [sentence] like “What’s [the weather] SIRI”",
+      "written_on": "2020-11-16T18:07:05.534Z"
     }
   ]
 }
