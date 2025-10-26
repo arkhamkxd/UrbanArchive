@@ -172708,5 +172708,37 @@
       "example": "[Zeke] is a [t-rex] [type] organoid.",
       "written_on": "2003-11-08T00:00:00Z"
     }
+  ],
+  "oncologist": [
+    {
+      "defid": 8050576,
+      "definition": "A [doctor] that not only [treats] cancer, but is [always on] call.",
+      "example": "Jim: What are you [studying] again?\r\nKyle: Oncology. I told you.\r\nJim: Whoa! [You know] an Oncologist never gets to relax, always being on call.\r\nKyle: [You're an idiot].",
+      "written_on": "2015-01-12T00:00:00Z"
+    }
+  ],
+  "O-o sneks be evil": [
+    {
+      "defid": 12920194,
+      "definition": "[Sneky] sneks be evillll. 🐍",
+      "example": "Me: [I had] a [freak out] [from a] snake\r\nFren: o-o Sneks be evil",
+      "written_on": "2018-06-05T00:00:00Z"
+    }
+  ],
+  "oexia": [
+    {
+      "defid": 17078194,
+      "definition": "A [constantly] [changing] and [society] defying angel",
+      "example": "She [is an] oexia",
+      "written_on": "2022-03-17T06:57:41.744Z"
+    }
+  ],
+  "Open the chute": [
+    {
+      "defid": 5230661,
+      "definition": "Process which follows [smoking weed] in which you first start eating leading into [full blown] [munchies].",
+      "example": "Dude that was some [really good] weed, I'm about to open the [chute] on them [oreos]",
+      "written_on": "2010-09-22T00:00:00Z"
+    }
   ]
 }
