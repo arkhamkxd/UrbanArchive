@@ -101860,5 +101860,29 @@
       "example": "The noob was [uberized] by [the pro].\r\n\r\nThe Ibis got [uberized] by the gate-camp. (EVE Online)",
       "written_on": "2009-01-06T00:00:00Z"
     }
+  ],
+  "UrbanWife": [
+    {
+      "defid": 17050165,
+      "definition": "A women who has spent many year’s on [UrbanDictionary] from 2002-2022 and is still [really] [active].",
+      "example": "[Wow] [you are a] urbanwife",
+      "written_on": "2022-03-07T10:29:38.935Z"
+    }
+  ],
+  "Ultramarathon": [
+    {
+      "defid": 18493169,
+      "definition": "Any [long run] [exceeding] 50km",
+      "example": "[John] [will] run an ultramarathon of 100km on [Sunday]",
+      "written_on": "2025-05-24T06:07:37.372Z"
+    }
+  ],
+  "underdesking": [
+    {
+      "defid": 1707290,
+      "definition": "[The office] skills utilized by [those who] prefer to [smother] their bosses undersides with their noses and kisses.",
+      "example": "Although Jill's typing and filing skills lack any true [ability], her underdesking talents may be [the reason] she is till [employed].",
+      "written_on": "2006-05-01T00:00:00Z"
+    }
   ]
 }
