@@ -137096,5 +137096,29 @@
       "example": "[you know what], 3-3-10.",
       "written_on": "2011-01-24T00:00:00Z"
     }
+  ],
+  "1652": [
+    {
+      "defid": 16049297,
+      "definition": "[the best] [number] my favrite [number]",
+      "example": "1652 is my [favorite] [numer]",
+      "written_on": "2021-05-31T21:03:40.776Z"
+    }
+  ],
+  "~!@#$%^&*()_+`-=[]\\;',./{}|:\"<>?": [
+    {
+      "defid": 18090560,
+      "definition": "all [symbols] [on my] [keyboard]",
+      "example": "~!@#$%^&*()_+`-=\\;',./{}|:\"<>? is",
+      "written_on": "2024-01-28T14:16:06.348Z"
+    }
+  ],
+  "🚷": [
+    {
+      "defid": 17542445,
+      "definition": "No [rush]",
+      "example": "Mark: [I got you]’re money on [Tuesday].\n\nJake: [You’re good] bro, no 🚷",
+      "written_on": "2022-11-13T09:11:18.77Z"
+    }
   ]
 }

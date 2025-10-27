@@ -102314,5 +102314,29 @@
       "example": "yo have [you heard] of uh planet? i might join!\r\ni think ug planet might be the best [underground] [collective]!",
       "written_on": "2021-06-07T00:25:41.085Z"
     }
+  ],
+  "utterly obliterated": [
+    {
+      "defid": 17646267,
+      "definition": "to completely and irreversibly [destroy] an [object], or [person].",
+      "example": "Person 1: *breaks a mug*\r\nPerson 2: utterly [obliterated]\r\nPerson 3: *steps on [landmine]*\r\nPerson 4: utterly [obliterated]",
+      "written_on": "2023-01-27T13:17:08.079Z"
+    }
+  ],
+  "untheist": [
+    {
+      "defid": 7832076,
+      "definition": "An [atheist] who was [formerly] [religious].",
+      "example": "I haven't seen [Dave] at [church] for months. [I heard] he's an untheist now.",
+      "written_on": "2014-07-12T00:00:00Z"
+    }
+  ],
+  "uptime": [
+    {
+      "defid": 20703,
+      "definition": "[The time] during which a machine is [operating] or an [employee] is working.",
+      "example": "16:05:24 up 74 days, 21:05,  1 [user],  [load] [average]: 0.03, 0.03, 0.02",
+      "written_on": "2003-01-15T00:00:00Z"
+    }
   ]
 }
