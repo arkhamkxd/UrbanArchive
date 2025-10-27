@@ -102820,5 +102820,45 @@
       "example": "\"I won tickets to [the Nets] game at the [Sloppy Tuna] [last night], so I'm headed up-island\"",
       "written_on": "2014-06-19T00:00:00Z"
     }
+  ],
+  "unexpected thermal event": [
+    {
+      "defid": 16127646,
+      "definition": "[Engineer] [doublespeak] for \"shit [caught on] fire\"",
+      "example": "Press 5 had an unexpected [thermal event]\r\n[Translation]: shit went sideways and we had to call the [fire department].",
+      "written_on": "2021-06-24T11:33:05.672Z"
+    }
+  ],
+  "Union Suit": [
+    {
+      "defid": 13568661,
+      "definition": "[Literally] a [onesie]. Dont let anyone tell you [otherwise].",
+      "example": "Jenna: My dad's [wearing] a [union] suit!\n\nMe: Isnt that just a [onesie]?\n\nJenna: Yeah LMAO",
+      "written_on": "2019-01-29T00:00:00Z"
+    }
+  ],
+  "urangoo": [
+    {
+      "defid": 14671328,
+      "definition": "Urangoo is of [Mongolian] origin and means \"Very [beautiful] & [artistic] woman\".",
+      "example": "Urangoo is [hot] 🥵 [LMAO]",
+      "written_on": "2020-01-30T00:00:00Z"
+    }
+  ],
+  "Unbherheale": [
+    {
+      "defid": 17396341,
+      "definition": "1) [Someone] that cares about their image\r\n2) [Someone] that cares for their image\r\n3) Very [arrogant]",
+      "example": "\"Should I [friend] with an unbherheale person, I would [struggle] to [talk to] them.\"",
+      "written_on": "2022-08-05T01:57:16.706Z"
+    }
+  ],
+  "Unabridged Musical": [
+    {
+      "defid": 15312576,
+      "definition": "An unabridged musical is a musical with no [original] songs, but instead have parody’s of [different] songs from movies, tv shows, and other [musicals].",
+      "example": "My [favourite] [musical] is an unabridged [musical].",
+      "written_on": "2020-09-13T00:00:00Z"
+    }
   ]
 }
