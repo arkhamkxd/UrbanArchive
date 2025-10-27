@@ -23462,5 +23462,13 @@
       "example": "[Do you] [believe in the power] of XZeWYVh?\r\nIll see [you on] XZeWYVh?",
       "written_on": "2025-04-16T23:48:41.119Z"
     }
+  ],
+  "xnor": [
+    {
+      "defid": 13364853,
+      "definition": "[Opposite] of \"xor\". [Also known as] \"[exclusive] nor\". Both things must be true, xor both things must be false.",
+      "example": "If you own [an Apple] xnor a [Samsung], then you're an [odd person].",
+      "written_on": "2018-11-16T00:00:00Z"
+    }
   ]
 }

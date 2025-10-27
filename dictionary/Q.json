@@ -1409,6 +1409,12 @@
       "definition": "[Human] [boredom] [level]: 1",
       "example": "qwertyuiopasdfghjklzxcvbnm is the [keyboard]",
       "written_on": "2021-11-15T00:53:11.3Z"
+    },
+    {
+      "defid": 15142275,
+      "definition": "A person who is bored of [online classes] types [all the letters] in the [keyboard].",
+      "example": "[I'm so bored] of [online classes] so i typed qwertyuiopasdfghjklzxcvbnm on google to [prevent] myself from being bored..",
+      "written_on": "2020-06-28T00:00:00Z"
     }
   ],
   "qper": [
@@ -56517,6 +56523,14 @@
       "definition": "If you got here [you know] about [the clan] dragonknight. [GET OUT OF HERE] SCUM!!!!!!!!!!!!!",
       "example": "You [cant] [use it] in a [sentence]!!!!!!qqqwertyuiopasdfghjklzxcv",
       "written_on": "2018-05-10T00:00:00Z"
+    }
+  ],
+  "QVC": [
+    {
+      "defid": 5338703,
+      "definition": "QVC stands for Queer [Victims] Channel or [Quality] Value [Convience]",
+      "example": "Why are you [watching] QVC or the Queer [Victims] [Channel]?",
+      "written_on": "2010-11-08T00:00:00Z"
     }
   ]
 }
