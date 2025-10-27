@@ -131214,5 +131214,29 @@
       "example": "[greg]: [whats up] [buddy]\r\n\r\ntim: Yo ha!",
       "written_on": "2008-11-02T00:00:00Z"
     }
+  ],
+  "Yourstepdad": [
+    {
+      "defid": 17756393,
+      "definition": "An [underrated] [artist] that deserves more [attention] than he gets",
+      "example": "Yourstepdad is [too good]!",
+      "written_on": "2023-04-18T10:28:19.649Z"
+    }
+  ],
+  "Yorah": [
+    {
+      "defid": 14189196,
+      "definition": "[A short] [abbreviation] of [the two] combined words \"YOZA\" and \"SEIG FK\"",
+      "example": "[Tamas] Dad is in the [Mongrel Mob], but his Grandfathers in the Blackpower, so when he is [called] upon by them he replies with \"Yorah\"",
+      "written_on": "2019-09-11T00:00:00Z"
+    }
+  ],
+  "yep yep nope": [
+    {
+      "defid": 183445,
+      "definition": "A [mullet]",
+      "example": "\"Boy I [went down] to dat der barba shop and gots me a yep nope... [how you] [like it] buuddddyyyyyy !\"",
+      "written_on": "2003-07-15T00:00:00Z"
+    }
   ]
 }
