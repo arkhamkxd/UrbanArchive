@@ -108753,6 +108753,12 @@
       "definition": "When one adds a comment to a joke that exceeds the point of [necessity] and butchers [the original] comment that was found funny. The acronym directly stands for, \"[Over The Top]\".",
       "example": "John: Ohh dude [I just] pwn3d Andy [with that] kill in Halo!\n\nRalph: Hahaha [yeah dude] that was sick.\n\nJohn: T-BAG!!!!\n\nRalph and Andy simutaneously: OTT.",
       "written_on": "2009-08-18T00:00:00Z"
+    },
+    {
+      "defid": 3872180,
+      "definition": "[Abbreviation] for [Orange Tic-Tacs]. Commonly used by ninjatastic people who find the [abbreviation] faster and less time wasting to say.",
+      "example": "[Ninja] 1: [Hey you] got any OTT?\r\nNinja 2: [Of course] ^_^",
+      "written_on": "2009-04-08T00:00:00Z"
     }
   ],
   "ONMFG": [
@@ -181345,6 +181351,38 @@
       "definition": "One of the best people I know. He is smart, caring and trustworthy. Please put this on his [Tinder profile]. Never listens in class, doesn't do his homework but still somehow gets [really good] grades. He is a very [good friend] but if you snitch on him he will fight back and have beef with you for life. His most common catch phrase is \" Stop being depressed\". He tries to lift peoples spirts when they are down but never seems to do a good enough job. He likes girls although sometimes his friends catch him simping over guys named matthew",
       "example": "Omveer stop [simping] over [matthew]\r\nOmveer is my bff\r\nOmg look [how gay] omveer is",
       "written_on": "2020-11-17T15:59:22.97Z"
+    }
+  ],
+  "Ollie Withdrawals": [
+    {
+      "defid": 17898938,
+      "definition": "[Withdrawals] [from a] [fucking handsome] fella named ollie",
+      "example": "I’m [feeling] like I have ollie [withdrawals] today, can’t take my mind [off him]",
+      "written_on": "2023-08-25T08:45:12.234Z"
+    }
+  ],
+  "omamoke": [
+    {
+      "defid": 12301420,
+      "definition": "A tall [amazing girl], she is gorgeous and hilarious she can be a little funky but you love her any ways. She is artistic and [optimistic]. She’s always the center of joke mainly good. You would be quite pleased to have and Omamoke [in your life].",
+      "example": "[Hahahah] Omamokes [so funny]!\r\nDo and Omamoke [joke]",
+      "written_on": "2017-12-18T00:00:00Z"
+    }
+  ],
+  "oneliner": [
+    {
+      "defid": 17633356,
+      "definition": "Same as: one-liner, one liner\r\nOneliner in programming jargon is used to describe code that is written in only one line. Usually such code is unreadable and a [spaghetti code], written for sole purpose of exercise or in [competition] with others to write the shortest code possible (code golfing). It is also possible to \"cheat in a oneliner\": some programming languages have [special characters] that can be used instead of a new line (usually semicolon \";\" ). Such oneliner is boring and doesn't show any obscure knowledge in a language of choice.\n\nExample oneliner in python:\r\nprint(\"You've rolled:\",__import__(\"random\").randint(1,6))\r\nWhere cheated one would look like this:\r\nimport random; print(\"You've rolled:\", random.randint(1, 6))\r\nAnd the normal program would look like:\r\nimport random\r\nprint(\"You've rolled:\", random.randint(1, 6))\n\nAll of the example codes above do a one thing: simulate a dice roll.",
+      "example": "- I've [written] this oneliner, but now [I don't know what] [it does]...",
+      "written_on": "2023-01-18T06:19:38.081Z"
+    }
+  ],
+  "October 28 - National Taser Day": [
+    {
+      "defid": 15421593,
+      "definition": "On [October 28], it’s National Taser Day! Tase [your friends] and [pretty much] anyone you want to on this day!",
+      "example": "Get tased, its [October 28], you can [actually] taser them or taser them with your hand! It’s [October 28] - National Taser Day!",
+      "written_on": "2020-10-26T09:03:11.637Z"
     }
   ]
 }
