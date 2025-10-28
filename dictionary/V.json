@@ -129004,5 +129004,21 @@
       "example": "[Vinay] & [Kenisha] ❤️",
       "written_on": "2025-01-07T02:06:08.491Z"
     }
+  ],
+  "vos": [
+    {
+      "defid": 5186259,
+      "definition": "you\n\nIn [Argentina], the word \"vos\" replaces \"tú\" in almost all contexts of dialogue.\n\nBoth \"vos\" and \"tú\" are friendly uses of english word \"you\". [The formal] [translation] from the english \"you\" is \"usted\".",
+      "example": "\"¿Vos venís?\" = \"[are you] [coming]?\"\r\n\"Che, vos, de dónde sos?\" = \"Hey, you, where [are you] from?\"",
+      "written_on": "2010-08-29T00:00:00Z"
+    }
+  ],
+  "vegetotalitarian": [
+    {
+      "defid": 2135573,
+      "definition": "One who believes that, [just because] he/she is a vegetatian, [everybody else] should also be a [vegetarian].",
+      "example": "The boss is a vegetotalitarian who [will not] allow any meat to be served at [the office] [Christmas party].",
+      "written_on": "2008-12-09T00:00:00Z"
+    }
   ]
 }
