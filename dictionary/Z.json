@@ -84142,5 +84142,21 @@
       "example": "Zoe [shut up]",
       "written_on": "2018-10-20T00:00:00Z"
     }
+  ],
+  "Zadkine": [
+    {
+      "defid": 13175501,
+      "definition": "To describe [anything] thats [negative] and or [not working]",
+      "example": "This [situation] is zadkine.\n\nMy phone is zadkineing up.\n\nThis [situation] is not [working out] (This situation is zadkine)",
+      "written_on": "2018-09-05T05:19:29.512Z"
+    }
+  ],
+  "Zotz": [
+    {
+      "defid": 16134186,
+      "definition": "[Street slang] for [Exotic] weed,flower,Mota ,[cannabis]",
+      "example": "I just smoked some zotz that was fire.\r\nMan them zotz got me [twisted] bro\r\nThose zotz got me lifted like a [firecracker] on [the fourth of July].",
+      "written_on": "2021-06-26T16:44:42.171Z"
+    }
   ]
 }
