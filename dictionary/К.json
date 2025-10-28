@@ -62,5 +62,13 @@
       "example": "[Jim]: Класс волк, [Tim].\r\n[Tim]: What?",
       "written_on": "2020-05-30T11:31:21.565Z"
     }
+  ],
+  "Карен": [
+    {
+      "defid": 15745500,
+      "definition": "[Karen], but [Russian]",
+      "example": "Карен: [Speak English], this is an airport.\r\n[Russian] Guy: [Idi nahui], Карен.",
+      "written_on": "2021-02-15T11:28:52.856Z"
+    }
   ]
 }
