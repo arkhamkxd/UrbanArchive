@@ -129100,5 +129100,21 @@
       "example": "[person 1]: i love vaazkl\n\n[person 2]: argee\r\n[person 1]: we should kiss",
       "written_on": "2025-07-15T00:51:11.671Z"
     }
+  ],
+  "Vanesshaphobia": [
+    {
+      "defid": 2699400,
+      "definition": "[The fear] of Vanessa's.",
+      "example": "The [young boy] [Julian] was [affected] with Vanesshaphobia.",
+      "written_on": "2007-12-19T00:00:00Z"
+    }
+  ],
+  "vidnapped": [
+    {
+      "defid": 12987378,
+      "definition": "Being [forced] to watch a video your [friend] or [coworker] pulls up.",
+      "example": "Will: Why didn't you [respond] to my call [earlier]?\r\n[Kevin]: Janet vidnapped me.\r\nWill: Damn.",
+      "written_on": "2018-06-14T00:00:00Z"
+    }
   ]
 }
