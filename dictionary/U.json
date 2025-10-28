@@ -50901,6 +50901,12 @@
       "definition": "[Anything] [north] of the [Tappan Zee Bridge]",
       "example": "I live in [Orange County], just 90 minutes from [the city].\r\n-Upstate.\r\nNo, [not really] 'upstate'...",
       "written_on": "2003-11-11T00:00:00Z"
+    },
+    {
+      "defid": 875026,
+      "definition": "Upstate is a term used by people who live in [New York City] or the surrounding metro area. Long Islanders and some city people consider the Northern suburbs (Westchester, Rockland) to be upstate because they are north of where they are and think thaty for some reasons the cultural and economic ties spread east. Northern suburbs consider anywhere above them to be upstate (mostyl Poughkeepsie and up). Whats funny is that people from \"upstate\" cities such as Albany, Binghamton, Syracuse, Rochester or Buffalo have no concept of what \"upstate is. Albany is the Capital District. Binghamton is the Southern Tier. Syraucse is [Central New York]. Rochester is near the Finger Lakes and Buffalo is in [Western New York]. In the end Upstate doesn't really exist and is generally a term used to imply that you live south of the area being discussed.",
+      "example": "[Everything] north of [Westchester] is upstate (Rockland is west of [Westchester] bordering New Jersey and the the northern tip of Westchester is above Rockland. So Rockland is not upstate.)",
+      "written_on": "2004-10-27T00:00:00Z"
     }
   ],
   "Urbdik": [
@@ -104431,6 +104437,14 @@
       "definition": "When you [figure out] that you can make certain words or letters [automatically] change into [other things]",
       "example": "Y = udndjsjxnSlsls",
       "written_on": "2021-09-28T07:33:58.013Z"
+    }
+  ],
+  "Uya": [
+    {
+      "defid": 13752619,
+      "definition": "[Wat] [type] of [person] am i",
+      "example": "[UyaAs] [a name]",
+      "written_on": "2019-03-27T00:00:00Z"
     }
   ]
 }
