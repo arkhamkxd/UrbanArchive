@@ -130346,5 +130346,21 @@
       "example": "[bah] [blah blah blah] [blah]",
       "written_on": "2006-04-19T00:00:00Z"
     }
+  ],
+  "vixenvs": [
+    {
+      "defid": 17252532,
+      "definition": "[Best editor] in [the universe]",
+      "example": "“Vixenvs please [teach me] [how to] edit”\r\n“Edit name vixenvs I [love your work]”",
+      "written_on": "2022-05-21T15:59:25.041Z"
+    }
+  ],
+  "Vitamuffin": [
+    {
+      "defid": 5473224,
+      "definition": "A muffin that has [vitamins] in it [and is] [good for you].",
+      "example": "I had to do a book report and vitamuffin was a word for [vocabulary], [guess who] couldn't a [definition].",
+      "written_on": "2010-12-30T00:00:00Z"
+    }
   ]
 }
