@@ -18639,6 +18639,12 @@
       "definition": "One [who is] [naked] and follows a scarf for [warmth].",
       "example": "[Harry] and Mike are [orphans] because LT is a warm [scarf]",
       "written_on": "2007-11-07T00:00:00Z"
+    },
+    {
+      "defid": 4789690,
+      "definition": "A homeless, gremlin-like creature. [Generally], residing in places like Golden, Colorado or the Yum Yum Forest.\n\nThis creature can often times grow into a Gypsie Orphan which is even more [disgusting]. Furthermore, they steal [happiness] and money.",
+      "example": "\"That orphan just stole [my money]!\"\n\n\"[Look out] for that gypsie orphan, [he sucks].\"",
+      "written_on": "2010-03-11T00:00:00Z"
     }
   ],
   "omo": [
@@ -25291,6 +25297,12 @@
       "definition": "[The most] anxiety-triggering [word in] a nuclear [physicist] lab.",
       "example": "After hitting the \"reactor self [destruct]\" button, the nuclear [physicist] simply said \"oops!\" and Sheldon had an [anxiety attack].",
       "written_on": "2022-02-01T11:45:00.926Z"
+    },
+    {
+      "defid": 12978249,
+      "definition": "Hi",
+      "example": "Harry and [Louis] met in [the toilet] :)\n\nHarry: Oops!\r\n[Louis]: Hi\r\nMe: *dead*",
+      "written_on": "2018-06-06T05:12:09.338Z"
     }
   ],
   "Ortarian": [
@@ -183423,6 +183435,38 @@
       "definition": "Acronym [standing] for Off By One Error. [Commonly] used in the Computation Science field to [indicate] a bit of code (often a bad for loop) that will produce a result that is off by one.",
       "example": "//[count to ten]\r\n\r\nfor(i = 1 ; i < 10 ; i++)\r\n{\r\nSystem.out.println(i);\r\n}\r\n\r\n//This bit of code will [produce] [123456789] and leave off the ten. Hence, an OBOE.",
       "written_on": "2009-01-17T00:00:00Z"
+    }
+  ],
+  "Ocean Wren": [
+    {
+      "defid": 1584097,
+      "definition": "[A person] ([usually] male) that always sounds like a \"[know it all]\"",
+      "example": "[You are a] guy, what do [you know] about [feminine] hygene products.  You are being an Ocean Wren.",
+      "written_on": "2006-01-10T00:00:00Z"
+    }
+  ],
+  "okolyten": [
+    {
+      "defid": 17631674,
+      "definition": "[Titten]",
+      "example": "Das sind ja mal Okolyten - [wenn] jemand schöne [Titis] [hat]",
+      "written_on": "2023-01-17T01:29:26.104Z"
+    }
+  ],
+  "Ovulating": [
+    {
+      "defid": 13077271,
+      "definition": "When [one] performs at the lowest [end of] [the spectrum]",
+      "example": "[Damn nigga] [yous] ovulating. [This guy] is so ovulating.",
+      "written_on": "2018-07-18T00:00:00Z"
+    }
+  ],
+  "Ohauni": [
+    {
+      "defid": 17720577,
+      "definition": "An [ugly rat], a monster, brown, [horrendous], [looks like] his melting, doesnt know how to get a fade.",
+      "example": "[Person 1]: Omg is that ohauni\r\n[Person 2]: ew\r\nOhauni: Hello [Gentlemen]",
+      "written_on": "2023-03-20T20:24:48.389Z"
     }
   ]
 }
