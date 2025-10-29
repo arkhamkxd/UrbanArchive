@@ -46,5 +46,13 @@
       "example": "\"we [served] the [apple pie] à la [mode]\"",
       "written_on": "2011-10-01T00:00:00Z"
     }
+  ],
+  "à bientôt": [
+    {
+      "defid": 4873213,
+      "definition": "[See you soon]!",
+      "example": "Lines from the 1997 Fox 20th movie [Anastasia]: Dear [Grandmama], wish me luck. We'll be together [in Paris] again soon. à bientôt!",
+      "written_on": "2010-04-09T00:00:00Z"
+    }
   ]
 }
