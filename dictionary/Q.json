@@ -58490,5 +58490,21 @@
       "example": "[Get you] a qiara she’s [a snack]",
       "written_on": "2018-05-07T00:00:00Z"
     }
+  ],
+  "Quirkcident": [
+    {
+      "defid": 15789432,
+      "definition": "A quirkcident is when an [accident] occurs due to a personal quirk that can be [sometimes] funny, but in certain [situations] a little risky.",
+      "example": "Jarad was at the wheel of his new [automobile] when he started sneezing 5 times in a row as usually does but this time he missed the light changing to red and got in a quirkcident.\n\nHe nervous twitched caused another quirkcident on her [first date] when [the olive] on her fork flew into the nearby tables dinner.",
+      "written_on": "2021-03-02T19:43:44.773Z"
+    }
+  ],
+  "qanot": [
+    {
+      "defid": 15536045,
+      "definition": "The [best girl ever], kind, [sweet] and [beautiful]",
+      "example": "QANOT [YOU ARE] THE BESR",
+      "written_on": "2020-12-01T16:23:08.364Z"
+    }
   ]
 }
