@@ -94095,6 +94095,12 @@
       "definition": "a symbol you can access when you have a [japanese] [keyboard]. you can use it to make the title of your new [vocaloid] song fancy.",
       "example": "„[I just] [published] a new song, it’s called ,insert title here☆‘ and you can find it on [nico nico douga]“",
       "written_on": "2022-10-14T14:47:22.102Z"
+    },
+    {
+      "defid": 18416876,
+      "definition": "[star]",
+      "example": "[i am] [feeling] very ☆ [today]",
+      "written_on": "2025-01-25T02:05:21.181Z"
     }
   ],
   "5 percenters": [
@@ -97054,6 +97060,12 @@
       "defid": 14643622,
       "definition": "YOu [found] me [this is] [the only] page here i thnk?",
       "example": "@!$# [wow]",
+      "written_on": "2020-01-21T00:00:00Z"
+    },
+    {
+      "defid": 14643616,
+      "definition": "[this is] [the only] page [here you] are lucky",
+      "example": "@!$# @!$# @!$# @!$# @!$# @!$# @!$# @!$# @!$#",
       "written_on": "2020-01-21T00:00:00Z"
     }
   ],
@@ -140405,6 +140417,46 @@
       "definition": "[nickname] for [a person] named Iris or [a person] with SWAG",
       "example": "bob: hi iris\r\n[steve]: hi 'ris\r\niris: [hi bob] and steve\r\nSWAGie [person]: hi steve",
       "written_on": "2013-09-14T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Process, proCess, procesS<.7.9.7.6.>": [
+    {
+      "defid": 18492830,
+      "definition": "<.7.9.7.6.>[Process], [proCess], [procesS]<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>[Process], [proCess], [procesS]<.7.9.7.6.>",
+      "written_on": "2025-05-23T15:50:59.533Z"
+    }
+  ],
+  "90+6": [
+    {
+      "defid": 18382344,
+      "definition": "[It’s] 99",
+      "example": "[Renee] : What 90+6?\r\n[Virat] : 99",
+      "written_on": "2024-12-05T01:10:12.149Z"
+    }
+  ],
+  "1-2 business days": [
+    {
+      "defid": 14066326,
+      "definition": "The amount of days every online retailer tells you to wait. It [turns out] one [business day] is about four regular days. Who [would've] thunk it?",
+      "example": "Randy: \"[How come] my order is still [processing]?\"\r\n[Company]: \"Wait 1-2 business days.\"\r\n*Shipped 8 days later*",
+      "written_on": "2019-07-16T00:00:00Z"
+    }
+  ],
+  "🫡": [
+    {
+      "defid": 17253071,
+      "definition": "[Salute] [Soldier].",
+      "example": "Billy: I [finally] got a date to [the dance] [without] having to pay them.\n\nBilly’s Friend: 🫡",
+      "written_on": "2022-05-21T20:50:34.09Z"
+    }
+  ],
+  ":_(": [
+    {
+      "defid": 4238291,
+      "definition": "[crying] [sad face]",
+      "example": "stats [teacher]: hw [tonight] is pages 1-50 #1-400! teach yourselves how [to do it]!! MUAHAHAHA\n\nme: :_(",
+      "written_on": "2009-09-15T00:00:00Z"
     }
   ]
 }
