@@ -3635,6 +3635,12 @@
       "definition": "In the programming world, this means NOT. It is mostly used in boolean [expressions], mostly found in if statements, to express the non-equality of something.\r\n\r\nIt can be used with an '=' sign like this: 3 != 4, meaning 3 does not equal 4. This is a true [expression], and so the [expression] would return TRUE. However, if I put: ((6-3) != (5-2)) I'm basically saying 6-3 is not equal to 5-2, or 3 does not equal 3. But 3 DOES equal 3. So this expression would return false.\r\n\r\nNOTE: != is pronounced as \"Does Not Equal\"\r\n\r\nThis can also be used in dialog.",
       "example": "int main()\r\n{\r\nint john = 6;\r\nint mary = 7;\r\nif(john != mary)\r\n{\r\nprintf(\"John does not equal Mary.\\nJohn does equal %d, and Mary does equal %d.\\nThere is %d between them.\\n\",john,mary,(john-mary));\r\n}\r\n}\r\n\r\n\r\nJohn: \"Hey, did you here that science dude say e = mc3?\"\r\nMary: \"[Yeah man]! e totally != mc3! (NOTE: ! at end of Mary's quote does not mean the same thing. Please refer to [definition] [number 1] here !)\"",
       "written_on": "2005-04-03T00:00:00Z"
+    },
+    {
+      "defid": 3969675,
+      "definition": "A [punctuation] mark which appears above an enemy's head in [Metal Gear Solid] when [Solid Snake] is spotted.",
+      "example": "[Genome Soldier]: Huh? What was that...?\r\n[Snake]: *hides unsuccessfully*\r\n[Genome Soldier]: !",
+      "written_on": "2009-05-16T00:00:00Z"
     }
   ],
   "'Saur": [
@@ -48441,6 +48447,12 @@
       "definition": "[Northern] [Orange County]. Slighty more blue collar, [down to earth] and culturely diverse than south OC or 949.",
       "example": "\"she's 714, goes to cal state [fullerton] and [wears] weird [vintage clothes].\"",
       "written_on": "2004-06-07T00:00:00Z"
+    },
+    {
+      "defid": 16429888,
+      "definition": "Is the number on the door the late Rick James opens and closes in his 1981 song [Super Freak]. Corroborating the [correlation] between 714 and [Quaaludes] as described in the initial post about 714.",
+      "example": "714 in relation to [Quaaludes]",
+      "written_on": "2021-11-13T10:29:18.469Z"
     }
   ],
   "@chaesaurus": [
@@ -144269,6 +144281,62 @@
       "definition": "[goat] who makes [goatified] [music]",
       "example": "[you heard] that [new] 83hades?",
       "written_on": "2020-11-06T19:46:38.72Z"
+    }
+  ],
+  "69r": [
+    {
+      "defid": 9153618,
+      "definition": "Girl sucks guys penis and guy eats out girls [vagina]\n\n[Case closed] [problem solved]",
+      "example": "[I don't even know] [really] how 69r goes in [sentence]",
+      "written_on": "2016-10-13T00:00:00Z"
+    }
+  ],
+  "200step": [
+    {
+      "defid": 15018365,
+      "definition": "An EDM genre that involves constant 200BPM, genre switches, and sudden beat drops. [The first] 200step song was created by [Camellia] in his album \"Summary & VIPs 02\". The genre gained notoriety after BeastTrollMC played an osu! map [featuring] a 200step remix of \"Exit This Earth's Atomosphere\".",
+      "example": "[Noob], now go beat the 200step [version] nomod [no balls].",
+      "written_on": "2020-05-24T00:00:00Z"
+    }
+  ],
+  "\"Speaker phone that ho!\"": [
+    {
+      "defid": 2865123,
+      "definition": "To \"[speaker] phone that ho!\" is to put [someone] on [speaker] phone.",
+      "example": "When your in a car with a bunch of friends and the person [holding the phone] is telling everyone what the person [on the line] is saying. Then Someone [in the car] yells \"Speaker phone that ho!\"",
+      "written_on": "2008-02-23T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Saphudandos, saphuDandos, saphudandoS<.7.9.7.6.>": [
+    {
+      "defid": 18492708,
+      "definition": "<.[7.9].[7.6].>Saphudandos, saphuDandos, saphudandoS<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>Saphudandos, saphuDandos, saphudandoS<.[7.9].7.6.>",
+      "written_on": "2025-05-23T12:11:25.835Z"
+    }
+  ],
+  "[[inside]]": [
+    {
+      "defid": 2804918,
+      "definition": "[inside joke] [between friends]",
+      "example": "Rebelious Gangsterss.!! [inside]",
+      "written_on": "2008-01-20T00:00:00Z"
+    }
+  ],
+  "3oh!3 sluts": [
+    {
+      "defid": 4190004,
+      "definition": "bitches who think they like 3oh!3 but in reality they just are fat losers who don't know how to mosh and get mad when everyone pushes there fat asses to the floor of the mosh...\n\nThey also think that they were the one's who [discovered] 3oh!3... [it doesn't matter] who [discovered] it! jeeze now go discover a new band... and put it on your myspace... whore!",
+      "example": "3oh!3 slut: hey check out this new [underground] band I heard on the radio.. they call themselves 3oh!3\n\nme: wouldn't it just [defeat the purpose] of being [underground] if it's on the radio? ..... 3oh!3 sluts..",
+      "written_on": "2009-09-16T00:00:00Z"
+    }
+  ],
+  "2C11R": [
+    {
+      "defid": 16000761,
+      "definition": "Second-cousin-eleven-times-removed.",
+      "example": "[I don't know] my 2C11R.",
+      "written_on": "2021-05-17T11:44:41.486Z"
     }
   ]
 }
