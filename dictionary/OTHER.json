@@ -12099,6 +12099,12 @@
       "definition": "Some [sort of] [meat]",
       "example": "🍖 is [a type] of [meat]",
       "written_on": "2020-11-04T09:32:37.578Z"
+    },
+    {
+      "defid": 13522616,
+      "definition": "[Sex] [bareback]",
+      "example": "🍖 : Se utiliza en chat [para] decir que se [quite] sex [a pelo], ocultándolo, sin decirlo.",
+      "written_on": "2019-01-13T12:17:07.041Z"
     }
   ],
   "'Tisn't": [
@@ -142781,6 +142787,14 @@
       "definition": "A elite group of secret but classy individuals who know [what's up] but yet [mysterious] [in there] actions.",
       "example": "[You dont know jack shit] about <•••> !",
       "written_on": "2019-12-11T00:00:00Z"
+    }
+  ],
+  "<br />": [
+    {
+      "defid": 1521500,
+      "definition": "The HTML [tag that] creates a new line in a webpage.  Same as the  <br>  code.  [Multiple] <br /> tags used after one [another] will create empty spaces rather than simple linebreaks.",
+      "example": "In a web page's HTML code, this (excluding dashes):\r\n--\r\nHello <br /> [World]\r\n--\r\n\r\nWill appear as this when viewed in a [web browser]:\r\n--\r\nHello\r\n[World]\r\n--",
+      "written_on": "2008-07-23T00:00:00Z"
     }
   ]
 }
