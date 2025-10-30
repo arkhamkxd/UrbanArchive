@@ -107752,5 +107752,29 @@
       "example": "\"[Omg] Urba is [SO cool]\"\r\n\"[Ikr]!\"",
       "written_on": "2022-01-12T00:35:48.95Z"
     }
+  ],
+  "Unconditional negative regard": [
+    {
+      "defid": 18364429,
+      "definition": "When you go above and beyond and take on extra tasks, but regardless how kind and helpful you are, [the people] you are serving hold you in negative regard and only expect you to do more. They label you as lazy to [manipulate] you into accepting [additional] tasks. Like Cinderella.",
+      "example": "“Excuse me, Miss, you seem to have missed a spot cleaning the floors today. All you must do is stand around. Why aren’t you ever working?”\n\n“Sounds like a case of unconditional negative regard. Damned if you do, damned if you don’t.”\n\n“I ordered a [hot chocolate] with 3 [ice cubes]. Not 4! You never do anything right.”\n\n“I guess it’s [impossible] to please you. I have your unconditional negative regard.”",
+      "written_on": "2024-11-11T13:41:40.789Z"
+    }
+  ],
+  "Undeadable": [
+    {
+      "defid": 16239169,
+      "definition": "[Someone] that can not [die], or be [killed].",
+      "example": "The battle was [futile] as Erik,Jeff and Miles [Battled] in a [fight to the death], cause Jeff is Undeadable they knew there demise was close",
+      "written_on": "2021-08-10T14:16:32.638Z"
+    }
+  ],
+  "utilise": [
+    {
+      "defid": 2647201,
+      "definition": "To [make] us of [something].",
+      "example": "I utilised a new [programming language] to create [the next] version of [Windows].",
+      "written_on": "2007-11-08T00:00:00Z"
+    }
   ]
 }
