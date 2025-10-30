@@ -138366,5 +138366,21 @@
       "example": "[Hey] Yeynus......",
       "written_on": "2010-12-27T00:00:00Z"
     }
+  ],
+  "You Got Cruzed!": [
+    {
+      "defid": 6171458,
+      "definition": "[Pronounced]: ('You Got Cruised!') Is a [expression] that is usually used when someone proves that they are [better than] someone else without sounding like a Chav, leaving the victim speechless.\n\nThis can be used in any scenario.",
+      "example": "Boy 1: Mum, please don't shout at me when [my friends] are...\n\nBoy 1's Mum: Shut up you [little shit]! I can shout [whenever] I want!\n\nBoy 2: You Got Cruzed!",
+      "written_on": "2011-10-29T00:00:00Z"
+    }
+  ],
+  "You the one": [
+    {
+      "defid": 13766867,
+      "definition": "[You are] [number one], you are [the best].",
+      "example": "[How much] do I owe you for the tacos?\r\n[Dont trip] bro, I gotchu\r\nAyee, You [the one].",
+      "written_on": "2019-04-01T00:00:00Z"
+    }
   ]
 }
