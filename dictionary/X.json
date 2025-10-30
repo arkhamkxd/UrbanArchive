@@ -24396,5 +24396,13 @@
       "example": "Michael: (steps on [masking tape] [keyboard])\r\n[Mrs. White]: XYZ;\r\nMichael: OMG CALM DOWN GEEZ",
       "written_on": "2016-05-13T00:00:00Z"
     }
+  ],
+  "xyzzy": [
+    {
+      "defid": 1858423,
+      "definition": "A [cheat code] for the Window's game [Minesweeper]\r\nClick xyzzy then hit enter and shift.\r\nPull your cursor over [the game] and the top left part of the screen(tiny, only 1 mega pixal) should either be white or black.\r\nWhite-No mine\r\nBlack-Mine",
+      "example": "[Hit] xyzzy [ENTER] and [SHIFT]",
+      "written_on": "2006-07-12T00:00:00Z"
+    }
   ]
 }

@@ -85698,5 +85698,13 @@
       "example": "\"Yo you got [ZIGGY]\"\n\n\"nah [blinking] I'm [craving] ZIGGYHOUSE\"",
       "written_on": "2022-01-23T11:11:53.392Z"
     }
+  ],
+  "zerk": [
+    {
+      "defid": 15641051,
+      "definition": "A small hole in [automotive] body or parts used for [lubrication] of internal [components]",
+      "example": "Car owner: Are there any grease fittings on a 2009 Corolla that need to be [lubricated] as a part of [the standard] lube-oil-filter work?\r\n[Mechanic]: Your Corolla does not have any grease zerks for you to lube.",
+      "written_on": "2021-01-07T07:17:45.194Z"
+    }
   ]
 }
