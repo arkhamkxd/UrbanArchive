@@ -59482,5 +59482,21 @@
       "example": "Person who is 'it:(running towards you, hand outstretched)\r\nYou(noticing them): Queezies! (showing your [crossed fingers])\r\nPerson who is 'it':([grinding] to a halt) Ugh. Fine. (runs off towards [someone else])",
       "written_on": "2009-06-14T00:00:00Z"
     }
+  ],
+  "QQ International": [
+    {
+      "defid": 6938674,
+      "definition": "QQ [International] is the multilanguage version of QQ, which is the most popular [instant messenger] in China and counts on more than 700 million user accounts.\n\nThe [international] client is available in six languages and offers live translation to 50 idioms, plus HD video calls. It's a great solution to get in touch with people from the Far East.\n\nQQ is produced by Tencent, the world's third largest Internet company.",
+      "example": "Have you [added] me on QQ [International]? Here's my QQ [number]",
+      "written_on": "2013-02-05T00:00:00Z"
+    }
+  ],
+  "Quarantine Cabin Fever": [
+    {
+      "defid": 14939301,
+      "definition": "[Irritability], listlessness, or similar symptoms resulting from [isolation] indoors during the [quarantine].",
+      "example": "Josh: Hey, did you notice Dave has been really angry [all the time] since this [quarantine]?\r\nBill: Yeah, he is suffering from [Quarantine] Cabin Fever.",
+      "written_on": "2020-04-27T00:00:00Z"
+    }
   ]
 }
