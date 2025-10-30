@@ -144778,5 +144778,21 @@
       "example": "This seems [kinda] [lit] :[fire]:",
       "written_on": "2020-09-25T22:57:40.52Z"
     }
+  ],
+  "《¤》Part《¤》One《¤》Through《¤》Zero《¤》paUrt《¤》oNe《¤》thrOugh《¤》zeUro《¤》parT《¤》onE《¤》througH《¤》zerO《¤》": [
+    {
+      "defid": 18444470,
+      "definition": ".",
+      "example": "《¤》[Part]《¤》One《¤》Through《¤》[Zero]《¤》paUrt《¤》oNe《¤》thrOugh《¤》zeUro《¤》parT《¤》onE《¤》througH《¤》[zerO]《¤》",
+      "written_on": "2025-03-04T09:05:42.787Z"
+    }
+  ],
+  "791": [
+    {
+      "defid": 18409883,
+      "definition": "[I love me some you]\r\nwe can meet [in the clouds] then\r\nyou can [love me down]",
+      "example": "791 :: [489] :: [302]",
+      "written_on": "2025-01-15T02:27:13.078Z"
+    }
   ]
 }
