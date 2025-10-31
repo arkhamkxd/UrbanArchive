@@ -25176,5 +25176,21 @@
       "example": "[Boy]: Oh [look] it's a Xarin",
       "written_on": "2018-05-18T00:00:00Z"
     }
+  ],
+  "Xell": [
+    {
+      "defid": 15855195,
+      "definition": "[The God] of [Luck]",
+      "example": "[You better] [pray to] Xell for [good luck].",
+      "written_on": "2021-03-24T15:41:03.719Z"
+    }
+  ],
+  "XXXO": [
+    {
+      "defid": 5080091,
+      "definition": "*[Kiss]*, *[Kiss]*, *[Kiss]*, *Hug*",
+      "example": "[See] you [next week],\n\nXxxo\r\n[Gemma]",
+      "written_on": "2010-07-08T00:00:00Z"
+    }
   ]
 }
