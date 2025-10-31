@@ -24830,5 +24830,13 @@
       "example": "\"Damn, Lucy is [looking] fine!\"\r\n\"No way, man, look around -- [Xander] [Effect].\"",
       "written_on": "2006-05-02T00:00:00Z"
     }
+  ],
+  "xeption": [
+    {
+      "defid": 5790201,
+      "definition": "xeption is a shorter use of [exception] and probably a result of twitter's 140 [character limit]. Similar to using \"Xmas\" instead of \"[Christmas]\".",
+      "example": "I'm [sorry dude], [these are] [the rules] and there is no xeption.",
+      "written_on": "2011-05-26T00:00:00Z"
+    }
   ]
 }
