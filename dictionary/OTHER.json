@@ -64331,6 +64331,12 @@
       "definition": "[Underscore]",
       "example": "[person 1]: hi\r\n[person 2]: [underscore] _",
       "written_on": "2023-07-31T15:15:12.211Z"
+    },
+    {
+      "defid": 12133935,
+      "definition": "? [o_o]? ([Why are you here])",
+      "example": "Bob: [Look at] these new [sigils]!\r\n[Christine]: What sigils?\r\nSigils:   _",
+      "written_on": "2017-11-06T03:09:53.704Z"
     }
   ],
   "15th of October": [
@@ -134155,6 +134161,12 @@
       "definition": "[Foot fetish] [hotline]",
       "example": "[I like feet]\n\n[You should] [call] 991",
       "written_on": "2022-08-17T21:31:04.211Z"
+    },
+    {
+      "defid": 13959724,
+      "definition": "the [bootleg] [police] [arrived]",
+      "example": "person 1) help me I'm [getting robbed]\n\n[person 2]) call 991\n\nperson 1) it didn't work\n\nperson 2) sike thats [the wrong number]",
+      "written_on": "2019-06-03T00:00:00Z"
     }
   ],
   "93ygz": [
@@ -146613,6 +146625,38 @@
       "definition": "A red and large object that many would [want to] hold. This can [frequently] be taken as a [sexual innuendo] by people of many ages.",
       "example": "'Would you [like to] [hold my] £50 note?' 'No [thanks], I have my own'",
       "written_on": "2012-08-28T00:00:00Z"
+    }
+  ],
+  ":¤": [
+    {
+      "defid": 7959507,
+      "definition": "An [emoticon]. Indicates kissing, [cuddling], [smooching].",
+      "example": "[example]: baby [I've been] [missing you so] much ♥♥ :¤",
+      "written_on": "2014-11-10T00:00:00Z"
+    }
+  ],
+  "/tableflip": [
+    {
+      "defid": 16996338,
+      "definition": "A chat [message] you use on hangouts when your friend is [pissing] [you off]",
+      "example": "[Friend]: Sorry can't come today I need to [hang out] with [someone else] k :)\n\nother friend: /tableflip",
+      "written_on": "2022-02-15T17:18:55.42Z"
+    }
+  ],
+  "4004": [
+    {
+      "defid": 9415980,
+      "definition": "The first commercially produced microprocessor [released] in 1971 by Intel. At a [whopping] 740 kHz it was barely good enough for a [calculator].",
+      "example": "[You should] buy [one of those] new pocket [calculators] with a 4004 inside.",
+      "written_on": "2016-07-24T00:00:00Z"
+    }
+  ],
+  "103 years old": [
+    {
+      "defid": 17716927,
+      "definition": "An [age].",
+      "example": "She is [nearly] [103] [years] old.",
+      "written_on": "2023-03-18T07:51:11.355Z"
     }
   ]
 }
