@@ -400,5 +400,13 @@
       "example": "Student: [What is] the name for a [trapezoidal] prism?\n\n[Professor] Abdulmanapovich: Ölgiizoid",
       "written_on": "2024-09-29T14:27:04.609Z"
     }
+  ],
+  "Österledskolan": [
+    {
+      "defid": 140014,
+      "definition": "A [school] in Halmstad, Halland, [Sweden], [europe], ARH",
+      "example": "[Whick] [school] do [you go] to?\r\nösterledskolan\r\nHAHHHHHAHHAHAHAh",
+      "written_on": "2006-07-18T00:00:00Z"
+    }
   ]
 }
