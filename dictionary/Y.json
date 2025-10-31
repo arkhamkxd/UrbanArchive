@@ -140604,5 +140604,13 @@
       "example": "Oh [it’s] Yacqub",
       "written_on": "2019-10-18T00:00:00Z"
     }
+  ],
+  "ye innit": [
+    {
+      "defid": 13770412,
+      "definition": "ye [innit]",
+      "example": "[Person 1]: \"ye [innit]\"\r\n[Person 2]: \"ye innit\"",
+      "written_on": "2019-04-02T00:00:00Z"
+    }
   ]
 }
