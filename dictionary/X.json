@@ -24984,5 +24984,13 @@
       "example": "Why [are you] a xurry?\r\nOh, I meant [furry].",
       "written_on": "2023-02-17T17:29:40.241Z"
     }
+  ],
+  "XDCC": [
+    {
+      "defid": 2758175,
+      "definition": "A way of [using] an irc [client] to [transfer] files using ctcp...",
+      "example": "XDCC is [something] chris wont [teach me] cause [he sucks]...",
+      "written_on": "2009-01-08T00:00:00Z"
+    }
   ]
 }
