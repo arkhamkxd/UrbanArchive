@@ -25048,5 +25048,21 @@
       "example": "[Did that] guy [just] take my XPR 50?! [Get me] my DSR 50!",
       "written_on": "2018-02-10T00:00:00Z"
     }
+  ],
+  "xther": [
+    {
+      "defid": 13915210,
+      "definition": "A [non-binary] term for [parents]. An [alternative] option for a parent besides mother or father.",
+      "example": "Person 1: “Can I come over to [your house] [after school]?”\r\n[Person 2]: “I’d have to ask my xther first.”",
+      "written_on": "2019-05-19T00:00:00Z"
+    }
+  ],
+  "xJRN": [
+    {
+      "defid": 6538507,
+      "definition": "[Playa]. [No scope] [legend]. Bk.",
+      "example": "'NSL [shot] created by xJRN'",
+      "written_on": "2012-09-06T00:00:00Z"
+    }
   ]
 }
