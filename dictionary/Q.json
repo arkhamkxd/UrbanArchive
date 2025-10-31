@@ -60534,5 +60534,21 @@
       "example": "'Man, [this is] so [boring], I [might] type qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewqqazwsxedcrfvtgbyhnujmikolpplomjunhybgtvfrcdexswzaq'",
       "written_on": "2021-02-11T06:49:04.962Z"
     }
+  ],
+  "qwasi": [
+    {
+      "defid": 3765987,
+      "definition": "An [adjective], derived from [Quasimodo] the hunchback. It describes ([usually]) an animal or person that is strange; crazy.",
+      "example": "\"That [squirrel] was just rubbing its face [in the ground] and [spazzing out].\"\r\n\r\n\"What a qwasi, little beast!\"",
+      "written_on": "2009-03-02T00:00:00Z"
+    }
+  ],
+  "Quasimodo Test": [
+    {
+      "defid": 763342,
+      "definition": "Relating to [online dating]: the initial exchange of photos because it is often the first speedbump towards finding somebody online.  If the picture is more appealing than not, well then [congratulations], you've passed the [Quasimodo] Test!",
+      "example": "Sandy passed Jim's [Quasimodo] Test, but she couldn't [stomach] his goiter, so he was [history].",
+      "written_on": "2004-07-19T00:00:00Z"
+    }
   ]
 }
