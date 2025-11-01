@@ -109630,5 +109630,29 @@
       "example": "I passed my test....uwoooooaaaaahhhhhh\r\nI failed my test...uwoooooaaaaahhhhhh\r\n*[awkward silence]...uwoooooaaaaahhhhhh\r\n[I hate my life]....uwoooooaaaaahhhhhh\r\n*test time.....uwoooooaaaaahhhhhh\r\n[The world] is ending...uwoooooaaaaahhhhhh",
       "written_on": "2019-07-22T00:00:00Z"
     }
+  ],
+  "up-talker": [
+    {
+      "defid": 2428653,
+      "definition": "A person who speaks in declarative [sentences] yet with the inflection of a [question]. For some reason this is common among people who work for [non-profit] organizations.",
+      "example": "Did you hear the up-talker during that meeting?  I kept thinking she wanted me to answer her but she wasn't [actually] asking [questions].  So [frustrating] and annoying!",
+      "written_on": "2007-06-09T00:00:00Z"
+    }
+  ],
+  "Under the deck": [
+    {
+      "defid": 3759912,
+      "definition": "A phrase used to end a [conversation] after it has been [going on] for [exactly] 14 minutes and 32 seconds.",
+      "example": "Person A, 14:08 in: [And then] [I was all] like, \"Hey, that's totally not fair\"\r\n\r\nPerson B, 14:20 in: Well, I just think that's not fai..\r\n\r\nPerson A, 14:32 in: UNDER THE DECK.\r\n\r\n*End of [conversation]*",
+      "written_on": "2009-02-28T00:00:00Z"
+    }
+  ],
+  "urbandonation": [
+    {
+      "defid": 4854297,
+      "definition": "When you're browsing [Urbandictionary.com] and you see a very old [definition] that still has little or no votes. You then vote it up out of sympathy, much like [in reality] when you see a hobo without money.",
+      "example": "Jack: [Holy fuck], 3 years and this [definition] has 0 votes? [Poor bastard]...*gives urbandonation*",
+      "written_on": "2010-04-02T00:00:00Z"
+    }
   ]
 }
