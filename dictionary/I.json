@@ -37697,6 +37697,12 @@
       "definition": "[People] of india are known as [indians] [across] world .",
       "example": "[India],indian",
       "written_on": "2019-03-09T00:00:00Z"
+    },
+    {
+      "defid": 5586884,
+      "definition": "Being cheap, poor, [frugal], [raunchy], [pathetic].",
+      "example": "[Joe's] being an indian [bout it]",
+      "written_on": "2011-02-27T00:00:00Z"
     }
   ],
   "Intersexted": [
@@ -222813,6 +222819,30 @@
       "definition": "Idiocism is the unrelenting and [persistent] mindset that every single person around you is a [complete idiot], until they prove otherwise. As an Idiocist, assume that everyone is a moron until they give you [evidence to the contrary]. Idiocism is a form of personal social cynicism.",
       "example": "My Idiocism is reinforced with each new idiot that I encounter.\n\nI assumed that you were an idiot. After speaking with you and realizing that you were indeed [retarded], my [vigilant] Idiocism has once again proven me right.\n\nIdiocism prevents me from giving these idiots the [benefit of the doubt]. They are all morons.",
       "written_on": "2010-11-30T00:00:00Z"
+    }
+  ],
+  "insy": [
+    {
+      "defid": 4498746,
+      "definition": "A texting or [chatting] term used to [abbreviate] the phrase \"[I'm not sure], yet.\"",
+      "example": "[John]: When are [you going] on that [date]?\r\nBri: Insy.",
+      "written_on": "2010-01-12T00:00:00Z"
+    }
+  ],
+  "Ink Craving": [
+    {
+      "defid": 6020223,
+      "definition": "A restless feeling [experienced] when one has gone a period of time [without] being [tattooed] and feels the urgent need to get inked in order to feel at ease.",
+      "example": "I should really save up for college, but [I've been] [suffering] a huge ink [craving]!",
+      "written_on": "2011-08-19T00:00:00Z"
+    }
+  ],
+  "idiosynchronous": [
+    {
+      "defid": 18396813,
+      "definition": "Idiosynchronous | ˈidēōˈsiNGkrənəs, ˌidēəsiNGˈkrənəs |\n\nadjective\n\nDescribes a system, process, or behavior that appears [synchronized] but is actually [unpredictable] or peculiarly misaligned, often resulting in [inconsistent] or erratic outcomes.",
+      "example": "•\t“The idiosynchronous nature of JavaScript’s scope handling makes debugging a constant challenge.”\r\n\t•\t“Promises can behave in an idiosynchronous way when combined with poorly managed asynchronous calls.”\r\n\t•\t“The game is to make moves ([appropriate] changes), after which there is a certain idiosynchronous state (situation).” – A. Luchyk (2021)\r\n\t•\t“The third measure of riskiness is an idiosynchronous return measure based on Li et al.” – G. Cassar (2004)\r\n\t•\t“Language is a set of [simultaneous] diverse semiological [relationships], i.e., it is idiosynchronous.\" – Oksana Prosianyk (2021)",
+      "written_on": "2024-12-26T14:09:41.5Z"
     }
   ]
 }
