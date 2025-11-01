@@ -61338,5 +61338,13 @@
       "example": "There is [only one] QueVergial.",
       "written_on": "2016-12-22T00:00:00Z"
     }
+  ],
+  "QasymBucks": [
+    {
+      "defid": 16718217,
+      "definition": "Money that your [classmate] owes to you. The currency of [the money] [doesn't matter]",
+      "example": "[Yesterday], I got 500 QasymBucks from a [classmate] who [borrowed] 500 tg from me year ago",
+      "written_on": "2021-11-24T01:35:20.295Z"
+    }
   ]
 }
