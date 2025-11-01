@@ -109924,5 +109924,21 @@
       "example": "\"[forgive me], im a [little] unsteady\"",
       "written_on": "2016-08-17T00:00:00Z"
     }
+  ],
+  "unstuckit": [
+    {
+      "defid": 17023933,
+      "definition": "to unstuckit",
+      "example": "i [had to] unstuckit my [finger] in a [Giggle Zone] Marble Mesh",
+      "written_on": "2022-02-25T18:37:25.859Z"
+    }
+  ],
+  "Universal Bathroom Time": [
+    {
+      "defid": 5530981,
+      "definition": "10a.m. in most offices when [everyone] seems to head to the [bathrooms] [filling up] all the stalls etc.",
+      "example": "[What is this],[Universal] [Bathroom Time]?",
+      "written_on": "2011-01-21T00:00:00Z"
+    }
   ]
 }
