@@ -149462,5 +149462,37 @@
       "example": "[Person A]: Hey what's with Mark's marriage?\r\nPerson B: [You're a] bit 8gua [actually].",
       "written_on": "2021-07-24T18:12:33.946Z"
     }
+  ],
+  "2 6": [
+    {
+      "defid": 2095943,
+      "definition": "[another] term for a small [bottle] of scotch\r\n[booze]    scotch",
+      "example": "\"[Dude] that 2 6 got me [wasted] [last night]!\"",
+      "written_on": "2006-11-17T00:00:00Z"
+    }
+  ],
+  "⭕️tf": [
+    {
+      "defid": 14334175,
+      "definition": "[Southwest] [gang] 3 founders. Only [the family]!",
+      "example": "Only ⭕️Tf [members] [now] [the handshake].",
+      "written_on": "2019-10-24T00:00:00Z"
+    }
+  ],
+  "0xDEADBEEF": [
+    {
+      "defid": 1748579,
+      "definition": "1. The [hexadecimal] word-fill pattern for freshly allocated memory under a number of IBM environments, including the RS/6000. Some modern debugging tools [deliberately] fill freed memory with this value.\r\n\r\n2. Geek-speak for dead/gone/erased/[eliminated]/removed",
+      "example": "“Your [program] is 0xDEADBEEF”\r\n(meaning gone, [aborted], [flushed] from memory)",
+      "written_on": "2006-05-19T00:00:00Z"
+    }
+  ],
+  "🤌🏻": [
+    {
+      "defid": 18549470,
+      "definition": "The [Italian] [signature] hand [gesture] that now has its own emoji",
+      "example": "When my [Italian] friend made the classic 🤌🏻 gesture while describing his [favorite] pasta, I knew he was [passionate] about it!",
+      "written_on": "2025-09-25T07:51:00.372Z"
+    }
   ]
 }
