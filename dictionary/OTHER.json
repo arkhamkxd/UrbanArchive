@@ -91749,6 +91749,12 @@
       "definition": "It's a [horizontal] line. [Longer] than -, but not [quite] as long as ——.",
       "example": "[Person 1]: \"Look, I've made a —.\"\r\n[Person 2]: \"So what, [look at] my ————.\"",
       "written_on": "2004-08-27T00:00:00Z"
+    },
+    {
+      "defid": 17732926,
+      "definition": "1- Collateral relative's spouse's lineal ascendant.\r\n2- Collateral relative's spouse's [collateral relative].\r\n3- Lineal descendant's spouse's lineal ascendant (except: children's parents-in-laws = co-parents-in-laws).\r\n4- Lineal descendant's spouse's [collateral relative].\r\n5- Spouse's collateral relative's spouse's lineal ascendant.\r\n6- Spouse's collateral relative's spouse's collateral [relative].\r\n7- Collateral relative's spouse's collateral relative's spouse.\r\n8- Spouse's collateral relative's spouse's collateral relative's spouse.\r\n9- Lineal descendant's spouse's collateral relative's spouse.\r\n10- Family member's lover.\r\n11- Lover's family members.\r\n12- Biological relative's widower spouse (non-biological)'s new spouse.\r\n13- Spouse's biological relative's widower spouse (non-biological)'s new spouse.\r\n14- Biological relative's widower spouse (non-biological)'s new spouse's lineal ascendant, lineal descendant and collateral relative.\r\n15- Spouse's biological relative's widower spouse (non-biological)'s new spouse's lineal ascendant, lineal descendant and collateral relative.\r\n16- Family members of people who are lovingly related without commitment.\r\n17- Someone who lovingly relates without strings attached to the family members of another [living being].\r\n18- Without kinship.\r\n19- Without social bond and without kinship at the same time.",
+      "example": "—",
+      "written_on": "2023-03-30T08:29:55.701Z"
     }
   ],
   "#MAWA": [
@@ -147519,6 +147525,30 @@
       "definition": "The cost of freedom, [according to] the song in \"Team America: [World Police].\"  [Pronounced] \"buck-o-five.\"",
       "example": "\"Freedom isn't free, it costs folks like you and me\r\nAnd if we don't all chip in, we'll never pay that bill\r\nFreedom isn't free, no there's a hefty fuckin' fee\r\nAnd if you don't throw in your buck-o-five, who will?\"\r\n-\"Freedom Isn't Free,\" from \"Team America\"\r\n\r\nOrder-taker: \"Welcome to McDonald's, can I take your order?\"\r\nKevin: \"I'm not too hungry today...just get me some freedom, some ice water, and 15 [ketchup packets].\"\r\nOrder-taker: \"Would you like [freedom fries] with that?\"\r\nKevin: \"No, just the plain old freedom, the water, and the...um...catsup.\"\r\nOrder-taker: \"OK, that'll be $1.05.  Pull ahead to the first window.\"\r\n\r\nBilly: \"Man this Patriot Act is bullshit.  What happened to good old freedom?\"\r\nJudd: \"Well when they were collecting everyone's $1.05, I was a nickel short.  That might have [something to do] with it.\"\r\nBilly: \"F-ing douche bag.\"",
       "written_on": "2005-11-16T00:00:00Z"
+    }
+  ],
+  "03:37": [
+    {
+      "defid": 14948989,
+      "definition": "[The best thing] that can happen to you. Be proud of it. [Respect] it. Do not abandon it. It will always be there for you. [Just don't] be a peder.",
+      "example": "[What time is it]?\r\n03:37\r\n[This is] [happening].",
+      "written_on": "2020-04-30T00:00:00Z"
+    }
+  ],
+  "`~` I Canot Believe This`~`": [
+    {
+      "defid": 18462231,
+      "definition": "`~` I Canot [Believe] This`~`",
+      "example": "`~` I Canot [Believe] This`~`",
+      "written_on": "2025-03-30T15:28:01.897Z"
+    }
+  ],
+  "66 Day": [
+    {
+      "defid": 17410830,
+      "definition": "66 Day, is a cultural and [religious] [celebration] held on [October 31st], celebrating the birth date of 0101010, the foremost patron saint.",
+      "example": "[Happy] 66 Day ! [Like] [Omg 66] !",
+      "written_on": "2022-08-15T10:06:23.344Z"
     }
   ]
 }
