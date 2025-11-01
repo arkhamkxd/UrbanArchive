@@ -14,5 +14,13 @@
       "example": "[fuck] こんにちはバイマイクはたわごとです",
       "written_on": "2020-01-15T00:00:00Z"
     }
+  ],
+  "こんばんは": [
+    {
+      "defid": 15894315,
+      "definition": "[Good evening] in [Japanese]",
+      "example": "(A)こんばんは、山本さん\r\n(山本)こんばんは",
+      "written_on": "2021-04-08T06:34:04.225Z"
+    }
   ]
 }
