@@ -148568,5 +148568,21 @@
       "example": "33 [School Bus] is [full of] [weirdos]",
       "written_on": "2022-06-06T03:30:46.913Z"
     }
+  ],
+  "5.3": [
+    {
+      "defid": 439018,
+      "definition": "[average] [length] ([inches]) of a mid-European penis (eg. German)",
+      "example": "The Irishman's [average] 6.5\" [penis] outstretched the German's 5.3\" [weapon]",
+      "written_on": "2004-01-10T00:00:00Z"
+    }
+  ],
+  "🚂": [
+    {
+      "defid": 14835689,
+      "definition": "It’s [a train]. Also goes, [choo choo], chug, chuff, and [woot woot] 🚂.",
+      "example": "[Train]: 🚂",
+      "written_on": "2020-03-27T00:00:00Z"
+    }
   ]
 }
