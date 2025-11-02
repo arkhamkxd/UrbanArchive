@@ -22,5 +22,13 @@
       "example": "person1:здраво\n\nperson2:здраво",
       "written_on": "2020-11-15T06:18:37.512Z"
     }
+  ],
+  "Здравствуйте": [
+    {
+      "defid": 15672633,
+      "definition": "This is [the formal] [way to say] \"Hello\" in Russian in the [Cyrillic] Script. When Latinized, it is Zdrastvuyte.",
+      "example": "[Person 1]: Здравствуйте, как дела?\r\n[Person 2]: Спасибо, хорошо.",
+      "written_on": "2021-01-19T08:56:20.107Z"
+    }
   ]
 }
