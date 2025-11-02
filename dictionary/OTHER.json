@@ -152404,5 +152404,13 @@
       "example": "Al: [I can't] [get this] thing to work.\r\nMatt: The 10% factor has [you down]!",
       "written_on": "2006-09-01T00:00:00Z"
     }
+  ],
+  "6 bucks": [
+    {
+      "defid": 17176006,
+      "definition": "The [average] fee for [the option] on Uber for the \"Quiet Preferred\", often referred to as the \"[Fuck Off] Fee.\"",
+      "example": "\"Oh, there's a quiet preferred [option] now,\"\r\n\"Wait...so you can pay 6 bucks to tell [this dude] to [fuck off]?\"\r\n\"Done.\"",
+      "written_on": "2022-04-23T02:11:26.807Z"
+    }
   ]
 }
