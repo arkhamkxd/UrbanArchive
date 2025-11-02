@@ -90892,5 +90892,13 @@
       "example": "[Hello] Zer how may I help you?\n\nMay I [get the door] for you Zer?\n\n[Thankyou] for your time Zer!",
       "written_on": "2019-04-22T00:00:00Z"
     }
+  ],
+  "Zoombie": [
+    {
+      "defid": 14837495,
+      "definition": "Person who becomes [the living dead] by [spending] all day on video conferences, [especially] on Zoom",
+      "example": "I spent [all day] [online], and now I've [turned] into a Zoombie",
+      "written_on": "2020-03-28T00:00:00Z"
+    }
   ]
 }
