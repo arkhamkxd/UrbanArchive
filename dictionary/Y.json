@@ -145274,5 +145274,21 @@
       "example": "That [party] was [kicking] until those yayhoos [crashed] it.",
       "written_on": "2007-01-11T00:00:00Z"
     }
+  ],
+  "you’re in china": [
+    {
+      "defid": 14061706,
+      "definition": "1) the figurative meaning is when you over exaggerating the physical [distance].\n\n2) the literal meaning is when someone is [actually] located a great [distance] away.",
+      "example": "I’m not [driving] that far! [You’re] in [China]! But I’m only 25 mins away.",
+      "written_on": "2019-07-14T00:00:00Z"
+    }
+  ],
+  "yadadoo": [
+    {
+      "defid": 3800503,
+      "definition": "[i know] what [you mean]",
+      "example": "John: [I'm tired]. [yadada]? \r\n[Ricky]: YADADOO.",
+      "written_on": "2009-03-14T00:00:00Z"
+    }
   ]
 }
