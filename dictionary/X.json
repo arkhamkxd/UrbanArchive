@@ -26184,5 +26184,21 @@
       "example": "Used in the closing of a [conversation].\n\nHim: Hey. I left those tickets that you wanted on your [nightstand].\n\nHer: Thanks [You're the best]!\r\nHim: I know. :-)\r\nHer: xoxogbx... tonight!\r\nHim: Woohoo!",
       "written_on": "2010-04-13T00:00:00Z"
     }
+  ],
+  "Xhasmin": [
+    {
+      "defid": 16110072,
+      "definition": "[Cutest person] to [exist]",
+      "example": "Xhasmin [rama] is so [pretty]",
+      "written_on": "2021-06-17T15:23:22.616Z"
+    }
+  ],
+  "xeffect": [
+    {
+      "defid": 2648116,
+      "definition": "[A word] used to describe a [very bad] [player] at WoW.",
+      "example": "An xeffect [just] [ninjad] our [loot].",
+      "written_on": "2007-11-09T00:00:00Z"
+    }
   ]
 }
