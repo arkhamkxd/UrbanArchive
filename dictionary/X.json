@@ -26522,5 +26522,13 @@
       "example": "Only a xhediku is a [real] xhediku",
       "written_on": "2021-11-23T11:01:13.699Z"
     }
+  ],
+  "Xylem": [
+    {
+      "defid": 1101502,
+      "definition": "[Tissue] found in [tomato] [plants] that transmits fluid.",
+      "example": "Xylem transmits fluids.",
+      "written_on": "2005-03-05T00:00:00Z"
+    }
   ]
 }
