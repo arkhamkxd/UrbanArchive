@@ -114520,5 +114520,37 @@
       "example": "[I don’t want to] park [over there]; it seems [those people] did a lot of unintentional xeriscaping.",
       "written_on": "2022-08-02T22:39:13.156Z"
     }
+  ],
+  "uglyly": [
+    {
+      "defid": 12956452,
+      "definition": "an abverb for [ugly]",
+      "example": "[you are] uglyly [ugly]",
+      "written_on": "2018-06-10T00:00:00Z"
+    }
+  ],
+  "uhruh": [
+    {
+      "defid": 5185255,
+      "definition": "slang version of \"oohrah!\" used by marines to greet each other or express [motivation] or [understanding] of a task or briefing. usually used as [false motivation] when one of lower ranks is tasked with a gay task that nobody wants to do...",
+      "example": "Sergeant: Hey PFC, go fill up those sandbags\r\nPFC: Uhruh sergeant, kill babies!\n\n[Corporal]: Hey PFC [nice job] on that log run today\r\nPFC: Uhruh [Corporal], thanks!",
+      "written_on": "2010-08-28T00:00:00Z"
+    }
+  ],
+  "unofficial date": [
+    {
+      "defid": 4466440,
+      "definition": "An unofficial date is when it is [basically] [going on a date] but when you were asked it wasn't said that it was [actually] a date.",
+      "example": "EXAMPLE OF UNOFFICIAL DATE\n\nKevin: Hey do you want to do a project for school with me.?\n\nAllie: Yea sure, but can go to [the movies] or [something] like shopping after?\n\nKevin: Yea that would be fun and we can get some lunch and [everything]. How about tomorrow?",
+      "written_on": "2009-12-29T00:00:00Z"
+    }
+  ],
+  "U.S. Navy Seal Team Six": [
+    {
+      "defid": 5840065,
+      "definition": "An Elite group of U.S. [Navy Seals].\n\nMost notably, they are the elite group [responsible] for the killing of terrorist, [Osama Bin Laden].",
+      "example": "[Osama Bin Laden]: No one will get me now, I'm so totally invincible and brave, hiding here like a [little bitch].\n\nU.S. Navy [Seal Team Six]: \"Roger that, tango in my sights, over\". ...... \"Headshot\".",
+      "written_on": "2011-09-24T00:00:00Z"
+    }
   ]
 }
