@@ -153340,5 +153340,37 @@
       "example": "<.[7.9].7.6.>[I Love] [Stoves]<.7.9.7.6.>",
       "written_on": "2025-04-30T16:53:43.123Z"
     }
+  ],
+  "85 dollar me": [
+    {
+      "defid": 204926,
+      "definition": "v. To become confused in a [financial] [transaction], ending up with 85 dollars less than you [originally] began with.",
+      "example": "The pizza guy [definitely] 85 dollared me, officer. He told me it would be 10 bucks for the pizza. I asked him if he could break a hundred, and he said \"sure.\" Then he mentioned something about a tax for apartments above the 5th floor, gas surcharge, [long distance] [delivery fee], and a penalty for ordering more than 3 toppings on my pizza. The next thing I know, I'm only getting 15 bucks change and the guy's already in the elevator going downstairs.",
+      "written_on": "2003-08-05T00:00:00Z"
+    }
+  ],
+  "4r4r": [
+    {
+      "defid": 15504274,
+      "definition": "4(for)Real 4(for)[eveR]\r\n4(for)Real 4(for)Real\r\n4(for)[eveR] 4(for)[eveR]",
+      "example": "Be 4r4r",
+      "written_on": "2020-11-20T19:43:21.588Z"
+    }
+  ],
+  "($$$_$$$)": [
+    {
+      "defid": 14324292,
+      "definition": "[RICH]",
+      "example": "He is so [rich] he is ($$$_$$$)",
+      "written_on": "2019-10-22T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>SUBSRIBE<.7.9.7.6.>": [
+    {
+      "defid": 18499657,
+      "definition": "<.[7.9].[7.6].>SUBSRIBE<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>SUBSRIBE<.[7.9].7.6.>",
+      "written_on": "2025-06-06T12:11:27.849Z"
+    }
   ]
 }
