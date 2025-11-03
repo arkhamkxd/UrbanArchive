@@ -26332,5 +26332,13 @@
       "example": "[hey] [look it]’s xxsavagegorlxx she’s [so cool]",
       "written_on": "2023-11-21T09:19:01.694Z"
     }
+  ],
+  "X-Men: First Class (2011)": [
+    {
+      "defid": 6644244,
+      "definition": "X-Men: First Class is a 2011 American superhero film directed by Matthew Vaughn and produced by Bryan Singer, based on the X-Men characters appearing in Marvel Comics. The fifth installment in the X-Men series, the film acts as a prequel for the original X-Men trilogy, being set primarily in 1962 during the Cuban Missile Crisis. It focuses on the [relationship] between Charles Xavier (Professor X) and Erik Lensherr (Magneto), and the origin of their groups—the X-Men and the Brotherhood of Mutants, respectively. The film stars James McAvoy as Xavier and Michael Fassbender as Lensherr, leading an ensemble cast that includes Kevin Bacon, January Jones, Rose Byrne, [Jennifer Lawrence], Zoë Kravitz, [Nicholas Hoult] and Lucas Till.",
+      "example": "X-Men: First Class (2011)\r\nErik Lehnsherr: Excuse me, I'm Erik Lehnsherr.\r\nProfessor Charles Xavier: Charles Xavier.\r\nLogan: [Go fuck yourself].\n\nErik Lehnsherr: (before Charles uses Cerebro for the first time) What an adorable lab rat you make, Charles.\r\nProfessor Charles Xavier: Don't spoil this for me, Erik.\r\nErik Lehnsherr: I've been a lab rat. I know when I see one.\n\n(about the Class going into action)\r\nProfessor Charles Xavier: They're just kids...\r\nErik Lehnsherr: No, they WERE kids. Shaw has his army, we need ours.\n\nErik Lehnsherr: (Shaw's mind is frozen by Charles) If [you're in there], I'd like you to know that I agree with every word you said. We are the future. But, [unfortunately], you killed my mother. This is what we're gonna do.\r\nProfessor Charles Xavier: No. Please, Erik, no.\r\nErik Lehnsherr: I am going to count to three and I'm going to move the coin. One.\r\n(moves the coin at Shaw's head)\r\nProfessor Charles Xavier: Please, Erik.\r\nErik Lehnsherr: Two. Three.\n\n(Magneto halts [the missile] barrage and directs it upon the fleet)\r\nProfessor Charles Xavier: Erik, you said yourself we're the better men. This is the time to prove it. There are thousands of men on those ships who are just following orders.\r\nErik Lehnsherr: I've been at the mercy of men just following orders. Never again.",
+      "written_on": "2012-06-27T00:00:00Z"
+    }
   ]
 }
