@@ -7003,6 +7003,12 @@
       "definition": "Best [nightclub] in [the World]. Located in Midtown Atlanta. [Reaches] 3500 people on good nights.",
       "example": "[Shawty], [did you] go to T.I. album and movie [release party] at Vision.",
       "written_on": "2006-07-08T00:00:00Z"
+    },
+    {
+      "defid": 13580687,
+      "definition": "The [nice ass] of [a women].",
+      "example": "[Damn] our new [history teacher] has a [nice] vision",
+      "written_on": "2019-02-02T00:00:00Z"
     }
   ],
   "Vyusti": [
@@ -38377,6 +38383,12 @@
       "definition": "VC stands for [Venture Capitalist]. A VC is an investor that provides [financial] and business support to companies. This is usually in exchange for equity in [the company].",
       "example": "[Mark Cuban] is my [favorite] VC on [Shark Tank].",
       "written_on": "2019-11-29T00:00:00Z"
+    },
+    {
+      "defid": 17002703,
+      "definition": "[Abbreviation] of voice chat. Most [commonly] used in [Discord] servers.",
+      "example": "\"I'm gonna be [streaming] [Geometry Dash] in VC if [anyone] wants to watch\"",
+      "written_on": "2022-02-17T21:55:06.52Z"
     }
   ],
   "Vagunk": [
@@ -143169,6 +143181,38 @@
       "definition": "The empty feeling between being sad and being [depressed] were actions lose their meaning and you just exist and you can never feel any form of contempt. With 1000 toughes spinning around [your head] and you question what [happiness] and sadness actually is.",
       "example": "\"James seems off today, is he sad about [something]\"? \" no, he [just feeling] kinda Vanaq [at the moment]\"",
       "written_on": "2022-01-20T15:44:14.704Z"
+    }
+  ],
+  "virtual wire": [
+    {
+      "defid": 5616142,
+      "definition": "What is a virtual wire ?\r\n\t\r\nA virtual wire connects two ends of a controlled system using a radio frequency (RF) medium. The transmitting-end is hard-wired to the physical source control(s), e.g., foot pedal. The receiving-end is hard-wired to the device(s) being controlled, e.g. electro-surgical [generator].\n\nOn activation of the source controls, the [transmitter] sends a continuous stream of data packets to the receiver. Each data packet indicates the current state of the source controls. The receiver actuates the [associated] device(s) as directed by control [information] in the data packets. If the stream of data packets ceases, for any reason, then the receiver must turn off all devices being controlled, [i.e]., enter a fail-safe state.\n\nThe key element of the virtual wire paradigm is to provides a fail-safe mechanism based on a loss-of-signal (LOS) condition. LOS at the receiver-end is defined as the absence of the transmitters continuous data packet stream. If the receiver detects a LOS, it enters a fail-safe state, that typically results in deactivation of all devices being controlled.\n\nA virtual-wired system is analogous to a hard-wired system, in that a switched [electrical] current flow gates the activation of a device; if the electric current flow ceases, for any reason, then the controlled device deactivates.",
+      "example": "NearOnControls Model Revere-101 2.4GHz [virtual] wire [switching] [system].",
+      "written_on": "2011-03-17T00:00:00Z"
+    }
+  ],
+  "Vahgeena": [
+    {
+      "defid": 2926952,
+      "definition": "its [how you] [pronounce] [Vagina] in German.",
+      "example": "[i need] a [flugenheimer] for my vahgeena",
+      "written_on": "2008-03-15T00:00:00Z"
+    }
+  ],
+  "vagina brain": [
+    {
+      "defid": 1958018,
+      "definition": "One who's brain is infused with their vagina.\r\nAlso known as an asshole, a [dickhead], and a shithead.\r\n\r\n[Discovered] by an Asian and a White guuurl who were [insanely] high.",
+      "example": "[Pass the joint] you [vagina] [brain]!",
+      "written_on": "2006-09-05T00:00:00Z"
+    }
+  ],
+  "vrxcv": [
+    {
+      "defid": 17870278,
+      "definition": "vrxcv aka daddy is a \"[rizzler]\" who uses any means to get [girls] to say [downbad] shit 😽",
+      "example": "[Omg] vrxcv is [so hot]",
+      "written_on": "2023-07-27T06:17:32.003Z"
     }
   ]
 }
