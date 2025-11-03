@@ -229038,5 +229038,45 @@
       "example": "[Mom]: [whatr] u doing\r\nMe: IHAF\r\nMom: what?\r\nMe: [yea]",
       "written_on": "2011-09-27T00:00:00Z"
     }
+  ],
+  "ICW": [
+    {
+      "defid": 12245979,
+      "definition": "I [can't wait]",
+      "example": "Icw=I [can't wait] to go [the party] [tonight]",
+      "written_on": "2017-12-05T00:00:00Z"
+    }
+  ],
+  "illest alive": [
+    {
+      "defid": 494817,
+      "definition": "[Canibus], an emcee [so sick] he's got AIDS [scared] to catch him.",
+      "example": "[Canibus] is the [illest] alive, [not you]!",
+      "written_on": "2004-02-07T00:00:00Z"
+    }
+  ],
+  "i'm sayin": [
+    {
+      "defid": 5460723,
+      "definition": "Shortened [version] of \"[you know what I'm sayin']?\".",
+      "example": "-i'm so [ready] to [smoke a blunt] [now].\n\n-I'm sayin'.",
+      "written_on": "2010-12-24T00:00:00Z"
+    }
+  ],
+  "insanity on a stick": [
+    {
+      "defid": 5946397,
+      "definition": "Used to describe an [activity] or situation [that is crazy] or [outrageous].",
+      "example": "John: I had nine cups of coffee [yesterday]. It was insanity on a stick.\r\nMike: If you think that's insanity on a stick, [you should] hear about my day. I nearly got eaten by a hyena, and then I got home and found out my cat had been shot. It was insanity on a stick.\r\nJohn and Mike [simultaneously]: Insanity on a stick!",
+      "written_on": "2011-07-11T00:00:00Z"
+    }
+  ],
+  "ignert": [
+    {
+      "defid": 2678216,
+      "definition": "[short] for [ignorant], used in [the south].",
+      "example": "You ain't [watching] the [NASCAR] race today, [what is] you ignert?",
+      "written_on": "2007-12-01T00:00:00Z"
+    }
   ]
 }
