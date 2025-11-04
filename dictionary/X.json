@@ -26610,5 +26610,21 @@
       "example": "[Person]: wag1 can i pay for this using Xard Anodit Creddy?\r\nShopkeeper: ya you can [person]\r\n[Person]: ight klkl *enters card enters pin stuff paid for gets recipt walks out shop*",
       "written_on": "2010-08-07T00:00:00Z"
     }
+  ],
+  "xxunicornii": [
+    {
+      "defid": 16207071,
+      "definition": "Xxunicornii is a [very funny] [mutual]!",
+      "example": "Do [you know] about Xxunicornii?\n\nNo?\n\n[Well] [you should] >:(",
+      "written_on": "2021-07-25T09:15:32.132Z"
+    }
+  ],
+  "xero backlash": [
+    {
+      "defid": 2678665,
+      "definition": "Only forward motion. [Pronounced] \"Z-ero [Backlash]\" Also [defined] as- Never look back. and/or always look forward.",
+      "example": "There's xero [backlash] for being who [you are]. Just [keep moving forward] and no one can stop you.",
+      "written_on": "2007-12-01T00:00:00Z"
+    }
   ]
 }
