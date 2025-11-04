@@ -8211,6 +8211,12 @@
       "definition": "quin is [a cute] lito [sexie] [bitch]",
       "example": "",
       "written_on": "2003-06-27T00:00:00Z"
+    },
+    {
+      "defid": 14493168,
+      "definition": "A mod on the [Swiss] [server], who [should be] a mod.",
+      "example": "[Jkjk], [unless]~ quin",
+      "written_on": "2019-11-30T00:00:00Z"
     }
   ],
   "Qodzrrs": [
@@ -64511,6 +64517,30 @@
       "definition": "A [hat rack] made of ducks in [the shape] of a coat rack that [looks like] a lamp but isn't",
       "example": "Yeah [good luck with that] [quack] rack it's been [squawking] at me for years",
       "written_on": "2018-05-02T00:00:00Z"
+    }
+  ],
+  "Quine": [
+    {
+      "defid": 13864880,
+      "definition": "[Spending money] and [attention] for girls that don’t deserve it. [Equivalent] to simping.",
+      "example": "Yo look [that guy] just got quined\r\n[What a] [waste of money]",
+      "written_on": "2019-05-01T00:00:00Z"
+    }
+  ],
+  "quit talking out of your ass": [
+    {
+      "defid": 7690294,
+      "definition": "[Speaking] on a topic [you know] [nothing] about.",
+      "example": "Politics? Again? You need to quit [talking out of your ass]. [You don't even know] who [the President] is!",
+      "written_on": "2014-05-16T00:00:00Z"
+    }
+  ],
+  "quirkedy": [
+    {
+      "defid": 6681823,
+      "definition": "Film genre combining quirky and comedy. Slightly derogatory. A sub-par film that is intended to be quirky and funny, a la Wes Anderson, [John Waters], or Tim Burton, but falls short of its goal. Too cute by half, perhaps. [Not to be confused with] a dark comedy, which by comparison is fully-realized.\n\nCoined by [Adam Carolla], on his daily podcast, May 30, 2012",
+      "example": "Mars Attacks\r\n[Garden State]\r\nThe Darjeeling Limited\n\nCounter-example: [Heathers] is not a quirkedy, because it reaches its [intended] goal of being weird and funny.\n\nCounter-example 2: Most of Tim Burton's lesser works.",
+      "written_on": "2012-07-19T00:00:00Z"
     }
   ]
 }
