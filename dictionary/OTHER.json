@@ -34695,6 +34695,12 @@
       "definition": "[url] [language] for %",
       "example": "www . [urbandictionary] . com / define . php ? term = %2525\r\n(this was [seperated] with spaces because [urban dictionary] can't contain links)",
       "written_on": "2021-08-15T01:37:20.599Z"
+    },
+    {
+      "defid": 16859439,
+      "definition": "%",
+      "example": "%25 is %.",
+      "written_on": "2021-12-23T10:24:46.277Z"
     }
   ],
   "[stuck in the middle]": [
