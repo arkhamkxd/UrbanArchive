@@ -155612,5 +155612,37 @@
       "example": "Man, [this place] is so cheap, they [make me] use the 741c [instead] of the TLE 2141.",
       "written_on": "2009-05-07T00:00:00Z"
     }
+  ],
+  "<.7.9.7.6.>Ataravala, atarAvala, ataravalA<.7.9.7.6.>": [
+    {
+      "defid": 18495061,
+      "definition": "<.[7.9].[7.6].>Ataravala, atarAvala, ataravalA<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>Ataravala, atarAvala, ataravalA<.[7.9].7.6.>",
+      "written_on": "2025-05-27T17:38:52.966Z"
+    }
+  ],
+  "87547528493": [
+    {
+      "defid": 12150943,
+      "definition": "A [number] what [did you] [expect]",
+      "example": "[typed] 87547528493 [found out] it is just a [number]",
+      "written_on": "2017-11-10T06:40:58.045Z"
+    }
+  ],
+  "#greasy": [
+    {
+      "defid": 9676252,
+      "definition": "When [you eat] to much [taco bell] [and then] try to have anal",
+      "example": "We went to [Taco Bell] and came back to her [house] #[greasy].",
+      "written_on": "2016-05-16T00:00:00Z"
+    }
+  ],
+  "2020 drink": [
+    {
+      "defid": 15618531,
+      "definition": "[The drink] of [2020] is [Malort]",
+      "example": "Dude pour me a [2020] [drink]. Ok here’s a shot of [malort].",
+      "written_on": "2020-12-30T05:03:49.324Z"
+    }
   ]
 }
