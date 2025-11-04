@@ -115410,5 +115410,13 @@
       "example": "[Unknown Soldier] in USA, [Canada] and [France]",
       "written_on": "2005-03-17T00:00:00Z"
     }
+  ],
+  "uglies": [
+    {
+      "defid": 3014914,
+      "definition": "[Another] [way to say] [ugly].",
+      "example": "I've [got a case of the] uglies [today].  \r\nShe's got the [hella] uglies!",
+      "written_on": "2008-04-17T00:00:00Z"
+    }
   ]
 }
