@@ -49531,6 +49531,12 @@
       "definition": "Being [half] of 100, [not loyal] or [trusting]",
       "example": "Drew: aye [I heard] yo girl fucked [another] dude.\n\nDaniel: [yeah son], she so 50 for that.",
       "written_on": "2014-05-12T00:00:00Z"
+    },
+    {
+      "defid": 1184200,
+      "definition": "Labatt 50. [Canadian beer] known for its [distinct] flavour and brutal hangover. [Particularly] popular in small towns.",
+      "example": "[Buy] me a 50 eh? [I'll pay you back].",
+      "written_on": "2005-04-12T00:00:00Z"
     }
   ],
   "30 Hour Famine": [
@@ -99049,6 +99055,12 @@
       "definition": "[The most] swag [person] ever, if u see her, ur [lucky] as frik. She so hawt too 🥵",
       "example": "[Random dude]: who's @k00pika_?\r\nYou: [the most] swag, hot [human] ever to live ever",
       "written_on": "2021-03-23T10:07:46.294Z"
+    },
+    {
+      "defid": 15848626,
+      "definition": "The [hottest person] on [the planet]. If you [look at] her she’ll blow u away with her hotness.",
+      "example": "[Random person]: Omg who is that?? They’re SOO hot\r\nMe: oh that’s @k00pika_ the [hottest person] on [the planet]",
+      "written_on": "2021-03-22T15:38:58.26Z"
     }
   ],
   "13enj1_": [
@@ -158777,6 +158789,30 @@
       "definition": "The year predicted we cannot turn back [climate change]. If world governments do not act sooner in a combined effort to reduce carbon emissions by putting forth better farming techniques and planting more vegetation, the world very well may become a nearly inhospitable, carbon choked land of crowded people and flooded states and providences. The world may become fractured in its entirety. If Mars isn’t colonized sooner, it may not even be a viable option for humanity to take refuge as it would take billions and billions upon billions of dollars to send expensive spacecraft with expensive people to maintain over a several month trip along with technology and shelter transport. This could lead to global superpowers getting impatient and desperate for resources as most lands with rich [natural resource] deposits will be flooded leading to potential [nuclear war] and the eradication of humanity as a whole, leaving only a smoldering blue dot for extraterrestrials to look at for a moment.",
       "example": "[Hope] for a [better] 2100.",
       "written_on": "2024-01-28T21:47:27.223Z"
+    }
+  ],
+  "(n-1) tier": [
+    {
+      "defid": 5009213,
+      "definition": "Whereas a modern web software application has separate layers for [presentation] (user interface), business logic, and storage etc. (because modular [construction] is easier to build and debug) it is usually called an \"n-tier [architecture]\", where n represents the number of modules or layers. It is much more secure and robust than the \"old way\" (1-tier), where one machine was the web server, file server, database, and firewall. A program which has illogical or insufficient rules (i.e. absence of business logic) can be termed \"(n-1) tier\", as a crucial part (usually the part that makes the software smart or helpful) has obviously been omitted by scatterbrained developers, detached managers, clueless requirements analysts, dumb pilot members, etc.",
+      "example": "[Employee] A: Did you submit your travel costs yet?\r\nEmployee B: No, our stupid online expense system kept giving me a cryptic error.\r\nEmployee A: Yup, that EOM app is an (n-1) tier system...\n\nBoss: I need you to fix your time charges for last week. You entered 45 hours instead of 4.5 hours on [Wednesday].\r\nSubject: Must've been a fat-finger. Too bad our [accounting] system can't catch that obvious error. It's just another (n-1) tier waste of code.",
+      "written_on": "2010-06-03T00:00:00Z"
+    }
+  ],
+  ",,l,,": [
+    {
+      "defid": 2734703,
+      "definition": "[Leet speak] for flipping someone off. The commas [translate] as the fingers and the l is [the middle finger]. Usually used in gaming environments or IMs.",
+      "example": "[Player 1]: Dude, I just pwnd [your ass]!\r\n[Player 2]: ,,l,,",
+      "written_on": "2008-01-04T00:00:00Z"
+    }
+  ],
+  "5 Seconds of Direction": [
+    {
+      "defid": 14361424,
+      "definition": "5 Seconds of Direction is 9 guys consisting of [One Direction] and [5 Seconds of Summer]. They toured together for One Direction's [Take Me Home] and Where We Are tour. These 9 boys are the reason that millions of fangirls had could not function properly and have major fangirl moments. But now these fangirls are hoping these 9 boys collab and go on tour again.",
+      "example": "These boys, 5 [seconds] of [direction], saved our [lives].",
+      "written_on": "2019-10-30T00:00:00Z"
     }
   ]
 }
