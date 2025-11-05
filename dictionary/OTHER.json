@@ -3035,6 +3035,12 @@
       "definition": ". is [curtis] but [small]",
       "example": "[hey] .",
       "written_on": "2022-02-22T08:10:57.623Z"
+    },
+    {
+      "defid": 17117067,
+      "definition": "this can be used in [confusion] but [wordless]\r\nso you type \".\" [instead], it also can be used with \"...\" but \".\" is much funnier than that\r\n(please use ... in your work)",
+      "example": "*[somehow] lost a 5v1 gamplay*\r\n[the mvp] in [the team]: .",
+      "written_on": "2022-03-31T20:00:07.309Z"
     }
   ],
   "🤨": [
@@ -157417,6 +157423,22 @@
       "definition": "An [advocate] of Ⓡommunism.",
       "example": "I am a Ⓡommunist, please [do not] [confuse] me with a [Communist],",
       "written_on": "2018-03-09T00:00:00Z"
+    }
+  ],
+  "2305843009213693951": [
+    {
+      "defid": 18361089,
+      "definition": "[9th] Mersenne [prime]",
+      "example": "2^61-1 = 2305843009213693951",
+      "written_on": "2024-11-07T08:53:37.232Z"
+    }
+  ],
+  "#Adarlikeslexibutdoesntlikehimback": [
+    {
+      "defid": 15461066,
+      "definition": "Its where [a person] named adar likes [someone] named lexi\r\nBut she [doesnt] like him back",
+      "example": "[Lexi]:idont [like] you\r\n#Adarlikeslexibutdoesntlikehimback",
+      "written_on": "2020-11-07T14:37:41.167Z"
     }
   ]
 }
