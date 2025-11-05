@@ -116416,5 +116416,21 @@
       "example": "Ungala-bungala",
       "written_on": "2003-10-29T00:00:00Z"
     }
+  ],
+  "urban32": [
+    {
+      "defid": 17290360,
+      "definition": "[urban]",
+      "example": "urban32 [my friend]",
+      "written_on": "2022-06-06T18:29:01.251Z"
+    }
+  ],
+  "untied": [
+    {
+      "defid": 879878,
+      "definition": "Very [common] [mispelling] of \"[united]\".",
+      "example": "\"Making a typo [that reads] 'UNTIED States of America' is [very very very] very [very bad].  Watch out!\"\r\n-me",
+      "written_on": "2004-10-31T00:00:00Z"
+    }
   ]
 }
