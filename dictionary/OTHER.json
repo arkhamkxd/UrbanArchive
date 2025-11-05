@@ -158302,5 +158302,21 @@
       "example": "([Larbear])[Alvarez] is [great]",
       "written_on": "2023-01-24T11:47:53.279Z"
     }
+  ],
+  "《¤》Bachlut《¤》Versus《¤》Hellstrom《¤》bacHlut《¤》verUsus《¤》hellStrom《¤》bachluT《¤》versuS《¤》hellstroM《¤》": [
+    {
+      "defid": 18440151,
+      "definition": ".",
+      "example": "《¤》Bachlut《¤》[Versus]《¤》Hellstrom《¤》bacHlut《¤》verUsus《¤》hellStrom《¤》bachluT《¤》[versuS]《¤》hellstroM《¤》",
+      "written_on": "2025-02-26T13:57:12.718Z"
+    }
+  ],
+  "3620": [
+    {
+      "defid": 3946583,
+      "definition": "An in game small charm for [Diablo 2]\n\n[normally] referred as 36/20\n\n[defined] as\r\n36+ attack rating\r\n20+ life",
+      "example": "jspnerd1: yo [this guy] is [selling] 37 3620's for 3k bin\r\nyay or nay?\n\njspnerd2: nah, i'd [go with] 10/76/45's those are for zealers",
+      "written_on": "2009-05-06T00:00:00Z"
+    }
   ]
 }
