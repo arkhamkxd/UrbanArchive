@@ -153358,5 +153358,29 @@
       "example": "Q: Are [you going] to do that job [for me]?\n\nA: [Yeppity] yep",
       "written_on": "2010-12-16T00:00:00Z"
     }
+  ],
+  "You play": [
+    {
+      "defid": 13045122,
+      "definition": "[It’s] sort [for you] [play too much]",
+      "example": "[When you] are focused on [something] but someone keeps [ignoring] you so you tell him/her you play",
+      "written_on": "2018-07-04T00:00:00Z"
+    }
+  ],
+  "Yardio": [
+    {
+      "defid": 18253999,
+      "definition": "The act of performing [yard work] [to the extent] that it constitutes a [workout].",
+      "example": "[No need] to [hit the gym], I [already] got my yardio in.",
+      "written_on": "2024-06-22T18:54:54.016Z"
+    }
+  ],
+  "You turn me": [
+    {
+      "defid": 7089007,
+      "definition": "A phrase used by gay people when they want to [compliment] a woman on her looks, they may say \"You turn me\"- [the woman] looks so [beautiful] that she turns them from gay to straight.",
+      "example": "*Amanda walks into [the room]*\r\n[Straight] guy: You look [beautiful] tonight\r\nGay guy: Amanda you turn me",
+      "written_on": "2013-06-17T00:00:00Z"
+    }
   ]
 }
