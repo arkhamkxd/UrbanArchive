@@ -236946,5 +236946,13 @@
       "example": "[Damn] [guys] Rob is [so hot]! But he's no Iavor!\"",
       "written_on": "2010-11-04T00:00:00Z"
     }
+  ],
+  "infotaintment": [
+    {
+      "defid": 15633834,
+      "definition": "Tainted infotaintment - i.e. [infotainment] based on false news, lies, rumour and [conspiracy theories]. Most things said by [Donald Trump].",
+      "example": "[Donald Trump] claims the [election] was \"stolen\" - infotaintment at its [finest].",
+      "written_on": "2021-01-04T17:41:06.833Z"
+    }
   ]
 }
