@@ -157872,5 +157872,29 @@
       "example": "[Would you like to] see [my 1] [Gucci Belt] ?",
       "written_on": "2019-11-06T00:00:00Z"
     }
+  ],
+  "-5 to 5 Scale": [
+    {
+      "defid": 8915222,
+      "definition": "The -5 to 5 is a more logical rating scale than 1-10 having negative convey repulsion and positive convey attraction. It also has 11 choices instead of 10 and is useful in getting an honest rating without the baggage of the 1-10 scale.\n\n-5 Extremely Repulsed, would not touch with a 10 foot pole\r\n-4 Very ugly, but you are able to resist the urge to throw up [in your mouth]\r\n-3 On the very ugly side no doubt but not the ugliest you've ever seen\r\n-2 Definitely not good looking, maybe fat\r\n-1 Not naturally blessed and maybe has a crooked nose or some defect\r\n0 Neutral; No Opinion\r\n1 Not very attractive, but not completely useless to look at\r\n2 Decent looking but someone [you are not] very interested in\r\n3 Very Attracted, you definitely think this person is attractive\r\n4 Super attractive, but not quite the [perfect person] for you\r\n5 Extremely Attracted, your type in every way",
+      "example": "\"Hey bro [rate that] girl on the -5 to 5 Scale.\"\r\n\"Ehh id [give her] a 2 shes not bad but i'm [not really] into her\"",
+      "written_on": "2016-03-24T00:00:00Z"
+    }
+  ],
+  "[fucked].com": [
+    {
+      "defid": 3533924,
+      "definition": "say if u have a test or exam and you [didnt] [prepare] [for it].....",
+      "example": "[Jesus]....[im fucked].[com]!!",
+      "written_on": "2008-12-17T00:00:00Z"
+    }
+  ],
+  "🔍": [
+    {
+      "defid": 15935815,
+      "definition": "[Looking for] [naughty things] [to be] done",
+      "example": "Jennifer: Oh I could tell Isaac wanted to [do something] naughty\r\n[Klarissa]: how [did you know]?\r\nJennifer he sent this: 🔍\r\n*gasps",
+      "written_on": "2021-04-23T16:29:09.582Z"
+    }
   ]
 }
