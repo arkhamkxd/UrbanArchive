@@ -116432,5 +116432,37 @@
       "example": "\"Making a typo [that reads] 'UNTIED States of America' is [very very very] very [very bad].  Watch out!\"\r\n-me",
       "written_on": "2004-10-31T00:00:00Z"
     }
+  ],
+  "UTMA": [
+    {
+      "defid": 804177,
+      "definition": "adj - Stands for \"uglier than my ass\". [Usually] used to describe someone (or [something]) with [extremely] little beauty.",
+      "example": "I [had to] sit next [to the] UTMA girl at [the party].",
+      "written_on": "2004-08-24T00:00:00Z"
+    }
+  ],
+  "uncle ben": [
+    {
+      "defid": 1332908,
+      "definition": "the [coolest guy ever], always there for you,provdes [comfort] and [nourishment] in times of need",
+      "example": "[uncle] ben is at your [beckon] and [call]",
+      "written_on": "2005-07-02T00:00:00Z"
+    }
+  ],
+  "unrespectfully": [
+    {
+      "defid": 18248357,
+      "definition": "[synonym] to disrespectfully",
+      "example": "unrespectfully [stop doing that].",
+      "written_on": "2024-06-15T15:43:17.746Z"
+    }
+  ],
+  "Unicornology": [
+    {
+      "defid": 10529879,
+      "definition": "The study of [unicorns] and other [similar] [mystical creatures] like Pegasus.",
+      "example": "[I am] [headed] to my [class] of unicornology.",
+      "written_on": "2016-11-21T00:00:00Z"
+    }
   ]
 }
