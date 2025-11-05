@@ -157394,5 +157394,29 @@
       "example": "Ey [campbell] [you owe me] that 10bud",
       "written_on": "2014-08-06T00:00:00Z"
     }
+  ],
+  "'muricle": [
+    {
+      "defid": 7773914,
+      "definition": "An [American] [miracle].",
+      "example": "Guy 1: Hey, I found a bacon [wrapped] [Big Mac].\n\n[Guy 2]: It's a 'muricle!",
+      "written_on": "2014-05-31T00:00:00Z"
+    }
+  ],
+  "'VID": [
+    {
+      "defid": 15646869,
+      "definition": "Shortened from [the word] \"[COVID].\"",
+      "example": "[The 'VID] [ain't] [something] to play with.",
+      "written_on": "2021-01-09T11:35:45.345Z"
+    }
+  ],
+  "Ⓡommunist": [
+    {
+      "defid": 12654904,
+      "definition": "An [advocate] of Ⓡommunism.",
+      "example": "I am a Ⓡommunist, please [do not] [confuse] me with a [Communist],",
+      "written_on": "2018-03-09T00:00:00Z"
+    }
   ]
 }
