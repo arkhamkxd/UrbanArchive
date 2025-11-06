@@ -66580,5 +66580,13 @@
       "example": "Person: qwszaerfcxdtyhbvguikmnjopl\r\nother person: ok, do you want a [therapist]?\r\nPerson: why?\r\nother person: [because you are] [perpetually] bored",
       "written_on": "2024-12-01T15:07:28.897Z"
     }
+  ],
+  "Queen of the gays": [
+    {
+      "defid": 12418162,
+      "definition": "The [official] [title] of [Carly Rae Jepsen]",
+      "example": "[Carly Rae Jepsen] is [Queen] of [the gays]",
+      "written_on": "2018-01-11T00:00:00Z"
+    }
   ]
 }
