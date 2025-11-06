@@ -117668,5 +117668,21 @@
       "example": "Uncle [twisted]: [I WANT YOU] TO GET [FUCKED UP]",
       "written_on": "2019-01-13T00:00:00Z"
     }
+  ],
+  "Unsafe": [
+    {
+      "defid": 932998,
+      "definition": "The [opposite] of safe\r\n\r\nTo be used only in a [sarcastic] [manner].",
+      "example": "\"[I just] got [punched] by a 6 year [old girl].\"\r\n\"Unsafe.\"",
+      "written_on": "2004-12-06T00:00:00Z"
+    }
+  ],
+  "uncle bastard": [
+    {
+      "defid": 12649590,
+      "definition": "[Uncle] [bastard] (noun ) mean, evil,and [heartless].",
+      "example": "My uncle bastard stole [the family] [inheritance] after [grandpa] died died .",
+      "written_on": "2018-03-07T00:00:00Z"
+    }
   ]
 }
