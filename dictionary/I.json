@@ -240786,5 +240786,61 @@
       "example": "\"[You are a] [foopid] ijjit.\"",
       "written_on": "2003-11-20T00:00:00Z"
     }
+  ],
+  "irreconcilable differences": [
+    {
+      "defid": 5822837,
+      "definition": "50% Chance this is an insult. If [you are wrong], then [it doesnt matter] because insult recepient is well enough adjusted to [have a laugh].",
+      "example": "[Person A] : Ahhh, [your parents] had irreconcilable [differences].\r\nPerson B:. That Insult was exremely uncalled for and unproffesional.",
+      "written_on": "2011-07-09T00:00:00Z"
+    }
+  ],
+  "If you can't take it don't give it": [
+    {
+      "defid": 6419066,
+      "definition": "don't give [criticism] if you can't take [criticism]\r\ndon't say thing's about other people [if you don't] like things said about yourself in return",
+      "example": "When telling some off about being [hypocritical] you can say \"If you can't take it [Don't give it]\".\r\nDon't like criticism \"then [Don't give it] if you can't take it",
+      "written_on": "2012-03-13T00:00:00Z"
+    }
+  ],
+  "i love you too @carrot cake :-)": [
+    {
+      "defid": 13939593,
+      "definition": "[i love you too]. [ALOT]",
+      "example": "[oh hey], [I love you too] @[carrot cake] :-)",
+      "written_on": "2019-05-27T00:00:00Z"
+    }
+  ],
+  "ilusmbihy": [
+    {
+      "defid": 13222865,
+      "definition": "[I love u] so [much] but [I hate you]",
+      "example": "[Dude] ilusmbihy",
+      "written_on": "2018-09-26T00:00:00Z"
+    }
+  ],
+  "icklet": [
+    {
+      "defid": 12444394,
+      "definition": "An [annoying], [irritating] person; someone who is just... ANNOYING. A person with [irritating] habits.",
+      "example": "Eww, he's so [annoying]. He walks too quietly [around] [the office] cubicles and sneaks up on people... He's such an icklet!",
+      "written_on": "2018-01-17T00:00:00Z"
+    }
+  ],
+  "IWTFY": [
+    {
+      "defid": 4940375,
+      "definition": "[Acronym] for \"[I wrote this] for you\" or \"I [write] this for you\"",
+      "example": "The email message recipient was cheered up. The subject of [the message] was written \"IWTFY\" and [the message] body had a smiley [emoticon]. \" :) \"",
+      "written_on": "2010-05-05T00:00:00Z"
+    }
+  ],
+  "imhempz": [
+    {
+      "defid": 14342538,
+      "definition": "[Anonymous] Hacker From [Playstation].\r\n_\\|/_ Been [hacking] since 2013.",
+      "example": "ImHempz [booted] some skids [offline] to [prove] a point.",
+      "written_on": "2019-10-26T00:00:00Z"
+    }
   ]
 }
