@@ -154898,5 +154898,13 @@
       "example": "Yosdenni is a [piece of shit].",
       "written_on": "2023-11-21T12:13:54.523Z"
     }
+  ],
+  "yents": [
+    {
+      "defid": 5382551,
+      "definition": "yents is [yes] and not combined into [one word].",
+      "example": "yents",
+      "written_on": "2010-12-11T00:00:00Z"
+    }
   ]
 }
