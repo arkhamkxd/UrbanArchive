@@ -67390,5 +67390,21 @@
       "example": "He was [okay and] only [pulled] a [quarter] gib this time.",
       "written_on": "2006-08-26T00:00:00Z"
     }
+  ],
+  "qwertyuiopåzxcvbnmasdfghjklöä": [
+    {
+      "defid": 16825971,
+      "definition": "[bored] [swede] [person]",
+      "example": "1: hi\r\n2: what\r\n1: i became [swedish] and [qwertyuiop]å[zxcvbnmasdfghjkl]öä\r\n2: aeugh",
+      "written_on": "2021-12-09T09:15:40.328Z"
+    }
+  ],
+  "Qwertyuioplkjhgfdsazxcvbnmnbvcxzasdfghjklpoiuytrewq": [
+    {
+      "defid": 16914934,
+      "definition": "[When you] take you [keyboard] left to right, right to left, left to right, [rinse and repeat].",
+      "example": "“I’m so bored, [I think] I’m [gonna] [search] qwertyuioplkjhgfdsazxcvbnmnbvcxzasdfghjklpoiuytrewq.‘",
+      "written_on": "2022-01-16T09:13:12.629Z"
+    }
   ]
 }
