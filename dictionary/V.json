@@ -150500,5 +150500,29 @@
       "example": "you were [just] [destroyed] by that vicari",
       "written_on": "2010-04-09T00:00:00Z"
     }
+  ],
+  "veggeto": [
+    {
+      "defid": 191404,
+      "definition": "[a freak] who's into [rock music] and [likes] to sleep alot.",
+      "example": "",
+      "written_on": "2003-07-23T00:00:00Z"
+    }
+  ],
+  "ventkilling": [
+    {
+      "defid": 15970778,
+      "definition": "when [someone] [kills you] on a vent in [mongus]",
+      "example": "[dude] dude red [just] [vent] is ventkilling",
+      "written_on": "2021-05-06T06:01:39.983Z"
+    }
+  ],
+  "Vainity": [
+    {
+      "defid": 13599890,
+      "definition": "[crossover] of [vain] and [vanity]",
+      "example": "My vainity is [bigger] than [anything else] that defines me",
+      "written_on": "2019-02-08T00:00:00Z"
+    }
   ]
 }
