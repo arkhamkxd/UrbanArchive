@@ -67204,5 +67204,13 @@
       "example": "*during [chemistry class]*\r\n\"Hmm.. I'm so bored, lets search [random letters] on Google.\"\r\n*types qwopasklzxnmeruidfhjcvbtyg*\r\n\"Damn it, someone already uploaded this to [Urban Dictionary].\"",
       "written_on": "2019-01-23T00:00:00Z"
     }
+  ],
+  "QBot": [
+    {
+      "defid": 14122915,
+      "definition": "The [moderation] bot for Discord. An advanced moderation bot with plenty of [innovations], featuring the AutoMod, in-Discord dashboard and QRaid raid [prevention] system.\n\nQBot dot eu\r\nQBot dot eu slash docs\r\nQBot dot eu slash invite\r\nQBot dot eu slash discord",
+      "example": "somebody - yo did you hear about QBot?!\r\nother person - what is qbot?\r\nsomebody - QBot can prevent raids from [happening] and it's a [super cool] [moderation] bot!!!\r\nother person - woooooooowww how can i invite it ?\r\nsomebody - here you go ( qbot dot eu slash invite )",
+      "written_on": "2019-08-13T00:00:00Z"
+    }
   ]
 }
