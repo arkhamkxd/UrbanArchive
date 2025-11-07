@@ -66996,5 +66996,29 @@
       "example": "*[The only] [example] is [the one and only] Quinisa K*",
       "written_on": "2012-01-08T00:00:00Z"
     }
+  ],
+  "quete": [
+    {
+      "defid": 243369,
+      "definition": "Gun, gat, piece, [biscuit], [pistol], [hand cannon]",
+      "example": "The ese [went] to [grab] his quete to protect his [barrio].",
+      "written_on": "2003-09-07T00:00:00Z"
+    }
+  ],
+  "Quantum Explosion Dynamo": [
+    {
+      "defid": 2779963,
+      "definition": "The [final level] in [Commander Keen] Episode 5, The [Armageddon] Machine. Can be abbreviated as QED.",
+      "example": "The QED ([Quantum] [Explosion] [Dynamo]) was a super hard level to beat!",
+      "written_on": "2008-01-14T00:00:00Z"
+    }
+  ],
+  "Quad Thing": [
+    {
+      "defid": 12847172,
+      "definition": "a quad thing is when 4 [people] lie bout [the same] lie, in [the same] room,",
+      "example": "*[insert] 4 ppl [lying]*\r\nHuman/[Humanoid] :- quad thing",
+      "written_on": "2018-05-27T00:00:00Z"
+    }
   ]
 }
