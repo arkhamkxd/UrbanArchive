@@ -163694,5 +163694,29 @@
       "example": "[Person 1]) [What did you do] during your 2 day blackout?\n\n[Person 2]) bailand craft",
       "written_on": "2021-08-08T12:31:30.361Z"
     }
+  ],
+  "[InkGothical]": [
+    {
+      "defid": 2453202,
+      "definition": "[A person] who acts is steryotyped as [a goth] so makes a joke [out of it].",
+      "example": "InkGothical [Rox] My Soxicals\r\n~[Example] by Hunterina Balkind",
+      "written_on": "2007-06-28T00:00:00Z"
+    }
+  ],
+  "1337 krew": [
+    {
+      "defid": 2626065,
+      "definition": "An elite [skateboarding] krew in [the island] of [saipan].",
+      "example": "There are many [people] in the [1337] [krew].",
+      "written_on": "2007-11-01T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Puñio, puNio, puñiO<.7.9.7.6.>": [
+    {
+      "defid": 18497902,
+      "definition": "<.[7.9].7.6.>Puñio, [puNio], puñiO<.[7.9].7.6.>",
+      "example": "<.[7.9].7.6.>Puñio, [puNio], puñiO<.[7.9].7.6.>",
+      "written_on": "2025-06-02T21:05:24.495Z"
+    }
   ]
 }
