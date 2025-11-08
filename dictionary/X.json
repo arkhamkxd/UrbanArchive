@@ -28190,5 +28190,13 @@
       "example": "Wow, [that guy] [has been] abuseing that xl80 since 84' and it's still [going].",
       "written_on": "2007-09-05T00:00:00Z"
     }
+  ],
+  "XML Molester": [
+    {
+      "defid": 1639246,
+      "definition": "An XML Molester is any programmer who believes that he must learn the structure of Visual Studio XML config files; files that are automatically generated and automatically managed by Visual Studio.NET.  XML Molesters compulsively memorize the tag structure of SOAP messages, and practice writing XML data sets (XSD files) by hand using notepad.  They often enjoy embarrassing seasoned pros over their apparent lack of XML [knowledge] and skill.\r\n\r\nXML Molestation is considered a profound psycho-sexual pathology by most healthy, wealthy, and wise Visual Studio programmers.  Like a Peeping Tom, XML Molesters feel a desperate and [uncontrollable] need to peek under Visual Studio’s panties to get a gander at what the lady really looks like on the inside.  What they don’t understand is that such crass anatomical knowledge of Visual Studio’s [private parts] is not necessary for a productive business [relationship] with the lady.  Indeed, it is usually counter productive.  XML Molestation can lead to major project corruption, as Visual Studio.NET can become quite angry when you poke her in the nether regions, and chew your project up.",
+      "example": "Ron of IT [Professionals] Inc. is a real XML molester.  I heard him interviewing a 10 year veteran [programmer] [the other day].  He chewed this guy a new one because he couldn't explain XML tag structure of SOAP envelope, and a web.config file.",
+      "written_on": "2006-04-11T00:00:00Z"
+    }
   ]
 }
