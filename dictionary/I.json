@@ -245234,5 +245234,37 @@
       "example": "idlts [anyway].",
       "written_on": "2022-06-18T20:32:19.38Z"
     }
+  ],
+  "Imbue Faction": [
+    {
+      "defid": 4438197,
+      "definition": "[PARKOUR]!!! [PARKOUR]!!!",
+      "example": "[Imbue] [Faction] [PARKOUR]",
+      "written_on": "2009-12-15T00:00:00Z"
+    }
+  ],
+  "I'm too drunk to taste this chicken": [
+    {
+      "defid": 6270075,
+      "definition": "1. A quote from the late, great [Colonel Sanders] 2. A phrase that [instantly] nullifies all of your opponents points, arguments, etc. 3. [The greatest] comeback ever",
+      "example": "Person 1: \"The sky is [obviously] yellow\"\r\nPerson 2: \"Are you kidding me? That's [ridiculous], [first of all], the sky is no single color, but a multitude of colors, which reflect to us as a blueish color\"\r\nPerson 1: \"I'm too drunk to taste this chicken\"\r\nPerson 2: \"Damn\"",
+      "written_on": "2011-12-16T00:00:00Z"
+    }
+  ],
+  "IRS agent": [
+    {
+      "defid": 17272128,
+      "definition": "They [steal] [the green]",
+      "example": "I hope that that IRS agent shoves a gun up [his ass] for [stealing] [my green]",
+      "written_on": "2022-05-29T19:13:50.66Z"
+    }
+  ],
+  "in your own time": [
+    {
+      "defid": 610063,
+      "definition": "[Sarcastic] [response] to someone who is [taking advantage] of there being no time limit for a task to be done.",
+      "example": "Oh don't worry Bary, in [your own] time. Maybe I can just call work and [tell them] I [won't be] in monday, tuesday...the whole damn week!",
+      "written_on": "2004-04-13T00:00:00Z"
+    }
   ]
 }
