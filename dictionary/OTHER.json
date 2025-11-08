@@ -165366,5 +165366,13 @@
       "example": "I [railed] that berm '5th gear pinned' [just] before I [washed out].",
       "written_on": "2007-09-19T00:00:00Z"
     }
+  ],
+  "2L2E": [
+    {
+      "defid": 14876109,
+      "definition": "2 [lazy] 2 [explain].",
+      "example": "*[Knock Knock]*\r\n“who’s there?”\r\n“IT’S [MISS JUICY BABY]”\r\n“[Wait what]?”\r\n“2L2E”",
+      "written_on": "2020-04-10T00:00:00Z"
+    }
   ]
 }
