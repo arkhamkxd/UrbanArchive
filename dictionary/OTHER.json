@@ -31443,6 +31443,12 @@
       "definition": "1: noun, ten·four\r\nPhrase used as [acknowledgement], either at the start or the end of a meeting [between friends]; can be used in place of hello or goodbye effectively.\n\n2: [adjective]\r\nUsed to describe mood, person, or occasion; meaning above average or rather good.",
       "example": "\"10-4 mate [how are you]?\"\r\n\"I'm 10-4 thanks, did you go to the Roxy music gig last night?\"\r\n\"Yeah, Brian Ferry was immense, and I pulled!\"\r\n\"[Cracking stuff] mate, what was she like?\r\n\"She was 10-4\"\r\n\"Good times, OK mate, [catch you later]! 10-4!\"\r\n\"10-4\"",
       "written_on": "2013-08-19T00:00:00Z"
+    },
+    {
+      "defid": 685438,
+      "definition": "APCO 10-code for \"I [understand] your [transmission]\"",
+      "example": "[Fairfax] to car 459, we've got a [10-50] on 95 [south] of exit 150\r\n\r\n10-4",
+      "written_on": "2004-05-24T00:00:00Z"
     }
   ],
   "111 = Death on brawl theory": [
@@ -163679,6 +163685,14 @@
       "definition": "!@#$%^&*()_",
       "example": "U A [FUCKING] !@#$%^&*()_",
       "written_on": "2020-03-05T00:00:00Z"
+    }
+  ],
+  "2 day blackout": [
+    {
+      "defid": 16235458,
+      "definition": "[What is] [a.k.a]. [the weekend]",
+      "example": "[Person 1]) [What did you do] during your 2 day blackout?\n\n[Person 2]) bailand craft",
+      "written_on": "2021-08-08T12:31:30.361Z"
     }
   ]
 }
