@@ -13055,6 +13055,12 @@
       "definition": "[devils number]",
       "example": "666 is the [devils number]",
       "written_on": "2023-07-29T17:59:52.264Z"
+    },
+    {
+      "defid": 14185297,
+      "definition": "666",
+      "example": "666",
+      "written_on": "2019-09-10T07:44:21.806Z"
     }
   ],
   "1sf3sb": [
@@ -165481,6 +165487,22 @@
       "definition": "To steal [something]. [When you] steal, you grab the item with your hand - [five fingers].",
       "example": "[I got this] hat at a 5 finger [discount] at [the store]!",
       "written_on": "2006-04-03T00:00:00Z"
+    }
+  ],
+  "4/20 virgin": [
+    {
+      "defid": 11443451,
+      "definition": "[A person] who [has been] high before but has [never] celebrated 4/20",
+      "example": "Person1: [have you ever] celebrated 4/20 before?\r\nPerson2: Nope.\n\nPerson1: Wow [you're a] 4/20 [virgin].",
+      "written_on": "2017-04-16T00:00:00Z"
+    }
+  ],
+  "'Murika": [
+    {
+      "defid": 6832625,
+      "definition": "Best [damn] [country] in [the world].",
+      "example": "[This is] 'Murika [boy]!",
+      "written_on": "2012-11-16T00:00:00Z"
     }
   ]
 }
