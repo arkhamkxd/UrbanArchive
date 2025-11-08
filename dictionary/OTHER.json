@@ -51199,6 +51199,12 @@
       "definition": "[The mark] of an [unintelligent] person on [the internet].",
       "example": "[You are right] ^^",
       "written_on": "2010-02-03T00:00:00Z"
+    },
+    {
+      "defid": 4233840,
+      "definition": "[turtle]",
+      "example": "[YAY] we [get to] [hang out]^^",
+      "written_on": "2009-09-12T00:00:00Z"
     }
   ],
   "310 highway": [
@@ -163351,6 +163357,22 @@
       "definition": "Real name Blazikiji Knight, he is the Founder and Leader of the [notorious] online hacking [syndicate] “$aints”. Amassed an empire of 800-900+ people and is still active to this day. Many [notable] hackers started or came from “$aints” including, $t. Mycin, 8000ft. and Siverious.",
       "example": "Who’s that [leader] of the $[aints]?\r\n[Oh, yeah] that’s $t. Blaze",
       "written_on": "2020-02-05T00:00:00Z"
+    }
+  ],
+  "::j5": [
+    {
+      "defid": 15626170,
+      "definition": "It [means] a [laughing] [face]",
+      "example": "[What a joke] ::j5",
+      "written_on": "2021-01-02T00:10:36.346Z"
+    }
+  ],
+  "3aks elmasayef": [
+    {
+      "defid": 15320674,
+      "definition": "[A person] who feels cold in [summers] and hot in [winters]",
+      "example": "[Enty] 3aks elmasayef 3alashan labsa shetwy [fel] [summer].",
+      "written_on": "2020-09-17T01:28:10.969Z"
     }
   ]
 }
