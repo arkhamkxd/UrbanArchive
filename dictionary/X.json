@@ -27902,5 +27902,13 @@
       "example": "[Let] me [leave] from the [fires] of Xeonthor !",
       "written_on": "2018-05-20T00:00:00Z"
     }
+  ],
+  "xxavier": [
+    {
+      "defid": 3825526,
+      "definition": "an [alternate] [spelling] of [xavier]",
+      "example": "alex didn't [understand] that names can be spelled many [different] ways, so he [decided] that xxavier didn't exist.",
+      "written_on": "2009-03-23T00:00:00Z"
+    }
   ]
 }
