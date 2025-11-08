@@ -163448,5 +163448,45 @@
       "example": "She [rubbed] my [panus].  [Gently].",
       "written_on": "2009-04-02T00:00:00Z"
     }
+  ],
+  "593": [
+    {
+      "defid": 17481786,
+      "definition": "[Calm Down]",
+      "example": "[Can You] [Please] 593 [Just] For Once",
+      "written_on": "2022-10-03T14:04:22.719Z"
+    }
+  ],
+  "):(": [
+    {
+      "defid": 13652156,
+      "definition": "[Emoticon] depicting [happiness] and sadness, mixed [emotions]",
+      "example": "[Person 1]: \"[How are you]?\"\r\n[Person 2]: \"):(\"",
+      "written_on": "2019-02-24T00:00:00Z"
+    }
+  ],
+  "《¤》Ant《¤》Symbol《¤》Man《¤》Is《¤》Caucasian《¤》Comma《¤》Space《¤》Static《¤》Shock《¤》Is《¤》African《¤》Comma《¤》Space《¤》And《¤》Ghost《¤》Rider《¤》Is《¤》Hispanic《¤》": [
+    {
+      "defid": 18447839,
+      "definition": ".",
+      "example": "《¤》Ant《¤》Symbol《¤》Man《¤》Is《¤》[Caucasian]《¤》Comma《¤》Space《¤》Static《¤》Shock《¤》Is《¤》[African]《¤》Comma《¤》Space《¤》And《¤》Ghost《¤》Rider《¤》Is《¤》[Hispanic]《¤》",
+      "written_on": "2025-03-09T08:11:16.778Z"
+    }
+  ],
+  "///trash": [
+    {
+      "defid": 108673,
+      "definition": "[yo yo] [illest] rizza on tha [planet]",
+      "example": "///[TRASH] [got] mad [skrilla]",
+      "written_on": "2003-04-26T00:00:00Z"
+    }
+  ],
+  "1337gay": [
+    {
+      "defid": 888502,
+      "definition": "one [who is] 1337 some [times], but gay [most of the time] EX: Mike Boisvert.",
+      "example": "[Mike] [Boisvert] is 1337gay, or [Mike] Boisvert's Saab is 1337gay",
+      "written_on": "2004-11-06T00:00:00Z"
+    }
   ]
 }
