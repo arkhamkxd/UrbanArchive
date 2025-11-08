@@ -164396,5 +164396,13 @@
       "example": "[Are you] 4rell about to [eat that]?",
       "written_on": "2018-06-16T00:00:00Z"
     }
+  ],
+  "1888": [
+    {
+      "defid": 10913425,
+      "definition": "A [year]",
+      "example": "I was [born] in 1888.",
+      "written_on": "2017-01-18T00:00:00Z"
+    }
   ]
 }
