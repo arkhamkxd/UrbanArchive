@@ -68094,5 +68094,21 @@
       "example": "[Que] es mi nombre [bitch]...Quien es su [padre]?",
       "written_on": "2006-05-11T00:00:00Z"
     }
+  ],
+  "Quest Master": [
+    {
+      "defid": 12868988,
+      "definition": "An [almighty] being with [infinite power] and [knowledge]. Gives quests to passerby that request them.",
+      "example": "Guy : I [heard that] if [anyone] disrespects [the Quest] Master then you will smited.",
+      "written_on": "2018-05-30T00:00:00Z"
+    }
+  ],
+  "quaps": [
+    {
+      "defid": 2596985,
+      "definition": "A website that offers both [financial] quote [information], and community stock rating [information].",
+      "example": "\"Hey Todd, [did you] [look up] [how that] stock is performing on a quaps site?\"",
+      "written_on": "2007-10-02T00:00:00Z"
+    }
   ]
 }
