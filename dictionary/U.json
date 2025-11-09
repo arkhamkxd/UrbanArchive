@@ -123238,5 +123238,21 @@
       "example": "Hey [you heard] [that kid] from Unadilla heard he calls [the cops]",
       "written_on": "2017-12-24T00:00:00Z"
     }
+  ],
+  "Uber Stealthcast": [
+    {
+      "defid": 3700080,
+      "definition": "An Uber Stealthcast is a Stealthcast that is launched with absolutely no promotional efforts.  \r\n\r\nWhereas a Stealthcast will typically have one type of notice, typically a singular post via Twitter, an Uber Stealthcast will have no notice. \r\n\r\nSpecifically, it is a very low-key webcast, typically catering to a small audience that may be in the IRC chat room associated with a video feed.\r\n\r\nThe phrase was started by YouTube and uStream [content creator], Alfred, who wanted to [reciprocate] [entertaining] video content, via a webcast, for those who were tirelessly monitoring his IRC chat room.",
+      "example": "\"[Holy cow], I didn't even know he was doing a [Stealthcast], I didn't see a post on Twitter!\"\r\n\"That's correct, he didn't post one. It's an Uber [Stealthcast]\"",
+      "written_on": "2009-02-08T00:00:00Z"
+    }
+  ],
+  "undick": [
+    {
+      "defid": 11517872,
+      "definition": "To [fix] [a dick move].",
+      "example": "[I need] to undick my [parking job] in the [parking lot].",
+      "written_on": "2017-05-03T00:00:00Z"
+    }
   ]
 }
