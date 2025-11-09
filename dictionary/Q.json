@@ -68838,5 +68838,29 @@
       "example": "a [latino] [person] woud say Que Honda [Holmes]?",
       "written_on": "2006-08-09T00:00:00Z"
     }
+  ],
+  "quicksilver": [
+    {
+      "defid": 986737,
+      "definition": "A [character] from a famous cartoon. You can refer this [word to] [something] very fast.",
+      "example": "He [was like] Quicksilver when he [ran down] [the mountain].",
+      "written_on": "2005-01-08T00:00:00Z"
+    }
+  ],
+  "Queefer McBeaver": [
+    {
+      "defid": 5995980,
+      "definition": "[Anyone] who can make a girl [Queef] [on demand].",
+      "example": "[Queefer] McBeaver: \"[how many] times did you cum\"\r\nGirl: \"none\"\r\n[Queefer] McBeaver: \"how many times did you queef\"\r\nGirl: \"50\"",
+      "written_on": "2011-08-04T00:00:00Z"
+    }
+  ],
+  "qazwrxfscptvgdbjhklnmuueyi;o": [
+    {
+      "defid": 17415210,
+      "definition": "[When you] use [colemak] and very [bored].",
+      "example": "qazwrxfscptvgdbjhklnmuueyi;o ! qwfpgjluy;arstdhneiozxcvbkm !",
+      "written_on": "2022-08-18T09:25:54.045Z"
+    }
   ]
 }
