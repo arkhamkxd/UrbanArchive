@@ -167974,5 +167974,21 @@
       "example": "The 3qqle is [looking] [mighty] sus [today].",
       "written_on": "2022-05-06T09:41:46.974Z"
     }
+  ],
+  "《¤》Fin《¤》fIn《¤》fiN《¤》": [
+    {
+      "defid": 18440532,
+      "definition": ".",
+      "example": "《¤》[Fin]《¤》[fIn]《¤》[fiN]《¤》",
+      "written_on": "2025-02-27T01:21:48.777Z"
+    }
+  ],
+  "`1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./~@#$%^&*()_+{}|:\"<>?": [
+    {
+      "defid": 9477301,
+      "definition": "All the characters on a [qwerty keyboard] ([no caps] [though]).",
+      "example": "I got so [goddamn] bored, i just typed in `1234567890-=[qwertyuiop]\\[asdfghjkl];'zxcvbnm,./~@#$%^&*()_+{}|:\"<>? and searched it.",
+      "written_on": "2016-07-05T00:00:00Z"
+    }
   ]
 }
