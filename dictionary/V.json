@@ -154022,5 +154022,21 @@
       "example": "Some extra [moisture] is needed. There isnt enough vinegar on my fish yet, if I give [the bottle] a vinegar stroke, [there will be] enough.",
       "written_on": "2010-09-15T00:00:00Z"
     }
+  ],
+  "vishhvak": [
+    {
+      "defid": 16591559,
+      "definition": "A rare type of [guardian angel] exclusively [available] to a [jeremy].",
+      "example": "[Person 1]: Bruh, did that jeremy just receive the [nobel prize] award?\r\n[Person 2]: Must've been vishhvak's work.",
+      "written_on": "2021-11-22T19:16:14.294Z"
+    }
+  ],
+  "very good person": [
+    {
+      "defid": 13141387,
+      "definition": "Very [good person] is [Trumpspeak] for an [absolute] shitbag.",
+      "example": "Even [though] he is on trial for 18 [felony] counts, he is a very [good person].",
+      "written_on": "2018-08-17T00:00:00Z"
+    }
   ]
 }

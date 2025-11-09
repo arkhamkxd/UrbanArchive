@@ -36911,6 +36911,12 @@
       "definition": "To make an item unique or to create a unique index for a list of items, [especially] in the context of SQL databases.  ([Alternate] [spelling]: uniquefy)",
       "example": "[We need] to uniquify the data if we [want to] run [queries] on it.",
       "written_on": "2007-06-30T00:00:00Z"
+    },
+    {
+      "defid": 3715270,
+      "definition": "To [remove] [non-unique] items from a [collection] of items.",
+      "example": "Before I [decided] to uniquify [the list], some of the users were mentioned [multiple times].",
+      "written_on": "2009-02-12T00:00:00Z"
     }
   ],
   "urbaning it": [
