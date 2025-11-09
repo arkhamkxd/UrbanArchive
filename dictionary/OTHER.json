@@ -166814,5 +166814,21 @@
       "example": "[I am] (L)GBTQIA",
       "written_on": "2021-08-01T17:11:15.531Z"
     }
+  ],
+  "<script>alert(a);</script>": [
+    {
+      "defid": 14572136,
+      "definition": "<[script]>[alert](a);</[script]>",
+      "example": "<[script]>[alert](a);</[script]>",
+      "written_on": "2019-12-23T00:00:00Z"
+    }
+  ],
+  ".9.Ojoso, ojOso, ojosO.9.": [
+    {
+      "defid": 18563357,
+      "definition": ".9.Ojoso, ojOso, ojosO.9.",
+      "example": ".9.Ojoso, ojOso, ojosO.9.",
+      "written_on": "2025-10-29T10:15:11.273Z"
+    }
   ]
 }
