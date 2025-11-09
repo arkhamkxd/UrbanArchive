@@ -167584,5 +167584,13 @@
       "example": "<.[7.9].[7.6].>Indicatet, indiCatet, indicateT<.[7.9].7.6.>",
       "written_on": "2025-08-11T19:43:07.353Z"
     }
+  ],
+  "­": [
+    {
+      "defid": 10579551,
+      "definition": "­",
+      "example": "­",
+      "written_on": "2016-12-01T00:00:00Z"
+    }
   ]
 }
