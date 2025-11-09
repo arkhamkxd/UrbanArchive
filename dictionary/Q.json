@@ -69234,5 +69234,21 @@
       "example": "\"Quertz\" gibt's [nur] [hier]!!",
       "written_on": "2003-06-04T00:00:00Z"
     }
+  ],
+  "Quizzatopia": [
+    {
+      "defid": 17821803,
+      "definition": "A [world] of quizzes.",
+      "example": "Quizzatopia is [the ultimate] [destination] for quiz enthusiasts, offering a wide range of engaging quizzes and [educational] resources.",
+      "written_on": "2023-06-11T22:53:52.929Z"
+    }
+  ],
+  "quockerwodger": [
+    {
+      "defid": 18411370,
+      "definition": "a rare 19th-century term referring to a wooden toy figure that jerks or moves when its strings are pulled. by [extension], it can also describe a [politician] or person who appears to be controlled entirely by [someone else].",
+      "example": "the senator's blatant lack of [independence] made him seem like nothing more than a quockerwodger for [the corporate] [lobbyists].",
+      "written_on": "2025-01-17T06:21:33.291Z"
+    }
   ]
 }
