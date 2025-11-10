@@ -46323,6 +46323,12 @@
       "definition": "[conlang] made by J.R.R. [Tolkien] [spoken] by elves.",
       "example": "",
       "written_on": "2003-07-14T00:00:00Z"
+    },
+    {
+      "defid": 410769,
+      "definition": "A [language] created by J.R.R. Tolkein which was sacredly spoken by elves, [the language] was mostly written in [the alphabet] tengwar, which was also  created by J.R.R. Tolkein",
+      "example": "He was [speaking] Quenya",
+      "written_on": "2003-12-24T00:00:00Z"
     }
   ],
   "quewayne": [
@@ -69815,6 +69821,14 @@
       "definition": "English [colloquialism] used when [spotting] a [gorgeous] bird.",
       "example": "\"Qoar! [Look at that] [pair of] [Great] Tits.\"",
       "written_on": "2018-01-26T00:00:00Z"
+    }
+  ],
+  "Qweèéêëēėėęryÿuûüùúūiîïíīįìoôöòóœøōõpaàáâäæãåāsßśšdfghjkłzxcçćčvbnñńm": [
+    {
+      "defid": 15807340,
+      "definition": "[The greatest] sign of boredom, when you type out every [possible] letter on the iPhone [keyboard].",
+      "example": "[Hey man] [Qwe]èéêëēėėęryÿuûüùúūiîïíīįìoôöòóœøōõpaàáâäæãåāsßśš[dfghjk]łzxcçćčvbnñńm\n\nWhat",
+      "written_on": "2021-03-08T18:32:51.878Z"
     }
   ]
 }
