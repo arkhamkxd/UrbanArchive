@@ -169956,5 +169956,29 @@
       "example": "“ [That dude] offered me 1/2 of my asking price, so I said ‘sure’ , come by 6054 [Central Park] Blvd to [pick it up]”",
       "written_on": "2019-12-21T00:00:00Z"
     }
+  ],
+  "=8": [
+    {
+      "defid": 5653601,
+      "definition": "=8 [means] [Extremely] [Shocked].",
+      "example": "Tom-My friend's [Mum died] [today] :'(\r\nJoe- =8",
+      "written_on": "2011-03-23T00:00:00Z"
+    }
+  ],
+  "'muricating": [
+    {
+      "defid": 13045404,
+      "definition": "'Muricating('muricate)- A verb. It is the action [word that] describes the act or [the state] of being, ['murican].",
+      "example": "Guy calls friend on phone: Hey there Donny, watcha doin?\n\nDonny: Awe you know, nothing. It's [fourth of July] so I'm watching some fireworks and drinking some brews, celebrating my good old [independence]. Same old same old, you know, just 'murucating. How bout you?\n\nGuy 1:[Pretty much] the same. Got some family and friends over, and we're over here 'muricating just like you. Stop over later if you can.\n\nDonny: Sweet. Will do. We can all muricate together.",
+      "written_on": "2018-07-04T00:00:00Z"
+    }
+  ],
+  "-'": [
+    {
+      "defid": 4926698,
+      "definition": "A response that can be used in any [conversation]. It can mean [anything you want] it to. When I write it, I expect you to just [figure out] what I meant by it.",
+      "example": "[Person 1] [Question]: I need to cancel carpool [tomorrow], unless you can leave by 4:30?\n\nAnswer: -'",
+      "written_on": "2010-04-29T00:00:00Z"
+    }
   ]
 }
