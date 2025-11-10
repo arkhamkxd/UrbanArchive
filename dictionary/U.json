@@ -11705,6 +11705,12 @@
       "definition": "A [site]",
       "example": "Hey [you know] [urban] [dictionary] right",
       "written_on": "2019-03-27T00:00:00Z"
+    },
+    {
+      "defid": 15601563,
+      "definition": "[The best dictionary] in the world where you can type in your own [definitions] about [celebrities] or anything you like. It's awesome!",
+      "example": "Tim: Hey I have a doubt about this [definition].\r\nMary: Go to urban [dictionary] you get all sorts of [definitions]",
+      "written_on": "2020-12-23T04:36:41.775Z"
     }
   ],
   "Une plotte c't'une plotte": [
@@ -124813,6 +124819,22 @@
       "definition": "what [champions] and some [gods] [drink]",
       "example": "Man A: what are you [drinking]?\r\nMan B: [Unsweetened] [Iced tea]\r\nMan A: champ!",
       "written_on": "2009-08-15T00:00:00Z"
+    }
+  ],
+  "Unches": [
+    {
+      "defid": 5505260,
+      "definition": "[Similar] to [inches], but with more 'uhhh' to it. See [Usher].",
+      "example": "[It's going] to [snow] 5 unches [today]!",
+      "written_on": "2011-01-12T00:00:00Z"
+    }
+  ],
+  "University of Teeside": [
+    {
+      "defid": 3661571,
+      "definition": "Where chimps are [educated] that [kittens] come from eggs. And [you need] one GCSE in anything to attend.",
+      "example": "Any of [the local] people in Teeside who say they [want to] 'better themselves' by attending [University] of Teeside",
+      "written_on": "2009-01-27T00:00:00Z"
     }
   ]
 }
