@@ -169980,5 +169980,37 @@
       "example": "[Person 1] [Question]: I need to cancel carpool [tomorrow], unless you can leave by 4:30?\n\nAnswer: -'",
       "written_on": "2010-04-29T00:00:00Z"
     }
+  ],
+  "<.7.9.7.6.>Proporcionas, proporCionas, proporcionaS<.7.9.7.6.>": [
+    {
+      "defid": 18521602,
+      "definition": "<.[7.9].[7.6].>Proporcionas, proporCionas, proporcionaS<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>Proporcionas, proporCionas, proporcionaS<.[7.9].7.6.>",
+      "written_on": "2025-07-24T19:24:04.57Z"
+    }
+  ],
+  "1C": [
+    {
+      "defid": 15889550,
+      "definition": "[Cousin]/[first-cousin].",
+      "example": "My 1C is [a good person].",
+      "written_on": "2021-04-06T13:49:24.533Z"
+    }
+  ],
+  "<.7.9.7.6.>I, Salma Hayek Pinault, Promise To Get It Right FOr Angel JOSe RObles<.7.9.7.6.>": [
+    {
+      "defid": 18501928,
+      "definition": "<.7.9.7.6.>I, [Salma Hayek] Pinault, [Promise] To [Get It Right] FOr Angel JOSe RObles<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>I, [Salma Hayek] Pinault, [Promise] To [Get It Right] FOr Angel JOSe RObles<.7.9.7.6.>",
+      "written_on": "2025-06-10T23:51:44.074Z"
+    }
+  ],
+  "(hed)pe": [
+    {
+      "defid": 308467,
+      "definition": "(hed)p.e. are a punk rock-rap hybid band that hails from [Orange County], CA.  (hed)'s music was coined the term \"G-Punk\" - which is simply their house [brand name] for its rock/hip-hop hybrid. Basically, G-Punk is a mixture of punk and rap.  The (hed) in (hed)p.e. stands for higher thought and the \"p.e.\" means \"[Planet Earth],\" symbolizing the spiritual interconnectedness of people.",
+      "example": "Sup ([hed])[nigga]? (hed) is [dope]!",
+      "written_on": "2003-10-23T00:00:00Z"
+    }
   ]
 }
