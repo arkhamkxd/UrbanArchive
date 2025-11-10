@@ -169250,5 +169250,13 @@
       "example": "why is she [crying]?\r\nshe was [born] in 6 [march]",
       "written_on": "2021-08-01T05:17:17.275Z"
     }
+  ],
+  "1234567890phobia": [
+    {
+      "defid": 13857413,
+      "definition": "[fear] of [numbers]",
+      "example": "I [hate] [numbers], i have a fear [of them] too, so i have 1234567890phobia",
+      "written_on": "2019-04-29T00:00:00Z"
+    }
   ]
 }
