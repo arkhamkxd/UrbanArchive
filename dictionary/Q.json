@@ -2183,6 +2183,12 @@
       "definition": "People who [experience] a [midlife crisis] at around [20 years old] instead of their 40s and 50s. Usually male.",
       "example": "Tom got [out of college] and immeditaly bought a big [flashy] car. He must be going through a [quarter] life crisis.",
       "written_on": "2004-05-11T00:00:00Z"
+    },
+    {
+      "defid": 668464,
+      "definition": "a [crisis] sumwhere in your [twenties]",
+      "example": "[A person] having a [crisis] at the age of 22 but feels they are too young to have a [midlife crisis]",
+      "written_on": "2004-05-13T00:00:00Z"
     }
   ],
   "Q": [
@@ -70375,6 +70381,22 @@
       "definition": "An arabic word expressing [frustration] with a [particular] person or event. It translates in English as \"damn\" or \"damn you\". It  can be expressed vulgarly in the arabic [language]. Be careful when you use it around Arabic parents or friends. You might get in trouble!",
       "example": "*After [getting] cussed out by [your mom] for not [taking out the trash]*\r\n\r\n\"quzurqut\"\r\n\r\n*gets smacked with a water hose*",
       "written_on": "2007-07-03T00:00:00Z"
+    }
+  ],
+  "quasi-aussie": [
+    {
+      "defid": 2554634,
+      "definition": "[A person] from [New Zealand].",
+      "example": "Man, [New Zealand] isn't even a real [country].  They're just [a bunch] of Quasi-Aussies.",
+      "written_on": "2007-08-19T00:00:00Z"
+    }
+  ],
+  "Quick thinking fraud": [
+    {
+      "defid": 14717041,
+      "definition": "[The kind] of person who puts [pressure on] one or two people/teams to get [pressure] off themselves.",
+      "example": "The quick [thinking] fraud shifted [pressure] to one or two scapegoat people/teams to avoid a worse fate for himself/herself but putting one [on the one] or two scapegoat people/teams.",
+      "written_on": "2020-02-13T00:00:00Z"
     }
   ]
 }
