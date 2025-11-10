@@ -5809,6 +5809,12 @@
       "definition": "Me",
       "example": "[I’m] ugly",
       "written_on": "2019-03-24T00:00:00Z"
+    },
+    {
+      "defid": 14878216,
+      "definition": "You.",
+      "example": "[You are ugly]",
+      "written_on": "2020-04-11T00:00:00Z"
     }
   ],
   "UGR": [
@@ -124465,6 +124471,30 @@
       "definition": "An altogether higher state of boredom. There's being bored, and then there is being uberbored.\r\n\r\nConstructed from [the words] uber, often used as a [substitute] for 'very' or 'ultimate; and bored, which is what I get [Monday to Friday], 9 to 5...",
       "example": "[When you] are at work and enter a higher state of boredom where [anything] other than the task at hand seems more [appealing].\r\n\r\nuberbored.com",
       "written_on": "2005-03-30T00:00:00Z"
+    }
+  ],
+  "UNIBEN": [
+    {
+      "defid": 15714241,
+      "definition": "[Stress], [Problem], [Frustration]",
+      "example": "what [happened] [dude]? I'm so UNIBENED",
+      "written_on": "2021-02-03T07:59:01.944Z"
+    }
+  ],
+  "urethra challenge": [
+    {
+      "defid": 16964861,
+      "definition": "a [challenge] where you must go a full week without [referencing] the male [reproductive system]",
+      "example": "[I just lost] on day 5 of the [urethra] [challenge]",
+      "written_on": "2022-02-03T18:51:04.328Z"
+    }
+  ],
+  "Untagger": [
+    {
+      "defid": 3830483,
+      "definition": "Someone who untags themself from a photo on [facebook] because they dont like [the photo] or dont want to be seen with the [other people] in the photo.",
+      "example": "Tom is such an Untagger, he [totally] untagged himself from that photo from [the party] I posted on [facebook].",
+      "written_on": "2009-03-25T00:00:00Z"
     }
   ]
 }
