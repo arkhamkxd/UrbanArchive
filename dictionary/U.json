@@ -126514,5 +126514,21 @@
       "example": "He was unmannerful by being on his [phone]",
       "written_on": "2018-03-02T00:00:00Z"
     }
+  ],
+  "Unrobbed": [
+    {
+      "defid": 14680434,
+      "definition": "To not be [robbed] [anymore]",
+      "example": "They were unrobbed at 12:25 am",
+      "written_on": "2020-02-02T00:00:00Z"
+    }
+  ],
+  "ultimate tag": [
+    {
+      "defid": 15545499,
+      "definition": "Is an game of tag [played] for a [minimum] of a one month [period].",
+      "example": "Cian,Ivor,Sophie,Mathew,Andrew,Ava and Eliza [have been] [playing] [ultimate] tag for a while now cian tagged Mathew at 03:00am",
+      "written_on": "2020-12-04T09:35:37.206Z"
+    }
   ]
 }
