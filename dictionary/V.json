@@ -158506,5 +158506,21 @@
       "example": "[Today] is my veganniversary. I haven't [touched] eggs in a [year]!",
       "written_on": "2009-03-14T00:00:00Z"
     }
+  ],
+  "virji": [
+    {
+      "defid": 16110846,
+      "definition": "[A person] who watches sports and loves his [grandpa] [friends]",
+      "example": "virji is [stuck] [in the cabinet] again",
+      "written_on": "2021-06-17T21:20:06.975Z"
+    }
+  ],
+  "vachik": [
+    {
+      "defid": 16609844,
+      "definition": "Vachik is the king, he is [not to be fucked with], respect him and you’ll get respect back.\n\nHe is very loyal and helpful, he will never turn his back on you.\r\nHe has a very [creative mind] and is a [creative person] in general",
+      "example": "How have you been doing Vachik.",
+      "written_on": "2021-11-22T23:19:29.045Z"
+    }
   ]
 }
