@@ -34267,6 +34267,12 @@
       "definition": "The [combination] of [yikes] and [stocks]",
       "example": "[yikes] the [stocks] have [gone] down. Yonk!",
       "written_on": "2020-02-07T00:00:00Z"
+    },
+    {
+      "defid": 13409072,
+      "definition": "A mistake or a failure. [The word] can usually morph into the meaning of your choice with [negative] connotations. Yonk does not describe people but is a [description].",
+      "example": "Bro, I just yonked my APUSH test.\n\nI tried to [talk to] that guy [over there].\r\nYeah I saw, that was a yonk.\n\n[Tommorow] is going to be such a yonk!",
+      "written_on": "2018-11-30T00:00:00Z"
     }
   ],
   "Yulenee": [
@@ -165007,6 +165013,22 @@
       "definition": "Y - you\r\nA - are\r\nS - so\r\nF - [freaking]\r\nC - [cool]",
       "example": "[Elmer], YASFC!\r\nor \r\n\"Hey [Elmer],\" [said] bri, \"YASFC!\"",
       "written_on": "2008-03-05T00:00:00Z"
+    }
+  ],
+  "yeah yeah taco burrito unblock a niggito": [
+    {
+      "defid": 14925085,
+      "definition": "When you don’t [understand] a [language] and you [don’t know] how to respond.",
+      "example": "Person 1: Todo mundo é estúpido, exceto eu.\r\n[Person 2]: [Yeah Yeah] [Taco Burrito] Unblock A Niggito",
+      "written_on": "2020-04-23T00:00:00Z"
+    }
+  ],
+  "yviana": [
+    {
+      "defid": 16307920,
+      "definition": "[best person] [who is] [better than] god",
+      "example": "yviana>[god]",
+      "written_on": "2021-09-11T01:10:58.106Z"
     }
   ]
 }
