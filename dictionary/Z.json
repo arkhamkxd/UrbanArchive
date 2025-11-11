@@ -102026,5 +102026,21 @@
       "example": "Zelzagati is a [idiot] because he is [dumb]",
       "written_on": "2020-04-27T00:00:00Z"
     }
+  ],
+  "zb": [
+    {
+      "defid": 1431475,
+      "definition": "ZB from [russian] word ZajeBal means somthing like: \"[You are] on my nerves mister!\". People [usually] use it when they are enough of Somthin!",
+      "example": "ZB! Stop [putting] [your head] in [my anus]!",
+      "written_on": "2005-09-21T00:00:00Z"
+    }
+  ],
+  "zarnof": [
+    {
+      "defid": 5005958,
+      "definition": "The [final boss] of a [video game].",
+      "example": "[Dag yo], Ganondorf's [got] [nuthin] on Zarnof!",
+      "written_on": "2010-06-01T00:00:00Z"
+    }
   ]
 }
