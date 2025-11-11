@@ -29526,5 +29526,13 @@
       "example": "Girl 1: OMG [did you] meet him? He was [very cool]\r\nGirl 2: [Yeah, you] just met a xymon",
       "written_on": "2018-09-18T00:00:00Z"
     }
+  ],
+  "Xbox 360 Slim": [
+    {
+      "defid": 5123195,
+      "definition": "This is what people call the new [Xbox 360] model. However, it is NOT an [Xbox 360] Slim. It's just a different model of the Xbox 360. I mean really, how much slimmer is it than [the originals]? You do the measuring.",
+      "example": "Guy 1:HEY BRO I [JUST PICKED UP] A NEW [XBOX 360] SLIM\r\nGuy 2: IT'S NOT AN [XBOX 360] SLIM YOU IDIOT",
+      "written_on": "2010-07-27T00:00:00Z"
+    }
   ]
 }
