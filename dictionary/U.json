@@ -127646,5 +127646,21 @@
       "example": "\"U-can-2 [get bad] [SoupAss] after a day of [drinking]\"",
       "written_on": "2005-11-15T00:00:00Z"
     }
+  ],
+  "Ujuj": [
+    {
+      "defid": 15260574,
+      "definition": "A very knowned [Glizzy Gladiator].",
+      "example": "Ujuj [got] a [Nobel peace prize] for [glizzy gladiator]",
+      "written_on": "2020-08-20T00:00:00Z"
+    }
+  ],
+  "urbandictionaryed": [
+    {
+      "defid": 2431331,
+      "definition": "to [look up] [a word] on [urbandictionary.com]",
+      "example": "kt: [Have you ever] urbandictionaryed [your name]?\r\nmb: yes but all that came up was an [alcoholic] beverage",
+      "written_on": "2007-06-10T00:00:00Z"
+    }
   ]
 }
