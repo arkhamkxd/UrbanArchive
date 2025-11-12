@@ -83477,6 +83477,12 @@
       "definition": "A hand weapon [made of wood] that is used by [martial] [artists] during training. See bokken.",
       "example": "The Purpleheart Armory crafts [functional], solid and [beautiful] wasters for weapons enthusiasts [everywhere].",
       "written_on": "2004-09-05T00:00:00Z"
+    },
+    {
+      "defid": 415353,
+      "definition": "[A person] that [regularly] drinks copious amounts of alcohol and acts rather drunk [all the time].",
+      "example": "Dave [Curtis] is [not a] waster, he [simply] likes the occasional pint of ale.",
+      "written_on": "2003-12-28T00:00:00Z"
     }
   ],
   "wheres yer da": [
@@ -104937,6 +104943,12 @@
       "definition": "a lever-action rifle origanlly made in 1866. bassicly a musket that you could fire [multiple times] before reloding.[the same] company that made [the winchester] also made a lever-action shotgun.",
       "example": "the sherif [cocked] his winchester, adn shot [the man] [in the head].",
       "written_on": "2008-10-20T00:00:00Z"
+    },
+    {
+      "defid": 11619872,
+      "definition": "No [ordnance] remaining.",
+      "example": "He was [unable] to [continue] [the fight], being winchester.",
+      "written_on": "2017-05-28T00:00:00Z"
     }
   ],
   "Wish-boner": [
@@ -374769,6 +374781,30 @@
       "definition": "[Weiner] [Roll]",
       "example": "\"How'd you sleep [last night] Doug\"?\r\nWeiner Rolled Bob...I tossed and turn [all night] like a weiner cooking at [Circle K]",
       "written_on": "2018-11-22T00:00:00Z"
+    }
+  ],
+  "wnfw": [
+    {
+      "defid": 4832734,
+      "definition": "wnfw [means] [What Not] to [Fuck With].",
+      "example": "Guy 1: Your [roommate] is outta town, [can check] his stuff?\r\nGuy 2: Sure, just [remember] its all WNFW",
+      "written_on": "2010-03-26T00:00:00Z"
+    }
+  ],
+  "what the random": [
+    {
+      "defid": 1302195,
+      "definition": "expression of exasperation or confusion, such as \"[what the fuck]\", \"[what the hell],\" etc. should be used exclusively when one hears or encounters something [particularly] strange, non-sensical, and random.",
+      "example": "Ben - So now my mom is [sending me] to this [Christian] youth camp thing.\r\n\r\nMe - Wait, [what the] random? Aren't you guys Jewish?",
+      "written_on": "2005-06-12T00:00:00Z"
+    }
+  ],
+  "WOGS": [
+    {
+      "defid": 1698573,
+      "definition": "This is an [abbreviation] of Wrath of God Syndrome.  When the powers that be, in whatever setting, become annoyed by a [subordinate] and make life [miserable] for him or her.",
+      "example": "So you [screwed up]: [incoming] WOGS, Dude, and can be expected to be peed on from a great [height]!",
+      "written_on": "2006-04-28T00:00:00Z"
     }
   ]
 }

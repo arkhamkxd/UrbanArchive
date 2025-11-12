@@ -259340,5 +259340,29 @@
       "example": "Wow [Isabella] [delvechio] is a [really] caring person.",
       "written_on": "2019-09-04T00:00:00Z"
     }
+  ],
+  "inferense": [
+    {
+      "defid": 4202315,
+      "definition": "Logical [interpretation] based on prior [knowledge] or [experience].",
+      "example": "He inferensed that [Hawaii] was an [island] [based on] his past visit.",
+      "written_on": "2009-08-26T00:00:00Z"
+    }
+  ],
+  "incredible sex": [
+    {
+      "defid": 2555187,
+      "definition": "[Something] you have only for the 1st [week] of a [relationship].",
+      "example": "We once had [incredible] sex, but now its [just] [starfish sex].",
+      "written_on": "2007-08-20T00:00:00Z"
+    }
+  ],
+  "increased stool output": [
+    {
+      "defid": 4134167,
+      "definition": "[when you] dont want people to know you have [diarrhea] you [call it] increased stool output or ISO for short",
+      "example": "oh man after [i ate that] [burrito] [yesterday] i had increased stool output for hours!",
+      "written_on": "2009-07-25T00:00:00Z"
+    }
   ]
 }
