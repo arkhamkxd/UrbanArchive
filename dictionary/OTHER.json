@@ -173468,5 +173468,37 @@
       "example": "Bro [i just] [got to] 426th base with [jays] mom!",
       "written_on": "2017-02-08T00:00:00Z"
     }
+  ],
+  "2 moons": [
+    {
+      "defid": 2808053,
+      "definition": "A fun but time consuming game but not as much as [World of Warcraft] uhhh it has [humongus] disconnection problem uhh two sexy guys named torrack and [super toilet delux] uhh crap i wanna get acclaim pts from this so join",
+      "example": "Oh [fucking shit] its DC again bob WTF, and get Steph off my ass she's [fucking] anoying. 2 moons is [Ahight]!",
+      "written_on": "2008-01-22T00:00:00Z"
+    }
+  ],
+  "20-second rule": [
+    {
+      "defid": 5300348,
+      "definition": "Any computer [application] must respond to input within twenty-seconds or [the person] using it will think that the software is broken and begin pressing the \"Any Key\" to elicit a response.\n\nInternet latency is not an excuse for failure to respond; c'mon, even [satellite] links have less than 20 second latency.",
+      "example": "The iPhone has a 20-second rule start-up timer; if an [application] takes longer than 20 seconds to start up, it is killed by the iPhone OS. Also, the iPhone OS will kill any [application] that is unresponsive for longer than 20 seconds.\n\nUsually seen on poorly built web pages that rely on over-taxed [advertising] servers.\n\nAlso violated by Windows OS during the boot process where it waits a whole freaking minute for network connections that are never connected to time out.",
+      "written_on": "2010-10-24T00:00:00Z"
+    }
+  ],
+  "30 minute": [
+    {
+      "defid": 161701,
+      "definition": "When [someone] sits in path [room] for [30 minutes]",
+      "example": "Calebs [taking] his 4th 30 [minute] [today]!",
+      "written_on": "2003-06-21T00:00:00Z"
+    }
+  ],
+  "7.62": [
+    {
+      "defid": 1566525,
+      "definition": "As stated, the AK-47 and FN-FAL/SLR both have barrels of calibre 7.62mm. However, the 2 weapons fire totally [incompatible] cartridges. The FN-FAL/SLR used the 7.62x51 NATO cartridge whereas the AK-47 used the shorter 7.62x39 Soviet cartridge.\r\n\r\nThe NATO cartidge is more powerful and has greater range (hence it has often been used in [machine guns] such as the BREN and GPMG/FN-MAG, and in sniper rifles sucn as the SR-25), however the less powerful Soviet cartridge is more [effective] at wounding/killing a human at typical combat ranges (less than 400m).",
+      "example": "A shot from a 7.62x51 SLR at close range would typically go straight through the target and out the other side, doing minimal damage and [transferring] little monentum to the target. A shot from an 7.62x39 AK-47 will tumble inside the target, doing [considerable] damage and [transferring] all of its monentum to the target.",
+      "written_on": "2008-07-21T00:00:00Z"
+    }
   ]
 }
