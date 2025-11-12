@@ -168076,5 +168076,29 @@
       "example": "[Idk what to put here] [lol] . Yoong1sfairy",
       "written_on": "2021-08-03T23:30:05.193Z"
     }
+  ],
+  "your pal alexa": [
+    {
+      "defid": 14460540,
+      "definition": "[the famous] dude that is [famous] dude is [alexa]",
+      "example": "have you [watch] [the new] [video] by your pal alexa",
+      "written_on": "2019-11-21T00:00:00Z"
+    }
+  ],
+  "Youtown": [
+    {
+      "defid": 3164620,
+      "definition": "An [abstract] area in which [another] [person] resides and goes about their business.",
+      "example": "Guy1: Hey, what's new in Youtown?\r\nGuy2: [Nothing] much. Has [anyone] else moved into [Loserville] yet or is it still just 'Population: You'?",
+      "written_on": "2008-06-19T00:00:00Z"
+    }
+  ],
+  "YKWI!": [
+    {
+      "defid": 13912452,
+      "definition": "[You know what it is].\n\nWhen you’re in the flex mood and you doing [big things] for every [compliment] just answer ykwi! Also known as a Haitian streetwear brand",
+      "example": "A: you [look] [dope man]\r\nB: ykwi! [all the way]",
+      "written_on": "2019-05-18T06:16:47.627Z"
+    }
   ]
 }
