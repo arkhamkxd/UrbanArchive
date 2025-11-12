@@ -79207,6 +79207,12 @@
       "definition": "A Nazi [submarine] that suffered [failure] on [launch] twice.",
       "example": "U-569 makes the [contact] and leads them.\r\nU-94 scores a kill [in the dark].\r\nU-124 sinking 4 in 2 approaches.\r\nU-406 suffers [failure] on launch agaiiin!",
       "written_on": "2019-08-24T03:49:43.201Z"
+    },
+    {
+      "defid": 15744221,
+      "definition": "A [U-Boat] that suffers [failures] on ([torpedo])launches. twice.",
+      "example": "569 makes the [contact] and lead them\r\nU-94 scores a kill [in the dark]\r\n124 sinking four in two approaches\r\nU-406 suffers [failure] on launch AGAIN!",
+      "written_on": "2021-02-14T21:30:09.89Z"
     }
   ],
   "uckersbadders": [
@@ -128543,6 +128549,14 @@
       "definition": "[Fucking someone] [in the ass] after they've just shat out their guts due eating a dodgy hot & [spicy curry]",
       "example": "[It's Up] The [Curry Bongo] [time]...",
       "written_on": "2019-02-07T00:00:00Z"
+    }
+  ],
+  "urfed": [
+    {
+      "defid": 2792485,
+      "definition": "[you are fucked]\r\n(u r [fucked])\r\n[present tense]:\r\nurf",
+      "example": "[You are] urfed\r\nUrfed.\r\n[Urf].",
+      "written_on": "2008-01-17T00:00:00Z"
     }
   ]
 }
