@@ -71326,5 +71326,13 @@
       "example": "Que [mira] bobo? [Anda] pa [alla]",
       "written_on": "2023-01-04T19:08:44.461Z"
     }
+  ],
+  "qwertasdfgzxcvbnmhjklyuiop": [
+    {
+      "defid": 14881309,
+      "definition": "The peak of boredom.\r\nYou've already tried [every other] [combination] imaginable, but you still find more combinations.\r\nIf you've found this on your own, you need to find [something to do].",
+      "example": "[I'm so bored], [wait] I haven't [tried] qwertasdfgzxcvbnmhjklyuiop yet.",
+      "written_on": "2020-04-12T00:00:00Z"
+    }
   ]
 }
