@@ -72810,5 +72810,13 @@
       "example": "I [wrote] an [essay] about the [theory of relativity], it was all QBS.",
       "written_on": "2006-05-25T00:00:00Z"
     }
+  ],
+  "Quebecois French": [
+    {
+      "defid": 3640549,
+      "definition": "French spoken by the Quebecois.  Regular French by all means except the [pronunciation] and some jargons, which makes the \"regular\" Frenchman feel [lost in translation], Bill Murray style.\r\n\r\nIn fact so lost that movies starring Quebecois French speakers have subtitles for other French speakers in case they don't [understand].",
+      "example": "[Quebecois] French:  Bonjour monsieur, comment allez-vous?  \r\n\r\nOther [French speaker]:  Excusez-moi, je n'ai pas compris.  Pouvez-vous repetez s'il vous plaît?\r\n\r\nQuebcois French: *grumble*\r\n\r\nOther [French Speaker]: *strokes beard while looking confused*",
+      "written_on": "2009-01-20T00:00:00Z"
+    }
   ]
 }
