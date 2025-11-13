@@ -175474,5 +175474,13 @@
       "example": "[Person 1]: where are the nice hodie?\r\n[Person 2]: its 20 october [You know]!\n\nPerson 1: ops",
       "written_on": "2021-10-18T12:30:59.552Z"
     }
+  ],
+  "####": [
+    {
+      "defid": 15509484,
+      "definition": "When [a random] 8 year old in [roblox] swears the \"[bad word]\".",
+      "example": "[Player]: [haha] ##### is not #############\n\n[Player 2]: ####",
+      "written_on": "2020-11-22T20:01:53.028Z"
+    }
   ]
 }
