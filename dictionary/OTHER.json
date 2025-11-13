@@ -31429,6 +31429,12 @@
       "definition": "The [year] when 10 [year] [olds] were born.",
       "example": "1:When were you born\n\n2:Oh 2010\r\n1:Wow your [young]\n\n2:Stfu .sorry my [parents] didn’t [have sex] in 1961",
       "written_on": "2021-03-01T07:49:50.196Z"
+    },
+    {
+      "defid": 2769808,
+      "definition": "The whole number after 2009 but before 2011\r\nThe tenth year [after the] world was [supposed to] end \r\nThe year all those eyeglass makers will be SOL because [the second] 0 will be a 1",
+      "example": "[Pair of] 2008 [glasses] -2008-\r\nPair of 2010 [glasses] -2010-",
+      "written_on": "2008-01-11T00:00:00Z"
     }
   ],
   "1668": [
@@ -176253,6 +176259,22 @@
       "definition": "[Windows 10] Fall Creator Update\n\n[The worst] shitty update to ever happen. It takes trials and errors just to make it through.\r\nIf it does work however it can take as much as 4 to 7 hours to [complete].",
       "example": "[Aww man], [not that] 1709 again... be back in [4 hours]",
       "written_on": "2017-12-29T15:57:52.306Z"
+    }
+  ],
+  "@adrien.cat.n0ir": [
+    {
+      "defid": 16147905,
+      "definition": "@adrien.cat.n0ir is [the best] and [the sweetest person ever], he/she/they have [the biggest] heart and he/she/they is/are so kind :) <33",
+      "example": "@[adrien].[cat].n0ir is [the best]!",
+      "written_on": "2021-07-01T18:32:26.311Z"
+    }
+  ],
+  "<3>": [
+    {
+      "defid": 8033883,
+      "definition": "a girl (or boy) is [in love] with [two men] (or [ladies])",
+      "example": "[i <3]> [tony] and [robby] thot",
+      "written_on": "2015-01-03T00:00:00Z"
     }
   ]
 }
