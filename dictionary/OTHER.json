@@ -175796,5 +175796,37 @@
       "example": "[That girl] [over there] is such a #[Rachel]",
       "written_on": "2018-10-05T00:00:00Z"
     }
+  ],
+  ".oO(...)": [
+    {
+      "defid": 10109055,
+      "definition": "A classic [ASCII art] [thought bubble] as found in comics, also comes in shortened forms:\n\n.o(thought)\n\noO(idea)\r\n.O(eureka)\r\no(really?)\r\n.(hmm)\n\n… and can contain other ASCII art [instead] of text.",
+      "example": "— [I really like you]! .oO(LOVE)\r\n— [Yeah], [me too] .oO(...)",
+      "written_on": "2016-08-13T00:00:00Z"
+    }
+  ],
+  "#HFC": [
+    {
+      "defid": 12559653,
+      "definition": "#\r\n[Huge]\r\n[Fucking]\r\n[Cunt]",
+      "example": "[Gawd damn] I [hate] that [asshole] #HFC",
+      "written_on": "2018-02-15T00:00:00Z"
+    }
+  ],
+  "6v6": [
+    {
+      "defid": 17944639,
+      "definition": "6v6 is the emoticon for what is [considered] [to be one] of it not the best and most [influential] male soloist, center and main dancer in the K-pop industry, Lee Taemin from Shinee. It is a resemblance of his cute smile.",
+      "example": "[For example] if you posted [a picture] of [Lee Taemin] next to it you could put 6v6 as the caption.",
+      "written_on": "2023-10-08T09:46:37.027Z"
+    }
+  ],
+  "《¤》🫚 《¤》🫚 《¤》🫚 《¤》": [
+    {
+      "defid": 18435175,
+      "definition": ".",
+      "example": "😱: 《¤》🫚 《¤》🫚 《¤》🫚 《¤》",
+      "written_on": "2025-02-19T22:17:24.471Z"
+    }
   ]
 }
