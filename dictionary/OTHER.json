@@ -19961,6 +19961,12 @@
       "definition": "3",
       "example": "3",
       "written_on": "2019-01-11T00:00:00Z"
+    },
+    {
+      "defid": 18532589,
+      "definition": "[2+1=3]",
+      "example": "I have 3 [dogs]. :)",
+      "written_on": "2025-08-17T20:03:18.028Z"
     }
   ],
   "48207": [
@@ -175023,6 +175029,14 @@
       "definition": "[Killer] based in the Plano, Texas region. Killer often comes at night and is very sneaky and [painful] with deaths. He was [last seen] in Murphy, Texas",
       "example": "[Scream], [411] [Killer]",
       "written_on": "2011-04-30T00:00:00Z"
+    }
+  ],
+  "2+1+1=3": [
+    {
+      "defid": 403873,
+      "definition": "A demented way of [interacting], insanity, [sleep deprived], usually witnessed while coming home from Forensics tournaments. Must have two people in order to [accomplish] this state, and they will usually be of opposite genders.",
+      "example": "I saw [Eileen] and [Brandon] having 2+[1+1=3] today.",
+      "written_on": "2003-12-19T00:00:00Z"
     }
   ]
 }
