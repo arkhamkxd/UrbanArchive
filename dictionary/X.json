@@ -30600,5 +30600,13 @@
       "example": "[HIII]!\r\n...[Hello] >.>\r\n*[poke]*\r\now! x.o",
       "written_on": "2004-11-21T00:00:00Z"
     }
+  ],
+  "xmas spam": [
+    {
+      "defid": 971911,
+      "definition": "same as [emas], but [more than] one, and less [interesting]",
+      "example": "\"[merry christmas]. [win] a camcorderwin a camcorderwin a camcorderwin a camcorderwin a camcorderwin a camcorderwin a camcorder\"",
+      "written_on": "2005-01-01T00:00:00Z"
+    }
   ]
 }

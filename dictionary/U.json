@@ -131354,5 +131354,37 @@
       "example": "[Give me] a second, I need to [up tuck] and run to hide my [hard on].",
       "written_on": "2011-06-28T00:00:00Z"
     }
+  ],
+  "unpleade": [
+    {
+      "defid": 18148488,
+      "definition": "to [take] a [puzzle] apart",
+      "example": "[can you] unpleade the [puzzle] before [sending]",
+      "written_on": "2024-02-28T16:50:37.726Z"
+    }
+  ],
+  "Umbrella Rule": [
+    {
+      "defid": 5724283,
+      "definition": "If you come prepared for a situation; most instances the object you brought will not be [necessary]. Much like bringing an [umbrella] because of rain in the forecast, but since you have the [umbrella], it isn't raining, or won't rain at all.",
+      "example": "Ron: [Of course] it isn't raining the day I bring my [umbrella] with me.\n\nMike: [Umbrella] rule dude, it'll never rain whenever you come prepared.",
+      "written_on": "2011-04-24T00:00:00Z"
+    }
+  ],
+  "urbex dyslexia": [
+    {
+      "defid": 5375635,
+      "definition": "A [learning disability] marked by impairment of the ability to [recognize] and comprehend written words, especially those relating to a wrongful entry upon abandoned [properties].",
+      "example": "Mike: \" [Look at that] decrepit old factory! Is that a 'No Trespassing' sign?\r\nBill: \"Do you mean that sign that says 'Come On In!'?\"\r\nMike: \"Oh, [you're right], let's urbex!\"\r\nBill: \"Why not? [You know] we suffer from urbex dyslexia! It can't be cured!\"",
+      "written_on": "2010-11-24T00:00:00Z"
+    }
+  ],
+  "United States of Whatever": [
+    {
+      "defid": 1522474,
+      "definition": "1)America as seen by basically anyone over twelve and under 25. \r\n2)Responding to [everything] with very simple open-ended phrases [like whatever], [that's cool], or yo. \r\n3)A very funny song by Liam Lynch that captures pure teen angst.",
+      "example": "I was [at the beach] and I saw Kiki, and she was like euwhh, and I was [like whatever]. This is my [united states] of whatever.",
+      "written_on": "2005-12-26T00:00:00Z"
+    }
   ]
 }
