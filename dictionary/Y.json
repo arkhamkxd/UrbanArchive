@@ -171696,5 +171696,37 @@
       "example": "Ybm is [one of] the unowned [gang] but they [on the map]",
       "written_on": "2019-06-29T00:00:00Z"
     }
+  ],
+  "your a wizzard hary": [
+    {
+      "defid": 15051862,
+      "definition": "[You're a wizard Harry].\n\nI'm a... WHAT?!\n\nHarry, [you're a] wizard.\n\nI'm a what?!\n\nA wizard, Harry.\n\nI'm a WIZARD?!\n\nYes Harry, [you're a] wizard.\n\nBut I'm just Harry.\n\nWell, \"Just Harry\", you're a wizard.\n\nBut I'm just Harry!\n\nNo, \"Just Harry\", you - are a wizard!\n\nListen here Hagrid I'm just Harry!\n\nNO! Harry, you are a wizard!\n\nI'm not a wizard, Hagrid, I'm just Harry!\n\nListen Harry, you are a wizard!\n\nNo Hagrid, I'm just Harry!\n\nHarry, for god's sake, you are a wizard!\n\nA WIZARD?! I'm just Harry!\n\nNooo, \"Just Harry\"! You're a wizard.\n\nI'm not a wizard, Hagrid, I'm just Harry.\n\nNoooooo. Just Harry. You are a wizard.\n\nI'm not a wizard, Hagrid!\n\nHARRY, you are a wizard!\n\nListen here Hagrid you FAT OAF! I'm not a FUCKING WIZARD!\n\nFor god's sake Harry, what is with this language?! You're a FUCKING WIZARD.",
+      "example": "your a [wizzard] [hary], im [a what]",
+      "written_on": "2020-06-02T00:00:00Z"
+    }
+  ],
+  "Yappanis": [
+    {
+      "defid": 18101392,
+      "definition": "[A person] that [yap] an exessive [amount]",
+      "example": "[You know] them?\r\n[Oh yeah], there a yappanis\r\nWhat?\r\nThey never [shut the fuck up]",
+      "written_on": "2024-02-08T13:52:13.246Z"
+    }
+  ],
+  "Yappination": [
+    {
+      "defid": 18418033,
+      "definition": "The Action of [Yapping], (Yap for short) used in a [machine] to make nonsense- Or [otherwise], \"Yap\"",
+      "example": "Man, [Why do] the Yappination bots [have to] yap [all the time]?!?",
+      "written_on": "2025-01-26T18:44:32.83Z"
+    }
+  ],
+  "Yung Thermonuclearbomb": [
+    {
+      "defid": 18322344,
+      "definition": "A very loud noise. This [originated] by a group of [teenagers], who posted annoyingly loud beats onto a website called \"[soundcloud]\".",
+      "example": "[What the fuck is that] [yung] thermonuclearbomb type [noise].",
+      "written_on": "2024-09-20T18:14:18.088Z"
+    }
   ]
 }
