@@ -30473,6 +30473,12 @@
       "definition": "[suspicion], [distrust], [reservation].",
       "example": "#[pocky]: [i really like you] [cpt]!\r\n#cpt: ¬_¬",
       "written_on": "2003-08-29T00:00:00Z"
+    },
+    {
+      "defid": 1908806,
+      "definition": "An [emoticon] looking [sideways] with narrowed eyes. It expresses slight [annoyance].",
+      "example": "Lucy: Hey, have you gained [weight] or [something]??\r\nMary: ....¬_¬..[Don't ask]..",
+      "written_on": "2006-08-09T00:00:00Z"
     }
   ],
   "2763": [
@@ -31695,6 +31701,12 @@
       "definition": "One of NATO's [military] firearm calibers.  The 5.56x45mm NATO catridge is used [pretty much] only for allied (America, UK, France, Germany, etc) assault rifles.\r\n\r\nChina even uses this caliber for their T95 [battle rifle].",
       "example": "The [civilian] 5.56x45mm NATO [round] is the .223 [Remington].",
       "written_on": "2004-02-01T00:00:00Z"
+    },
+    {
+      "defid": 6244812,
+      "definition": "The 5.56x45mm NATO round is a micro-caliber rifle round based upon the .223 Remington loading. In the US military, it is known as the M855A1 in it's most recent [incarnation]. In the rest of the world the 5.56x45mm NATO is known as the SS109.\n\n[Originally], the 5.56x45mm was designed with two goals in mind: Incapacitation, and weight reduction. The round was designed to wound a soldier, rather than kill them outright like the 7.62x51mm NATO round that came before it, as it would take two more soldiers out of the fight to [take care of] them.\n\nNot only this, but the 5.56x45mm NATO is shorter and lighter than the 7.62x51mm NATO round that was it's predecessor, allowing troops to carry more ammunition.",
+      "example": "The 5.56x45mm NATO round, also called the SS109, is [the most] commonly used Military-issue rifle round in [the western] world. However, it's usefulness has deteriorated against an enemy that does not value their lives, nor the lives of their [comrades].",
+      "written_on": "2011-11-30T00:00:00Z"
     }
   ],
   ".mikan.tsumiki_": [
@@ -177661,6 +177673,22 @@
       "definition": "too high to [function]; [commonly] used on [the internet]",
       "example": "sober guy: [wanna play] basketballl ?\r\n[high guy]: sorry man, im 2h2f\r\n\r\naway [message]: 2H2F !!!!!!!",
       "written_on": "2008-04-22T00:00:00Z"
+    }
+  ],
+  "《¤》Seduce《¤》sedUuce《¤》seducE《¤》": [
+    {
+      "defid": 18442843,
+      "definition": ".",
+      "example": "《¤》[Seduce]《¤》sedUuce《¤》[seducE]《¤》",
+      "written_on": "2025-03-02T01:46:03.473Z"
+    }
+  ],
+  "'made a lad'": [
+    {
+      "defid": 16319453,
+      "definition": "To be 'made a lad of' , or to have a 'lad made out of him'. Originally conceived as an [intellectual] concept concerning the [relationship] (sexual or non-sexual) between a 'daddylad' and his 'lad' aboard a certain Royal Navy T class submarine [in the early] 2000's.",
+      "example": "Sailor A: <[sniggers]> Sticky's gone to shake his lad early again shippers\n\nSailor B: <[chuckles]> yeah, he's certainly 'made a lad' out of Gooch. That's [the third] sexy shake he's learned him with in as many off-watches.",
+      "written_on": "2021-09-16T16:48:51.979Z"
     }
   ]
 }
