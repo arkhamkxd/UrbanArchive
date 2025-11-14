@@ -178454,5 +178454,29 @@
       "example": "5s is a RW$ [member]",
       "written_on": "2021-11-22T17:45:09.104Z"
     }
+  ],
+  "<.7.9.7.6.>Yo Te Amo, Mi abuela Cubana<.7.9.7.6.>": [
+    {
+      "defid": 18485107,
+      "definition": "<.7.9.7.6.>Yo [Te Amo], Mi [abuela] [Cubana]<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>Yo [Te Amo], Mi [abuela] [Cubana]<.7.9.7.6.>",
+      "written_on": "2025-05-09T19:26:34.562Z"
+    }
+  ],
+  "🐷": [
+    {
+      "defid": 15722171,
+      "definition": "[Pigs] are [animals] with [snout] and they are pink",
+      "example": "[Girl]: oh [look] it's [a pig]\r\nBoy: Wow! It's pink!\r\n🐷",
+      "written_on": "2021-02-06T10:17:39.24Z"
+    }
+  ],
+  "'kinell": [
+    {
+      "defid": 12732082,
+      "definition": "a one word [reference] for [fucking hell], a sociably [acceptable] way to express ones dismay withoit full on swearing.",
+      "example": "Just [watched] [American Pie] and realised its 19 [years] old 'kinell",
+      "written_on": "2018-05-15T00:00:00Z"
+    }
   ]
 }

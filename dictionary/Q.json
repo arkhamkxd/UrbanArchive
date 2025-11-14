@@ -21079,6 +21079,12 @@
       "definition": "Quen is also [a name].",
       "example": "Her [name] is Quen.",
       "written_on": "2010-02-14T00:00:00Z"
+    },
+    {
+      "defid": 16230944,
+      "definition": "[The sign] [used] in [the witcher]",
+      "example": "Quen used to [shield] you from [taking] [damage] from enemys",
+      "written_on": "2021-08-05T20:56:00.023Z"
     }
   ],
   "Quarter-ass": [
@@ -73845,6 +73851,14 @@
       "definition": "[Poopy head]",
       "example": "Querobero is a [poopy head].",
       "written_on": "2022-09-23T00:30:39.611Z"
+    }
+  ],
+  "QOTDFMGFWISDA": [
+    {
+      "defid": 16269911,
+      "definition": "Quote of the day from my gf’s [flatmate] who is [starting] Dev [Academy]",
+      "example": "QOTDFMGFWISDA: Sam, can you [tell me about] this error I’m [getting in] my Channel Panel?\r\n(Speaking about her Terminal which was displaying a message saying “The default [interactive] shall is now zsh”)",
+      "written_on": "2021-08-25T22:41:36.606Z"
     }
   ]
 }
