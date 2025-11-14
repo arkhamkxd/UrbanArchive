@@ -73838,5 +73838,13 @@
       "example": "[Person 1]. Hey Tim! [What are you doing]?\n\nTim. I typed qwerfvcxzasdtyuik,mnbghj.\n\nPerson 1. [Get a job] Tim!",
       "written_on": "2023-03-31T21:08:04.193Z"
     }
+  ],
+  "querobero": [
+    {
+      "defid": 17467995,
+      "definition": "[Poopy head]",
+      "example": "Querobero is a [poopy head].",
+      "written_on": "2022-09-23T00:30:39.611Z"
+    }
   ]
 }
