@@ -35291,6 +35291,12 @@
       "definition": "[What to do] to [Ben]",
       "example": "/me [slaps] [the shit out of] [Ben]",
       "written_on": "2002-08-07T00:00:00Z"
+    },
+    {
+      "defid": 2825,
+      "definition": "/me [slaps] [you is] irc [slang] for (name) slaps you.  It would appear as so:  I type /me slaps Diab, or /me slaps Cy and it would appear as Ben slaps Diab or Ben slaps Cy.",
+      "example": "Ben [slaps] Cy.  Ben [slaps] [Diab].",
+      "written_on": "2002-07-12T00:00:00Z"
     }
   ],
   "2218": [
@@ -177933,6 +177939,38 @@
       "definition": "Short for \"21 for 21,\" or when you take 21 shots on your 21st birthday to [celebrate] the fact that you're of legal [drinking age] in the [United States].",
       "example": "[happy birthday] [man], 21421!",
       "written_on": "2010-08-10T00:00:00Z"
+    }
+  ],
+  "9 Mark Round": [
+    {
+      "defid": 2735857,
+      "definition": "A 9 mark round is when you [have sex] with a bitch for 3min in the mouth, 3min in [the puss] and 3min [in the ass]. 3+3+3=9(Like in darts when you trow 3 darts in one round and hit 3 tripples)",
+      "example": "\"Hey Sammy did you [fuck that] slut from the bar [the other night].\"\r\n\r\nSammy - \" Hell yea, that was a [dirty bitch]. I gave her a great 9 mark round after I was done with the 3rd minute in her ass I pulled out and blew it directly in her eye. She loved it.\"",
+      "written_on": "2008-01-03T00:00:00Z"
+    }
+  ],
+  "21 nut salute": [
+    {
+      "defid": 14081073,
+      "definition": "The 21 Nut Salute is like the [21 Gun Salute], but instead of 7 guys lined up firing 3 rounds from weapons, 7 guys line up and blast three ropes in honor of a fallen brother, comrade, etc.\n\nSee [blasting rope] if [you don't know] what it means.",
+      "example": "Guy 1: We did [the 21] Nut Salute after Jaquan's [funeral] [the other day]",
+      "written_on": "2019-07-23T00:00:00Z"
+    }
+  ],
+  "#allsmokenogas": [
+    {
+      "defid": 13309552,
+      "definition": "A term used by a [defending] team when they attempt to make a comeback . [Literally] makes [no sense]. It’s ok to feel sorry for whoever uses this saying. It’s so stupid that it makes you cringe inside.",
+      "example": "Did they [really] [just] [tweet] #allsmokenogas ? Are they dumb?",
+      "written_on": "2018-10-29T00:00:00Z"
+    }
+  ],
+  "77'ed": [
+    {
+      "defid": 712561,
+      "definition": "To steal [something] that [really] has no value but you care [cause it] was yours.",
+      "example": "He 77'ed my [pencil]!!",
+      "written_on": "2004-06-10T00:00:00Z"
     }
   ]
 }
