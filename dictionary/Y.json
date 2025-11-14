@@ -171106,5 +171106,29 @@
       "example": "Timmy: I want some yogurt tip\r\nTimmy’s dad: come her son. [Let me teach you] a [something] that will [get you] far in life.",
       "written_on": "2017-12-20T00:00:00Z"
     }
+  ],
+  "Your mom's ape": [
+    {
+      "defid": 15774181,
+      "definition": "[Something] you say to a [question] you don't feel like [explaining].",
+      "example": "[Clueless] [person]: \"[What's that]?\"\n\nYou: \"your mom's ape\"",
+      "written_on": "2021-02-25T09:51:06.116Z"
+    }
+  ],
+  "you dont just eat em": [
+    {
+      "defid": 11094253,
+      "definition": "[pringles] [logo]",
+      "example": "you [dont] [just] [eat] em you dip em",
+      "written_on": "2017-02-24T00:00:00Z"
+    }
+  ],
+  "YUGIOH": [
+    {
+      "defid": 17576611,
+      "definition": "The [word that] [people] use to act like they are [changing] personalities.",
+      "example": "[Guys] [look]! He is Yugioh-ing!",
+      "written_on": "2022-12-05T17:28:48.682Z"
+    }
   ]
 }
