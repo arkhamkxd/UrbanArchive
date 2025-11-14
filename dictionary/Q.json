@@ -73860,5 +73860,13 @@
       "example": "QOTDFMGFWISDA: Sam, can you [tell me about] this error I’m [getting in] my Channel Panel?\r\n(Speaking about her Terminal which was displaying a message saying “The default [interactive] shall is now zsh”)",
       "written_on": "2021-08-25T22:41:36.606Z"
     }
+  ],
+  "Quality of Life Scale": [
+    {
+      "defid": 17590791,
+      "definition": "A way of measuring [quality of life] [using] life expectancy, GDP, and other [factors].",
+      "example": "We can [measure] [quality of life] using [quality of life] scale.",
+      "written_on": "2022-12-15T09:18:04.83Z"
+    }
   ]
 }

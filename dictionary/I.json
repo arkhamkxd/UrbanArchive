@@ -267226,5 +267226,29 @@
       "example": "IIris acts like [gasoline], add her to Fire and [wind] and you get [mayhem]",
       "written_on": "2018-06-26T13:41:06.237Z"
     }
+  ],
+  "In the kitchen": [
+    {
+      "defid": 12878728,
+      "definition": "A suitable place for [humans] of [the female] gender to thrive, a woman should never leave [the kitchen].",
+      "example": "John: Is [your wife] in the kitchen\r\nBilly: [I hope so] Ive already caught her [taking a break] twice this week",
+      "written_on": "2018-05-31T00:00:00Z"
+    }
+  ],
+  "im in my mums car broom broom": [
+    {
+      "defid": 12446665,
+      "definition": "[WHEN YOU] [HATE LIFE] YOU MAKE A [SUCKY] VINE",
+      "example": "Im in my mums car [broom broom]. Get me car. AHHm [WHEN YOU] [HATE LIFE] YOU MAKE A SUCKY VINE",
+      "written_on": "2018-01-17T00:00:00Z"
+    }
+  ],
+  "i wanna throw my box on him": [
+    {
+      "defid": 17382996,
+      "definition": "[i wanna] [throw] my box [on him]",
+      "example": "[i wanna] [throw] my box [on him]",
+      "written_on": "2022-07-27T14:32:47.061Z"
+    }
   ]
 }
