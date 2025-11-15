@@ -64919,6 +64919,12 @@
       "definition": "The removal of all [objectivity], usefulness, and ability from the most useful [operating system] ever designed.\n\nThe primary cause of a lack of knowledge of the [operating system] that is actually running.",
       "example": "\"What's with all the [pretty] [pictures]? This thing looks [Ubuntu'd]\"",
       "written_on": "2009-07-11T00:00:00Z"
+    },
+    {
+      "defid": 6288361,
+      "definition": "Microsoft's inside man in the Linux camp. While Canonical ([the company] behind Ubuntu Linux) appears to be a pro-open source company, in reality they are a Redmondian agent [trying to kill] Desktop Linux. The Linux crowd, desperate for corporate support as always, fell for the ploy, ignoring all the warning signs:\n\n-In their first steps, Canonical tried to be subtle. They just repackaged Debian -UNSTABLE (read: buggy, incomplete code) instead of Debian -STABLE, and adopted a 6 month release schedule, to ensure bugs won't get ironed out. The Linux crowd ignored these little details and cheered for them.\n\n-Some time later, they started bundling [bleeding edge] stuff like PulseAudio, and also made sure that clicking the \"upgrade\" button will trash your computer. \"Have we gone too far and risk of our ploy being exposed?\" Shuttleworth (Canonical's CEO) thought. However, the Linux crowd mumbled something about \"teething problems\" and continued to cheer for Ubuntu and Canonical. Shuttleworth was happy.\n\n-Taking it another step too far, Canonical started to mangle the Gnome UI, and then released the worst interface ever (Unity). [Surprisingly], this time 'round, the Linux crowd woke up and abandoned Ubuntu. Instead, they moved to Linux Mint, an Ubuntu-based distro which has all [the problems] Ubuntu has but lacks the Software Center (for whatever it's worth). You can't make that stuff up.\n\nWhat about Debian -STABLE? It still exists. If you are smart enough to ignore the Ubuntu/Mint fanboys.",
+      "example": "Ubuntu fanboy: Look how cool my Ubuntu is. Wha... Where does this Xserver crash came from? Anyway, I guess I can live with that. (6 months later) Look a new version called Ubuntu 13.04 \"Sleeping Skunk\" came out, I ll just click the upgrade button and... Oh noo!!! (computer fails to wake up after the upgrade, and after a 3 day expedition on ubuntuforums the computer now boots without WiFi and sound). I hate Ubuntu and the Linux [operating system]. Windows foravar!\n\nMe: Have you tried Debian? You do know that Ubuntu is based on Debian -UNSTABLE which means buggy and [incomplete] code?\n\nUbuntu fanboy: But some guys on [the internet] told me Ubuntu is da shit!",
+      "written_on": "2011-12-17T00:00:00Z"
     }
   ],
   "Usha": [
@@ -132145,6 +132151,46 @@
       "definition": "Where former Jesuslanders go when they realize that the government is [supposed to] take care of everybody by forcing money from those who have it and giving it to those who don't.\r\n\r\nContrast with Jesusland where people think that the church is [supposed to] take care of everybody by extracting money from anyone who will listen and building a bigger cathedral than the Jones' church [down the street].",
       "example": "I moved to the [United States] of Canada after my [preacher] took my baby's [milk money] and bought an Xbox for his church's new million dollar youth building.",
       "written_on": "2008-03-16T00:00:00Z"
+    }
+  ],
+  "UNCG": [
+    {
+      "defid": 2702284,
+      "definition": "A [University] in Greensboro, North Carolina that is known for its art, music, and education programs. As a result, the majority of the students that attend UNCG are artsy, musical, or in a band. Most students go home [on the weekends] accept for the out-of-state students that didn't [get the memo] that UNCG is a suitcase campus. Most students that go to UNCG plan on transferring to a different school after 2 years.",
+      "example": "\"[I moved] from NY to [go to] UNCG.\"\r\n\"Wtf Why?!\"\r\n\"[fuck if i know]\"",
+      "written_on": "2007-12-29T00:00:00Z"
+    }
+  ],
+  "Underhanded": [
+    {
+      "defid": 1063705,
+      "definition": "[Cheap] (not referring to [money]); [unfair].",
+      "example": "His underhanded business deals [subjected] him to a taxing amount of [government] [scrutiny].",
+      "written_on": "2005-02-15T00:00:00Z"
+    }
+  ],
+  "UrbanBackflip": [
+    {
+      "defid": 18551181,
+      "definition": "A [nonce], [chav]",
+      "example": "\"[You know] [Ricky]? He's being a [total] UrbanBackflip\"",
+      "written_on": "2025-09-29T16:46:31.994Z"
+    }
+  ],
+  "Uggo hag face": [
+    {
+      "defid": 17707758,
+      "definition": "[What the] average teliophile man is attracted to. [Overdone] make-up, pepe lips, thick [eyebrows], noticeably wrinkled face, etc.\n\nTo sum it up, not cute at all.",
+      "example": "Woman: [Would you rather] have a ps5 or have me? ;)\n\nGigachad: I'd take the ps5 anyday, I can barely even [look at you] straight [with that] uggo hag face! 🤢",
+      "written_on": "2023-03-11T19:42:15.651Z"
+    }
+  ],
+  "Undecisive": [
+    {
+      "defid": 4065106,
+      "definition": "(Uhn-dis-ice-ive) To undo that [which one] has decided; to change ones [decisions]; Fickle; [irresolute]",
+      "example": "She had [chosen] [regular] beer, but being undecisive as she is she then [opted] to drink light.",
+      "written_on": "2009-06-24T00:00:00Z"
     }
   ]
 }
