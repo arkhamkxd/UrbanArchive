@@ -180132,5 +180132,21 @@
       "example": "[shut the fuck up] your an _6ored",
       "written_on": "2024-08-12T04:57:45.612Z"
     }
+  ],
+  "80/80": [
+    {
+      "defid": 3936965,
+      "definition": "On [GameFAQs message boards], topic titles can only have 80 characters. It's normal to announce [when you] have created a topic title with [exactly] 80 characters.",
+      "example": "Topic title: Is it weird that my parents [encourage] me to [illegally] [download] movies/music/etc?\n\n80/80\n\nSo is it?",
+      "written_on": "2009-05-03T00:00:00Z"
+    }
+  ],
+  "🚫🐌": [
+    {
+      "defid": 15056340,
+      "definition": "it [means] [no homo]. but 🐌 on its own just [means] snail",
+      "example": "[aye] [i love you] but 🚫🐌",
+      "written_on": "2020-06-03T00:00:00Z"
+    }
   ]
 }
