@@ -26903,6 +26903,12 @@
       "definition": "Fix [one thing], [break] ten [other things]",
       "example": "\"[Well] it was [fine] until [you tried] to ubisoft it.\"",
       "written_on": "2017-10-11T00:00:00Z"
+    },
+    {
+      "defid": 14067068,
+      "definition": "[Loading]...\r\n[Content] [unavailable].",
+      "example": "Could not parse [request].\r\nOur new business partners Ubisoft our [handling] our servers...\r\nServers are under [maintenance].",
+      "written_on": "2019-07-17T00:00:00Z"
     }
   ],
   "Uchral": [
@@ -132925,6 +132931,14 @@
       "definition": "1. When living in the city or city life in general has taken its toll on an individual.\n\n2. A grave sickness contracted from living in the midst of an urban city dwelling or lifestyle,\n\n3. Often a [breaking point] when one goes insane and is [overwhelmed] with a feeling to leave everything behind and go 'Hippy Commando' out in the backwoods or [the middle of nowhere].",
       "example": "I have a bad case of urbanitis ..i must escape to [greener pastures] ...\n\nooo yeah ... im goin to go postal on your [City Slicker] azz ... [blame it] on the Urbanitis.",
       "written_on": "2010-08-21T00:00:00Z"
+    }
+  ],
+  "up and late": [
+    {
+      "defid": 9762333,
+      "definition": "[When you] wake [up and] you're late for [work].",
+      "example": "Being [up and] [late] is [normal].",
+      "written_on": "2016-05-23T00:00:00Z"
     }
   ]
 }
