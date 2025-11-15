@@ -108184,5 +108184,13 @@
       "example": "Zyma: [What's wrong]?\r\nperson: I can't [find my] [earrings]\r\nZyma: I'll help you!",
       "written_on": "2019-06-30T00:00:00Z"
     }
+  ],
+  "zsombi": [
+    {
+      "defid": 16519766,
+      "definition": "Zsombi is [a boy] who has a chain and [wants] to be am [e-boy]",
+      "example": "[Hey] Zsombi! U [look] [good]!",
+      "written_on": "2021-11-22T02:45:00.667Z"
+    }
   ]
 }
