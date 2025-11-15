@@ -231480,5 +231480,29 @@
       "example": "I know that i'm not going to live [more than] a week, so [i want you] to old my gold for the rest of [your life].",
       "written_on": "2010-02-05T00:00:00Z"
     }
+  ],
+  "obsessive": [
+    {
+      "defid": 3053681,
+      "definition": "To have a [place] for [everything] and [everything] in it's place",
+      "example": "Person 1: You moved my [salt shaker]. \r\n\r\nPerson 2: Quit being so obsessive. \r\n\r\nGun 1: BANG!\r\n\r\nPerson 1:(Moves [salt shaker] to [original] position.)",
+      "written_on": "2008-05-01T00:00:00Z"
+    }
+  ],
+  "OneLoupe": [
+    {
+      "defid": 17617065,
+      "definition": "[Software] for magnifying the [screen] [anywhere].",
+      "example": "[I just] [downloaded] OneLoupe. [Pretty good].",
+      "written_on": "2023-01-05T13:11:05.184Z"
+    }
+  ],
+  "Oblivox": [
+    {
+      "defid": 17843637,
+      "definition": "A word to describe the mentality of longing for [the unknown] or cataclysmic end to how things are. Similar to [apocalyptist] often with a hatred to [the world] & to ones own nature.\n\nAn en-ending feeling that things need to stop being a certain way.",
+      "example": "The suicidal [hijacker] was in an Oblivox [state of mind].\r\nThe [doomsday] prepper was an Oblivox.",
+      "written_on": "2023-06-30T20:27:35.307Z"
+    }
   ]
 }
