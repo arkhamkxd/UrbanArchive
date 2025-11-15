@@ -74036,5 +74036,21 @@
       "example": "[what the fuck] [are you] [looking] at quirbait?",
       "written_on": "2003-11-21T00:00:00Z"
     }
+  ],
+  "Quit twitter": [
+    {
+      "defid": 17003270,
+      "definition": "To [kill your self]",
+      "example": "[Did you] see John quit [twitter] it was really [depressing]",
+      "written_on": "2022-02-18T05:52:44.115Z"
+    }
+  ],
+  "quadruple-second-cousin": [
+    {
+      "defid": 18279375,
+      "definition": "[Living being] that has zero [parents], zero [grandparents] and eight great-grandparents in common with other living beings.",
+      "example": "Quadruple-second-cousin.",
+      "written_on": "2024-07-26T10:57:38.128Z"
+    }
   ]
 }
