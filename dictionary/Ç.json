@@ -246,5 +246,13 @@
       "example": "\"You can't do ç [without] a [vowel] after its hyper [cursed]\"\r\nok Çpyx",
       "written_on": "2024-08-05T16:27:27.519Z"
     }
+  ],
+  "Ç": [
+    {
+      "defid": 17408248,
+      "definition": "C with cedilla",
+      "example": "The letter Ç ç, or C with cedilla, is used in various [languages] such as [Portuguese], French or Turkish. In [French it]’s pronounced like an “S” as in the word sad, but in Turkish it’s pronounced like a “J” as in the word jog.",
+      "written_on": "2022-08-13T12:02:47.46Z"
+    }
   ]
 }
