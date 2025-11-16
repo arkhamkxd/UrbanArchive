@@ -134796,5 +134796,13 @@
       "example": "The [bloody cat] jumped [up and] [scratched] my leg - got a nasty cut on my Urm!",
       "written_on": "2004-10-08T00:00:00Z"
     }
+  ],
+  "under the weather": [
+    {
+      "defid": 1423271,
+      "definition": "1. ill\r\n\r\n 2. [alcohol] [intoxicated], [drunk]",
+      "example": "[I am] [feeling under the weather] [today].",
+      "written_on": "2005-09-05T00:00:00Z"
+    }
   ]
 }
