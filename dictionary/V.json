@@ -169040,5 +169040,21 @@
       "example": "\"[Man] her vasch be [hangin']\"",
       "written_on": "2007-08-13T00:00:00Z"
     }
+  ],
+  "Vrede": [
+    {
+      "defid": 5018341,
+      "definition": "[The Dutch] [word] for [peace].",
+      "example": "[The visitor] from [North Carolina] participated in a February, 2003 75,000-person march for vrede in [Amsterdam] during the lead up to the Iraq War.",
+      "written_on": "2010-06-07T00:00:00Z"
+    }
+  ],
+  "Venial sin": [
+    {
+      "defid": 15725599,
+      "definition": "[venial] sin is a lesser sin that does not result in a [complete] [separation] from God",
+      "example": "[Someone] who tells a [white lie] commits a [venial] sin.",
+      "written_on": "2021-02-07T22:06:35.858Z"
+    }
   ]
 }
