@@ -184190,5 +184190,37 @@
       "example": "[Yo bro] wanna 400 [and chill] this [weekend]?",
       "written_on": "2020-12-01T09:37:32.704Z"
     }
+  ],
+  "'nam films": [
+    {
+      "defid": 3684733,
+      "definition": "Films about [Vietnam]. [War] [movies].",
+      "example": "[Full metal jacket] is [one of] [the best] 'nam films.",
+      "written_on": "2009-02-04T00:00:00Z"
+    }
+  ],
+  "3mazing": [
+    {
+      "defid": 5203429,
+      "definition": "[Exactly] [three times] [better than] amazing.",
+      "example": "*[Someone] pulls off a [triple] [back flip]*\n\nTHAT'S 3MAZING BRO!",
+      "written_on": "2010-09-07T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6>Implificacion, implifIcacion, implificacion<.7.9.7.6.>": [
+    {
+      "defid": 18480993,
+      "definition": "<.[7.9].[7.6]>Implificacion, implifIcacion, implificacion<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6]>Implificacion, implifIcacion, implificacion<.[7.9].7.6.>",
+      "written_on": "2025-05-02T22:25:03.122Z"
+    }
+  ],
+  ">=(": [
+    {
+      "defid": 378197,
+      "definition": "[rar] [face]",
+      "example": "im ..so..[MAD]....!\r\n\r\n\r\n>=( [rar].",
+      "written_on": "2003-12-03T00:00:00Z"
+    }
   ]
 }
