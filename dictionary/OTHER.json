@@ -16151,6 +16151,12 @@
       "definition": "a suffix used to [guesstimate] a [number] or time. When referring to time \"-ish\" means within plus or minus [15 minutes]. When referring to a number \"-ish\" means within 5.",
       "example": "Guy1: What time is [the party]?\r\nGuy2: 7:30-ish\r\nGuy1: [How many] people are going?\r\nGuy2: Idk 30-ish, [I think].",
       "written_on": "2009-09-13T00:00:00Z"
+    },
+    {
+      "defid": 5340607,
+      "definition": "[suffix]. used to describe an [approximation], or likeness of the subject. (can be used alone as an [adjective])",
+      "example": "ten-ish (tenish)- around ten o'clock\r\nverbal-ish (verbalish)- [speaking] in a manner not [commonly] [understood] (non-laymen terms)",
+      "written_on": "2010-11-09T00:00:00Z"
     }
   ],
   "2 fingers up": [
@@ -40115,6 +40121,12 @@
       "definition": "1:11 am or pm  is the homo hour.\r\nIf you suddenly [look at] [the clock] and it reads 1:11 am or pm ,  you [more than] likely get your stool pushed in from time to time.",
       "example": "Joe smiled as he spit [feathers] from his mouth and [noticed] [the clock] read 1:11 again",
       "written_on": "2007-11-13T00:00:00Z"
+    },
+    {
+      "defid": 14906487,
+      "definition": "Serene imagery ([Typically] on a digital clock). [Peaceful] and [pleasing] to look at, emitting a sense of calm.",
+      "example": "My clock said 1:11 [and all] felt right in [the world].\n\n[You mean] 11:11, right?\r\nNo.",
+      "written_on": "2020-04-18T00:00:00Z"
     }
   ],
   "^o^": [
@@ -53221,6 +53233,12 @@
       "definition": "[I will] never…\r\n[Abandon] you…\r\n[No matter what]…",
       "example": "713…",
       "written_on": "2023-11-03T05:32:41.525Z"
+    },
+    {
+      "defid": 1149533,
+      "definition": "[the area] [code] for [Houston] Tx",
+      "example": "[Yes I] ate [texmex] and got [heartburn] in that 713",
+      "written_on": "2005-03-28T00:00:00Z"
     }
   ],
   "43": [
@@ -184033,6 +184051,22 @@
       "definition": "1: A GM/DM who Lives and Dies By rule 0. Often cannot do anything without invoking it. \r\n2: A Member of RPG forums who uses rule 0 all the time In rules discussion, [contributing] [absolutely nothing] to the Thread. Often uses it as an excuse to justify pushing his [personal feelings] as the right and proper thing to do.",
       "example": "[Normal person]: [According to] The designers of the book, It is [acceptable] to do this. \r\n0tard's response: Well I do it this way, And I can because of rule 0, and I think everyone should too.",
       "written_on": "2009-02-20T00:00:00Z"
+    }
+  ],
+  "4-bars": [
+    {
+      "defid": 1263582,
+      "definition": "zanex... a medication used for people with [multiple personality disorder] however people who do not have this disorder and take them will [experience] a feeling of severe drunkedness, [memory loss], and sleep",
+      "example": "damn i took those 4-bars [last night] and now i have no [fuckin] idea what [happened]",
+      "written_on": "2005-05-18T00:00:00Z"
+    }
+  ],
+  "<<<<": [
+    {
+      "defid": 2472170,
+      "definition": "[Less than] worthy. Very poor. It's not going to be good. Low [expectations]. Give me less of that.\r\n\r\nAntonym= >>>>\r\n\r\nThe more <'s there are, the worse [the thing is] or you expect it to be.",
+      "example": "[Question]:Do you think [the new] [episode] of Lost will be good?\r\n\r\nAnswer: <<<<",
+      "written_on": "2007-07-16T00:00:00Z"
     }
   ]
 }
