@@ -136658,5 +136658,13 @@
       "example": "To cast a spell, [I just] [recite] the CHANT OF MAKING [over and over again]... UN NAL NOTH ROQ UTHS VOS BETHOD DOQIEL DIENVEY.",
       "written_on": "2018-01-12T00:00:00Z"
     }
+  ],
+  "ultraballin": [
+    {
+      "defid": 17646175,
+      "definition": "When a [character] from [the game] [Ultrakill] is ballin",
+      "example": "V1 is Ultraballin",
+      "written_on": "2023-01-27T12:02:38.844Z"
+    }
   ]
 }
