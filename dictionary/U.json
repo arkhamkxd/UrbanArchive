@@ -65633,6 +65633,12 @@
       "definition": "Microsoft's inside man in the Linux camp. While Canonical ([the company] behind Ubuntu Linux) appears to be a pro-open source company, in reality they are a Redmondian agent [trying to kill] Desktop Linux. The Linux crowd, desperate for corporate support as always, fell for the ploy, ignoring all the warning signs:\n\n-In their first steps, Canonical tried to be subtle. They just repackaged Debian -UNSTABLE (read: buggy, incomplete code) instead of Debian -STABLE, and adopted a 6 month release schedule, to ensure bugs won't get ironed out. The Linux crowd ignored these little details and cheered for them.\n\n-Some time later, they started bundling [bleeding edge] stuff like PulseAudio, and also made sure that clicking the \"upgrade\" button will trash your computer. \"Have we gone too far and risk of our ploy being exposed?\" Shuttleworth (Canonical's CEO) thought. However, the Linux crowd mumbled something about \"teething problems\" and continued to cheer for Ubuntu and Canonical. Shuttleworth was happy.\n\n-Taking it another step too far, Canonical started to mangle the Gnome UI, and then released the worst interface ever (Unity). [Surprisingly], this time 'round, the Linux crowd woke up and abandoned Ubuntu. Instead, they moved to Linux Mint, an Ubuntu-based distro which has all [the problems] Ubuntu has but lacks the Software Center (for whatever it's worth). You can't make that stuff up.\n\nWhat about Debian -STABLE? It still exists. If you are smart enough to ignore the Ubuntu/Mint fanboys.",
       "example": "Ubuntu fanboy: Look how cool my Ubuntu is. Wha... Where does this Xserver crash came from? Anyway, I guess I can live with that. (6 months later) Look a new version called Ubuntu 13.04 \"Sleeping Skunk\" came out, I ll just click the upgrade button and... Oh noo!!! (computer fails to wake up after the upgrade, and after a 3 day expedition on ubuntuforums the computer now boots without WiFi and sound). I hate Ubuntu and the Linux [operating system]. Windows foravar!\n\nMe: Have you tried Debian? You do know that Ubuntu is based on Debian -UNSTABLE which means buggy and [incomplete] code?\n\nUbuntu fanboy: But some guys on [the internet] told me Ubuntu is da shit!",
       "written_on": "2011-12-17T00:00:00Z"
+    },
+    {
+      "defid": 6332004,
+      "definition": "An [operating system] for [computer] [illiterate] people and wannabe hackers.",
+      "example": "Skid1: I just [installed] ubuntu, I am now an [elite hacker]\r\nSkid2: Wow, cool you are awesome.\r\nPerson who actually knows computers: I [installed] ubuntu on my grandmothers computer, she can now read her email without calling me five times",
+      "written_on": "2012-01-02T00:00:00Z"
     }
   ],
   "Usha": [
@@ -136463,6 +136469,22 @@
       "definition": "A game wherein a group of people take turns bringing up \"[Random Words]\" on [urbandictionary.com]. If your random word describes a perverse sex act, you're out. Winner is the last one remaining. Can also be played as a [drinking game].",
       "example": "We were playing [Urban Dictionary] Roulette, and it was down to me and Tom - [but then] I got \"[Dirty Sanchez]\" and it was all over.",
       "written_on": "2016-06-04T00:00:00Z"
+    }
+  ],
+  "Unintentional Rizz": [
+    {
+      "defid": 17651968,
+      "definition": "The rizz an [individual] has that affects the populace around him/her. The [individual] with unintentional rizz does not mean to rizz the populace around him/her, the [individual] just unconsciously rizzes up everyone around him/her",
+      "example": "Damn brotha, Hanson's [got that] unintentional rizz. Bro [ain't even] trying and ends up pulling [left and right]",
+      "written_on": "2023-01-31T17:05:52.21Z"
+    }
+  ],
+  "uncle nasty": [
+    {
+      "defid": 17164470,
+      "definition": "TommyInnits creppy ass doll that a lady gave him [on the beach] and [wilbur soot] / charlie slimecicle tried to [exorcise]",
+      "example": "\"[Uncle] nasty is NOT [haunted] [wilbur]\"",
+      "written_on": "2022-04-19T03:25:21.742Z"
     }
   ]
 }
