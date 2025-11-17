@@ -6337,6 +6337,12 @@
       "definition": "A letter that can be [inserted] at random intervals in any [English] [compound word] to make it cool.",
       "example": "[The word] \"teakettle\" is [not cool].  [The word] \"teaxkettle\" is.",
       "written_on": "2007-04-27T00:00:00Z"
+    },
+    {
+      "defid": 15976723,
+      "definition": "Placeholder [element] in math, [programming], [language], and more.",
+      "example": "var x = \"placeholder\";\n\nfunction ( x ) { return x; }\n\nstring x = \"\";\n\nvoid function( x )\n\n{...}\n\n11 = x + 2\n\ny = mx + b\n\n4 + 4 = x\n\n\"Did [you know that] X person did Y thing?\"\n\n\"X crime was [committed] today... [what a shame]!\"",
+      "written_on": "2021-05-08T13:03:03.611Z"
     }
   ],
   "Xemboy": [
@@ -31521,6 +31527,14 @@
       "definition": "A very fixe [black guy]. Gets mad really easily tho. [Overall] a [great ass] nigga/rizzler.",
       "example": "person 1: [That nigga] Xarepe is very sexy.\r\nperson 2: [Everyone] loves [the rizzler] (Xarepe)",
       "written_on": "2024-07-04T13:59:19.777Z"
+    }
+  ],
+  "XandercommandoAlt": [
+    {
+      "defid": 16880442,
+      "definition": "[Somone] who makes alts over [discord] to groom [people]",
+      "example": "The [account] XandercommandoAlt [grooms] so so so so so so many [women] each day",
+      "written_on": "2022-01-02T03:16:41.608Z"
     }
   ]
 }
