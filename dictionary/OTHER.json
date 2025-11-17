@@ -183940,5 +183940,21 @@
       "example": "[Jack]: 🤠🙃😃\r\n[Elsa]: Where did your hat go?\r\n[Jack]: 😃🙃🤠",
       "written_on": "2020-10-30T16:05:57.692Z"
     }
+  ],
+  "3X-grandmother": [
+    {
+      "defid": 16130453,
+      "definition": "[Great-great-grandmother].",
+      "example": "My 3X-grandmother is [a good person].",
+      "written_on": "2021-06-25T11:23:42.036Z"
+    }
+  ],
+  "2Chi": [
+    {
+      "defid": 16695499,
+      "definition": "[Dope ass] [artist]",
+      "example": "That’s [just] 2Chi, He do that",
+      "written_on": "2021-11-23T17:57:04.324Z"
+    }
   ]
 }
