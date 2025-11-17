@@ -136346,5 +136346,21 @@
       "example": "[Military] [Guy]: \"[Send] in the UGVs!\"",
       "written_on": "2006-04-29T00:00:00Z"
     }
+  ],
+  "uselessness": [
+    {
+      "defid": 13541629,
+      "definition": "[Sakura Haruno]",
+      "example": "Sakura: I finally [caught up] to [you guys]!!!\n\n[everyone]: why is uselessness even trying",
+      "written_on": "2019-01-20T10:50:12.672Z"
+    }
+  ],
+  "US-Canadian Border": [
+    {
+      "defid": 2906112,
+      "definition": "Border between the North American nations of Canada and the USA. [Easily] traversed if you are a Canadian or [American citizen], less so if you are from any other country  (including EU or Commonwealth nations).\r\nBe prepared to pay $6 dollars to enter the [United States] from Canada (entering Canada is free). The fee CANNOT be paid by credit or debit card or with Canadian dollars, nor is there anywhere nearby from which [American money] can be withdrawn in most cases. Also, be prepared to fill out a ridiculous immigration card which asks you questions including \"Were you in any way involved in the Nazi regime in Germany between the years 1939-1945\" despite the fact your passport clearly states that you were born in the late 1980's. \r\nGenerally, expect to be treated with far more suspicion by the American border guards than the Canadians. If you are planning to stay in the USA longer than a few days, you may be required to provide proof that you have the money to fund your trip so they are satisfied you won't try to work in their country, since they seem convinced anywhere outside North American is some kind of God forsaken war torn hell hole.",
+      "example": "When I was crossing the US-Canadian Border I had to pay $6  for the [privilege] of filling that stupid [green piece] of card they give you, then [convince] them that I didn't need to work in their country to send money home to feed my family since I'm from Britain, not Yemen.",
+      "written_on": "2008-03-06T00:00:00Z"
+    }
   ]
 }
