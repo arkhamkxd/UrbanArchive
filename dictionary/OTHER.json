@@ -52379,6 +52379,12 @@
       "definition": "⠀⠀⠀⠀⠀⠀",
       "example": "⠀⠀⠀⠀⠀⠀⠀",
       "written_on": "2021-05-07T06:50:42.429Z"
+    },
+    {
+      "defid": 15411120,
+      "definition": "⠀",
+      "example": "⠀",
+      "written_on": "2020-10-22T09:13:46.992Z"
     }
   ],
   ":)(:": [
@@ -56237,6 +56243,12 @@
       "definition": "All. The 'per cent' ratio is based on a scale of [one hundred]. Thus, if [the highest] number possible in a certain category was changed to [one hundred], the total that is possessed/achieved is one hindred.",
       "example": "I have [found] 100% of my lost socks [since] 2005 [began].",
       "written_on": "2005-01-14T00:00:00Z"
+    },
+    {
+      "defid": 4819351,
+      "definition": "When [something] or someone is [doing something] [to the MAX] or to the T",
+      "example": "\"do you like Dan?\"\r\n\"100%\"\n\n\"you think I look good in this?\"\r\n\"100%\"\n\n\"you see her [dancing] [all crazy] [over there]??\"\r\n\"100%\"",
+      "written_on": "2010-03-21T00:00:00Z"
     }
   ],
   "3 fingers held up": [
@@ -184005,6 +184017,22 @@
       "definition": "[The day] [a legend was born]",
       "example": "[What is] special about 7th feb?\r\nIt’s [the day] [a legend was born]",
       "written_on": "2021-11-23T12:07:41.805Z"
+    }
+  ],
+  "=rand()": [
+    {
+      "defid": 1278461,
+      "definition": "A command you type in MS Word 2003 (and probably other version) that generates this:\r\n\r\nThe quick brown fox jumps over [the lazy dog].  The quick brown fox jumps over [the lazy dog].  The quick brown fox jumps over [the lazy dog].  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.\r\nThe quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.\r\nThe quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.\r\n\r\nYou can input any number inside the brackets-- up to 200.",
+      "example": "ROB: [LIEK] OMG I [TYPED] =rand() and tEH w0rld 0p3n'D!!11!\r\nBOB: [kthx].",
+      "written_on": "2005-05-27T00:00:00Z"
+    }
+  ],
+  "0tard": [
+    {
+      "defid": 3739309,
+      "definition": "1: A GM/DM who Lives and Dies By rule 0. Often cannot do anything without invoking it. \r\n2: A Member of RPG forums who uses rule 0 all the time In rules discussion, [contributing] [absolutely nothing] to the Thread. Often uses it as an excuse to justify pushing his [personal feelings] as the right and proper thing to do.",
+      "example": "[Normal person]: [According to] The designers of the book, It is [acceptable] to do this. \r\n0tard's response: Well I do it this way, And I can because of rule 0, and I think everyone should too.",
+      "written_on": "2009-02-20T00:00:00Z"
     }
   ]
 }
