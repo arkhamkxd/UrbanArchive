@@ -77052,5 +77052,21 @@
       "example": "That [fatass] LaQueffa is [such a] Queiftilla.",
       "written_on": "2011-03-10T00:00:00Z"
     }
+  ],
+  "quesaco": [
+    {
+      "defid": 7829420,
+      "definition": "A [combination] of a [quesadilla] and [a taco]",
+      "example": "Ray: \"Dude, [I don't know what] to eat.\"\r\nEric: \"How about a quesaco? A [quesadilla] and taco combo?\"\r\nRay: \"[I don't know if] you're a genius or a stoner, but whatever.\"",
+      "written_on": "2014-07-10T00:00:00Z"
+    }
+  ],
+  "Queer Ops": [
+    {
+      "defid": 5497890,
+      "definition": "[Another] name of [the game] [Call of Duty Black Ops] because it is so gay.",
+      "example": "[Wanna play] [Queer] [Ops]?",
+      "written_on": "2011-01-09T00:00:00Z"
+    }
   ]
 }
