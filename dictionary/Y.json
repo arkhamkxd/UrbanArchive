@@ -180938,5 +180938,13 @@
       "example": "Yeet-a-mis-max-mis",
       "written_on": "2019-04-05T00:00:00Z"
     }
+  ],
+  "Your Elf's lil' coupon book": [
+    {
+      "defid": 14311407,
+      "definition": "A binding [contract] that will work [anytime] of day,month,or year. No one can say no to a \"Your Elf's lil' [coupon] book!",
+      "example": "\"Hey do u [want to] have a [sleepover]\"\r\n\"no, it's a [school night], I can't\"\n\n\"Do u have a \"your Elf's lil' coupon book\"?\"\n\n\"yeah,why?\"\r\n\"use it! There's a coupon in it for a weekday sleepover!\"",
+      "written_on": "2019-10-20T00:00:00Z"
+    }
   ]
 }
