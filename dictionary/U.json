@@ -138180,5 +138180,13 @@
       "example": "No one knows Unknown [Developer], they [don't know] you.\n\n[Don't play] his games. Seriously, don't.",
       "written_on": "2018-07-10T00:00:00Z"
     }
+  ],
+  "ugc notifier": [
+    {
+      "defid": 15236217,
+      "definition": "UGC Notifier is a Discord and [Twitter bot] made and ran by @greendevman (on twitter) which is used to push out notifications as fast as possible for new Roblox UGC Items or price changes to [currently] [published] items.",
+      "example": "[Follow] [UGC] Notifier on [Twitter]: @UGCNotifier",
+      "written_on": "2020-08-09T09:46:18.891Z"
+    }
   ]
 }
