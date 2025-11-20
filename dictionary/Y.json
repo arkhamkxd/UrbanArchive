@@ -183370,5 +183370,21 @@
       "example": "[Me and] [my mum] had a yellfight [this morning]",
       "written_on": "2022-05-14T20:34:39.988Z"
     }
+  ],
+  "yatty": [
+    {
+      "defid": 17437846,
+      "definition": "[slang] for a [tattoo]",
+      "example": "[i just] [got] a [new] yatty",
+      "written_on": "2022-09-02T14:08:36.305Z"
+    }
+  ],
+  "yarnabler": [
+    {
+      "defid": 7095423,
+      "definition": "A person who entices (or enables) another knitter/crocheter into buying yarn he or she doesn't need for a project, only to add to their yarn stash. Usually in [reference] to [a pricey]/luxury/[particularly] pretty or desirable yarn. A yarn pusher.",
+      "example": "\"Mom, this yarn is so pretty! Buy it, I won't tell Dad!\"\n\n\"Lydia, [you should] buy another skein [just in case] you run out!\"\r\n\"Omg [you are a] total yarnabler.\"",
+      "written_on": "2013-06-28T00:00:00Z"
+    }
   ]
 }
