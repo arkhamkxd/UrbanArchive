@@ -113836,5 +113836,13 @@
       "example": "Guy 1:\"I [finally] managed to [get the] zuzz!\"\r\nGuy 2:\"How?\"\r\nGuy 1:\"[Necromancy].\"",
       "written_on": "2025-02-24T12:01:01.2Z"
     }
+  ],
+  "Zaylon": [
+    {
+      "defid": 13035165,
+      "definition": "Zaylon can [sometimes] be rude but all together they are mostly nice. They usually have short [brown hair] and [brown eyes]. They are very funny and always try to help you when you’re sad.",
+      "example": "I was [really] [sad] and Zaylon [cheered] me up",
+      "written_on": "2018-06-29T00:00:00Z"
+    }
   ]
 }
