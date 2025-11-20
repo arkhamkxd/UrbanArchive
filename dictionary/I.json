@@ -125303,6 +125303,12 @@
       "definition": "A popular [web browser] by [Microsoft] [based on] NSCA Mosaic.",
       "example": "",
       "written_on": "2003-10-24T00:00:00Z"
+    },
+    {
+      "defid": 1040614,
+      "definition": "A [browser], that, while at first sight might appear open to spyware, will be just as resiliant as alternatives such as [Mozilla] if you take [the time] to secure it correctly.",
+      "example": "As a [stubborn IE user], I have not recieved [one piece] of spyware on this [machine] yet.",
+      "written_on": "2005-02-04T00:00:00Z"
     }
   ],
   "inslee": [
@@ -283757,6 +283763,22 @@
       "definition": "Mediocre or barely [above average]. Commonly used in [reference] to one's [intellect] or ability.",
       "example": "\"His [knowledge] of the [subject] was intaline [at best].\"",
       "written_on": "2024-03-22T17:23:48.88Z"
+    }
+  ],
+  "Ismriti": [
+    {
+      "defid": 16774653,
+      "definition": "Bhen h wo [meri]",
+      "example": "Ismriti",
+      "written_on": "2021-11-26T05:04:50.665Z"
+    }
+  ],
+  "ingat": [
+    {
+      "defid": 4204997,
+      "definition": "ingat is a [filipino] [word]. for [take care]",
+      "example": "ingat- [take care] [my friend]",
+      "written_on": "2009-08-28T00:00:00Z"
     }
   ]
 }
