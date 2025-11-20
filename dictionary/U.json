@@ -6647,6 +6647,12 @@
       "definition": "1- Collateral relative's spouse's ascendant.\r\n2- Collateral relative's spouse's [collateral relative].\r\n3- Descendant's spouse's ascendant. Except in the case of the child-in-law's parent, who is the co-parent-in-law.\r\n4- Descendant's spouse's [collateral relative].\r\n5- Spouse's collateral relative's spouse's ascendant.\r\n6- Spouse's collateral relative's spouse's [collateral relative].\r\n7- Absence of any type of kinship.",
       "example": "Unrelated.",
       "written_on": "2024-10-06T17:10:44.031Z"
+    },
+    {
+      "defid": 17764266,
+      "definition": "1- Collateral relative's spouse's ascendant\r\n2- Collateral relative's spouse's [collateral relative]\r\n3- Descendant-in-law's ascendant (except: child-in-law's parent = co-parent-in-law)\r\n4- Descendant-in-law's [collateral relative]\r\n5- Collateral relative's spouse's stepascendant\r\n6- Collateral relative's spouse's collateral relative's spouse\r\n7- Descendant-in-law's stepascendant (except: child-in-law's stepparent = step-co-parent-in-law)\r\n8- Descendant-in-law's collateral relative's spouse\r\n9- Spouse's collateral relative's spouse's ascendant\r\n10- Spouse's collateral relative's spouse's [collateral relative]\r\n11- Stepdescendant-in-law's ascendant (except: stepchild-in-law's parent = step-co-parent-in-law)\r\n12- Stepdescendant-in-law's collateral relative\r\n13- Spouse's collateral relative's spouse's stepascendant\r\n14- Spouse's collateral relative's spouse's collateral relative's spouse\r\n15- Stepdescendant-in-law's stepascendant\r\n16- Stepdescendant-in-law's collateral relative's spouse\r\n17- Relative's widowed (not biological)'s [new] spouse\r\n18- Relative's widowed (not biological)'s new spouse's any relative\r\n19- Relative's widowed (not biological)'s new spouse's any relative's spouse\r\n20- Spouse's relative's widowed (not biological)'s new spouse's any relative\r\n21- Spouse's relative's widowed (not biological)'s new spouse's any relative's spouse\r\n22- Absence of kinship",
+      "example": "Unrelated",
+      "written_on": "2023-04-24T14:52:56.981Z"
     }
   ],
   "USophant": [
@@ -8975,6 +8981,12 @@
       "definition": "[Anything] but a [dictionary].",
       "example": "Urban [dictionary], full of [expression], beliefs, rants, and stuff, YET ALMOST NO [DEFINITIONS].",
       "written_on": "2011-04-12T00:00:00Z"
+    },
+    {
+      "defid": 13399147,
+      "definition": "a [place] where you can [waste time] during [school hours]",
+      "example": "person 1: you tryna waste some time in [the urban dictionary] fam?\n\n[person 2]: ya why not im boutta fall asleep cuhhhh [better than nothing] !",
+      "written_on": "2018-11-27T00:00:00Z"
     }
   ],
   "urethra lapping": [
@@ -140613,6 +140625,22 @@
       "definition": "[KARO] [KARO] [KARO] KARO KARO KARO KARO KARO KARO KARO",
       "example": "\"Brått [leaver] [discord] [eller] muter \"ugutta\"\"",
       "written_on": "2018-12-16T10:40:17.306Z"
+    }
+  ],
+  "ui": [
+    {
+      "defid": 3312964,
+      "definition": "the [hottest] [black girl] in [the universe].",
+      "example": "that ui is [damn fine]!",
+      "written_on": "2008-10-17T00:00:00Z"
+    }
+  ],
+  "Upperdecky gum pillows": [
+    {
+      "defid": 17592791,
+      "definition": "[not sure]",
+      "example": "My [boyfriend] rips [upperdecky] gum [pillows]",
+      "written_on": "2022-12-16T17:54:57.436Z"
     }
   ]
 }
