@@ -243920,5 +243920,29 @@
       "example": "oddis what are u doing to [day] being an oddis",
       "written_on": "2018-02-09T00:00:00Z"
     }
+  ],
+  "obad": [
+    {
+      "defid": 16581870,
+      "definition": "A [piece of ass]",
+      "example": "I [want to] [hit that] obad",
+      "written_on": "2021-11-22T16:28:37.381Z"
+    }
+  ],
+  "oft-overlooked": [
+    {
+      "defid": 9604690,
+      "definition": "[Often] Overlooked ?",
+      "example": "His [persistence] was oft-overlooked by superiors.\r\nBut I didn't [want] the [hyphen].",
+      "written_on": "2016-06-01T00:00:00Z"
+    }
+  ],
+  "Othet": [
+    {
+      "defid": 11731764,
+      "definition": "Upper level [grammar nazi]. This particular variant scours websites for [the definition] of misspelled words so as to bolster a false feeling of [superiority].",
+      "example": "This othet just spent [10 minutes] [searching] for a [word that] doesn't exist.",
+      "written_on": "2017-06-25T00:00:00Z"
+    }
   ]
 }
