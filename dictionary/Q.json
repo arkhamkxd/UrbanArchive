@@ -78810,5 +78810,13 @@
       "example": "Qadisah is [spicy]",
       "written_on": "2021-11-21T22:15:57.327Z"
     }
+  ],
+  "quiffy": [
+    {
+      "defid": 2105146,
+      "definition": "An [alternative] to [QFT]",
+      "example": "\"'The [sun] is round'\r\nQuiffy!\"",
+      "written_on": "2006-11-23T00:00:00Z"
+    }
   ]
 }
