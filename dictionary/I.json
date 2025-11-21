@@ -286254,5 +286254,21 @@
       "example": "[idc].[majin] > [Marleytard]",
       "written_on": "2021-03-07T19:29:23.788Z"
     }
+  ],
+  "iHuman": [
+    {
+      "defid": 13900901,
+      "definition": "[People] who are [always on] their [electronic] devices.",
+      "example": "[John] is SUCH an ihuman",
+      "written_on": "2019-05-14T00:00:00Z"
+    }
+  ],
+  "imasiku": [
+    {
+      "defid": 13185820,
+      "definition": "A Lozi name originating from [western] Zambia meaning a boy born [exactly] at [midnight].",
+      "example": "This boy's been born [today] [around] 00.05, I suggest we [name] him Imasiku.",
+      "written_on": "2018-09-10T00:00:00Z"
+    }
   ]
 }
