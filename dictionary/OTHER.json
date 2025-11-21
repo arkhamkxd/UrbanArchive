@@ -192742,5 +192742,29 @@
       "example": "[Guy friend]: I ate my mom's [cookies] [last night], and they were sooo good.\r\nYou: 🍄\r\nYou",
       "written_on": "2015-02-02T00:00:00Z"
     }
+  ],
+  "<.7.9.7.6.>The Can You Afford It Bubble Gum Smack<.7.9.7.6.>": [
+    {
+      "defid": 18487725,
+      "definition": "<.7.9.7.6.>[The Can] You [Afford] It [Bubble Gum] Smack<.7.9.7.6.>",
+      "example": "<.7.9.7.6.>[The Can] You [Afford] It [Bubble Gum] Smack<.7.9.7.6.>",
+      "written_on": "2025-05-14T07:41:12.274Z"
+    }
+  ],
+  "💳💥": [
+    {
+      "defid": 15984843,
+      "definition": "These emojis [represent] the act of banging your [credit card] on a table and demanding to buy [something].",
+      "example": "[Random guy]: [Look at this]! I bought a phone that has lip bitting emoji and normal [pink heart emoji]!\n\nYou: SHUT UP AND TAKE THIS 💳💥💳💥💳💥",
+      "written_on": "2021-05-11T16:43:35.815Z"
+    }
+  ],
+  "9988": [
+    {
+      "defid": 17501495,
+      "definition": "[Familiar] And [Friendly]\n\nA [Very Good] Number",
+      "example": "9988",
+      "written_on": "2022-10-17T16:27:46.793Z"
+    }
   ]
 }
