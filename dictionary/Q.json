@@ -79252,5 +79252,37 @@
       "example": "[My friend],Mario qwirched. It was so bad we [had to] pull [the fire] alarm.",
       "written_on": "2007-11-16T00:00:00Z"
     }
+  ],
+  "QTH": [
+    {
+      "defid": 1587960,
+      "definition": "An [address], place, Used in [Amateur radio], coordinates, [location] to my address",
+      "example": "My QTH is [sheringham] [Norfolk] UK",
+      "written_on": "2006-01-13T00:00:00Z"
+    }
+  ],
+  "queertron": [
+    {
+      "defid": 3927616,
+      "definition": "the [robotic] [form] of [queer].",
+      "example": "[Claire] you're [such a] queertron!",
+      "written_on": "2009-04-29T00:00:00Z"
+    }
+  ],
+  "Qail": [
+    {
+      "defid": 14203220,
+      "definition": "Qail",
+      "example": "Qail",
+      "written_on": "2019-09-18T00:00:00Z"
+    }
+  ],
+  "Quatted": [
+    {
+      "defid": 17929978,
+      "definition": "Frat slang for heavily [intoxicated], [plastered], [shitfaced], bevved, etc.",
+      "example": "Owen: Bro [did you] see Mike [at that] party [last night]?\r\nTrevor: Yeah, jit was quatted.",
+      "written_on": "2023-09-24T20:36:34.876Z"
+    }
   ]
 }
