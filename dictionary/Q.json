@@ -79230,5 +79230,13 @@
       "example": "[My sister] and [brother-in-law] just gave birth to my [nephew], he is a QuaranKid.",
       "written_on": "2021-04-04T18:43:51.323Z"
     }
+  ],
+  "queryability": [
+    {
+      "defid": 10573413,
+      "definition": "[Capable] of being searched through coding or [scripting] [languages].",
+      "example": "That new [database] [technology] really shines in [performance] and queryability!",
+      "written_on": "2016-11-30T00:00:00Z"
+    }
   ]
 }
