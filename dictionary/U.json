@@ -142260,5 +142260,29 @@
       "example": "So it has been written, so it has [happened].  Urstradamus hath [predicted], and it hath [come to fruition].",
       "written_on": "2007-04-20T00:00:00Z"
     }
+  ],
+  "UHP": [
+    {
+      "defid": 8271081,
+      "definition": "Uníos [Hermanos] Proletarios (Spanish) meaning \"Proletarians Brothers Unite\". Popular slogan of the Asturian Miners in 1934 and later also a popular [battlecry] of leftist [Republican] defenders 1936-39.",
+      "example": "UHP, camardas. [Hay] llegado la [hora].",
+      "written_on": "2015-05-13T00:00:00Z"
+    }
+  ],
+  "Utegaard's Law": [
+    {
+      "defid": 2798399,
+      "definition": "\"Any [technological] problem will fix itself as soon as [Tech Support] is notified of it, whether or not it is through their [direct action].\"",
+      "example": "\"So my computer was shutting down every 5 minutes, and when I took it into [Tech Support], it fixed itself! they [didn't have to] [touch it]!\"\r\n\r\n\"Wow. Utegaard's Law in action.\"",
+      "written_on": "2008-01-18T00:00:00Z"
+    }
+  ],
+  "unless he's wearing diapers": [
+    {
+      "defid": 16141096,
+      "definition": "[This is a] saying in women's [codependency] recovery groups. Unless he is [wearing] diapers you can't change him!",
+      "example": "Girl, [unless] he's [wearing] [diapers] you can't change him!",
+      "written_on": "2021-06-29T07:12:33.911Z"
+    }
   ]
 }

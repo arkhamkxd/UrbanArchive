@@ -26089,6 +26089,12 @@
       "definition": "[quick question]",
       "example": "\"yo qq\"\r\n\"[whats up]?\"\r\n\"we [hangin] [tonight]?\"",
       "written_on": "2016-12-07T00:00:00Z"
+    },
+    {
+      "defid": 18456796,
+      "definition": "When u [ask] [quick question]",
+      "example": "Hey qq [how do] I [look] [today]",
+      "written_on": "2025-03-22T00:54:20.477Z"
     }
   ],
   "quad fucking": [
@@ -79901,6 +79907,14 @@
       "definition": "A little cute [sweet girl] with a great [personality]. [Fuck her] over and its HELL for you.",
       "example": "[ouuu] [I love] quatri",
       "written_on": "2018-07-25T00:00:00Z"
+    }
+  ],
+  "quandle": [
+    {
+      "defid": 3371163,
+      "definition": "an object in [mathematics] defined as a set, Q, along with a binary [operation], *, so that for all a, b, and c in Q, [the following] hold:\r\nI. a*a = a\r\nII. There is a unique x in q so that x*a = b\r\nIII. (a*b)*c = (a*c)*(b*c)",
+      "example": "If Q is the integers and a*b = 2b-a, then (Q,*) is a quandle.",
+      "written_on": "2009-01-14T00:00:00Z"
     }
   ]
 }
