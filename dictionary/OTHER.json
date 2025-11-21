@@ -192384,5 +192384,13 @@
       "example": "guy 1: Dude, [how many] [brewskies] did you drink [last night]??\r\n\r\nguy 2: ah about 50-40-80 give or take 3.\r\n\r\nguy 1: Man you got skillz",
       "written_on": "2008-10-06T00:00:00Z"
     }
+  ],
+  "`1234567890-=qwertyuiop[]asdfghjkl;'\\zxcvbnm,./~!@#$%^&*()_+qwertyuiop{}asdfghjkl:\"|zxcvbnm<>?": [
+    {
+      "defid": 13322542,
+      "definition": "[The true] state of boredom. You are so bored that you decide to run your finger across your [keyboard] from left to right and do it once more but with caps lock on. Do you [really not] have anything better to do?",
+      "example": "1:I'm bored as hell. I've typed `1234567890-=[qwertyuiopasdfghjkl;'\\zxcvbnm],./ already. What should I do?\r\n2: How about `1234567890-=[qwertyuiopasdfghjkl;'\\zxcvbnm],./~!@#$%^&*()_+[QWERTYUIOP]{}ASDFGHJKL:\"|ZXCVBNM<>?\r\n1:Bro.. I think you're way more bored than me..",
+      "written_on": "2018-11-03T00:00:00Z"
+    }
   ]
 }
