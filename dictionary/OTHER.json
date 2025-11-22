@@ -192986,5 +192986,21 @@
       "example": "[I need] to [get this] .177 out of [my head]",
       "written_on": "2020-11-09T14:27:17.203Z"
     }
+  ],
+  "2 Saturdays in a Row": [
+    {
+      "defid": 14713524,
+      "definition": "When a girl is only hot on a [certain] day of a week, [2 weeks] [in a row]",
+      "example": "Man, she was hot [today], yep, that's now 2 [Saturdays] [in a row]",
+      "written_on": "2020-02-11T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Fouty, foUty, foutY<.7.9.7.6.>": [
+    {
+      "defid": 18485416,
+      "definition": "<.[7.9].7.6.>[Fouty, foUty, foutY]<.[7.9].7.6.>",
+      "example": "<.[7.9].7.6.>[Fouty, foUty, foutY]<.[7.9].7.6.>",
+      "written_on": "2025-05-10T10:21:08.818Z"
+    }
   ]
 }
