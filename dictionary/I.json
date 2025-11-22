@@ -289250,5 +289250,45 @@
       "example": "I've'd [done it] this [way].",
       "written_on": "2007-06-22T00:00:00Z"
     }
+  ],
+  "irmc": [
+    {
+      "defid": 3305866,
+      "definition": "[I rest my case].",
+      "example": "A: and [i think] [you're bad] [enough]\r\nA: irmc",
+      "written_on": "2008-10-17T00:00:00Z"
+    }
+  ],
+  "Ikea Girlfriend": [
+    {
+      "defid": 8764089,
+      "definition": "A girl who seems [amazing] [when you] see her in a club, but falls to [pieces] the minute you get her home",
+      "example": "Bill: \"Did you go home with that girl last night? She looked AMAZING!\"\n\nBob: \"Urgh...well, I 'went home' with her. I opened the [front door] & she started crying because my kitchen was dirty. Then she spent 3 hours cleaning it. Then she gave me a lecture on keeping a clean house 'because our babies will need good hygiene'. When I said 'our babies?', she cried [on the floor] for another 2 hours\"\n\nBill: \"Ikea [girlfriend], huh?\"\n\nBob: \"Yup\"",
+      "written_on": "2016-01-21T00:00:00Z"
+    }
+  ],
+  "In the wash": [
+    {
+      "defid": 5952052,
+      "definition": "A term used by [urban kids] to say they are \"[chillin] wit [the homies]\"",
+      "example": "Joe \"[where you at] my ninja\"\r\nLance \"in the wash\"\r\nJoe \"oh siht [who you with]\"\r\nLance \" the homie B-rad and some skank hoes just [spittin game]\"",
+      "written_on": "2011-07-14T00:00:00Z"
+    }
+  ],
+  "Irksome": [
+    {
+      "defid": 10252453,
+      "definition": "[Annoying].",
+      "example": "[oh my god] [paul] is so irksome!",
+      "written_on": "2016-09-18T00:00:00Z"
+    }
+  ],
+  "Iron": [
+    {
+      "defid": 3259665,
+      "definition": "[Fair enough].\r\n\r\nIron = Fe = [Fair enough]",
+      "example": "Bob: [I just] pWned [a bunch] of [n00bs]!\r\nFred: Iron",
+      "written_on": "2008-09-26T00:00:00Z"
+    }
   ]
 }
