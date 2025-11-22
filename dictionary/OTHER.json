@@ -193268,5 +193268,37 @@
       "example": "([Person 1]): “Hey, did you hear?! It’s Robyn’s [Birthday]!!”\n\n([Person 2]): “Oh wow, It’s already the 9 July already??”",
       "written_on": "2021-06-30T11:16:49.074Z"
     }
+  ],
+  "3 point slow": [
+    {
+      "defid": 13922188,
+      "definition": "[Derogatory term] used in the Toyota off road [community] to refer to the 3.0 v6, which is notorious for [putting out] similar power to the 2.4 inline 4 while getting worse gas mileage and being less reliable.",
+      "example": "That’s a nice [Toyota], but [it’s] got a 3 [point] slow #22r life",
+      "written_on": "2019-05-21T00:00:00Z"
+    }
+  ],
+  "`1234567890-=asdfghjkl;'zxcvbnm./!@#$%^&*()qwertyuiop[]\\asdfghjkl;'zxcvbnm,./": [
+    {
+      "defid": 13991505,
+      "definition": "[Everything] writeable on the [keyboard]",
+      "example": "`1234567890-=[asdfghjkl];'zxcvbnm./!@#$%^&*()[qwertyuiop]\\[asdfghjkl];'zxcvbnm,./ Is annoying to right.",
+      "written_on": "2019-06-14T00:00:00Z"
+    }
+  ],
+  "#CrackLit": [
+    {
+      "defid": 12690870,
+      "definition": "[Addictive] [literature] that [you know] is terrible but you can’t stop reading.",
+      "example": "“I never wanted to read [the Twilight Saga], but now that I’ve started [I can’t] stop! #[cracklit]”",
+      "written_on": "2018-03-16T00:00:00Z"
+    }
+  ],
+  "198": [
+    {
+      "defid": 18409873,
+      "definition": "you’re [kindling] this flame\r\nfiery tongues [constantly]\r\n[licking] my being",
+      "example": "198 :: [122] :: 75",
+      "written_on": "2025-01-15T02:10:28.656Z"
+    }
   ]
 }
