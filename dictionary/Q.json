@@ -80160,5 +80160,21 @@
       "example": "qwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbmqwertyuiopasdfghjklzxcvbm",
       "written_on": "2019-10-12T00:00:00Z"
     }
+  ],
+  "QTE": [
+    {
+      "defid": 981639,
+      "definition": "[Quick Time](r) Event. found in SEGA dreamcast game shenmue and \"shenmue II\" \r\n\r\nbuttons (A, B, X, Y, up, down, left, right) are displayed on screen and you have to press them really quickly before the time runs out, otherwise you fail that QTE. sometimes you have scope to make a mistake (in a chase or fight scene) and sometimes you have to retry the scene again ([falling off] a plank or bridge high [up in the air]).\r\n\r\nit's also a term of endearment used between davidoff and i. kind of like \"cutie\" but geekier.",
+      "example": "\"Man, I've done this QTE [a million times] and I still can't [get it right]!\"\r\n\r\n\r\n\r\n\"[Tehehe]....you're such a QTE\"",
+      "written_on": "2006-04-12T00:00:00Z"
+    }
+  ],
+  "Quely": [
+    {
+      "defid": 3400590,
+      "definition": "A small, [venomous] squid found about 50 miles under [water] located near the pennlin [trench]",
+      "example": "People came to [search for] the Quely but when they [found it], they got injected by venom, millions of times [stronger] than a black mamba's bite.",
+      "written_on": "2009-01-23T00:00:00Z"
+    }
   ]
 }
