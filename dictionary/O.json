@@ -250468,5 +250468,21 @@
       "example": "\"I find this author's [writing] to be [too on] [the nose]\".",
       "written_on": "2008-08-19T00:00:00Z"
     }
+  ],
+  "order book depth": [
+    {
+      "defid": 14060847,
+      "definition": "A list of [orders] at a given [trading] Venue; The amount of bids on [either] side of a market spread, Buy or sell.",
+      "example": "That [shitcoin] [Sentinel] has [the worst] Order book depth, It is almost toxic",
+      "written_on": "2019-07-14T00:00:00Z"
+    }
+  ],
+  "Old girls gone wild": [
+    {
+      "defid": 5771566,
+      "definition": "A film that is made in the style of [girls gone wild] except that it uses very old women who are [in there] 80's and 90's and beyond.\r\nIt is most often shown as a joke or used to punish someone by making them [watch it].",
+      "example": "They tied me [up and] made me [watch], \"old [girls gone wild]\",dude.",
+      "written_on": "2011-05-16T00:00:00Z"
+    }
   ]
 }
