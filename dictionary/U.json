@@ -27481,6 +27481,12 @@
       "definition": "An [Ugly Duck]",
       "example": "[Did you] see [that chick].\r\n*gag* Yeah [she a] ud",
       "written_on": "2010-11-23T00:00:00Z"
+    },
+    {
+      "defid": 16835512,
+      "definition": "UD: [Abbreviation] for \"[Urban Dictionary]\"",
+      "example": "Person 1: Hey dude, Check UD's [word of the day]\r\n[Person 2]: \"UD\"?\r\nPerson 1: *sigh* [Urban Dictionary]",
+      "written_on": "2021-12-13T01:38:57.024Z"
     }
   ],
   "umami": [
@@ -143781,6 +143787,14 @@
       "definition": "Uncle Kracker (born Matthew Shafer; June 6, [1974]) is an American rock, country, and rap rock musician, most popularly known for his hit singles \"Follow Me\", \"Smile\", and \"Drift Away\". His music was more rap rock-based at the start of his career before turning in a more country and Top 40 style music direction on later releases.\n\nShafer was raised in Harrison Township, Michigan. In 1987, with his brother Mike Shafer, he visited a nightclub in Clawson, Michigan where a [turntables] [competition] was occurring. His older brother was competing against a then-unknown musician, Kid Rock. Shafer then spent a lot of time with Kid Rock, and they became friends. In those times, he was mainly rapping. He only performed at live shows at the time, until he began recording for Rock's album, Early Mornin' Stoned Pimp; Shafer was a featured vocalist on some of the tracks. He then began [working on] a solo album, but he continued being the DJ for Kid Rock. Upon the release of Rock's multi-platinum album, Devil Without a Cause, Shafer decided that it was time to release his first solo album, [Double Wide], adopting the stage name Uncle Kracker.",
       "example": "What a [fabulous] artist. Uncle Kracker makes us all smile with his [musical talent]. What's your [favorite Uncle] Kracker single?",
       "written_on": "2010-07-24T00:00:00Z"
+    }
+  ],
+  "Underian": [
+    {
+      "defid": 11089137,
+      "definition": "A fan-game of [Undertale] [made] by Aniq876757 and [friends].",
+      "example": "Person 1: \"[Wanna play] [Undertale]?\"\r\n[Person 2]: \"No, im playing Underian.\"",
+      "written_on": "2017-02-23T00:00:00Z"
     }
   ]
 }
