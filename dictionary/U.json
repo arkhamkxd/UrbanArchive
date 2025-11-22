@@ -72487,6 +72487,12 @@
       "definition": "not [hype]",
       "example": "[Hey], you Up B'd out of [shield]... not very [hype].",
       "written_on": "2020-05-25T02:35:27.141Z"
+    },
+    {
+      "defid": 3391369,
+      "definition": "A [directional] move used in [Super Smash Bros] to achieve extra height after a [double jump].",
+      "example": "[Kirby] used his Up B to [get back] onto the [level].",
+      "written_on": "2009-01-20T00:00:00Z"
     }
   ],
   "urbanex": [
@@ -143857,6 +143863,22 @@
       "definition": "This word can be substituted for [the word] \"unrecognizable\" if used in a sentence where [something] was [borrowed] or stolen.",
       "example": "When Emily gave back [the pen] she [borrowed], that cap was so [chewed up], it was unreconisable.",
       "written_on": "2008-05-22T00:00:00Z"
+    }
+  ],
+  "Uber Eats Mode": [
+    {
+      "defid": 15170895,
+      "definition": "[The state] of constant [anticipation] of an [Uber Eats] delivery arriving, even though the food has already come.",
+      "example": "\"I wish I could just sit down and relax but I [still feel] like the pizza's [almost here]...\"\n\n\"Dude, we finished eating the pizza two hours ago. Sounds like you're stuck in [Uber Eats] mode.\"",
+      "written_on": "2020-07-10T00:00:00Z"
+    }
+  ],
+  "Urpish": [
+    {
+      "defid": 5419377,
+      "definition": "Noisy stomach [usually] involving queasiness and gas. [Discomfort] after eating too much or eating [disagreeable] foods.",
+      "example": "ooh, that didn't [settle] [well]. [I'm all] urpish!",
+      "written_on": "2010-12-09T00:00:00Z"
     }
   ]
 }
