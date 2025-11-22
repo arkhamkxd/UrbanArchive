@@ -193058,5 +193058,29 @@
       "example": "I was so mad yesterday when i was [talking to] my friend and he started a 2-and-a-half-way [conversation], completely interrupting our discussion about [quantum physics]",
       "written_on": "2008-10-19T00:00:00Z"
     }
+  ],
+  "221b Baker St": [
+    {
+      "defid": 12311988,
+      "definition": "Where [Sherlock Holmes] [lives].",
+      "example": "[No shit Sherlock]\r\n[Moriarty]: And where should I find you?\r\nWatson: 221b [Baker St]. And you. Should. Prepare.",
+      "written_on": "2017-12-20T00:00:00Z"
+    }
+  ],
+  "2c4u": [
+    {
+      "defid": 5154372,
+      "definition": "[Too Cool] [For You]",
+      "example": "[Justin bieber]:\"Hey [wanna go out]?\"\r\nMe:\"Sorry, im 2c4u :)\"\r\nAlex Gaskarth: \"[wanna go out]?\"\r\nMe: \"Hellz yeah!\"",
+      "written_on": "2010-08-13T00:00:00Z"
+    }
+  ],
+  "634": [
+    {
+      "defid": 7103686,
+      "definition": "To [confuse] your co-workers with a [bogus] [symbol].",
+      "example": "I [totally] 634'd them in that [meeting].",
+      "written_on": "2013-07-26T00:00:00Z"
+    }
   ]
 }
