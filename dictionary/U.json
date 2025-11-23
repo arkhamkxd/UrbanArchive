@@ -144630,5 +144630,45 @@
       "example": "Let's try that unabando that Larry told us [shot down] town. [I heard] it's got [utilities]!",
       "written_on": "2017-12-22T00:00:00Z"
     }
+  ],
+  "unlie": [
+    {
+      "defid": 5790267,
+      "definition": "To [explain] away [a lie], after having tied oneself into a [knot] of lies.",
+      "example": "[I would] [like] see you unlie yourself out of this [situation].",
+      "written_on": "2011-05-26T00:00:00Z"
+    }
+  ],
+  "unbelow": [
+    {
+      "defid": 12405503,
+      "definition": "For [something] that is below the 'Un'.",
+      "example": "Oh [look], that [house] is unbelow [the sky].",
+      "written_on": "2018-01-09T00:00:00Z"
+    }
+  ],
+  "un-funny": [
+    {
+      "defid": 14232760,
+      "definition": "a [made up word] used by an [annoying] swimmer when he feels [insulted] by someone claiming swimming isn’t a sport.",
+      "example": "“[You’re] so un-funny Eli” said the [annoying] [swimmer]",
+      "written_on": "2019-09-30T00:00:00Z"
+    }
+  ],
+  "Urban dictionary plagiarist": [
+    {
+      "defid": 7341539,
+      "definition": "[Someone] who steals [others] ideas and submits them to [urban dictionary]",
+      "example": "White truffles was my idea. You submitted them to [urban dictionary]. You are an [urban dictionary] [plagiarist]",
+      "written_on": "2013-11-20T00:00:00Z"
+    }
+  ],
+  "urban+dictionary": [
+    {
+      "defid": 7898231,
+      "definition": "The only place [better than Wikipedia] for getting someone's opinion of a [definition], as opposed to the true [definition].",
+      "example": "Urban+[Dictionary] says my mom is a [prostitute] [based on] her name.",
+      "written_on": "2014-09-12T00:00:00Z"
+    }
   ]
 }
