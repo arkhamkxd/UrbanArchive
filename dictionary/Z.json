@@ -117940,5 +117940,21 @@
       "example": "[This place] is [pretty] dead, it would take [someone] like Perry to zektify it.",
       "written_on": "2010-02-04T00:00:00Z"
     }
+  ],
+  "Zinkly": [
+    {
+      "defid": 16087628,
+      "definition": "The [feeling you] get in your throat when you [drink tea] but you're [allergic to] it.",
+      "example": "Liv: [Give me] a sip of your tea\r\nSam: OK, but aren't you [allergic]?\r\nLiv: yeah, but I'll be fine... *drinks tea [anyway]*\r\nLiv: ugh, now my throat feels zinkly...",
+      "written_on": "2021-06-09T17:50:28.468Z"
+    }
+  ],
+  "Zoë nightshade": [
+    {
+      "defid": 13069880,
+      "definition": "The mistress of Artemis, the god of the hunt. [Daughter] of Atlas (father) and Pleione (mother), she was in the hunt for thousands of years and was [immortal]. She never stopped [fighting] in the hunt until the end, until she was killed by her father, Atlas, in a fight.",
+      "example": "\"The stars. I can [see the stars] again my lady.\"-Zoë [nightshade]\n\n\"Tell the stars I said hello\"-Bob [the titan]",
+      "written_on": "2018-07-15T00:00:00Z"
+    }
   ]
 }
