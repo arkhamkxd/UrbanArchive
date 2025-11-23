@@ -174,5 +174,13 @@
       "example": "Спицы",
       "written_on": "2021-07-16T04:33:57.274Z"
     }
+  ],
+  "Српски": [
+    {
+      "defid": 15954126,
+      "definition": "[The word], \"Serbian\" in the Serbian [language]. In the Latin script, it is \"Srpski\" can be used in most Balkan [languages].",
+      "example": "[cyrillic] script - \"Здраво, ја Српски\"\r\nlatin script - \"Zdravo, ja Srpski\"\r\n[english] - \"Hello, I am [Serbian]\"",
+      "written_on": "2021-04-30T07:53:34.728Z"
+    }
   ]
 }
