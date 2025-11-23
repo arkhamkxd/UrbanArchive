@@ -117138,5 +117138,13 @@
       "example": "[Hey] [gay] Zukas",
       "written_on": "2019-10-19T00:00:00Z"
     }
+  ],
+  "zeroth world problem": [
+    {
+      "defid": 13668766,
+      "definition": "Problems caused by adopting [bleeding edge] technology for common, daily use before it's reliable, such that the technology's [imperfections] complicate your life. Loosely, problems that most people living in a wealthy, [industrialized] nation would probably roll their eyes at.",
+      "example": "\"So anyway, my Twitch stream went down during my peak viewing hours because the beta drivers for my [graphics card] [apparently] break the HDCP chain-of-trust, so the video capture software thought I was stealing copyrighted content from myself, and...\"\r\n\"Man, every week you have [one of these] stories. You're like a glutton for zeroth world problems.\"",
+      "written_on": "2019-03-01T00:00:00Z"
+    }
   ]
 }
