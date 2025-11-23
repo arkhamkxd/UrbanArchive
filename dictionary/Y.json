@@ -188774,5 +188774,37 @@
       "example": "[Cameron]: Y'all don't [look right] [together]. (Y.D.L.R.T)",
       "written_on": "2023-11-14T12:48:15.954Z"
     }
+  ],
+  "Yay or nay": [
+    {
+      "defid": 10616952,
+      "definition": "The words yea and yay are homophones, meaning they are pronounced the same. Yea is a somewhat specialized word (“yes—used in oral voting”) most often used in a spoken context, so I would expect that many people would not realize there are two spellings for two different meanings.\n\nUsing the spelling yay for yea is therefore an eggcorn. Here's a discussion of it at the Eggcorn Database forum.\n\nThere were no examples of yay being used for yea at the Corpus of [Contemporary] [American English], so it doesn't seem to be an emerging usage that is getting into the kinds of edited texts used to populate that corpus. On the other hand, there are plenty of Google results, including some on major, presumably professionally-edited sites, like ABC News and New York Magazine. Interestingly, a large portion of the top Google results were related to fashion.\n\nHow embarrassing for them: anyone who knows that there are two spellings for the two words would instantly identify yay for yea as an error.\n\nEven the normally quite liberal and descriptivist Merriam-Webster dictionary has no entry at all for ‘yay’. Only Collins [English Dictionary] has an entry for yay, and it’s only for the [exclamatory] sense.\n\nSo, yes, it does appear that this substitution is an emerging usage, but no authorities at all countenance it just yet, and given that there is an unimpeachable substitute, I don’t recommend that anyone [use] it.",
+      "example": "\"Yea\" as in \"yea or nay\" is the correct [spelling] of [the word] [most people] type \"yay\" not \"yay or nay\"",
+      "written_on": "2016-12-09T00:00:00Z"
+    }
+  ],
+  "yaafired": [
+    {
+      "defid": 951548,
+      "definition": "Any [extent] of [failure] or [discontent]",
+      "example": "Bondalea:[I just] crapped my [pants]!\r\nVanderbrook:Yaafired!",
+      "written_on": "2004-12-17T00:00:00Z"
+    }
+  ],
+  "Ya khodreee": [
+    {
+      "defid": 13482171,
+      "definition": "Its a [battle] [shout] from “Shag7a” to khodre\n\nWhen she’s calling him to a [battle] into Golf or تحدي وصلة",
+      "example": "Shag7a: Ya Khodreee\r\nKhodre: Hala ya shag7aaa\n\nShag7a: [waink] ya khodreee [waink]\r\nKhodre: [kane] ya shag7aa",
+      "written_on": "2018-12-28T00:00:00Z"
+    }
+  ],
+  "Yowzit": [
+    {
+      "defid": 2438786,
+      "definition": "A greeting -- mix between howzit [which means] [what's up] ([South Africa]) and yowza which indicates surprise.",
+      "example": "Yowzit!  It's been [forever], where you been?",
+      "written_on": "2007-06-15T00:00:00Z"
+    }
   ]
 }
