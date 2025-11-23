@@ -180176,5 +180176,21 @@
       "example": "that [boy] is a vincy\r\n\r\ni [going] vincy for the [summer]",
       "written_on": "2008-07-01T00:00:00Z"
     }
+  ],
+  "Venec Entity": [
+    {
+      "defid": 17495402,
+      "definition": "V.E.N.E.C. MEASUREMENT\r\n-------------------\r\nThe V.E.N.E.C. measurement is a measure of the entity named \"Venec\". This entity is mostly going around you or to you, but he is unarmed so he cant do any [critical damage]. The Venec entity looks like a nicely dressed man with wreath on head.\r\nThe V.E.N.E.C. Mesurement has 4 levels of danger\r\n-------------------\r\n[White Zone]= 0-20%\n\nYellow Zone= 21-40%\n\nRed Zone= 41-70%\n\nPurple Zone= 71-100%\r\n-------------------\r\nPurple zone is called\r\nHIGH V.E.N.E.C. ACTIVITY\r\nIf you are [in the White] Zone, you are completely fine.\r\nIf you are in the Yellow Zone, be concerned it will be sometimes be around you.\r\nIf you are [in the Red Zone], we recommend to fortify your home.\r\nIf you are in the Purple Zone, move 5mil. blocks away.\r\n([Recommended] by the civilians of the purple zone \"LastSandy and Skeptability\")\n\nThe entity has a power of multiplying itself to 2 and more entities. The Venec sightings are mostly on the \"Dick\" island, the land owned by Lastsandy and Skeptability.\r\nRecommendations:\n\nLive in mountains - the entity has a problem with bad terrain, so it will be around you less often.\n\nHave a bow/crossbow - this can easily scare the entity away.\n\nNether - the entity hates the nether.\r\nWARNING!: If you kill the entity, it will come back and more often.\n\nIt can be easily jailed if possible to lure him,\r\nbut he will try to escape at any costs, or even do a suicide (ucciditi) to get away.\n\nIf you get killed by the entity, it will show his dominance.",
+      "example": "Hey the \"Venec Entity\" is [looking] at us\r\n[I just] killed the \"Venec Entity\" with a [crossbow]",
+      "written_on": "2022-10-13T10:04:16.009Z"
+    }
+  ],
+  "vanephile": [
+    {
+      "defid": 16894050,
+      "definition": "[When you] only have a [phantasm] on a girl named \"[Vanessa]\".",
+      "example": "[Look at] Adam, even [Shakira] can't turn his head! He's [officially] a vanephile!",
+      "written_on": "2022-01-07T14:55:12.521Z"
+    }
   ]
 }
