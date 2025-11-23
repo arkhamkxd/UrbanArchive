@@ -145738,5 +145738,29 @@
       "example": "[Filling] forms in [triplicate] is an [example] of an ultraintrauniformecularity",
       "written_on": "2020-02-22T00:00:00Z"
     }
+  ],
+  "UD battle": [
+    {
+      "defid": 12374491,
+      "definition": "[When you] and [a friend] browse a UD genre and try find the craziest word. ([normally] takes place in a dm or gc)",
+      "example": "[Person 1]: Hey lets UD battle!\r\n[Person 2]: [Bring it] bro!",
+      "written_on": "2018-01-03T00:00:00Z"
+    }
+  ],
+  "underground music": [
+    {
+      "defid": 2692071,
+      "definition": "[music] that is not [heard] on [mainstream radio] stations.",
+      "example": "New:Yo have [you heard] that new Texas Hustle Click cd?\r\nSeoc:Naa man, whats that?\r\nNew:that new [underground] music.\r\nSeoc:is it on the radio?\r\nNew:No it's not, its [UNDERGROUND] MUSIC not Mainstream!!",
+      "written_on": "2007-12-12T00:00:00Z"
+    }
+  ],
+  "Ucsd'd": [
+    {
+      "defid": 11866248,
+      "definition": "become a much worse version of yourself once entering the [university] of [California] San Diego. Aka becoming a dork, [promiscuous], or complete weirdo",
+      "example": "After I arrived at college I [realized] most of the [freshmen] had been Ucsd'd. It's really [unfortunate].",
+      "written_on": "2017-08-11T00:00:00Z"
+    }
   ]
 }
