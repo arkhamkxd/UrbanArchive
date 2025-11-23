@@ -13711,6 +13711,12 @@
       "definition": "Using [artificial intelligence] to code when [you have no idea] [how to] code",
       "example": "I’ve been vibe coding lately. I don’t [understand] [a thing] that’s being generated. I’m just [going off] vibes.",
       "written_on": "2025-03-21T04:25:54.801Z"
+    },
+    {
+      "defid": 18451016,
+      "definition": "Letting an AI agent make all the [decisions] about [implementation] and code execution given a light [description] of intent from a user.",
+      "example": "AI refused to write [more than] 800 lines of code, got to this point after just 1h of vibe coding. It is really [killing] [the vibe]...",
+      "written_on": "2025-03-14T02:30:05.64Z"
     }
   ],
   "vinger stroke": [
@@ -181075,6 +181081,14 @@
       "definition": "it's very [simple]... it's [my name] :P",
       "example": "",
       "written_on": "2003-06-11T00:00:00Z"
+    }
+  ],
+  "Virtual Machine": [
+    {
+      "defid": 13361527,
+      "definition": "Software used as a [computer], but not [a real one]. Often used to test malware, [antivirus], and other software. Also used by hackers to hide their real PC.",
+      "example": "Person 1: I'm testing BonziBUDDY, [Protegent], SpySherrif and MEMZ.\r\n[Person 2]: Using a virtual machine?\r\nPerson 1: Nope.\r\nPerson 2: YOU'RE [CRAZY MAN] YOU'RE GONNA REK YOUR PC!!!!!!!!!!!!!!!!!",
+      "written_on": "2018-11-15T00:00:00Z"
     }
   ]
 }
