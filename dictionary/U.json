@@ -144370,5 +144370,21 @@
       "example": "[damn] they uckky",
       "written_on": "2022-03-30T09:34:48.469Z"
     }
+  ],
+  "Useable": [
+    {
+      "defid": 3439602,
+      "definition": "[Means] to be able to\r\nbe used, no [matter] [what it is] used for.",
+      "example": "\"Those song [lyrics]\r\nare useable!\"\r\n\r\n\"They [like to] be\r\n[frank] and useable.\"",
+      "written_on": "2009-03-07T00:00:00Z"
+    }
+  ],
+  "Ultimate Staff": [
+    {
+      "defid": 4964184,
+      "definition": "[Ultimate]: [the highest] of the high, the best, and the unreachable position. Therefore, it is absolute; the ending; final.\n\nStaff: people that work under you and/or for you.\n\n[Ultimate] Staff",
+      "example": "[Ultimate] [Staff] [Ultimate] Staff",
+      "written_on": "2010-05-15T00:00:00Z"
+    }
   ]
 }
