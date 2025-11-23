@@ -144924,5 +144924,21 @@
       "example": "[Looks like] Chezza's on the [wines] again. UT OH!!!",
       "written_on": "2006-10-24T00:00:00Z"
     }
+  ],
+  "uhuhh": [
+    {
+      "defid": 2921296,
+      "definition": "A very addictive phrase.\r\nIt is mostly used to say that [something] is [happening], that should not be [happening].\r\n\r\nIt is also used randomly when a person starts to say it enough.",
+      "example": "Uhuhhh! Why my [grandmother] wearing fake DC's??\r\n\r\nUhuhh he [will NOT] sign off without saying bye, uhuhh...\r\n\r\nUHUHHH IT [WILL NOT] BE YOU!",
+      "written_on": "2008-03-12T00:00:00Z"
+    }
+  ],
+  "unbad": [
+    {
+      "defid": 2939144,
+      "definition": "-not [bad]\r\n-pretty [good]",
+      "example": "\"[How're] you doing?\" \"Unbad, you?\"\r\n\r\n\"How was that [movie], yo?\" \"Unbad, unbad [at all]!\"",
+      "written_on": "2008-03-20T00:00:00Z"
+    }
   ]
 }
