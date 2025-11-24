@@ -82224,5 +82224,29 @@
       "example": "[aw dam] [bailey] u just gave me [quink] eye",
       "written_on": "2009-06-26T00:00:00Z"
     }
+  ],
+  "qwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxz2345678901qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0pqwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxz2345678901qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p": [
+    {
+      "defid": 15337471,
+      "definition": "qwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxz2345678901qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0pqwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxz2345678901qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p",
+      "example": "qwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxz2345678901qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0pqwertyuiopasdfghjklzxcvbnmpoiuytrewqlkjhgfdsamnbvcxz2345678901qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p",
+      "written_on": "2020-09-24T12:25:54.809Z"
+    }
+  ],
+  "quarantinelockdown": [
+    {
+      "defid": 14854197,
+      "definition": "Quarantinelockdown is when your state or [country] places and [executive order] to force people to [stay home].",
+      "example": "Every state and country has been placing an [executive order] for a quarantinelockdown, to prevent [the Coronavirus] from getting worse!\n\nIf people don’t stop having block parties and cookouts during this pandemic, the quarantinelockdown will get worse and the [government] may send in the army!",
+      "written_on": "2020-04-03T00:00:00Z"
+    }
+  ],
+  "Quick latte": [
+    {
+      "defid": 13924198,
+      "definition": "A DL way to ask [someone] if they [want to] [shotgun] a beer.",
+      "example": "[Nobody]:\n\n[Friend] 1: \"[Hey bro], quick latte?\"\r\nFriend 2: \"I'm always down to chug some beers\" *yeeyew*",
+      "written_on": "2019-05-22T00:00:00Z"
+    }
   ]
 }
