@@ -330456,5 +330456,29 @@
       "example": "Have [you seen] [Ethan] and Sarah they are [goals]",
       "written_on": "2019-03-28T00:00:00Z"
     }
+  ],
+  "eulices": [
+    {
+      "defid": 12240342,
+      "definition": "[Smoking hot] boy who is shy but loves to be around his [friends] and is chill with [anything].",
+      "example": "\"[Whoa] here comes Eulices, he's [cool] but he could [talk] more.\"",
+      "written_on": "2017-12-03T00:00:00Z"
+    }
+  ],
+  "EDI support": [
+    {
+      "defid": 1023004,
+      "definition": "Steer Clear.  Tyrants rule [this place].. and you will be killed if you tell [the boss's] wife not to wear [perfume].  They set you up to fail yet you still succeed.",
+      "example": "\"Whoa that [perfume] really sucks.. stop [wearing it].\"\r\n\"UBER [DOOM ON YOU]!\"",
+      "written_on": "2005-01-26T00:00:00Z"
+    }
+  ],
+  "Eatible": [
+    {
+      "defid": 3807505,
+      "definition": "Unlike [the word] edible, [which means] can be [consumed], eatible means it will be consumed.",
+      "example": "Sure, [canned] bacon is [edible]. But that doesn't [make it] eatible.",
+      "written_on": "2009-03-17T00:00:00Z"
+    }
   ]
 }
