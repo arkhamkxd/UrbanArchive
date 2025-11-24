@@ -118438,5 +118438,21 @@
       "example": "Zamariah is so [cool man], [I wish] other [females] was like her.",
       "written_on": "2018-05-25T00:00:00Z"
     }
+  ],
+  "zwitterion": [
+    {
+      "defid": 2784886,
+      "definition": "A molecule that has >1 localized charges which may be of [opposite] polarity.  That is to say, it may be a [positive] ion on one side, and a [negative ion] on the other.",
+      "example": "Most free amino acids form zwitterions, and in this way the [negative] and [positive] ends join [together] to form a chain.  When these chains reach a length of thousands of links they become proteins.",
+      "written_on": "2008-01-15T00:00:00Z"
+    }
+  ],
+  "Zunayr": [
+    {
+      "defid": 15715190,
+      "definition": "Amazing at [video games]\n\n[Handsome], Smart , [Independent]",
+      "example": "Zunayr is [the guy] [every girl] will dream to spend live [with him] .",
+      "written_on": "2021-02-03T14:20:40.737Z"
+    }
   ]
 }
