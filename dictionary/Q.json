@@ -82352,5 +82352,29 @@
       "example": "[To be] or [not to be]!*[kicks] quotecan*",
       "written_on": "2007-07-04T00:00:00Z"
     }
+  ],
+  "quebra de asa": [
+    {
+      "defid": 12279913,
+      "definition": "Translates to \"wing break\" in English. When a [truck driver] maneuvers [in a way] to cause the back trailer to move side to side in a waving motion, [sometimes] lifting the trailer. Often performed while passing another driver to show off.",
+      "example": "That [truck] just did a quebra de asa! [I can't] [believe] he didn't crash.",
+      "written_on": "2017-12-13T00:00:00Z"
+    }
+  ],
+  "QuickBasic": [
+    {
+      "defid": 206031,
+      "definition": "A [programming language] sold by microsoft in the late 80s and early 90s as the successor to it's popular Microsoft BASIC. Still in use by some niche circles, it's heyday has long since been forgotten, and the vast, vast majority of programmers use more advanced [languages], such as [Visual Basic], Pascal, Delphi, or C/C++.",
+      "example": "[Microsoft] QuickBasic 4.5 -- the final [word in] [development] for 1985!",
+      "written_on": "2003-08-06T00:00:00Z"
+    }
+  ],
+  "quote can": [
+    {
+      "defid": 2460186,
+      "definition": "In the time of 300A.D., Indians would kick a Coca-Cola can around their villages or trailer-parks  while shouting [ridiculous] and sometimes racist quotes with every kick. Spaniards were amazed with this awesome game of laughter that they [slaughtered] all of the Indians in possesion of it and took all of the Coca-cola cans back to Spain where they claimed to have invented the game themselves! The game never really [caught on] till April of 2006… Now it is a world Olympic event.",
+      "example": "\"[You had me at hello]!\" *[kick] the [quote] can*",
+      "written_on": "2007-07-05T00:00:00Z"
+    }
   ]
 }
