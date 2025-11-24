@@ -197628,5 +197628,29 @@
       "example": "dude, i had a [massive load] [last night]. i'm talking 5 [stringer].",
       "written_on": "2009-03-31T00:00:00Z"
     }
+  ],
+  "'mage!": [
+    {
+      "defid": 15817686,
+      "definition": "[Short] for: \"[Imagine that]!\"",
+      "example": "[husband]: \"All the raisin bagels were gone when I got there.\r\nwife: hmm? 'mage! [I told you] to get to [the bakery] early! So, what was left?",
+      "written_on": "2021-03-11T21:07:43.193Z"
+    }
+  ],
+  "#buttlove": [
+    {
+      "defid": 12999884,
+      "definition": "a trend spreaded out by the infamous [Youtuber] [Markiplier] for [everyone] to always believe in our buttocks in anyway possible, #buttlove",
+      "example": "“#[buttlove] my fellow people, it is [important] to [believe] in them!”",
+      "written_on": "2018-06-16T00:00:00Z"
+    }
+  ],
+  "9/11 Republican": [
+    {
+      "defid": 1211178,
+      "definition": "A person who [usually] voted [Democratic], but has been taken in by [the Bush] administration's fear-mongering.",
+      "example": "I thought my dad was going to vote for Kerry, but he [turned out] to be [another] 9/11 [Republican].",
+      "written_on": "2005-04-24T00:00:00Z"
+    }
   ]
 }
