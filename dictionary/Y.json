@@ -13875,6 +13875,12 @@
       "definition": "[MMMMMMMMMM]",
       "example": "Yes hi",
       "written_on": "2023-02-16T19:20:28.045Z"
+    },
+    {
+      "defid": 17114073,
+      "definition": "Yes.",
+      "example": "\"Yes.\"",
+      "written_on": "2022-03-30T18:14:13.072Z"
     }
   ],
   "yapping": [
@@ -186431,6 +186437,12 @@
       "definition": "a almost [nervous] or anticipated [agreement] to someone's previous [statement]",
       "example": "Me: Hey man, wanna get some Dos Equis\r\n[The Captain]: [yeah yeah] [yeah man]",
       "written_on": "2006-07-28T00:00:00Z"
+    },
+    {
+      "defid": 4399835,
+      "definition": "A phrase used by males while referring to previous, future, or most often [imaginary] sexual encounters. It is [pronounced] more like [Yee Yee Yee] and spoken in a slightly higher pitched voice.",
+      "example": "Abe: [Did you] see the way she smiled at me?\r\nEric: I guess\r\nAbe: [Yeah yeah] yeah, I'm [gettin some] tonight!!",
+      "written_on": "2009-11-29T00:00:00Z"
     }
   ],
   "yolorer": [
@@ -190429,6 +190441,30 @@
       "definition": "[when you] make a drink 50% [hot chocolate] 50% [vodka].",
       "example": "Hey George can you [snag me] a [yellow] [Jamaican].",
       "written_on": "2021-01-29T16:29:49.482Z"
+    }
+  ],
+  "yurmum": [
+    {
+      "defid": 138233,
+      "definition": "[the best] [insult] one can ever use, that [never gets old]",
+      "example": "[Fucktard]: ya well [your ugly] and cant read no good\r\nAssClown: yurmum\r\n[Fucktard]: ouch, buuuuurrrrn\r\nAssClown: ya you'd better get some ice for that burn",
+      "written_on": "2003-05-25T00:00:00Z"
+    }
+  ],
+  "yella man": [
+    {
+      "defid": 4741015,
+      "definition": "Confectionary [product] [produced] in [Northern Ireland] and sold mainly in Ballycastle at the aul lamas fair in August",
+      "example": "mmm, [thon] [yella] man is [cracker].",
+      "written_on": "2010-02-25T00:00:00Z"
+    }
+  ],
+  "you are very big": [
+    {
+      "defid": 16118610,
+      "definition": "what [your mum] [said] [last night]",
+      "example": "[your mum] [last night] : [you are] very big sheesh",
+      "written_on": "2021-06-21T06:19:54.299Z"
     }
   ]
 }
