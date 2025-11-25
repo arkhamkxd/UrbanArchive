@@ -118928,5 +118928,13 @@
       "example": "[This dude] [name] zaran is [tall]",
       "written_on": "2023-01-06T11:55:24.853Z"
     }
+  ],
+  "zombodyok": [
+    {
+      "defid": 17465690,
+      "definition": "Zombodyok is [the zombie] [living] in [the ph].",
+      "example": "Do [you know] bodyok? He is zombodyok.",
+      "written_on": "2022-09-21T09:44:59.873Z"
+    }
   ]
 }
