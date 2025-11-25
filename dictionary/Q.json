@@ -82526,5 +82526,13 @@
       "example": "[baby] im about to qweem [on you].",
       "written_on": "2019-05-07T00:00:00Z"
     }
+  ],
+  "quickness": [
+    {
+      "defid": 581394,
+      "definition": "[sarcastic] name for someone who has just done or said [something] [very stupid]",
+      "example": "Kyle: (accidentaly locks keys and baby in car)\r\nRoss: \"[way to go] quickness\"\r\nKyle: \"[shutup]\"\r\n\r\nalso see [quick shit]",
+      "written_on": "2004-03-27T00:00:00Z"
+    }
   ]
 }
