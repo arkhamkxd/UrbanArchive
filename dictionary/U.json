@@ -17517,6 +17517,12 @@
       "definition": "A [way to] ask [someone] [whats up].",
       "example": "Mark: Updog\r\nJerry: What's updog?\r\nMark: [Nothing] much, [whats up] with you?\r\nJerry: [I hate you]",
       "written_on": "2020-08-26T00:00:00Z"
+    },
+    {
+      "defid": 15595716,
+      "definition": "A strange smell of canine fur in [the current] location or room, [usually] coming from the ceiling or the upper corners of [the room].",
+      "example": "\"Ugh, it [smells] like updog [around here]. Imma go turn [on the A]/C.\"",
+      "written_on": "2020-12-21T11:26:59.521Z"
     }
   ],
   "UCI": [
@@ -147353,6 +147359,22 @@
       "definition": "A [phrase] [often] [used] by Kai",
       "example": "[Guy1]: Wow! [Kai] got [a kill]!\r\nKai: Uyaas!!",
       "written_on": "2019-03-02T15:34:07.225Z"
+    }
+  ],
+  "ultrapropreantepenultimate": [
+    {
+      "defid": 15545215,
+      "definition": "[Sixth] from [last] in a [series].",
+      "example": "While [waiting] in line, I had just [realized] [that there] were five people behind me, making me in the ultrapropreantepenultimate position.",
+      "written_on": "2020-12-04T07:51:35.121Z"
+    }
+  ],
+  "uis": [
+    {
+      "defid": 15038203,
+      "definition": "barbie completely [top to bottom] and inside to [outside] and [sometimes] a mess",
+      "example": "UIS [will] [take] [your boy]",
+      "written_on": "2020-05-30T20:07:10.901Z"
     }
   ]
 }
