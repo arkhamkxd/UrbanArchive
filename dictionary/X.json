@@ -34250,5 +34250,13 @@
       "example": "[xavier] [lloyd] means a [great person]",
       "written_on": "2019-11-16T00:00:00Z"
     }
+  ],
+  "xanax bars": [
+    {
+      "defid": 1123231,
+      "definition": "1 pill of [xanax] is [called] a bar. you [do the math]",
+      "example": "\"you wouldnt [happen] to have [a couple] bars i could buy [off you]?\"",
+      "written_on": "2005-05-13T00:00:00Z"
+    }
   ]
 }
