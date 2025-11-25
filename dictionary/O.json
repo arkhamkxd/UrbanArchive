@@ -256450,5 +256450,21 @@
       "example": "Girl: [I think] Olliver’s [hair] is [really] cute",
       "written_on": "2021-01-06T14:35:24.119Z"
     }
+  ],
+  "Ole Betty": [
+    {
+      "defid": 5027005,
+      "definition": "[Something] dear [to you] that you use or rely on [all the time].",
+      "example": "Where did I park Ole betty. (Car) Or Damn [I left] Ole Betty [upstairs]. ([Cell phone])",
+      "written_on": "2010-06-13T00:00:00Z"
+    }
+  ],
+  "Ocskasy Syndrome": [
+    {
+      "defid": 5432809,
+      "definition": "One who [continuously] roots for teams that have [absolutely] no chance at winning a [championship]. Almost as if they are unlucky/cursed.",
+      "example": "[Are you serious], you root for the Jets, Nets and Mets. You must have Ocskasy Syndrome.\r\nOh wait, you [actually] own a Jets Favre Jersey, you [definitely] have Ocskasy Syndrome.",
+      "written_on": "2010-12-14T00:00:00Z"
+    }
   ]
 }
