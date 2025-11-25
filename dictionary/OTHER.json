@@ -199260,5 +199260,13 @@
       "example": "\"I'll be in my room. [Don't bother] me unless [something] is broken, bleeding, or burning.\"\n\n\"Yes mom, we know about [the 3 b's].",
       "written_on": "2016-05-27T00:00:00Z"
     }
+  ],
+  "<e": [
+    {
+      "defid": 14082254,
+      "definition": "<e",
+      "example": "<e",
+      "written_on": "2019-07-24T09:40:02.11Z"
+    }
   ]
 }
