@@ -148612,5 +148612,13 @@
       "example": "1. I was gone for four days and had 600 unsolicited email [messages] when I returned.\r\n\r\n2. I used to get a lot more unsolicited [browser] pop-ups in older browser versions.\r\n\r\n3. Some browser pop-ups would try to [download] unsolicited software.",
       "written_on": "2005-08-23T00:00:00Z"
     }
+  ],
+  "Unstankify": [
+    {
+      "defid": 6833329,
+      "definition": "[The act] of removing a [negative] [odor] from one's body.",
+      "example": "I just [got done] [hoopin'], now Imma [hit the shower] to unstankify myself.",
+      "written_on": "2012-11-17T00:00:00Z"
+    }
   ]
 }
