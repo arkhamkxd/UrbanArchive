@@ -55877,6 +55877,12 @@
       "definition": "see [ponce] and [stuck-up] and [arrogant]",
       "example": "i speak the [queen's english] so i am [better than you] [commoners]!",
       "written_on": "2003-06-27T00:00:00Z"
+    },
+    {
+      "defid": 140280,
+      "definition": "The [English language] as [it is written] and spoken in [the UK].",
+      "example": "[Colour not color];\r\nThrough not thru;\r\nNow try pronouncing [aluminium] [without] making the oooo sound!",
+      "written_on": "2003-05-28T00:00:00Z"
     }
   ],
   "Quitquack": [
@@ -83417,6 +83423,30 @@
       "definition": "[quest] [coins]",
       "example": "\"I [got some] questoins [guys]!\"\r\n\"That gave me questoins [over there].\"",
       "written_on": "2022-04-15T13:54:06.94Z"
+    }
+  ],
+  "Queen energy": [
+    {
+      "defid": 18429928,
+      "definition": "Queen energy is an overall persona of confidence, supportiveness, [good vibes], and lifting others up. People with Queen energy absolutely slay at [everything] they put their mind to, and always bring [good vibes] to a room.",
+      "example": "She has [total] [Queen] [energy]!",
+      "written_on": "2025-02-12T17:08:56.794Z"
+    }
+  ],
+  "quadwurst": [
+    {
+      "defid": 13116320,
+      "definition": "A quadwurst is four bratwursts [duct taped] [together] at the base. Only used for [insertions].",
+      "example": "Man, I took that quadwurst [last night] and I’ve [never been] so [loose].",
+      "written_on": "2018-08-05T00:00:00Z"
+    }
+  ],
+  "Qurban": [
+    {
+      "defid": 17508207,
+      "definition": "Command for the [multiplayerpiano] bot Qhy to access word [definitions] on [urban dictionary].",
+      "example": "([you, me], anyone): qurban (word)\r\nqhy: ([the definition] of [that word])",
+      "written_on": "2022-10-22T06:44:59.979Z"
     }
   ]
 }
