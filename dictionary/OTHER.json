@@ -201004,5 +201004,29 @@
       "example": "[randomly] while playing in the [chat log]:\r\n\r\nplayer A: *ding*\r\n\r\nplayer B: [congratulations]",
       "written_on": "2007-08-10T00:00:00Z"
     }
+  ],
+  "_luck": [
+    {
+      "defid": 15778653,
+      "definition": "[One of] [the best] [content] creators and doesn't missproud",
+      "example": "_[luck] is cuteflushed",
+      "written_on": "2021-02-26T21:29:30.996Z"
+    }
+  ],
+  "50 Shades of Fabulous": [
+    {
+      "defid": 6694036,
+      "definition": "When a poem, story or book is good in too many ways to concisely describe, it is said to be 50 Shades of [Fabulous].\n\nExactly the [opposite] of [50 shades of gay], this phrase is quite often used when in the throes of fangirling.",
+      "example": "Mark: Have you read the [new book] about..?\r\nBen: YES. It was 50 [shades] of [fabulous]!",
+      "written_on": "2012-07-26T00:00:00Z"
+    }
+  ],
+  "9/4": [
+    {
+      "defid": 11088090,
+      "definition": "An [absolute] [sex mobile]",
+      "example": "\" [Aoife] is a 9/4 [for sure] \"- [Evan]",
+      "written_on": "2017-02-23T00:00:00Z"
+    }
   ]
 }
