@@ -98497,6 +98497,12 @@
       "definition": "Simolean, the symbol of [currency] used in [the Sims] series of [computer] games",
       "example": "A [chalkboard] with no logic [skills] earns you [around] §30.",
       "written_on": "2004-09-15T00:00:00Z"
+    },
+    {
+      "defid": 3941154,
+      "definition": "Section punctuation mark, typed by pressing and holding the ALT key down while typing [the numbers] 167. \"§\" is used to denote sections in legal [documents]. It is also used at the end of sentences to denote sarcasm in written [electronic media] such as Facebook or Livejournal status updates and resulting comments in order to avoid confusion as to what is a sarcastic remark, and what is not. Invented to replace having to type \"I'm being sarcastic, by the way\".",
+      "example": "Oh yes, I find you very smart.§\n\nAre you a genius?§\n\nI'm [thrilled] I [have to] stay at work after 5 PM on Friday.§\n\nYes! Let's all go jump [off the cliff]!§",
+      "written_on": "2009-05-04T00:00:00Z"
     }
   ],
   "13177km/s": [
@@ -201215,6 +201221,30 @@
       "definition": "[Emoticon]: Ampersand [followed] by 5 to 8 dashes. Means [Poop on a stick]. As in a curly bit of dog poo resting at the end of a stick.",
       "example": "Text: Hey dude how ya feelin?\r\nText [Response]: &--------\r\nText: Sorry to hear. If you didn't lick [your butt] you probably wouldn't feel so bad. Hope it isn't [contagious].",
       "written_on": "2010-03-07T00:00:00Z"
+    }
+  ],
+  "(:( OR ):)": [
+    {
+      "defid": 7922336,
+      "definition": "[schrödinger's emoticon];\n\n[Happy] and/or sad...mixed [feelings].",
+      "example": "He's such a [douchebag] but he's soooo hot! (:(\n\nUgh wish I could've seen either [Katy Perry] or [Miley Cyrus] tonight because they are the best!!! ):)\n\n~ Could be either (:( OR ):) ~",
+      "written_on": "2014-10-10T00:00:00Z"
+    }
+  ],
+  "80100": [
+    {
+      "defid": 12273567,
+      "definition": "[Dipping] [getting] [the fuck out]",
+      "example": "Yo [homie] im [bout] to 80100",
+      "written_on": "2017-12-12T00:00:00Z"
+    }
+  ],
+  "80 pounds overweight": [
+    {
+      "defid": 2813794,
+      "definition": "When [someone] has [a child]",
+      "example": "Person 1: \"damn she is hot\"\r\n[person 2]: \"nah man she is 80 pounds [overweight]\"\r\nperson 1: \"awe [fuck that]\"",
+      "written_on": "2008-01-24T00:00:00Z"
     }
   ]
 }
