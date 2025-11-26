@@ -193722,5 +193722,13 @@
       "example": "[Facebook]: You got a new [follower].\r\nFriend: That's six today! You're [on fire]!",
       "written_on": "2018-05-20T00:00:00Z"
     }
+  ],
+  "yessy": [
+    {
+      "defid": 1151959,
+      "definition": "Similar to [the words] yeppers and yes. Is said in [agreement], or a [positive] answer.",
+      "example": "[Person 1]: Want to [go to the store]?\r\n[Person 2]: Yessy",
+      "written_on": "2005-03-29T00:00:00Z"
+    }
   ]
 }
