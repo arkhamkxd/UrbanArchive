@@ -172417,6 +172417,12 @@
       "definition": "[Obligatory] [Family] Xmas [Gathering]",
       "example": "Simon [Cooper]: How was the ofxg?\r\n[Jay Cartwright]: It [was good].",
       "written_on": "2022-12-25T06:33:17.985Z"
+    },
+    {
+      "defid": 17603162,
+      "definition": "[Obligatory] [Family] Xmas [Gathering]",
+      "example": "Simon [Cooper]: How was your ofxg?\r\n[Jay Cartwright]: It [was good].",
+      "written_on": "2022-12-25T06:45:38.858Z"
     }
   ],
   "Osteosporosis": [
@@ -260091,6 +260097,14 @@
       "definition": "Losing weight due to lack of funds or [financial] [difficulty]. [Participant] in this diet usually eat Frootloops for 8 straight meals in a row.",
       "example": "At first we thought he was [strung out] on [something] but then we were told he had lost his job last week and was on [the Oliver Twist] diet.",
       "written_on": "2011-01-05T00:00:00Z"
+    }
+  ],
+  "official minority": [
+    {
+      "defid": 2397845,
+      "definition": "someone who has been granted unofficial (or official) privileges by being the race, religion, or [orientation] that they are. This is, [of course], based on what country you are in.\r\n\r\nPeople act like this kind of treatment to minorities does not exist, but no one thinks of refuting the [Jim Crow laws].",
+      "example": "Mexicans are an [official] minority\r\n[African Americans] are an official minority\r\nGays are an official minority\r\nMuslims are an official minority\r\n\r\nExamples apply to the [United States].",
+      "written_on": "2007-05-15T00:00:00Z"
     }
   ]
 }
