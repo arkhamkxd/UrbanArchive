@@ -200832,5 +200832,37 @@
       "example": "\"197i\" is owned by the [esteem] [Director], \"The [Prophecy]!\"",
       "written_on": "2024-02-29T22:16:58.986Z"
     }
+  ],
+  "[fuck]": [
+    {
+      "defid": 15013239,
+      "definition": "[fuck] @aa\r\nS",
+      "example": "[fuck]",
+      "written_on": "2020-05-22T00:00:00Z"
+    }
+  ],
+  "5 Alive": [
+    {
+      "defid": 4698419,
+      "definition": "A meaningless phrase used for [emphasis] [after the] [number 5].",
+      "example": "A:[wait] [how many] are there?\r\nB: 5\r\nA: 5 [Alive]!",
+      "written_on": "2010-02-14T00:00:00Z"
+    }
+  ],
+  "《¤》Nintendo《¤》Fourty《¤》`《¤》Six《¤》nintendO《¤》": [
+    {
+      "defid": 18437843,
+      "definition": ".",
+      "example": "《¤》[Nintendo]《¤》[Fourty]《¤》`《¤》Six《¤》[nintendO]《¤》",
+      "written_on": "2025-02-23T13:37:07.255Z"
+    }
+  ],
+  "60 FPS": [
+    {
+      "defid": 12579216,
+      "definition": "Sixty frames per second is the penultimate state of smoothness the human eye can see on a monitor/television, anything higher grants improved responsiveness in [video games]. 60 FPS is [usually] what PC gamers expect the most from their game/system, and it's one of the biggest factors that helps PCs combat consoles.\n\nPeople will fight this fact, stating that the human eye can only see 30 FPS, or 24 FPS. This [information] is false, and is usually brought up by console peasants. 60 FPS is buttery smooth, and it's the least you need to get satisfyingly smooth video. Powerful consoles such as the [Xbox One X] and PS4 Pro refuse to run games at 60 FPS most of the time, solely because the developers of most games on the two systems sacrifice FPS to make the game look better.\n\nA lot of games on console don't run at 60 FPS, and because of the modifiable nature of PCs, with good enough components you can be sure to run any game you like at 60 FPS.",
+      "example": "1: That new [computer] I built last week can [actually] run all of my Steam [games] at 60 fps!\r\n2: Nice, what are your specs?",
+      "written_on": "2018-02-20T00:00:00Z"
+    }
   ]
 }
