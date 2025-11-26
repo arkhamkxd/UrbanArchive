@@ -83614,5 +83614,13 @@
       "example": "\"Hey Jake, take a [look at] my querections, and [let me know] if they place [too much] load on the server.\"",
       "written_on": "2006-01-13T00:00:00Z"
     }
+  ],
+  "qantas": [
+    {
+      "defid": 6174603,
+      "definition": "acronym- [Quiet] And Not Taking-off [Anytime Soon]",
+      "example": "not [flying] qantas",
+      "written_on": "2011-10-31T00:00:00Z"
+    }
   ]
 }
