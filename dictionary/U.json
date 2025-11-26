@@ -149120,5 +149120,21 @@
       "example": "\"[what's good] b?\"\r\n\"Uttercup\"\r\n\"[Excuse me] [did you] just call me a cow?\"",
       "written_on": "2018-09-17T00:00:00Z"
     }
+  ],
+  "Unvelcro": [
+    {
+      "defid": 2787833,
+      "definition": "[The act] of unfastening [velcro].\r\nPOS: verb\r\nPast: unvelcroed\r\nAnt: [Velcro](ing)",
+      "example": "Person [number one]: Damnit! [I just can't] get these stupid gloves off.\r\nPerson [number two]: Perhaps you could try unvelcroing them?",
+      "written_on": "2008-01-15T00:00:00Z"
+    }
+  ],
+  "ujesh": [
+    {
+      "defid": 11690630,
+      "definition": "[THE BEST] [DAD] IN [THE WORLD]",
+      "example": "I have Ujesh",
+      "written_on": "2017-06-14T00:00:00Z"
+    }
   ]
 }
