@@ -186520,5 +186520,21 @@
       "example": "[Don't go] in the Vista Lay hot tob, you might [come out] [pregnant].",
       "written_on": "2005-06-04T00:00:00Z"
     }
+  ],
+  "vigma": [
+    {
+      "defid": 16948492,
+      "definition": "EZ",
+      "example": "that is vigma no [worries]",
+      "written_on": "2022-01-28T09:33:05.975Z"
+    }
+  ],
+  "Vitameatavegemin": [
+    {
+      "defid": 7003341,
+      "definition": "Classic fictional alcohol-containing nutritional supplement from an episode of [I Love Lucy]. Lucy is in a commercial for [the product] and every take requires that she takes a spoonful, so after several takes she unknowingly gets drunk off the supplement.\n\n\"Hello friends. I'm your Vitameatavegamin girl. Are you tired, run-down, listless? Do you poop out at parties? Are you unpopular? The answer to all your problems is in this little bottle. Vitameatavegamin. [Yes], Vitameatavegamin contains Vitamins Meat [Vegetables] and Minerals. Yes, with Vitameatavegamin, you can spoon your way to health. All you do is take a great big tablespoonful after every meal. Mmmmmmm..... It's so tasty, too! Tastes just like candy! So why don't you join all the thousands of happy peppy people and get a great big bottle of Vitameatavegamin tomorrow! That's Vita-meata-vegamin! (wink)\"",
+      "example": "With Vitameatavegemin you can [spoon] your [way to] [health]!",
+      "written_on": "2013-03-29T00:00:00Z"
+    }
   ]
 }
