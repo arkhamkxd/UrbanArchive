@@ -301246,5 +301246,37 @@
       "example": "[its time] for the",
       "written_on": "2025-09-04T11:29:56.962Z"
     }
+  ],
+  "I like you game": [
+    {
+      "defid": 9372657,
+      "definition": "[It's a game] for two people at a time. The players take turns saying \"[I like you]\" or \"I love you\" or [practically] anything flirtatious until the other blushes. The one to blush losses.",
+      "example": "[I love] the [I like you] game. It's great to play with [my friends]",
+      "written_on": "2016-08-06T00:00:00Z"
+    }
+  ],
+  "introducktion": [
+    {
+      "defid": 14636500,
+      "definition": "Da [formalities] dat [Donald] and Daisy would [exchange] when they first met.",
+      "example": "I hadda attend a long boring business-meeting where a lot of [different] people were telling each other their names and [positions] in da company; da only fun I had was afterwards, when I was able to play da audio-tape of said meeting at 2-times normal speed to make everyone's voices sound like nasally [quacking]; dat way I could giggle at everyone's \"introducktions\".",
+      "written_on": "2020-01-18T00:00:00Z"
+    }
+  ],
+  "Inspiredunacy": [
+    {
+      "defid": 14951897,
+      "definition": "An [inspirational] [drunken] idea that is carried out by a jovial [lunatic].",
+      "example": "Party attendee 1: why is Guy climbing up on to the cupboards?\n\nParty attendees 2: [I'm not sure], but it's bound to be [hilarious].\n\nGuy (very loudly): I AM THE GREASIEST MAN IN THE WORLD!!!\n\neveryone: raucous laughter\n\nParty attendee 1: hahhaha! man, Guy is a comic genius.\n\nParty attendee 2: yeah, that sure is some inspiredunacy [right there].\n\nParty attendees 1: haha. Yeah. Bloody oath.",
+      "written_on": "2020-05-01T00:00:00Z"
+    }
+  ],
+  "incestuous furbag": [
+    {
+      "defid": 17885704,
+      "definition": "An [insult] [starting] with I",
+      "example": "[You are] an [incestuous] [furbag]",
+      "written_on": "2023-08-11T15:54:43.031Z"
+    }
   ]
 }
