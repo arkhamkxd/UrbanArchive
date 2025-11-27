@@ -203580,5 +203580,21 @@
       "example": "[OMG], I've got [a fever], what should [I do]?\r\n\r\n+/_\\",
       "written_on": "2008-12-12T00:00:00Z"
     }
+  ],
+  "359": [
+    {
+      "defid": 18409922,
+      "definition": "I [miss you] [my sweet]\r\n[will you] come be next to me\r\nwe’ll make harmony",
+      "example": "359 :: [137] :: [222]",
+      "written_on": "2025-01-15T03:45:00.992Z"
+    }
+  ],
+  "$wagtastic": [
+    {
+      "defid": 17800386,
+      "definition": "Is when you have amazing game.\r\n$wagtastic is used as an [adjective] describing a person and or their ability to get whatever they need in an [exuberant] fashion… [especially] money.",
+      "example": "[That person] [over there] has [extraordinary] $wagtastic!",
+      "written_on": "2023-05-24T12:14:09.433Z"
+    }
   ]
 }
