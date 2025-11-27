@@ -84118,5 +84118,29 @@
       "example": "[I just] bought this [hoodie] at Target. [I love] quotewear.",
       "written_on": "2018-12-04T00:00:00Z"
     }
+  ],
+  "qwertyulopasdfghjkizxcvbnm": [
+    {
+      "defid": 18554870,
+      "definition": "you were so bored that you [typed] [qwertyuiop], then [switched] the i and l",
+      "example": "l was so bored that l went on [urban] dlctlonary and typed [qwertyuiopasdfghjklzxcvbnm] then [switched] l and i\n\nqwertyulopasdfghjkizxcvbnm",
+      "written_on": "2025-10-08T19:26:32.766Z"
+    }
+  ],
+  "Qubo": [
+    {
+      "defid": 17533150,
+      "definition": "[The only] [channel] that you could watch because PBS kids was [super duper] boring and you don’t have cable and it was 2014.",
+      "example": "Fuck PBS kids I’m [switching] to Qubo because all the shows are [super duper] boring [as fuck].",
+      "written_on": "2022-11-07T13:01:58.079Z"
+    }
+  ],
+  "Qalient": [
+    {
+      "defid": 18016174,
+      "definition": "An [adjective] used to describe when [a word] [breaks] the Q and U rule.",
+      "example": "Person 1: Did [you know that] “qalient” is the only [word that] is qalient?\r\n[Person 2]: Woah! That’s so cool!",
+      "written_on": "2023-11-22T10:00:32.17Z"
+    }
   ]
 }
