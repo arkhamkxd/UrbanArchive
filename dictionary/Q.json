@@ -84296,5 +84296,21 @@
       "example": "You [like] [No Doubt]? [What a] queerboat.",
       "written_on": "2005-09-24T00:00:00Z"
     }
+  ],
+  "Querforder": [
+    {
+      "defid": 18477244,
+      "definition": "[Homosexual]",
+      "example": "[I just] [found out] [my friend] was a querforder",
+      "written_on": "2025-04-27T19:07:34.843Z"
+    }
+  ],
+  "Que pasa in the casa": [
+    {
+      "defid": 4919967,
+      "definition": "Can be [translated] into \"[What's happening] [in the house]\"\n\nQue pasa = What's up\r\nCasa = house\n\nFrom spanish",
+      "example": "[Que pasa] in the [casa]?\n\n[Just chillin] out",
+      "written_on": "2010-04-29T00:00:00Z"
+    }
   ]
 }
