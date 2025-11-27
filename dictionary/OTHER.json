@@ -203274,5 +203274,21 @@
       "example": "505 [shooter] [pulls] all [the birds].",
       "written_on": "2019-09-03T00:00:00Z"
     }
+  ],
+  "€": [
+    {
+      "defid": 457864,
+      "definition": "1) \"euro\" -single [european] currency used by all members of the [european union] except UK, denmark, sweden since 01/01/2002. see also [european union]\r\n\r\n2) 1 euro = 1.3-something $",
+      "example": "\"[dollars]? [come on], what´s that in [real money]?\"",
+      "written_on": "2004-01-20T00:00:00Z"
+    }
+  ],
+  ".9.Arusyrbas.9.": [
+    {
+      "defid": 18523900,
+      "definition": ".9.Arusyrbas.9.",
+      "example": ".9.Arusyrbas.9.",
+      "written_on": "2025-07-29T19:34:18.527Z"
+    }
   ]
 }
