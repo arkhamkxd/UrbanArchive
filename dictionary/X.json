@@ -7591,6 +7591,12 @@
       "definition": "[something] about [operating systems].",
       "example": "I have an x64 [version] of [Windows]!",
       "written_on": "2022-04-17T15:40:57.024Z"
+    },
+    {
+      "defid": 1843826,
+      "definition": "x64 is a part of the lost Ultimate Question to Life, the Universe and Everything, to which the answer is 42.\r\n\r\nIt all started when AMD attempted to uncover [the Ultimate Question], despite the version of the Uncertainty Principle (discovered by Douglas Adams) which stated that [the Ultimate Question] and the Ultimate Answer cannot be known in the same universe. So far, the only known part of [the Ultimate Question] was \"x86\".\r\n\r\nTo accomplish this task, AMD constructed a marketing hoax called Opteron, a hoax so wise that it was often mistaken for a processor (or a decepticon). After several years of promotion, during which nobody actually saw Opteron, it was calculated that the \"x86\" part of [the Ultimate Question] is correct, and another part was discovered, so the result was elongated to \"x86-64\". AMD proudly patented this nonsense by the name of AMD64.\r\n\r\nMeanwhile, Intel has been performing its own calculations of [the Ultimate Question] and Answer. At first it appeared that the assumption of the Ultimate Question being 42 was incorrect, and in fact it was 32. Windows operated, albeit not successfully enough, under that assumption. Intel admitted that x86 is indeed a part of the Ultimate Question, but did not acknowledge the \"-64\" addition, for it had already been pushing its own \"IA-64\" architecture (see Itanium), not compatible with x86, which Intel preferred to call \"IA-32\". Well, actually it was compatible, if you were satisfied with Half-Life 2 producing 0.1 FPS, but it turned out that this was not the compatibility people were looking for.\r\n\r\nEventually, after the [introduction] of Athlon 64—oddly enough, a real processor this time—Intel reconsidered. They found nothing better than to pretend that x86-64 spport was always in their Pentiums, but AMD stole it all and called it AMD64. And of course, they found nothing better than to introduce yet another name. Since IA-64 was taken, they used a randomly generated abbreviation, namely EM64T. Each EM64T processor shipped with a sticker that read, \"People, we know IA-64 was a mistake. Honest. Just buy our processor and not AMD's, pleeease!\"\r\n\r\nFor Microsoft, this was not sufficient. At first, they were with Intel, as they always had been, but they thought that between IA-64, x86-64, AMD64 and EM64T, customers would not understand the advantages of the new approach. So x64 was introduced to replace \"x86-64\" in the Ultimate Question, as a matter of [political correctness] between AMD and Intel. It allowed Microsoft to finally, using a cluster of Opterons, Xeons and other nonexistent (for the common user) processors, reverse engineer the Ultimate Equation:\r\n\r\n                     0.65625x64=42\r\n\r\nSome people still call it x86-64, though, despite the fact that the Ultimate Equation becomes infinite with such an approach. But don't worry, these include just some insignificant individuals, like Linus Torvalds. It's barely noteworthy on Wikipedia.\r\n\r\nAnd in the end, all Microsoft wrought is perhaps convincing people that x86 is better than x64, because it's larger.",
+      "example": "“May they [burn in hell], AMD and Intel alike, for not discovering it in the [first place].”\r\n\r\n    ~ [Oscar Wilde] on x64",
+      "written_on": "2006-07-04T00:00:00Z"
     }
   ],
   "Xelch": [
@@ -35065,6 +35071,14 @@
       "definition": "zaydangles [real] [name]",
       "example": "zaydangles [real] [name] is [Xavier] Boyd?",
       "written_on": "2024-10-26T11:33:36.292Z"
+    }
+  ],
+  "Xenofeebia": [
+    {
+      "defid": 6728232,
+      "definition": "[Resistance], in older people, to new ideas and change. [Generally] [speaking], closed-mindedness and myopia.",
+      "example": "[Uncle] Fred's not [down with] [Facebook] - he has xenofeebia.",
+      "written_on": "2012-08-24T00:00:00Z"
     }
   ]
 }
