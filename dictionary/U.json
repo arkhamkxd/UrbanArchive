@@ -152460,5 +152460,29 @@
       "example": "[That guy] is [well fit]... [I think] his name is Udula",
       "written_on": "2018-08-29T00:00:00Z"
     }
+  ],
+  "US intelligence": [
+    {
+      "defid": 2365520,
+      "definition": "An [oxymoron] (phrase that describes [something] that doesn't [actually] exist)",
+      "example": "When was the last time you saw ANY evidence of US [intelligence]  - George Bush, [Britney Spears], [Monica Lewinsky]?  I rest my case.",
+      "written_on": "2007-04-21T00:00:00Z"
+    }
+  ],
+  "unsnoozy": [
+    {
+      "defid": 17788505,
+      "definition": "Not [sleepy], [not boring], not unawake.",
+      "example": "I will give you an unsnoozy [night out] [when I] [finish] my MCAT!",
+      "written_on": "2023-05-14T23:20:08.102Z"
+    }
+  ],
+  "urbanotarded": [
+    {
+      "defid": 2144676,
+      "definition": "When a person follows trends mindlessly and just wears them all together without having their own sense of style. Usually they just buy a whole bunch of stuff at [Urban Outfitters] and let [the store] [tell them] what's hip instead of figuring it out on their own.",
+      "example": "[That girl] in the \"ironic\" T-shirt, neon [leggings], and matching Ugg boots is [seriously] urbanotarded.",
+      "written_on": "2006-12-16T00:00:00Z"
+    }
   ]
 }
