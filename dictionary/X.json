@@ -35094,5 +35094,13 @@
       "example": "[Random] Baboon: yo cuh, whats [your opinion] on XEN?\r\nRandom Baboon 2: theyre [pretty cool]",
       "written_on": "2024-05-26T06:11:49.844Z"
     }
+  ],
+  "xenodochium": [
+    {
+      "defid": 206047,
+      "definition": "A [gathering] of [strangers].",
+      "example": "When [many] [strangers] [gather].",
+      "written_on": "2003-08-06T00:00:00Z"
+    }
   ]
 }
