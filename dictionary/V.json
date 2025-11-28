@@ -189776,5 +189776,13 @@
       "example": "[The book] “threw the viewinglass” is a great [sequel] for “Alice in [wonderland]”!",
       "written_on": "2024-12-08T01:51:18.861Z"
     }
+  ],
+  "valectban": [
+    {
+      "defid": 1936909,
+      "definition": "The result of a user (Valect) on efnet using the host name of [someone else], who raises hell in specific channels of choice (such as #seattle or #[california]).\r\n\r\nThe result is an ineffective ban on the host name that user is utilizing, locking all other users on that host name out of the channel.\r\n\r\nA [frequent] victim of valectbans is a user known as Orb.",
+      "example": "21:15 18 Dec 05 <analorb> I used to be on like 23542352 efnet [channels] <analorb> but now [I am the] [victim] of valectbans",
+      "written_on": "2006-08-25T00:00:00Z"
+    }
   ]
 }
