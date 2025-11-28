@@ -16615,6 +16615,12 @@
       "definition": "A grid for the [playing] of [the game] [Tic Tac Toe].",
       "example": "Hey [Poindexter], take your [finger] out of [your ass], and lets play some #!",
       "written_on": "2003-12-03T00:00:00Z"
+    },
+    {
+      "defid": 2410759,
+      "definition": "Used to [express love].  Derives from the [symbol] for heart, <3 ,  which was typed incorrectly as <#, [and then] shortened into just #.",
+      "example": "I # [Arlene], she makes [my world] go 'round.\r\n\r\nI feel so much # for Arlene [right now].",
+      "written_on": "2007-05-25T00:00:00Z"
     }
   ],
   ".ahshottie": [
@@ -203891,6 +203897,22 @@
       "definition": "A skinny [motherfucker] [walking] around [thinking] he's some ripped, vein-pumpin, gun-totin, behemoth of a manhunk.",
       "example": "Bob: \"Shit nig here cums no chin [tinkin] he be big...\"\n\nRoy: \"Mutherclot tinkin he be 50 men u [get me].\"\n\nBob: \"[Word up] ma g-rag.\"\n\nRoy: \"Slim.\"",
       "written_on": "2009-12-02T00:00:00Z"
+    }
+  ],
+  "1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000": [
+    {
+      "defid": 18375644,
+      "definition": "one googol\r\nOne googol is the number 10 raised to the power of 100. It's written as a 1 followed by 100 zeros. [Mathematically], it looks like this:\r\n10¹⁰⁰\r\nOr in its full expanded form:\r\n1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000. one googol\r\nOne googol is the number 10 raised to the power of 100. It's written as a 1 followed by 100 zeros. [Mathematically], it looks like this:\n\n1\r\n0\r\n100\r\nOr in its full expanded form:\n\n1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 A googol is a way to describe an exceptionally large number. It’s much larger than the number of atoms in the observable universe. Fun fact: The name \"googol\" was coined by Milton Sirotta, the nine-year-old nephew of the American [mathematician] Edward Kasner, who popularized the concept in the 20th century.",
+      "example": "[can you] [count] to 1 to [1,000,000,000],000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000?\r\nno.",
+      "written_on": "2024-11-25T10:08:55.889Z"
+    }
+  ],
+  "[permie]": [
+    {
+      "defid": 3612262,
+      "definition": "[Someone] [who is] really into [permaculture] design.",
+      "example": "My [friend jack] is a true [permie] he doesn't have a lawn, own a car, and he [lives] in a yurt.",
+      "written_on": "2009-01-10T00:00:00Z"
     }
   ]
 }
