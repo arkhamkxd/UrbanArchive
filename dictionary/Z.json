@@ -13377,6 +13377,12 @@
       "definition": "[marijuana] [rolled] in [paper]",
       "example": "Colt 45 and 2 zig zags, baby thats all we need, we'll [go to the park] [after dark] and smoke that [tumbleweed]",
       "written_on": "2004-04-14T00:00:00Z"
+    },
+    {
+      "defid": 228999,
+      "definition": "[papers] [used] [to roll] weed in",
+      "example": "Yo, [link me] some zig zags to [roll up] this [spliff]",
+      "written_on": "2003-08-27T00:00:00Z"
     }
   ],
   "Zarky": [
@@ -124199,6 +124205,14 @@
       "definition": "Zenfuse (zenfused, zenfusing, zenfuses)\n\nadjective\n\n* (of a person) able to think clearly; lucid.\n\n\"she was utterly zenfused [in the grass], listening to the highway breathing\"\n\n* showing lucidity.\r\n\"a zenfused expression crosses her face as she opens up her eyes\"\n\nverb\r\n* cause (someone) to become [enlightened] or demystified.\r\n\"past and future blurred, while the present remained in focus, zenfusing her still further\"\n\n* make (something) less complex or easy to [understand].\r\n\"the points made by the writers zenfuse rather than muddle the issue\"",
       "example": "She was [right there] [with it], [and she was] zenfused",
       "written_on": "2018-05-22T00:00:00Z"
+    }
+  ],
+  "zombie appointment": [
+    {
+      "defid": 12508033,
+      "definition": "A seemingly random [calendar] invite that shows up in your diary; the [origins] of which appear to be [unknown].",
+      "example": "[This is a] zombie [appointment] and I am [cancelling it].",
+      "written_on": "2018-05-04T00:00:00Z"
     }
   ]
 }
