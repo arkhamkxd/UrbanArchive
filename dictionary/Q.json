@@ -85788,5 +85788,21 @@
       "example": "The [judges] are still reviewing the [tapes], but we may have a new record-setting queefleet. [Personally], Jan, I lost-count at 10.",
       "written_on": "2014-06-02T00:00:00Z"
     }
+  ],
+  "Quety": [
+    {
+      "defid": 13797943,
+      "definition": "What you call someone who [you don't] like or someone you [want to] [leave you] alone.",
+      "example": "[Mary] is very quety.",
+      "written_on": "2019-04-11T00:00:00Z"
+    }
+  ],
+  "qwertyuiopasdfghjklzcvbnm": [
+    {
+      "defid": 13515252,
+      "definition": "[when you] are [bored]",
+      "example": "[i am] very qwertyuiopasdfghjklzcvbnm [right now].",
+      "written_on": "2019-01-10T00:00:00Z"
+    }
   ]
 }
