@@ -265394,5 +265394,21 @@
       "example": "She is my [oreo] [nut]<3",
       "written_on": "2019-06-26T00:00:00Z"
     }
+  ],
+  "Okie Rope": [
+    {
+      "defid": 3211249,
+      "definition": "[Electrician] [Slang] for Nonmetalic sheathed [cable]!",
+      "example": "[Hey dude] give me a piece of Okie Rope so I can tie down my [ladders] on [the truck]!",
+      "written_on": "2008-08-02T00:00:00Z"
+    }
+  ],
+  "obama condom": [
+    {
+      "defid": 3514838,
+      "definition": "A [promotional] item used for [getting] certain individuas to vote [democratic].",
+      "example": "Jeff- \"I [picked up] an obama condom after I was at the speech in chicago\"\r\n\r\nTom- \"Now you can prove to your [girlfriend] how [dedicated] you are to your party.\"",
+      "written_on": "2008-12-16T00:00:00Z"
+    }
   ]
 }
