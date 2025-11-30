@@ -193838,5 +193838,37 @@
       "example": "[On stage] tonight at [the California] Inn AltaQuota and special guests [the marvelous] VFQ",
       "written_on": "2004-10-28T00:00:00Z"
     }
+  ],
+  "Vanilla Fappuccino": [
+    {
+      "defid": 7902902,
+      "definition": "When you get a handjob in the [Starbucks] [bathroom] from the barista, and she then proceeds to make someone else's drink, using your own special [vanilla extract].",
+      "example": "Dude, Emma totally just gave me a [Vanilla] Fappuccino [in the stall]. I love [Starbucks] now.",
+      "written_on": "2014-09-17T00:00:00Z"
+    }
+  ],
+  "vumditions": [
+    {
+      "defid": 18500082,
+      "definition": "vum [conditions] AKA low [clouds] [anywhere]",
+      "example": "1: yo i think we’ll get vumditions on wtc tonight\r\n2: no way, the [forecast] shows no signs of low clouds\r\n1: Low clouds aren’t [the same] as vumditions, vumditions can appear at anytime, [anywhere] bro",
+      "written_on": "2025-06-07T09:02:01.749Z"
+    }
+  ],
+  "Vehicleing": [
+    {
+      "defid": 18415066,
+      "definition": "A blanket term for someone who is attempting (or is) [interacting] with [vehicular] objects, however is unprepared and does not a clear idea of what they are actually doing. Individuals who are vehicleing often do not [understand] what they are doing.",
+      "example": "[Mark] [really] [likes] vehicleing",
+      "written_on": "2025-01-22T17:17:30.071Z"
+    }
+  ],
+  "vpsi": [
+    {
+      "defid": 17022978,
+      "definition": "[somebody] who [pulls] lots of [girls]",
+      "example": "[you are] [such a] vpsi",
+      "written_on": "2022-02-25T11:28:57.851Z"
+    }
   ]
 }
