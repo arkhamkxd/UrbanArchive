@@ -184365,6 +184365,12 @@
       "definition": "a suffix used by sleasy websites. \r\n[instead] of .com, .co.uk, .net or .co.ck-(websites [registered] in the [Cook Islands])",
       "example": "[last year] i bought my [Reading] ticket off\r\n-www.sleasytickets.romp- and got [absolutly] scam-mastered.",
       "written_on": "2009-02-16T00:00:00Z"
+    },
+    {
+      "defid": 3726959,
+      "definition": "the prefix to sleasy web sites. [instead] of .com, .co.uk, .co.ck-(web site [registered] in the [cook islands]).",
+      "example": "[last year] i bought my [Reading] ticket off\r\n-www.sleasytickets.romp- and got [absolutly] scam-mastered.",
+      "written_on": "2009-02-16T00:00:00Z"
     }
   ],
   "-^-": [
@@ -209403,6 +209409,30 @@
       "definition": "What you [send] when [real shit] is about to [go down]",
       "example": "[Person]: dude Kaleb is [coming]\n\nMe: [oh shit]! 🚨",
       "written_on": "2019-05-30T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>Pepping Whistles<.7.9.7.6.>": [
+    {
+      "defid": 18479387,
+      "definition": "<.[7.9].7.6.>Pepping [Whistles]<.[7.9].7.6.>",
+      "example": "<.[7.9].7.6.>Pepping [Whistles]<.[7.9].7.6.>",
+      "written_on": "2025-04-30T19:09:09.661Z"
+    }
+  ],
+  "#BB4L": [
+    {
+      "defid": 14141127,
+      "definition": "[A Gang] strictly for [baddies]",
+      "example": "#BB4L [stands] for bad [biscuits] [for life] (.)",
+      "written_on": "2019-08-21T00:00:00Z"
+    }
+  ],
+  "4 fingers x": [
+    {
+      "defid": 17159934,
+      "definition": "[It means you] are deeply [in love] with Livs [xxxx]",
+      "example": "“Omg, I’m deeply [in love] with Livs ”\r\nThat’s why I [put up] [4 fingers] xx",
+      "written_on": "2022-04-17T12:05:34.299Z"
     }
   ]
 }
