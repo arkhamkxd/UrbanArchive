@@ -95787,6 +95787,12 @@
       "definition": "Ya [know what I'm sayin]???",
       "example": "i [can't be bothered] [typing] all this out YKWIS",
       "written_on": "2005-11-03T00:00:00Z"
+    },
+    {
+      "defid": 6413583,
+      "definition": "[YOU KNOW WHAT] I'M [SAYING]?",
+      "example": "I saw the [Knicks] [totally] bomb [last night]!\n\nykwis?",
+      "written_on": "2012-03-08T00:00:00Z"
     }
   ],
   "yeah matt": [
@@ -201101,6 +201107,30 @@
       "definition": "A Ukrainian name that means peacuful. People with this name tend to be creative and [excellent] at expressing themselves. They are drawn to the arts, and often enjoy life immensely. They are often the center of [attention], and enjoy careers that put them in the limelight. They tend to become involved in many different [activities], and are sometimes reckless with both their energies and with money.",
       "example": "[Your name] is Yarna? -No, it's [pronounced] YA-RY-NA!\r\nYaryna, what a [unique] name!",
       "written_on": "2010-03-07T00:00:00Z"
+    }
+  ],
+  "Yeo Bah": [
+    {
+      "defid": 13665773,
+      "definition": "[Northern Irish] chav chant that they perform after someone does [something] they think is 'hard' or a noise they produce when they are [showing off] alcohol on their snapchat story.",
+      "example": "[Wee bottle] of [bucky] [ats us nai], Yeo Bah",
+      "written_on": "2019-02-28T00:00:00Z"
+    }
+  ],
+  "You're not Elon": [
+    {
+      "defid": 18457171,
+      "definition": "Why [would I] [want to] be? He's a 50 year old [retard] who did not create AI.",
+      "example": "A [retard] \"[You're not] Elon.\"\n\nHym \"[I know]...\"",
+      "written_on": "2025-03-22T14:06:55.889Z"
+    }
+  ],
+  "YNTBT": [
+    {
+      "defid": 15655910,
+      "definition": "[You’re] [Not To Be] [Trusted]",
+      "example": "Bro YNTBT, [I know] you [finessed] all my tree [last] time you were over.",
+      "written_on": "2021-01-12T21:23:51.138Z"
     }
   ]
 }
