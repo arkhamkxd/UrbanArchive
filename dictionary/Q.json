@@ -86236,5 +86236,13 @@
       "example": "Pete's a [Purple] [Homo]!",
       "written_on": "2003-12-19T00:00:00Z"
     }
+  ],
+  "quizabuck": [
+    {
+      "defid": 4254628,
+      "definition": "a large [problem] or [confusing] [dilemna].",
+      "example": "We have a quizabuck on our [hands], we [ran out] of [zerox] paper.",
+      "written_on": "2009-09-23T00:00:00Z"
+    }
   ]
 }
