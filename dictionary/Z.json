@@ -125270,5 +125270,13 @@
       "example": "\"I [feel bad] for Pat, [it sucks] that he's being [whipped] around by a Ziegs!\"",
       "written_on": "2007-03-11T00:00:00Z"
     }
+  ],
+  "Zip-Gun Bomb": [
+    {
+      "defid": 7893139,
+      "definition": "Sometimes considered a type of booby-trap, a zip gun bomb is a type of [improvised explosive device], often a mail bomb, that fires bullet(s) instead of detonating [explosives] when the package is opened. Usually, the bullets or [shotgun shells] are wired into an electronic circuit, with hot wires set into their powder chambers, thus no firing pin is required to fire the bullets or shells. These devices could be a real problem for postal authorities as they could fall well under the 16oz. rule where a package has to be handed to a postal employee or it's returned. A zip gun bomb could easily be fitted into a dvd case or similar slim package.",
+      "example": "[Authorities] have told the news that [the bomb squad] was called to disarm a suspicious device after postal authorities x-rayed the package. Bullets, wired into an parallel [electrical] circuit, were affixed to a base set to be fired in 4 directions when the package was opened. The device was called a \"zip-gun bomb\".",
+      "written_on": "2014-09-06T00:00:00Z"
+    }
   ]
 }
