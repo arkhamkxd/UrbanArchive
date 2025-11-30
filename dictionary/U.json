@@ -7033,6 +7033,12 @@
       "definition": "[yo mama]",
       "example": "[yo mama] is [very ugly]",
       "written_on": "2020-12-22T10:20:18.29Z"
+    },
+    {
+      "defid": 14473590,
+      "definition": "[Javontai]",
+      "example": "[javontai] is a [really] [ugly kid]",
+      "written_on": "2019-11-24T00:00:00Z"
     }
   ],
   "UGR": [
@@ -154153,6 +154159,38 @@
       "definition": "[Looking] at someone and making fun of them or [just wondering] [what the hell] someone just said by saying \"Uhh, durka?\"",
       "example": "Devon: [Look at] yotii\n\n[Thomas]: Uhh, [durka]?",
       "written_on": "2009-05-02T00:00:00Z"
+    }
+  ],
+  "urbandictiventillating": [
+    {
+      "defid": 10039362,
+      "definition": "[venting] one's anger and malice in the form of [insults] on [urban dictionary].",
+      "example": "Tom: Why did this person write [something] so harsh as a [definition] for a name?\r\nJerry: Poor soul. They must be venting the only way they know how.\r\nTom: [What do you mean]?\r\nJerry: They're urbandictiventillating. Big time.",
+      "written_on": "2016-07-25T00:00:00Z"
+    }
+  ],
+  "Unboringatient": [
+    {
+      "defid": 5519825,
+      "definition": "A word describing a person [who does] all they can to avoid anything boring and is always [looking forward] to [doing something] exciting",
+      "example": "That unboringatient guy [skipped] out on his [family dinner] to go to [the mall] with his friend.",
+      "written_on": "2011-01-17T00:00:00Z"
+    }
+  ],
+  "USMCR": [
+    {
+      "defid": 1211738,
+      "definition": "[United States Marine Corps] [Reserve]",
+      "example": "[Active] duty [Marines] [think] low of those in the USMCR.",
+      "written_on": "2005-04-24T00:00:00Z"
+    }
+  ],
+  "userify": [
+    {
+      "defid": 13530656,
+      "definition": "(adj) To break [technical] jargon down to the end-users' level. (\"Is the black cable with the silver connector attached to the little round port on your laptop? Try going to the other laptop ... no, the one [that works], and try googlingpurple.com?\", versus \"have you verified power and network connectivity?\")\n\nCould also be applied to legal, medical, [financial] or any other industry-specific language likely to confuse a layperson.",
+      "example": "\"I do this for a living so [you don't] [have to] userify [wording] for me",
+      "written_on": "2019-01-16T00:00:00Z"
     }
   ]
 }
