@@ -202372,5 +202372,21 @@
       "example": "[Lets] play [Yes yes] yes [version] 3!",
       "written_on": "2003-03-19T00:00:00Z"
     }
+  ],
+  "Yeetarse": [
+    {
+      "defid": 13796604,
+      "definition": "In [Spanish]: ‘[to Yeet] oneself’\r\nConjugations:\r\nMe yeeto\r\nTe yeetas\r\nSe yeeta\r\nNos [yeetamos]\n\nSe yeetan",
+      "example": "“Yo, yeetarse [am I right]?”\r\n“What?”\r\n“To Yeet oneself?”\r\n“[Oh yeah], [definitely]”",
+      "written_on": "2019-04-11T00:00:00Z"
+    }
+  ],
+  "Yeetato": [
+    {
+      "defid": 13958206,
+      "definition": "[To yeet] [a potato]",
+      "example": "she [pulled] a yeetato",
+      "written_on": "2019-06-02T00:00:00Z"
+    }
   ]
 }
