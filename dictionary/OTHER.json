@@ -208242,5 +208242,21 @@
       "example": "[gay bitch]: Hey [guess what] I just baked a cookie all by myself!\r\narrogant slut: [Good for you] gay bitch -_____________________-",
       "written_on": "2011-07-16T00:00:00Z"
     }
+  ],
+  "'tude": [
+    {
+      "defid": 40939,
+      "definition": "Short for [attitude].  Also an addition to the end of certain adjectives to describe an [attitude] of the [adjective].  i.e. funkitude.",
+      "example": "",
+      "written_on": "2003-02-21T00:00:00Z"
+    }
+  ],
+  "/ic": [
+    {
+      "defid": 17674236,
+      "definition": "A tone [indicator] showing that you are in-character. The [opposite] tone [indicator] would be /ooc meaning out-of-character.",
+      "example": "I will [vanquish] all who [oppose] thee, fine [maiden]. /ic",
+      "written_on": "2023-02-16T21:05:27.052Z"
+    }
   ]
 }
