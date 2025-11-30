@@ -30,5 +30,13 @@
       "example": "\"Πήρα νέες αρβύλες για να υπηρετήσω στον Ε.Σ.\"\r\n\"I [bought] some new [combat boots] to serve in [the E].S.",
       "written_on": "2019-08-11T00:00:00Z"
     }
+  ],
+  "Ελιάς": [
+    {
+      "defid": 7372264,
+      "definition": "[Greek] for [Olive]",
+      "example": "\"Ελιάς means olive in Greek.\"\r\n\"Who even [speaks] greek [anymore] it's a dead [language]\"",
+      "written_on": "2013-12-01T00:00:00Z"
+    }
   ]
 }
