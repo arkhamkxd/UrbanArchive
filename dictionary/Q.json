@@ -10849,6 +10849,12 @@
       "definition": "qqqq",
       "example": "qqqq",
       "written_on": "2020-10-14T02:38:16.105Z"
+    },
+    {
+      "defid": 14620035,
+      "definition": "q",
+      "example": "q",
+      "written_on": "2020-01-12T05:20:38.759Z"
     }
   ],
   "qlapwksoejdirhfutgyzmxncbv": [
@@ -86161,6 +86167,14 @@
       "definition": "It's like a triangle, but with four sides.\n\n[Not to be confused with] a square, [rectangle], or [quadrilateral].",
       "example": "They were in a four-way [love] [trangle]. Like. A [love] quiangle.",
       "written_on": "2016-07-18T00:00:00Z"
+    }
+  ],
+  "Quizzacious": [
+    {
+      "defid": 8477729,
+      "definition": "In a [mocking] [manner]",
+      "example": "The [parodist] [rattled] off [QUIZZACIOUSLY]:\"Hey VSauce, Michael here!\".",
+      "written_on": "2015-09-17T00:00:00Z"
     }
   ]
 }

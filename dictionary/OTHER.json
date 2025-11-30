@@ -21129,6 +21129,12 @@
       "definition": "The [number] of [minutes] in a [year].",
       "example": "five [hundred] twenty [five thousand] six hundred minutes \r\nhow do you measure a year [in the life]?",
       "written_on": "2005-03-20T00:00:00Z"
+    },
+    {
+      "defid": 1777318,
+      "definition": "Number of minutes in a non-leap year. Made famous by [Jonathan Larson] in his Tony [Award winning] [musical], RENT.",
+      "example": "Those past 525,600 [minutes] [went] by [quickly].",
+      "written_on": "2006-06-10T00:00:00Z"
     }
   ],
   "2048": [
@@ -207801,6 +207807,14 @@
       "definition": "Petit Peut-être Potentiel Pour Proximité,\n\n[Durant] un [talking stage] incertain, la personne n’est pas [encore] un crush, mais un petit peut-être potentiel pour proximité. Se dit d’une personne ayant slider dans les DMs et pour laquelle nous démontrons une interêt.",
       "example": "L: Je [parle] à ce gars là depuis quelques semaines, mais c’est rien de sérieux. Je sais pas [comment] l’expliquer. C’est pas un [crush], mais…\n\nA: Oh! C’est ton 5P?\n\nL: Exactement!",
       "written_on": "2022-03-02T15:43:09.71Z"
+    }
+  ],
+  "4th gen gg leader": [
+    {
+      "defid": 17159611,
+      "definition": "A five member group named ITZY under jyp [entertainment] lead the [4th Gen] along side [straykids]",
+      "example": "Person 1: have [you heard] itzy got an [American] [record label] ?\n\nPerson 2: they rlly are the 4th Gen gg leaders.",
+      "written_on": "2022-04-17T09:16:30.429Z"
     }
   ]
 }
