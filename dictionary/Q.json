@@ -86184,5 +86184,29 @@
       "example": "1. Man, he got a 1 on his test, [what a] Quaz Muffin.\r\n2 [i just] ate a [blueberry] Quaz Muffin",
       "written_on": "2011-01-25T00:00:00Z"
     }
+  ],
+  "quasm": [
+    {
+      "defid": 13107983,
+      "definition": "A [salutation], [codeword] or [phrase] that is exclusively used by The Valleyfolk.",
+      "example": "[Rick]: [How was your day]?\r\nJim: [My day] was fine.\r\nRick: Quasm",
+      "written_on": "2018-08-01T00:00:00Z"
+    }
+  ],
+  "quarf an hour": [
+    {
+      "defid": 15912493,
+      "definition": "Some [nonsense] Ian [Dunt] [came up] with.",
+      "example": "All my life I [have been] saying the phrase 'quarf an hour' for quarter of an hour. [A few minutes] ago, I [found out] it does not exist.",
+      "written_on": "2021-04-15T05:11:23.125Z"
+    }
+  ],
+  "qwertyuiasdfghjzxcvbopklnm": [
+    {
+      "defid": 13574781,
+      "definition": "A suicidal level of boredom or you are just [trying to be cool] and find sketchy [definitions] to [random words] you've made up.",
+      "example": "hi [said] [steve]\r\n[hello] said qwertyuiasdfghjzxcvbopklnm",
+      "written_on": "2019-01-31T00:00:00Z"
+    }
   ]
 }
