@@ -35889,6 +35889,12 @@
       "definition": "APCO 10-code for \"I [understand] your [transmission]\"",
       "example": "[Fairfax] to car 459, we've got a [10-50] on 95 [south] of exit 150\r\n\r\n10-4",
       "written_on": "2004-05-24T00:00:00Z"
+    },
+    {
+      "defid": 14238367,
+      "definition": "An [affirmative] response used in emails by [douchebags] who always wanted to work in law enforcement but failed the [psychological] evaluation.",
+      "example": "[Employer] (email): The Monday [morning meeting] has been pushed from 8:30am to 9am. [Thank you].\r\nEmployee (email reply): 10-4",
+      "written_on": "2019-10-02T00:00:00Z"
     }
   ],
   "111 = Death on brawl theory": [
@@ -207779,6 +207785,22 @@
       "definition": "Righ so this meme [has been] out for like a week and [it's over] [used]",
       "example": "[2+2]=4-1 that's 3 [quick maths], [the ting goes] ssssssskkkkkkkrrrrrr",
       "written_on": "2017-09-20T00:00:00Z"
+    }
+  ],
+  "::drops pants::": [
+    {
+      "defid": 1956360,
+      "definition": "To virtually [drop trou] and moon an unsuspecting internet user; this action is used [universally] on the IGN message boards, and was [originated] by TheSackofJohnMadden",
+      "example": "Let me show you our [version] of [ring toss].\r\n\r\n::[drops] pants::",
+      "written_on": "2006-09-04T00:00:00Z"
+    }
+  ],
+  "5P": [
+    {
+      "defid": 17037199,
+      "definition": "Petit Peut-être Potentiel Pour Proximité,\n\n[Durant] un [talking stage] incertain, la personne n’est pas [encore] un crush, mais un petit peut-être potentiel pour proximité. Se dit d’une personne ayant slider dans les DMs et pour laquelle nous démontrons une interêt.",
+      "example": "L: Je [parle] à ce gars là depuis quelques semaines, mais c’est rien de sérieux. Je sais pas [comment] l’expliquer. C’est pas un [crush], mais…\n\nA: Oh! C’est ton 5P?\n\nL: Exactement!",
+      "written_on": "2022-03-02T15:43:09.71Z"
     }
   ]
 }
