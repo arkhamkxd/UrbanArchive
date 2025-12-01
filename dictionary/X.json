@@ -36164,5 +36164,21 @@
       "example": "wow [that dude] is [just] [like] xqow",
       "written_on": "2023-06-22T04:41:31.011Z"
     }
+  ],
+  "Xbox Player": [
+    {
+      "defid": 13335873,
+      "definition": "A [very gay] [man] or [women].",
+      "example": "[Non-gay] man:He's an Xbox Player, so you might like him.\r\n[Gay man]: alright [for sure] man.",
+      "written_on": "2018-11-07T00:00:00Z"
+    }
+  ],
+  "xstatic": [
+    {
+      "defid": 1744818,
+      "definition": "Tradename for [products] that [adhere] by electrostatic [force].",
+      "example": "Xstatic|[chart], Xstatic|[active], Xstatic|[meeting]",
+      "written_on": "2006-05-17T00:00:00Z"
+    }
   ]
 }
