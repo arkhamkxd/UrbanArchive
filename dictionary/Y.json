@@ -203018,5 +203018,29 @@
       "example": "hey bob [do the dishes], [laundry], mow the la-\n\nYOU AINT MY [BABY SITTER] BITCH!!!!",
       "written_on": "2011-07-28T00:00:00Z"
     }
+  ],
+  "ykhig": [
+    {
+      "defid": 8258327,
+      "definition": "[You know] how [it goes]",
+      "example": "Guy1: yeh I have [homework] [to do]\r\n[Guy2]: yeh same, ykhig",
+      "written_on": "2015-05-05T00:00:00Z"
+    }
+  ],
+  "youception": [
+    {
+      "defid": 7099439,
+      "definition": "a [youtube] [video] in a [youtube] video",
+      "example": "youception: a [youtube] [video] in a [youtube] video",
+      "written_on": "2013-07-12T00:00:00Z"
+    }
+  ],
+  "You Died": [
+    {
+      "defid": 13034373,
+      "definition": "The [two words] you'll see the most while playing any [Dark Souls] game. Will cause [frustration] and anger.",
+      "example": "[Game]: \"You Died\"\r\nYou, the [player], [angry]: \"Fuck!\"",
+      "written_on": "2018-06-29T00:00:00Z"
+    }
   ]
 }
