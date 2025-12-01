@@ -204080,5 +204080,21 @@
       "example": "\"Ew, [man] she is [yuck] [city]!\"",
       "written_on": "2005-07-18T00:00:00Z"
     }
+  ],
+  "Young Enterprise": [
+    {
+      "defid": 4782270,
+      "definition": "A young [business] [enterprise] for [British] school 6th-formers.",
+      "example": "Guy 1: What [are you] [selling] this for?\n\nGuy 2: It's for young [enterprise].",
+      "written_on": "2010-03-10T00:00:00Z"
+    }
+  ],
+  "yidne": [
+    {
+      "defid": 11104211,
+      "definition": "[Strong] and [fast]. [Living legend]",
+      "example": "[I love] Yidne",
+      "written_on": "2017-02-26T11:20:36.063Z"
+    }
   ]
 }
