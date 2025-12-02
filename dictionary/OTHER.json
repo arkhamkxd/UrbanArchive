@@ -137443,6 +137443,12 @@
       "definition": ":F's [undercover] spy [brother] that really dosn't exist.. or dose he..\r\nFwomp!' spy [brother] =F *click* *click* <-- the clicks are his spy cam.",
       "example": "<Nny>Hey!.\r\n<Bobbi>sup?\r\n<Nny>errr just about mow the lawn.\r\n<Nny>and you?.\r\n<Bobbi>Boy [Problems]!!\r\n<Nny>8-)\r\n<Bobbi>don't 8-) me!\r\n<Nny>Trade you. ;\r\n<Bobbi> =F *click* *click*\r\n<Nny> :O!\r\n<Bobbi> what?\r\n<Nny> Did you just [photograph] me in your [imagination]?.\r\n<Bobbi>what are you talking about?\r\n<Nny> :|. The =F *click* *click* thing?.\r\n<Bobbi>what are you talking about?.\r\n<Nny> -.- Nvm..",
       "written_on": "2006-05-23T00:00:00Z"
+    },
+    {
+      "defid": 2527571,
+      "definition": "It's a vampire. See it? It has fangs and eyes. This was accentally created a few months ago, when [the creator] was [listening] to Vampire Will Never Hurt You, a song by My [Chemical Romance]",
+      "example": "Me-ZOMG, A [VAMPIRE]\r\nYou- WHERE?\r\nMe- =F\r\nYou- *[died]*",
+      "written_on": "2007-08-03T00:00:00Z"
     }
   ],
   "/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\": [
@@ -212889,6 +212895,54 @@
       "definition": "The way programmers can annoy the hell out of [the people] who run their programs. It is an escape character that is known as the \"bell character\" that makes the internal speaker in your computer beep. '\\a' can be used in many [programming] [languages], including C, C++, and PASCAL. \r\n\r\nBelow is an example written in C that will make your computer beep forever (or at least until you close the program).",
       "example": "#[include] <[stdio].h>\r\nint main()\r\n{\r\nfor(int i=1;i>0;i++)\r\n[printf](\"\\a\");\r\n}",
       "written_on": "2005-01-10T00:00:00Z"
+    }
+  ],
+  "34,000 emails": [
+    {
+      "defid": 13947947,
+      "definition": "Number of [emails] [deleted] by a certain [someone]",
+      "example": "*Deletes 34,000 emails* [Hillary] [you got some] [explaining] to do.",
+      "written_on": "2019-05-30T00:00:00Z"
+    }
+  ],
+  "100000": [
+    {
+      "defid": 5895297,
+      "definition": "adj. A level of prestige,realness or [officialness] that people claim. Also used to rejoice in [celebration] of [something positive].",
+      "example": "I [keep it] 100000, you only [keep it 100].",
+      "written_on": "2011-06-18T00:00:00Z"
+    }
+  ],
+  "1u12": [
+    {
+      "defid": 3581782,
+      "definition": "The L337 (Elite) way of spelling [the word] \"Lulz,\" which is a [secondary] way of saying [the word]: LOL.",
+      "example": "\"0MG, 1'M S0 [L337], 1U12\"",
+      "written_on": "2008-12-29T00:00:00Z"
+    }
+  ],
+  "#blamestevebillings": [
+    {
+      "defid": 13687528,
+      "definition": "[The answer] to [every] claim perpetrated by an [internet troll].",
+      "example": "It's [raining] in [Biloxi] [Mississippi]... #BlameSteveBillings",
+      "written_on": "2019-03-06T00:00:00Z"
+    }
+  ],
+  "_nvmb_editz_": [
+    {
+      "defid": 15611680,
+      "definition": "an [instagram editor] :)",
+      "example": "wow have [you seen] _nvmb_editz_ [recent] [edit]?!",
+      "written_on": "2020-12-27T15:05:08.511Z"
+    }
+  ],
+  "(∪.∪ )...z Z": [
+    {
+      "defid": 15373218,
+      "definition": "[sleeping] [face]",
+      "example": "(∪.∪ )...z Z([sleeping])",
+      "written_on": "2020-10-08T22:03:44.885Z"
     }
   ]
 }
