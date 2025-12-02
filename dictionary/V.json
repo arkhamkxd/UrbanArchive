@@ -196844,5 +196844,13 @@
       "example": "Man [I wish] I could [beat] Vaegus on [seige]",
       "written_on": "2021-04-09T01:52:32.945Z"
     }
+  ],
+  "vbv": [
+    {
+      "defid": 18157224,
+      "definition": "[Verified] by [Visa].",
+      "example": "non-vbv [cards] don't require [3DS], vbv [cards] do.",
+      "written_on": "2024-03-08T11:38:08.712Z"
+    }
   ]
 }

@@ -157608,5 +157608,21 @@
       "example": "\"I was Ulified [when I] [saw that] [picture] \"",
       "written_on": "2018-12-22T00:00:00Z"
     }
+  ],
+  "Unsnow": [
+    {
+      "defid": 12746494,
+      "definition": "[The act] of removing snow [from a] pair of [glasses].",
+      "example": "Hey, you have [snow] on your [glasses]. Let me unsnow them [for you].",
+      "written_on": "2018-03-26T14:27:11.052Z"
+    }
+  ],
+  "urgentness": [
+    {
+      "defid": 12500341,
+      "definition": "[Verb]. [The act] of impatiently [waiting].",
+      "example": "[You’re] [deadline] and urgentness are both [too soon] for me I will need more time.",
+      "written_on": "2018-05-04T00:00:00Z"
+    }
   ]
 }
