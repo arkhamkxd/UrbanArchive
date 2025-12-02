@@ -196096,5 +196096,21 @@
       "example": "[That guy] Viiral is [overpowered] at [pvp]",
       "written_on": "2019-04-10T00:00:00Z"
     }
+  ],
+  "Victoria's Melody": [
+    {
+      "defid": 7754833,
+      "definition": "A special melody that's filled with [emotion] and meaning.\n\nTo play:\n\n[Acoustic guitar].\r\n[Standard] Tuning.\r\nCapo on 7th fret.\r\nAm, G, E, C\n\nRepeat until loved.",
+      "example": "\"Dude, Victoria's like [amazing]. I need a [melody] to play her.\"\n\n\"Play Victoria's [Melody] dude.\"",
+      "written_on": "2014-05-15T00:00:00Z"
+    }
+  ],
+  "Vadonkadonk": [
+    {
+      "defid": 5678767,
+      "definition": "[The term] used when a chic has a [massive] [camel toe].",
+      "example": "Dude [did you] see that chics vadonkadonk ? It was so huge it was like she was [trying to] hide a peach [in her] pants",
+      "written_on": "2011-04-04T00:00:00Z"
+    }
   ]
 }
