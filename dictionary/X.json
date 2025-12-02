@@ -36640,5 +36640,21 @@
       "example": "\"[hey] xianni can [you get me] a [bottle of water]?\"",
       "written_on": "2018-05-30T00:00:00Z"
     }
+  ],
+  "xiangtao": [
+    {
+      "defid": 16232919,
+      "definition": "[cutest person in the world], [you say] his name [when you] want to date him",
+      "example": "“XIANGTAO”",
+      "written_on": "2021-08-06T23:11:04.363Z"
+    }
+  ],
+  "xferred": [
+    {
+      "defid": 4824080,
+      "definition": "[Abbreviation] of transferred.",
+      "example": "That [car] was xferred to [New York].",
+      "written_on": "2010-03-23T00:00:00Z"
+    }
   ]
 }
