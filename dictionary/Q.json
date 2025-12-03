@@ -88126,5 +88126,21 @@
       "example": "[Jessica’s] quoody is [low key] [hott]",
       "written_on": "2021-06-14T17:29:30.495Z"
     }
+  ],
+  "Quibito": [
+    {
+      "defid": 8404017,
+      "definition": "the [libido] of a [quesadilla]",
+      "example": "My [Quesadilla] [so good] its quibito is [sexy af].",
+      "written_on": "2015-09-27T00:00:00Z"
+    }
+  ],
+  "Quarameters": [
+    {
+      "defid": 13668230,
+      "definition": "A short form of the [two words] \"Query Parameters\", used in [information technology]. defining a [particular] part of a web url.",
+      "example": "This [url] contains [too many] quarameters.\r\nShould we add a new quarameter to this [url]?",
+      "written_on": "2019-03-01T00:00:00Z"
+    }
   ]
 }
