@@ -205592,5 +205592,21 @@
       "example": "só ti ya [wer]é\r\nno, [I'm not] [crazy]",
       "written_on": "2021-11-10T11:04:01.902Z"
     }
+  ],
+  "Yes Thir!": [
+    {
+      "defid": 18546142,
+      "definition": "[A lisp] way of [saying] [yes sir].",
+      "example": "Do you got the [corporal]? [The Commander] said.\n\nThir, yes thir! The [soldier] said.",
+      "written_on": "2025-09-17T08:21:24.486Z"
+    }
+  ],
+  "y'all two going": [
+    {
+      "defid": 7932994,
+      "definition": "Asked in a casual manner, usually by strangers or friends. Means \"Are you two [hooking up]/[boyfriend and girlfriend]/dating?\" Usually used by [those who] reside in the Bahamian islands.",
+      "example": "*Random Girl sees a [boy and girl] [walking] [hand in hand]*\r\nRandom Girl: Y'all two going?\r\nBoy and girl: Yes, why?",
+      "written_on": "2014-10-19T00:00:00Z"
+    }
   ]
 }
