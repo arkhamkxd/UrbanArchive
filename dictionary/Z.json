@@ -128258,5 +128258,29 @@
       "example": "NYC zorons just elected a communist to be [the Mayor] of [one of the most] [important] cities in the country.",
       "written_on": "2025-11-07T06:42:20.154Z"
     }
+  ],
+  "Zy'Darius": [
+    {
+      "defid": 18000396,
+      "definition": "Zy'Darius's are [normally] very cool and chill people to be around but get energetic around people they are [comfortable] with they [normally] like to be left alone tho",
+      "example": "Zy'Darius is a very [cool person]",
+      "written_on": "2023-11-20T15:53:38.952Z"
+    }
+  ],
+  "zstandard": [
+    {
+      "defid": 18274196,
+      "definition": "Zstandard (zstd) is a high-performance [compression] algorithm [developed] by Facebook. It's known for being both fast and achieving good [compression] ratios, making it a popular choice for various applications like data archiving, web content delivery, and embedded systems.",
+      "example": "\"I needed to compress a large dataset for storage, and zstandard did the trick without sacrificing too much speed.\"\r\n\"The new update to the archiving software uses zstandard [compression], which should [significantly] reduce file sizes.\"\r\n\"I'm [developing] a program for a low-powered device, and zstandard seems like a good option for compressing data efficiently.\"",
+      "written_on": "2024-07-19T12:03:47.657Z"
+    }
+  ],
+  "ziplicker": [
+    {
+      "defid": 2563765,
+      "definition": "[Alternative] word for spaz, spakka, retard, [spastic]. e.t.c\r\n(licks zip/[zipper])",
+      "example": "\"[You are]  such a ziplicker [sometimes].\"\r\n\r\n\"Ergh he acted [like such] a ziplicker.\"",
+      "written_on": "2007-08-28T00:00:00Z"
+    }
   ]
 }
