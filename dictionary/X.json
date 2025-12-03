@@ -36758,5 +36758,21 @@
       "example": "me: hi\r\n[friend]: who’s ur [exo] [bias]\r\nme: xiudaddy",
       "written_on": "2018-06-14T00:00:00Z"
     }
+  ],
+  "Xan Kriegor": [
+    {
+      "defid": 360302,
+      "definition": "Head of Liandri Mining [Corporation], current [champion] in [Unreal Tournament]",
+      "example": "Xan runs Liandri [Mining] [Corporation].\r\nXan is a bot.\r\nXan [wears] battlesuit.",
+      "written_on": "2003-11-20T00:00:00Z"
+    }
+  ],
+  "Xinyao": [
+    {
+      "defid": 7327819,
+      "definition": "Xinyao is a [very funny] [weird person] that likes to game all day. She isn't the type of person who studies a lot, but she still gets [good grades]. Xinyao doesn't wear glasses, but is a total NERD!!",
+      "example": "\"Hey Xinyao, [can you] [help me] pass this level in [Modern Warfare]?\" -Friend",
+      "written_on": "2013-11-16T00:00:00Z"
+    }
   ]
 }
