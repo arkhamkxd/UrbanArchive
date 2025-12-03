@@ -88142,5 +88142,29 @@
       "example": "This [url] contains [too many] quarameters.\r\nShould we add a new quarameter to this [url]?",
       "written_on": "2019-03-01T00:00:00Z"
     }
+  ],
+  "qeird": [
+    {
+      "defid": 11349588,
+      "definition": "[A person] that is weird and very [queer] at [the same] time .",
+      "example": "[DoomMarine] is a very qeird [person] and can't [spell]",
+      "written_on": "2017-03-28T00:00:00Z"
+    }
+  ],
+  "quantum reality": [
+    {
+      "defid": 3668142,
+      "definition": "The principal features of [quantum theory] contradict \"cause and effect\" [relationships] (relativity) by assuming that random, spontaneous events can and do occur within a quantified limit (specified by the Heisenberg Uncertainty Principle). Therefore, a future event (or non-event) has both a multiple probability (statistical) and a quantum probability of 50/50 that is not [predictable]. \r\n\r\nAs the observer is outside the event horizon, there exists two realities; that is , a state of existing (or being) and that of not existing.\r\n\r\nJust as it may be that one dies, one does not \"[know]\" when one dies; the quantum state would be both dead and alive while the relative state would be dead or alive.\r\n\r\nAn again, reality is based on the perceptive analysis of the observer; at any given time the observer is outside the event horizon and is in the present or the past.\r\n\r\nHowever, there is an relativistic assumption that there exists a continuum for all sets, but this cannot be made from a quantum state.",
+      "example": "[Quantum] reality transmutates the [objective] into the [subjective], and the phyical into the metaphysical.",
+      "written_on": "2009-01-30T00:00:00Z"
+    }
+  ],
+  "Queer bitch": [
+    {
+      "defid": 3532289,
+      "definition": "a [homosexual] man who is very catty and very bitchy. It's almost as if he has too much [estrogen] and has more tantrums than a [three year old].",
+      "example": "[That man] is such a queer bitch. He yelled at the [barista] because his skinny latte had [too much] foam.",
+      "written_on": "2008-12-09T00:00:00Z"
+    }
   ]
 }
