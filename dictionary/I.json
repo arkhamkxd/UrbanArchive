@@ -323622,5 +323622,29 @@
       "example": "Dave's cars are far from collectors' [pieces] or even rough-around-the-edges daily [drivers]. Dave's more of an 'inflated and plated' [kind of] car owner.",
       "written_on": "2020-08-11T00:00:00Z"
     }
+  ],
+  "interstate": [
+    {
+      "defid": 15975330,
+      "definition": "a [public] [playground] for [vehicles]",
+      "example": "[Person A]:[Wanna go] do 100 [on the interstate]?\r\nPerson B:Sure\r\n*gets on interstate*\r\nPerson A: we're going 100 wha- My breaks aren't working\n\n*dies*",
+      "written_on": "2021-05-07T20:21:44.327Z"
+    }
+  ],
+  "ikemem": [
+    {
+      "defid": 8370907,
+      "definition": "[A common] term used [in Japan] to refer to [metrosexuals].",
+      "example": "\"Why does [nearly] every male [anime character] look like an [androgynous] ikemem?",
+      "written_on": "2015-08-19T00:00:00Z"
+    }
+  ],
+  "Ies serpis": [
+    {
+      "defid": 16188395,
+      "definition": "Ies serpis is [the worst] place in [the world], some people get [traumatized] after going this place. The hell in comparison to the ies serpis is a paradise",
+      "example": "I [went] to ies serpis and now [i need] a [therapist]",
+      "written_on": "2021-07-17T11:32:20.475Z"
+    }
   ]
 }
