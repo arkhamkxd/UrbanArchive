@@ -36994,5 +36994,13 @@
       "example": "Xenia [Mariel] [usually] used for Names, most of latin [Americans]",
       "written_on": "2019-10-28T05:03:31.144Z"
     }
+  ],
+  "x86": [
+    {
+      "defid": 1633937,
+      "definition": "A fucked up instruction set [architecture], or ISA, based on the Intel 8086 microprocessor. Really confusing to program with in Assembler. Supports 8, 16, 32 and now 64-bit [instructions] and data. x86 is classified as \"CISC\" or \"Complex Instruction Set Computer\". \r\n\r\nThe two largest x86 chip producers are Intel and [Advanced Micro Devices] (AMD).",
+      "example": "Jimmy: x86 is [awesome].\r\nLarry: You've clearly never done any assembly [programming] on one, have you?\r\nJimmy: ... Uh, no?\r\nLarry: [Thats what I thought]... n00b.",
+      "written_on": "2006-04-09T00:00:00Z"
+    }
   ]
 }
