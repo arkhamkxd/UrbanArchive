@@ -159156,5 +159156,21 @@
       "example": "[Hey dude] urugly!",
       "written_on": "2015-11-21T00:00:00Z"
     }
+  ],
+  "unlv": [
+    {
+      "defid": 1915063,
+      "definition": "[University of Nevada] [Las Vegas]",
+      "example": "[I'm a] [freshman] at UNLV",
+      "written_on": "2008-09-11T00:00:00Z"
+    }
+  ],
+  "USH": [
+    {
+      "defid": 15962991,
+      "definition": "It is a way of responding to things that you find [interesting], it can have a sexual or a comic [background] depending on the [context].",
+      "example": "-hey baby, I have a [free house].\r\n-ush!\n\n[hey Bro] that movie just came out!\n\n-ush, we book the [tickets] now!",
+      "written_on": "2021-05-03T12:30:26.809Z"
+    }
   ]
 }
