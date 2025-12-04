@@ -10751,6 +10751,12 @@
       "definition": "Y:you\r\nO:[obviously]\r\nL:[love]\r\nO:[Oreos]",
       "example": "YOLO",
       "written_on": "2013-01-24T00:00:00Z"
+    },
+    {
+      "defid": 7647318,
+      "definition": "an [informal] greeting that effectively [combines] \"Yo\" and \"Hello\" into one simple phrase. Totally (and proudly) unaffiliated with YOLO (i.e. [You Only Live Once]).",
+      "example": "[Davis]: Hey, [whats up] Reed?\r\nReed: Yolo, [not much]",
+      "written_on": "2014-04-24T00:00:00Z"
     }
   ],
   "ysen": [
@@ -14865,6 +14871,12 @@
       "definition": "A word used facetiously when [something] bad happens. Utilized with a [negative] [connotation].",
       "example": "[When I] received a 13 on my [history] test, I [screamed] YES!!!",
       "written_on": "2009-02-21T00:00:00Z"
+    },
+    {
+      "defid": 9829042,
+      "definition": "No [just no].",
+      "example": "\"Yes.\"\n\n\"No [not all] all.\"",
+      "written_on": "2016-06-04T00:00:00Z"
     }
   ],
   "yapping": [
@@ -63003,6 +63015,12 @@
       "definition": "[Druck]’s [character] [YARA]’s ears - years",
       "example": "“[I love her] years they’re [so cute]”\r\n“DKSHSK”",
       "written_on": "2021-01-07T02:27:42.379Z"
+    },
+    {
+      "defid": 1582554,
+      "definition": "1. [Multiple] numbers of years.\r\n\r\n2. To talk about year in [the past], and say that was years ago.\r\n\r\n3. [The word] year pruralized",
+      "example": "[Man] how the years [pass] by.",
+      "written_on": "2006-01-09T00:00:00Z"
     }
   ],
   "ykk": [
@@ -208499,6 +208517,22 @@
       "definition": "Yeomanry is a designation used by a number of units and sub-units in the [British Army] Reserve which are descended from [volunteer] cavalry regiments that now serve in a variety of [different] roles. An 1804 review of yeomanry troops in Hyde Park, London.",
       "example": "[Look at] all the Yeomanry with there rifles and muskets.\n\n[Oh yeah] I hate [the British].",
       "written_on": "2025-02-20T15:51:29.102Z"
+    }
+  ],
+  "yappanese": [
+    {
+      "defid": 18046844,
+      "definition": "[the language] of [someone] who is [yapping] a lot",
+      "example": "[Fun] [Donnie] is [fluent] in yappanese",
+      "written_on": "2023-12-13T08:32:53.548Z"
+    }
+  ],
+  "You Starting": [
+    {
+      "defid": 1530653,
+      "definition": "[Something] a chav says before [engaging] in a battle with a [fellow] human.",
+      "example": "Oi! You [starting]? [Come on then], lets [have it]!",
+      "written_on": "2005-11-28T00:00:00Z"
     }
   ]
 }
