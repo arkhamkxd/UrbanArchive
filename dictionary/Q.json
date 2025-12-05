@@ -89500,5 +89500,13 @@
       "example": "That quimga [stole] [my car]! [Kill] him!",
       "written_on": "2004-07-13T00:00:00Z"
     }
+  ],
+  "quarantine cat": [
+    {
+      "defid": 15267156,
+      "definition": "[cats] that were [adopted] during [quarantine]",
+      "example": "[Everyone] is getting [quarantine] cats while stuck at home. Some worry what will happen to these cats after [quarantine].",
+      "written_on": "2020-08-24T00:00:00Z"
+    }
   ]
 }
