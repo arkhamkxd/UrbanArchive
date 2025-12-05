@@ -201160,5 +201160,21 @@
       "example": "She had the [nastiest] votiznaz",
       "written_on": "2010-07-07T00:00:00Z"
     }
+  ],
+  "Vaccinized": [
+    {
+      "defid": 15861392,
+      "definition": "[When you] [get] a [vaccine] you become vaccinized",
+      "example": "Bike told Nick that he tested [positive] for [Covid-19]. Nick told Bike that he’s vaccinized, so he’s not [worried].",
+      "written_on": "2021-03-26T16:54:24.235Z"
+    }
+  ],
+  "Venerus": [
+    {
+      "defid": 824511,
+      "definition": "VENERUS is a four piece band from Drugby. Formed in early 2004.. \r\n\r\nIt consists of \r\nScott [Worthington], Singer/2nd Guitar, \r\nEllis Sargunar, Guitarist/Backup Singer, \r\nGlen Woodbridge, Bassist/ Backup Singer \r\nColin Wilkinson, Drummer/Asshole. \r\n\r\nEveryone writes songs. So do we. The music we play is a range from rock, to punk, to [anything else] that we like. Main [influences] are Nirvana, Muse, Vex Red, My Vitriol and AFI, but god knows what we sound like",
+      "example": "Hey, [you heard] teh new song by Venerus? Yeah, it [fuckin] [rocks] dude!!! LMAO",
+      "written_on": "2004-09-12T00:00:00Z"
+    }
   ]
 }
