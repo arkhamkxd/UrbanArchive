@@ -217334,5 +217334,21 @@
       "example": "",
       "written_on": "2003-08-12T00:00:00Z"
     }
+  ],
+  "$?": [
+    {
+      "defid": 7817655,
+      "definition": "[Shorthand] [text] for \"[How much] does it cost?\"",
+      "example": "Joe: Hey, you [wanna] buy my [old TV]?\n\nSteve: $?\n\nJoe: $200\n\nSteve: I'll [think about it]",
+      "written_on": "2014-07-02T00:00:00Z"
+    }
+  ],
+  ".sooyaaa.1": [
+    {
+      "defid": 15616535,
+      "definition": "She [make] [the best] edits..[love] her",
+      "example": ".sooyaaa.1",
+      "written_on": "2020-12-29T13:09:55.28Z"
+    }
   ]
 }
