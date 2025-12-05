@@ -89398,5 +89398,29 @@
       "example": "I AM [QUIRKY], I AM [THE ULTIMATE] QUIRKLORD. [LOOK AT ME] I AM QUIRKY",
       "written_on": "2020-02-21T00:00:00Z"
     }
+  ],
+  "QQMF": [
+    {
+      "defid": 17751135,
+      "definition": "[quack quack], [my friends]!",
+      "example": "qqmf! qqmf! qqmf! 1…2…3…[Ducks]!",
+      "written_on": "2023-04-13T19:04:13.846Z"
+    }
+  ],
+  "QUAY": [
+    {
+      "defid": 11905862,
+      "definition": "°A girl\n\n°goofy\r\n°love food\r\n°love [singing]\n\n°hate [smiling]\n\n°hurt [inside]",
+      "example": "The name Quay is for [girls] and boys or [nicknames] or [a normal] name",
+      "written_on": "2017-08-26T00:00:00Z"
+    }
+  ],
+  "Quarantine-clean": [
+    {
+      "defid": 14882780,
+      "definition": "[The truth about] how messy you’ll [actually] let your home get before you clean it, knowing no one can come over because you’re all [quarantined].\n\nWhen this is all over, I’ll clean my house for good. Until then, it’ll stay quarantine-clean. If it’s clean enough for me, it’s clean enough.",
+      "example": "[I know] there’s no one comin to visit cause of [covid-19]; so I keep [my house] quarantine-clean.",
+      "written_on": "2020-04-12T00:00:00Z"
+    }
   ]
 }
