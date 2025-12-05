@@ -208866,5 +208866,21 @@
       "example": "[Use]: That [dinner] was yummilation!",
       "written_on": "2009-04-17T00:00:00Z"
     }
+  ],
+  "Yo crunch": [
+    {
+      "defid": 1021771,
+      "definition": "Derived from a [yogurt] brand,\r\n\r\nused in [the same] sense as yo homie\r\na [salutation].",
+      "example": "Man [number one]: Yo crunch! [What's crackin'] yo?\r\nman [number two]: why are you talking like that?\r\nman number one: I'm sorry.",
+      "written_on": "2005-01-25T00:00:00Z"
+    }
+  ],
+  "ylanyi": [
+    {
+      "defid": 16593848,
+      "definition": "[Wife] [material] with a ring on her [finger]",
+      "example": "She is so ylanyi, [I am] [gonna] [marry] her.",
+      "written_on": "2021-11-22T19:45:50.254Z"
+    }
   ]
 }
