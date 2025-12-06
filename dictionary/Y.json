@@ -211488,5 +211488,21 @@
       "example": "[Oh my God] [that guy] has Yankerism",
       "written_on": "2008-01-21T00:00:00Z"
     }
+  ],
+  "ying-yam": [
+    {
+      "defid": 1080285,
+      "definition": "the beleife that every [sweet potato] [must be] balnced by a [bitter] one",
+      "example": "[I am] a [firm] beleiver in ying-yam",
+      "written_on": "2005-02-23T00:00:00Z"
+    }
+  ],
+  "Yesterday Eve": [
+    {
+      "defid": 13906512,
+      "definition": "[The day] before [yesterday].",
+      "example": "[What did you do] [Yesterday] [eve].",
+      "written_on": "2019-05-16T00:00:00Z"
+    }
   ]
 }
