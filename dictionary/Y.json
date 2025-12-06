@@ -211812,5 +211812,21 @@
       "example": "[Hello my name is] Yevgetty [I am] [Russian man]",
       "written_on": "2020-10-16T13:46:54.36Z"
     }
+  ],
+  "your sister": [
+    {
+      "defid": 1155219,
+      "definition": "another name for a person who you \"realy like\" and [want to] tell joke about [without] her [knowing]...",
+      "example": "look [how much] your [sister] is [eating]...",
+      "written_on": "2005-03-31T00:00:00Z"
+    }
+  ],
+  "YMMVAPD": [
+    {
+      "defid": 3617410,
+      "definition": "(Also YMMV, APD) Your mileage may vary, and [probably] does. A form of ymmv emphasizing an expected [difference] of [opinion].",
+      "example": "[They say] that April is the cruelest month, but I think it's [actually] [February]. YMMVAPD.",
+      "written_on": "2009-01-12T00:00:00Z"
+    }
   ]
 }
