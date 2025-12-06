@@ -180209,6 +180209,12 @@
       "definition": "[Prescribed] [vitamins].",
       "example": "My [doctor] [prescribed] me [vitamin] w",
       "written_on": "2017-08-26T00:00:00Z"
+    },
+    {
+      "defid": 4312497,
+      "definition": "[Whiskey] in it's [vitamin] form. A sly way to pass of booze as \"[medicine].\"",
+      "example": "1. Man I sure [feel like shit] today.\r\n2. [Drink this], it's got [Vitamin] W in it.",
+      "written_on": "2009-10-21T00:00:00Z"
     }
   ],
   "Vincent Valentine": [
@@ -203281,6 +203287,22 @@
       "definition": "An old, [out of touch] [white guy] who tries to act cool and young by using hip references from [rap song] or tv shows.",
       "example": "[Jay] [Mariotti] is [such a] Vanillapuss.",
       "written_on": "2009-11-18T00:00:00Z"
+    }
+  ],
+  "vermon": [
+    {
+      "defid": 1150862,
+      "definition": "A non-friend that is a minister who never makes time for his friends.  Vermons are also known for making 12:30am phone calls after having SEVERAL Jack & Coke's and smoking his [favorite] cigars.  Also known for planning [PATHETIC] [April Fools] jokes with a slanny.",
+      "example": "The [Reverend] [Jeremy] is a [big ole] Vermon.",
+      "written_on": "2005-03-29T00:00:00Z"
+    }
+  ],
+  "valar": [
+    {
+      "defid": 2254981,
+      "definition": "Creatures created by J.R.R. Tolkien in his [masterpiece], the silmarillion.  They were Created by Eru to be the gaurdians of his creation to watch over all the lesser beings.  Kind of like [the angels] of [Middle Earth].",
+      "example": "The valar praised [Eru] in his [overwhelming] [power].",
+      "written_on": "2008-12-09T00:00:00Z"
     }
   ]
 }
