@@ -15847,6 +15847,12 @@
       "definition": "[not cool], [failing] to [look] cool",
       "example": "[girls] having [big] mobiles is so uncool",
       "written_on": "2010-11-18T00:00:00Z"
+    },
+    {
+      "defid": 16041816,
+      "definition": "A condemnation of [a dick move] or other mild to moderate [atrocity]. Used as an [adjective].",
+      "example": "\"[Yoooo]! [Taking a dump] [in the Den]? Uncool!\"",
+      "written_on": "2021-05-29T05:20:33.438Z"
     }
   ],
   "Ush": [
@@ -161917,6 +161923,22 @@
       "definition": "[Super] [Pretty Girl]",
       "example": "Wow, [you should] date her shes a [urethane] [girl]!",
       "written_on": "2023-11-03T16:14:17.591Z"
+    }
+  ],
+  "unfluent": [
+    {
+      "defid": 5103888,
+      "definition": "Not well-versed. Not [knowing]. [Ignoring].",
+      "example": "A: \"Can you [believe it]? Sandra does not know [what is] RAM.\"\r\nB: \"[Who cares]? She is a techno-speak unfluent.\"",
+      "written_on": "2010-07-18T00:00:00Z"
+    }
+  ],
+  "Urban Oblivion": [
+    {
+      "defid": 12498940,
+      "definition": "The state of complete unawareness and/or [ignorance] one has when creating a word on [Urban Dictionary] that is either based on a friend, an [inside joke], or both, when it is strictly stated in the 'new word' tab that such words will be rejected (even though they probably won't be, which makes them all the more undesirable)",
+      "example": "Does anyone else notice how the vote tab is almost completely filled with urban [oblivion]? Who are the [fucktards] making these awful [fucking] words?",
+      "written_on": "2018-01-30T00:00:00Z"
     }
   ]
 }
