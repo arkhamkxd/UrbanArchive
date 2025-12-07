@@ -37814,5 +37814,13 @@
       "example": "When a [college student] would wish to post his/her origional work to share with other [students], he/she [would go] to xevient in order to do so.",
       "written_on": "2008-06-28T00:00:00Z"
     }
+  ],
+  "XChaCha20Poly1305": [
+    {
+      "defid": 16909118,
+      "definition": "A [superior] stream [encryption] cipher that is faster and a lot easier to implement than AES-GCM. It also has a lot less attack surface than AES-GCM due to less [potential] side channel attacks.",
+      "example": "[Person 1]: We should [encrypt] this traffic with AES-GCM.\r\n[Person 2]: FUCK AES, let's encrypt it with XChaCha20Poly1305.",
+      "written_on": "2022-01-13T18:29:17.741Z"
+    }
   ]
 }
