@@ -91168,5 +91168,13 @@
       "example": "Hey Paddy [McGuinness], yer mate is [quite] [a ride]!",
       "written_on": "2008-11-02T00:00:00Z"
     }
+  ],
+  "qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty": [
+    {
+      "defid": 15688820,
+      "definition": "[Go home], (insert [your name here]). You’re drunk. You just typed [QWERTY] 15 times.",
+      "example": "[I just] typed qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty on [google]. Am I [drunk]?",
+      "written_on": "2021-01-25T11:09:33.564Z"
+    }
   ]
 }
