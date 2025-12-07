@@ -37798,5 +37798,21 @@
       "example": "I [went] [to the] [restaurant] you told me about x<D",
       "written_on": "2012-03-06T00:00:00Z"
     }
+  ],
+  "XLR": [
+    {
+      "defid": 15951064,
+      "definition": "[EXcrete] [Lonely] [Romance]\n\nLabel Own by LZYXLR",
+      "example": "[EXcrete] [Lonely] [Romance] OR XLR Is label",
+      "written_on": "2021-04-29T08:11:02.045Z"
+    }
+  ],
+  "xevient": [
+    {
+      "defid": 3185517,
+      "definition": "A tool used to upload and share files using [the internet].  This tool is popular among college [students], designed by two college students out of [Southern California].",
+      "example": "When a [college student] would wish to post his/her origional work to share with other [students], he/she [would go] to xevient in order to do so.",
+      "written_on": "2008-06-28T00:00:00Z"
+    }
   ]
 }
