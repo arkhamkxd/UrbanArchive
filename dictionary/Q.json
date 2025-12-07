@@ -91482,5 +91482,21 @@
       "example": "\"[Hey Dude] I thought you had to make a [doo-doo] before we leave.\" I [already did]; I'm a quick-dump artist.",
       "written_on": "2014-04-21T00:00:00Z"
     }
+  ],
+  "Quarantennial": [
+    {
+      "defid": 14817933,
+      "definition": "Person born circa nine months [after the] beginning of [the Coronavirus] [Pandemic] of 2020 and on.",
+      "example": "[Quarantennials] are the [Baby Boomers] of [the 21st century].",
+      "written_on": "2020-03-21T00:00:00Z"
+    }
+  ],
+  "Quotate": [
+    {
+      "defid": 4875652,
+      "definition": "To vocally [quote] a term [using] an [inflection] in your voice.",
+      "example": "Dude: You ever quotate anything?\r\nChick: [Of course], that's when you tell someone you're quoting [something] by [changing] your voice, right?\r\nDude: Yes!",
+      "written_on": "2010-04-10T00:00:00Z"
+    }
   ]
 }
