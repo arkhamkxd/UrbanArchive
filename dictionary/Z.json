@@ -132126,5 +132126,21 @@
       "example": "Zac [Axolotl] is [gaming]\n\n[Carlos]",
       "written_on": "2021-11-25T12:28:05.286Z"
     }
+  ],
+  "zenofuge": [
+    {
+      "defid": 4989492,
+      "definition": "The [new guy]",
+      "example": "[Look] it's the [FNG] \"zenofuge\"",
+      "written_on": "2010-05-25T00:00:00Z"
+    }
+  ],
+  "zamorak": [
+    {
+      "defid": 1845480,
+      "definition": "The god of [destruction] in [the world] of [Runescape] (MMORPG).",
+      "example": "[The three] gods of [RuneScape]: [Saradomin], ZAMORAK, and Guthix.",
+      "written_on": "2006-07-05T00:00:00Z"
+    }
   ]
 }
