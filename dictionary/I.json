@@ -333400,5 +333400,13 @@
       "example": "[You is] well [up for it], intcha?\r\nYou're all [alright], intcha?\r\nIntcha hearing this?",
       "written_on": "2009-03-31T00:00:00Z"
     }
+  ],
+  "isg": [
+    {
+      "defid": 17505097,
+      "definition": "[either] [nevermind] or [yes]",
+      "example": "[do you] still [want to]?\r\nnah isg\r\n[wanna go] get food?\r\nbet isg",
+      "written_on": "2022-10-19T23:35:57.224Z"
+    }
   ]
 }
