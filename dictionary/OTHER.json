@@ -11803,6 +11803,12 @@
       "definition": "[Nice]",
       "example": "[Person 1]: 69\r\n[Person 2]: [Nice]",
       "written_on": "2019-03-30T00:00:00Z"
+    },
+    {
+      "defid": 11521989,
+      "definition": "the [number] between 68 and 70",
+      "example": "60+9 is 69",
+      "written_on": "2017-05-04T13:36:25.46Z"
     }
   ],
   "420 blaze it": [
@@ -221973,6 +221979,22 @@
       "definition": "Some [gay ass nigga]",
       "example": "🔥[Skelebro]🔥 [Gay ass nigga] thats into [girls] with dicks",
       "written_on": "2020-05-16T00:00:00Z"
+    }
+  ],
+  "<.7.9.7.6.>YzYxY<.7.9.7.6.>": [
+    {
+      "defid": 18518258,
+      "definition": "<.[7.9].[7.6].>YzYxY<.[7.9].7.6.>",
+      "example": "<.[7.9].[7.6].>YzYxY<.[7.9].7.6.>",
+      "written_on": "2025-07-17T20:21:42.466Z"
+    }
+  ],
+  "<LeeK>": [
+    {
+      "defid": 2369526,
+      "definition": "LeeK is a [combination] of Geek and Leet, [invented] by 4 friends.\r\nThe text must be shown as the tag <LeeK>, or as a [gesture].",
+      "example": "<[LeeK]>\r\n[geeks] are [leet]",
+      "written_on": "2007-04-24T00:00:00Z"
     }
   ]
 }
