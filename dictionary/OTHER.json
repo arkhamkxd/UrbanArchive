@@ -221168,5 +221168,21 @@
       "example": "Bob: [I want to kill myself]\r\n[Billy]: •-• [doot]",
       "written_on": "2019-01-23T00:00:00Z"
     }
+  ],
+  "*Sarcastrics*": [
+    {
+      "defid": 5302070,
+      "definition": "Used [before and after] a word or phrase while texting to let others know your being *[sarcastic]* to avoid a [misunderstanding].",
+      "example": "Oh your [going to jail]? that sucks *remember to ask about conjugal visits*\n\nMe - Sarah gave me a recipe to try!\r\nYou - did you tell her [you don't know] how to read one of those?\n\n(That sounds like your [being a dick], and I might get angry with you)\n\nMe - Sarah gave me a recipe to try!\r\nYou - *Did you tell her you dont know how to read one of those?*\n\n(Now I know your just being a smart ass, and I will laugh haha.)\r\n*Sarcastrics*",
+      "written_on": "2010-10-23T00:00:00Z"
+    }
+  ],
+  "69421": [
+    {
+      "defid": 17426704,
+      "definition": "[Not Nice]",
+      "example": "\"69421\"\r\n\"[Not nice]\"",
+      "written_on": "2022-08-26T08:39:08.8Z"
+    }
   ]
 }
