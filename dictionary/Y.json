@@ -213994,5 +213994,37 @@
       "example": "Yanqin is a [mastermind]",
       "written_on": "2022-07-09T14:45:39.604Z"
     }
+  ],
+  "Yard Haunt": [
+    {
+      "defid": 5254529,
+      "definition": "An simple or [elaborate] display in ones front yard, usually on [Halloween]. Most involve zombies coming out of [the ground] (groundbreakers), some sort of witch and jack o lanterns. Some choose to use store bought props or make their own.",
+      "example": "1\"The old guy [down the street] set up a big yard haunt\"\r\n2\"Really? The [weird one] with the crazy voice?\"\r\n1\"Yeah, theres some pretty intense zombies [down there]\"",
+      "written_on": "2010-10-03T00:00:00Z"
+    }
+  ],
+  "yes or no?": [
+    {
+      "defid": 4997277,
+      "definition": "a question asked when an [individual] is confused about what [the stand] is on a [particular] situation.",
+      "example": "[person 1]: so are you two dating or not? yes or no?\r\n[person 2]: [I'm not sure]... im a little hurt and confused",
+      "written_on": "2010-05-28T00:00:00Z"
+    }
+  ],
+  "YAKE": [
+    {
+      "defid": 15650038,
+      "definition": "[It’s] a [greeting] ~ peace, [hello], hey, hi",
+      "example": "Yake ✌️ [How you doing]?\n\nYake and making the ✌️Sign - means Hey or [Peace in] [New Haven], Ky",
+      "written_on": "2021-01-10T19:18:30.764Z"
+    }
+  ],
+  "youtube and relax": [
+    {
+      "defid": 8799689,
+      "definition": "It's another [way to say] [Netflix and chill] but you can't afford Netflix so you [YouTube] and relax",
+      "example": "U want to [come over] and [YouTube] and relax [because I can't] afford Netflix",
+      "written_on": "2016-02-01T00:00:00Z"
+    }
   ]
 }
