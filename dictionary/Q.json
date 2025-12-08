@@ -91788,5 +91788,21 @@
       "example": "Queen of [the Highway] is dancing through the [midnight] whirlpool with [the Lizard King].",
       "written_on": "2008-10-14T00:00:00Z"
     }
+  ],
+  "QROPADB": [
+    {
+      "defid": 15678930,
+      "definition": "You have [reached] [the peak] of boredom. You just typed every closed letter in order of occurrence on the [keyboard].",
+      "example": "[Achievement unlocked]: peak boredom\r\nTom: What was that?\r\nYou: I have successfully typed all of the random combinations of [letters].\r\nTom: what was [the last one]?\r\nYou: QROPADB which is made by typing closed letters",
+      "written_on": "2021-01-21T12:19:14.783Z"
+    }
+  ],
+  "Quachoochoo": [
+    {
+      "defid": 17124368,
+      "definition": "[Quatrain], but [better].",
+      "example": "[What is it] again? [Qua]…[qua]…\r\nQuaCHOOCHOO",
+      "written_on": "2022-04-04T02:19:52.343Z"
+    }
   ]
 }
