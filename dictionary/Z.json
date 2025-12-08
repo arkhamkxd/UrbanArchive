@@ -133196,5 +133196,13 @@
       "example": "A Zonbie [delivery driver] [delivered] my parcel to a tree [the other day]",
       "written_on": "2022-10-12T00:27:09.799Z"
     }
+  ],
+  "Zwodder": [
+    {
+      "defid": 13020983,
+      "definition": "A [drowsy] or [stupid] [state] of body or mind",
+      "example": "[Without] my [morning coffee] I remain in a zwodder [all day]",
+      "written_on": "2018-06-23T00:00:00Z"
+    }
   ]
 }
