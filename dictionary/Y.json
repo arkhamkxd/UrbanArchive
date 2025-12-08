@@ -1831,6 +1831,12 @@
       "definition": "[Insane]",
       "example": "[You are a] [doofus]",
       "written_on": "2019-04-23T00:00:00Z"
+    },
+    {
+      "defid": 13408429,
+      "definition": "[The biggest] [mistake]",
+      "example": "You are [the biggest] [mistake] [the word] had ever seen",
+      "written_on": "2018-11-29T20:40:50.12Z"
     }
   ],
   "Yurp": [
@@ -214899,6 +214905,38 @@
       "definition": "Your maw is [the butt] of [every] joke see [your mom]",
       "example": "[I had] YOUR [maw]\r\n\"[what you doing]?\"\r\n\"Your MAw!\"",
       "written_on": "2004-02-02T00:00:00Z"
+    }
+  ],
+  "yourmomsbutthole": [
+    {
+      "defid": 18427375,
+      "definition": "Your mom's [ass] is [tired] and [hot]",
+      "example": "It's [hot] [like] in here [like] yourmomsbutthole",
+      "written_on": "2025-02-09T03:07:41.917Z"
+    }
+  ],
+  "yawnda": [
+    {
+      "defid": 11931119,
+      "definition": "[Far] [out there]; in [the middle of nowhere]",
+      "example": "[I don't know] why [you wanna go] her, she [live] out in yawnda.",
+      "written_on": "2017-09-04T00:00:00Z"
+    }
+  ],
+  "You Are Not A Clown, You Are The Entire Circus": [
+    {
+      "defid": 17776577,
+      "definition": "[Reserved] For Only [The Most] [Clowniest] Of Clowns.",
+      "example": "Person 1: *Says [Something Stupid]*\r\nPerson 2: [What The Fuck]?\r\nPerson 3: [You Are Not] A Clown, You Are The Entire Circus\r\nPerson 4: I Exist? I EXIST!!!!",
+      "written_on": "2023-05-04T18:38:42.918Z"
+    }
+  ],
+  "Young Earth Creationist": [
+    {
+      "defid": 3808906,
+      "definition": "The long [definition]:\r\n\r\nA man who believes that the past few centuries of scientific data developed by thousands of great minds is all wrong and that the earth was conjured in 6 days 6,000 years ago by an [invisible man]. Totally ignorant to carbon dating(or anything any relevant to science for that matter), these people remain as primitive as we once were [in the middle] ages. \r\n\r\n\r\nThe short definition:\r\n\r\nOne whose IQ is vastly exceeded by his shoe size.",
+      "example": "Bob: Poor [Kent Hovind], he thinks [the earth] is 6,000 years old.\r\nKevin: Crazy Young earth [creationists] hold back true science.",
+      "written_on": "2009-03-17T00:00:00Z"
     }
   ]
 }
