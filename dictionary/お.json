@@ -14,5 +14,13 @@
       "example": "Do you [want to] [come over] to my house and we can hit it?\r\nSorry, i dont speak [the english].\r\nFUN ^.^\r\nおk (＾□＾*)",
       "written_on": "2008-10-18T00:00:00Z"
     }
+  ],
+  "おはよう": [
+    {
+      "defid": 11806805,
+      "definition": "[Good morning] in [Japanese].",
+      "example": "おはよう！",
+      "written_on": "2017-07-20T00:00:00Z"
+    }
   ]
 }
