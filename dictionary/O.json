@@ -285252,5 +285252,21 @@
       "example": "Player: \"Hmm.. I dunno... maybe it's this one?\" *Present*\n\nPhoenix: \"OBJECTION!\"\n\n*[Cross-examination] music stops playing*\n\nPlayer: \"YESSS! I CHOSE [THE RIGHT] PIECE OF [EVIDENCE]!\"",
       "written_on": "2011-12-30T00:00:00Z"
     }
+  ],
+  "opinion invalid": [
+    {
+      "defid": 17263648,
+      "definition": "Do [you have an anime] pfp? Perhaps you are a woman in a [comment section] filled with incels. [Your opinion] will therefore be invalidated.",
+      "example": "User with [Anime Pfp]: These incels need to [touch some grass]\n\nComment Below: [Anime Pfp] Detected, Opinion Invalid.",
+      "written_on": "2022-05-25T21:32:30.7Z"
+    }
+  ],
+  "Omtei": [
+    {
+      "defid": 6880028,
+      "definition": "A name given to the Mizo tribe, [usually] a girl. It means unique and [beautiful]. The ceremonial chant goes [like this] : Omte ka hmangaih che, kumkhua in kan ni don nia.",
+      "example": "One guy: Omtei is such [a beaut] of [a name]. I'll name [my child] omtei",
+      "written_on": "2012-12-20T00:00:00Z"
+    }
   ]
 }
