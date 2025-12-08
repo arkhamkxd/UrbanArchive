@@ -206286,5 +206286,29 @@
       "example": "[I bet] [that kid] is part of [the V] gang",
       "written_on": "2019-01-21T00:00:00Z"
     }
+  ],
+  "Vacuum cleaner filter": [
+    {
+      "defid": 16695471,
+      "definition": "[The shitty] piece of foam that [no one] knows exists in a [vacuum], main cause of clogs",
+      "example": "Me: Ma'am, your [vacuum cleaner] [filter] was causing the no suction [problem].",
+      "written_on": "2021-11-23T17:56:31.745Z"
+    }
+  ],
+  "viony": [
+    {
+      "defid": 13691531,
+      "definition": "A bubbly and intelligent girl when you first met her, you will notice a unique charm about her. She is a listener, one who will listen and attentive to your stories and able to make you feel better at times. She is very protective towards her social circle and is a caring person towards her friends. Viony is easily angered, but once people crosses the line that they shouldn't cross, [you wouldn't] want to be around her. She is also very picky about her food choices and thus, there is no trust or [relationship] between vegetables and her. Viony is also a girl who likes to explore new things, a person down for adventures and outdoor activities. She is a very outgoing person and friendly one.\n\nHates [computer science] to the core, but apparently very good with technology.",
+      "example": "Person 1: Hey, why is Viony being so cold to that guy?\r\n[Person 2]: [That person] pissed her off and messes with her friends, they're really [gonna get it].\r\nPerson 1: *whew* I wouldn't want to be them.\n\nPerson 2: *laughs* no one would.",
+      "written_on": "2019-03-08T00:00:00Z"
+    }
+  ],
+  "Viejita": [
+    {
+      "defid": 13442030,
+      "definition": "[Spanish] for Wifey.\n\nCan be a female [best friend], [girlfriend], wife, female you adore, etc.\r\nMake version- Viejito Hubby",
+      "example": "Te [quiero] mi viejita!\r\n[Love you] [wifey]!",
+      "written_on": "2018-12-11T00:00:00Z"
+    }
   ]
 }
