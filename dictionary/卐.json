@@ -28,5 +28,13 @@
       "example": "[Person 1]: What number goes between 7 and 8?\r\n[Person 2]: The number between 7 and 8 is 卐 The Gleebu\n\n[1, 2, 3, 4, 5], 6, 7 卐, 8",
       "written_on": "2021-11-27T22:40:43.375Z"
     }
+  ],
+  "卐 Nazi 卐": [
+    {
+      "defid": 11759804,
+      "definition": "[You're a] [Nazi]!",
+      "example": "The 卐 [Nazi] 卐 [turned] [on the gas].",
+      "written_on": "2017-07-04T00:32:42.623Z"
+    }
   ]
 }
