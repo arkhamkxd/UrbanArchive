@@ -92896,5 +92896,21 @@
       "example": "\"To Qwone [something]\"\r\n\r\nOr\r\n\r\n\"If [the patient] is [difficult], you qwone him\"",
       "written_on": "2005-03-02T00:00:00Z"
     }
+  ],
+  "QLO": [
+    {
+      "defid": 1848910,
+      "definition": "Used by your mates when in the pub drinking (usually too much)and you want to go. [Your mate] will say he's ordered a QLO (Quick Last One), which you have to drink. It is then [considered] bad etiquette not to return the favour when [your mate] tries to leave.",
+      "example": "You can't go [yet], i've [just] [ordered] a QLO",
+      "written_on": "2006-07-07T00:00:00Z"
+    }
+  ],
+  "Quidlette": [
+    {
+      "defid": 17517948,
+      "definition": "Quidlette means [something] is dumb or someone but it can change depending [if you want] to make it mean [something else]",
+      "example": "[This guy] is [dumb] he's [such a] quidlette",
+      "written_on": "2022-10-28T13:37:52.049Z"
+    }
   ]
 }
