@@ -249411,6 +249411,12 @@
       "definition": "To put ice in one's [beverage], used mostly with [drinks] containing [liquor].",
       "example": "Hey Tony! [Get me] a [Corona] on [the rocks]!",
       "written_on": "2004-08-24T00:00:00Z"
+    },
+    {
+      "defid": 1402379,
+      "definition": "Describing a drink, [usually] containing [alcohol], with ice [in it].",
+      "example": "I'll have a [vodka] on [the rocks].",
+      "written_on": "2005-09-02T00:00:00Z"
     }
   ],
   "obscenicon": [
@@ -289373,6 +289379,14 @@
       "definition": "[Boxing ring] shaped like an [octagon], used in bare-knuckle [fights].",
       "example": "[The champion] has entered the Octoring.",
       "written_on": "2019-08-10T00:00:00Z"
+    }
+  ],
+  "Obscure Tag": [
+    {
+      "defid": 4166849,
+      "definition": "Tagging someone on Facebook when [the person] tagged is in the far background and not the foreground. This person was never [intended] to be in [the picture].",
+      "example": "\"I can't [believe] someone [obscure] tagged half of my hand in this [picture].\"",
+      "written_on": "2009-08-09T00:00:00Z"
     }
   ]
 }
