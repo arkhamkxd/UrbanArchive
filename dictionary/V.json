@@ -57823,6 +57823,12 @@
       "definition": "[Popular] screw DJ [down south], [typically] in Texas",
       "example": "\"[you heard] that [new] vurb CD [playa]\"",
       "written_on": "2003-03-13T00:00:00Z"
+    },
+    {
+      "defid": 57872,
+      "definition": "V_erb (n)\r\n[Big baller] in the ATX who's got teh [bling bling] on tha [pinky ring].",
+      "example": "Ya I [got] the Vurb CD in [my car]!",
+      "written_on": "2003-03-13T00:00:00Z"
     }
   ],
   "vagina puke": [
@@ -123525,6 +123531,12 @@
     {
       "defid": 3016178,
       "definition": "A device that records the choices of voters in an election. It can take several forms:\r\n\r\n---\r\n1. A [mechanical] device, where the voter flips small levers next to the candidates' names to indicate their choices, then pulls a big lever to record the votes. Considered very difficult to hack.\r\n\r\n---\r\n2. A direct-recording [electronic] (DRE) machine. May print vote totals on paper, but there is no way for a voter to verify that his/her votes were accurately recorded. Unlike mechanical voting machines, DRE machines are extremely vulnerable to fraud and malware that can steal a [percentage] of votes, reassigning them to the rigged candidate.\r\n\r\n---\r\n3. An [electronic] machine that lets the voter make choices, then PRINTS AN ACTUAL FILLED-OUT PAPER BALLOT, which the voter can review and either discard (and start over) or cast. THE PAPER BALLOT IS THE OFFICIAL RECORD OF THE VOTE.\r\n\r\nBallots can be quickly counted by optical scanning technology. (Voters could also choose to fill in a blank ballot by hand.) [Importantly], ballots can be RECOUNTED, by hand if necessary.\r\n\r\nCounts from the voting machines need not be trusted as anything more than quick estimates or \"exit polls\". This scheme makes it difficult to commit the large-scale fraud so easy to do invisibly with paperless DRE machines.\r\n\r\n---",
+      "example": "A number of Diebold [electronic voting] machines have been in the news, first for criminally incompetent software and database design, leaving vote records wide open to undetectable tampering, more recently for vulnerability to \"[computer virus]\" style malware that can spread from machine to machine through the data cards used to collect voting data.\r\n\r\nMaking such [electronic voting] machines widespread is the perfect way to lay the groundwork for large-scale, invisible voter fraud.\r\n\r\nThere's plenty of information on this on the Web. A good place to start: the Coalition for Voting Integrity, www.coalitionforvotingintegrity.org .",
+      "written_on": "2008-04-18T00:00:00Z"
+    },
+    {
+      "defid": 3016540,
+      "definition": "A device that records the choices of voters in an election. It can take several forms:\r\n\r\n---\r\n1. (Becoming less and less common in the U.S.)\r\n\r\nA mechanical device, where the voter flips small levers next to the candidates' names to indicate their choices, then pulls a big lever to record the votes. Very difficult to tamper with.\r\n\r\n---\r\n2. (Very common in the U.S.)\r\n\r\nA direct-recording [electronic] (DRE) machine. May print vote totals on paper, but there is no way for a voter to verify that his/her votes were accurately recorded. \r\n\r\nUnlike mechanical voting machines, DRE machines are [EXTREMELY] VULNERABLE TO FRAUD. In addition to outright tampering with the records, malware can be used to steal a percentage of votes, reassigning them to the rigged candidate. The purported [verification] mechanisms -- logs, audit trails, \"snapshots\" of [individual] voters' choices -- can be [manipulated] to leave no evidence, corresponding perfectly to the rigged results.\r\n\r\n---\r\n3. (The way to use technology for elections we can have confidence in)\r\n\r\nAn [electronic] machine that lets the voter make choices (preventing overvotes and highlighting undervotes), then PRINTS AN ACTUAL FILLED-OUT PAPER BALLOT, which the voter can review and either discard (and start over) or cast. \r\n\r\nTHE PAPER BALLOT IS THE OFFICIAL RECORD OF THE VOTE. (Voters could also choose to fill in a blank ballot by hand.)\r\n\r\nBallots can be quickly counted by optical scanning technology. [Importantly], ballots can be RECOUNTED, by hand if necessary.\r\n\r\nCounts from the voting machines need not be trusted as anything more than quick estimates or \"exit polls\". This system makes it difficult to commit the large-scale fraud so easy to do invisibly with paperless DRE machines.\r\n\r\n---",
       "example": "A number of Diebold [electronic voting] machines have been in the news, first for criminally incompetent software and database design, leaving vote records wide open to undetectable tampering, more recently for vulnerability to \"[computer virus]\" style malware that can spread from machine to machine through the data cards used to collect voting data.\r\n\r\nMaking such [electronic voting] machines widespread is the perfect way to lay the groundwork for large-scale, invisible voter fraud.\r\n\r\nThere's plenty of information on this on the Web. A good place to start: the Coalition for Voting Integrity, www.coalitionforvotingintegrity.org .",
       "written_on": "2008-04-18T00:00:00Z"
     }
@@ -207969,6 +207981,22 @@
       "definition": "A [sexual encounter] involving three people, two of whom are [classical] musicians.  This gives the sex act an [intriguing] dynamic.  Gender doesn't matter.",
       "example": "When Ted was in [Chicago] last week he scored a [Viennese] three-way with [a couple of] hot violinists.",
       "written_on": "2009-01-24T00:00:00Z"
+    }
+  ],
+  "Vipee": [
+    {
+      "defid": 4220142,
+      "definition": "[Pronounced] (Vy-pee)\n\nA crazy, bipolar girl who likes to suck a man's energy. They usually [throw a fit] when they don't get their way and usually kills a man by the age of 60 with her constant nagging. The word is derived from [emotional Vampire] + bipolar.",
+      "example": "Gary: How did your date go?\n\nDerek : She was a Vipee, she flirted and [made out] with other guys while [demanding] me to [buy her drinks] and take her home.\n\nGary: She is a vipee!",
+      "written_on": "2009-09-05T00:00:00Z"
+    }
+  ],
+  "Vaxxed": [
+    {
+      "defid": 15770881,
+      "definition": "Being made very [attractive] and/or sexy by way of becoming [immune] to [coronavirus].",
+      "example": "I [thought] she was campy but now she's vaxxed and I'm nosedive-crushing.\n\nImma post a photo of mine [getting] vaxxed on Tinder.\n\nIncel + [Pfizer] = vaxxed = Chad",
+      "written_on": "2021-02-24T07:45:49.566Z"
     }
   ]
 }
