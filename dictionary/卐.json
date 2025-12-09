@@ -20,5 +20,13 @@
       "example": "卐卐卐卐 卐",
       "written_on": "2015-05-01T00:00:00Z"
     }
+  ],
+  "卐 The Gleebu": [
+    {
+      "defid": 16785330,
+      "definition": "The [number] in-between 7 and 8",
+      "example": "[Person 1]: What number goes between 7 and 8?\r\n[Person 2]: The number between 7 and 8 is 卐 The Gleebu\n\n[1, 2, 3, 4, 5], 6, 7 卐, 8",
+      "written_on": "2021-11-27T22:40:43.375Z"
+    }
   ]
 }
