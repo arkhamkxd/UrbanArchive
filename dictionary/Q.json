@@ -92470,5 +92470,21 @@
       "example": "\"[I just] saw Joe [searching] up qawsedplokijrfuhtgyzxcvbnm. Should I be [concerned]?\"",
       "written_on": "2023-05-13T11:44:14.07Z"
     }
+  ],
+  "qwertyuiopasdfghjklzxcvbnmmmm": [
+    {
+      "defid": 17812590,
+      "definition": "An [abomination] of letters that comes from typing [qwertyuiopasdfghjklzxcvbnm] with three extra m's. You probably found this while you were bored, just sitting there pressing the m key [repeatedly] until you get to a sequence that isn't defined.",
+      "example": "Guy 1: I've just been here, aimlessly [pressing] m. I've gotten to qwertyuiopasdfghjklzxcvbnmmmm, and there's still this [definition]. Should I really continue this meaningless [activity]?\r\nGuy 2: wtf",
+      "written_on": "2023-06-03T22:49:44.311Z"
+    }
+  ],
+  "Quamfy": [
+    {
+      "defid": 13972756,
+      "definition": "[The feeling] of [investing] early in Quant [Network].",
+      "example": "I [feel] quamfy with my buys.",
+      "written_on": "2019-06-07T16:35:38.621Z"
+    }
   ]
 }
