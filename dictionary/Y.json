@@ -216662,5 +216662,13 @@
       "example": "Boy 1: Who is [Flamingo]?\r\nBoy 2: [You know] ¨Yo tango¨!\r\nBoy 1: [Ohhhhhhh] thats where the meme started!\r\nBoy 2: Yeah thats who Flamingo is.",
       "written_on": "2021-02-11T10:58:16.349Z"
     }
+  ],
+  "ya wai": [
+    {
+      "defid": 1607003,
+      "definition": "Next [answer] [in the O] RLY [argument].\r\n\r\nUsage is as follows:",
+      "example": "Person 1: [Inflammatory] statement\r\n[Person 2]: O RLY?\r\nPerson 1. YA RLY!\r\n[Person 2]: NO WAI!\r\nPerson 1: YA WAI!",
+      "written_on": "2006-01-29T00:00:00Z"
+    }
   ]
 }
