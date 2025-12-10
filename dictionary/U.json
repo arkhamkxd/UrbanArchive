@@ -5021,6 +5021,12 @@
       "definition": "[The best] [site] on [the internet]",
       "example": "I go to [Urban] [Dictionary] to [waste time].",
       "written_on": "2016-05-22T00:00:00Z"
+    },
+    {
+      "defid": 4150671,
+      "definition": "[The site] you're [looking] at [right now].",
+      "example": "Urban [Dictionary] is where you [define] [your world].",
+      "written_on": "2009-08-02T00:00:00Z"
     }
   ],
   "Uroxenngo": [
@@ -166811,6 +166817,14 @@
       "definition": "[A child] or [kid] that has a [unibrow].",
       "example": "A child in my buisness class might be a [unibrow] kid. He also might need to rinse his [unibrow] out because its [disgusting], and it makes him look like a unibrow kid.",
       "written_on": "2009-11-03T00:00:00Z"
+    }
+  ],
+  "unpopcultured": [
+    {
+      "defid": 4693278,
+      "definition": "[The state] knowing nothing and being completely [oblivious] to [popular culture].",
+      "example": "\"Hey, isn't Denzel [Washington] the voice of [Tommy Pickles]?\"\n\n\"No, Anthony, that's [Morgan Freeman]! You are so unpopcultured!\"",
+      "written_on": "2010-02-12T00:00:00Z"
     }
   ]
 }
