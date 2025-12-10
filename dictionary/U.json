@@ -7907,6 +7907,12 @@
       "definition": "1- Collateral relative's spouse's lineal ascendant.\r\n2- Collateral relative's spouse's [collateral relative].\r\n3- Lineal descendant's spouse's lineal ascendant (except: children's parents-in-laws = co-parents-in-laws).\r\n4- Lineal descendant's spouse's [collateral relative].\r\n5- Spouse's collateral relative's spouse's lineal ascendant.\r\n6- Spouse's collateral relative's spouse's collateral relative.\r\n7- Collateral relative's spouse's collateral relative's spouse.\r\n8- Spouse's collateral relative's spouse's collateral relative's spouse.\r\n9- Lineal descendant's spouse's collateral relative's spouse.\r\n10- Family member's lover.\r\n11- Lover's family members.\r\n12- Biological relative's widower spouse (non-biological)'s new spouse.\r\n13- Spouse's biological relative's widower spouse (non-biological)'s new spouse.\r\n14- Biological relative's widower spouse (non-biological)'s new spouse's lineal ascendant, lineal [descendant] and collateral relative.\r\n15- Spouse's biological relative's widower spouse (non-biological)'s new spouse's lineal ascendant, lineal descendant and collateral relative.\r\n16- Family members of people who are lovingly related without commitment.\r\n17- Someone who lovingly relates without strings attached to the family members of another [living being].\r\n18- None kinship: nor by consanguinity, nor by affinity, nor by adoption and nor nor by other.\r\n19- Without social bond and without kinship at the same time.",
       "example": "Unrelated.",
       "written_on": "2023-03-30T08:27:02.549Z"
+    },
+    {
+      "defid": 18281063,
+      "definition": "1- Collateral relative's spouse's ascendant.\r\n2- Collateral relative's spouse's [collateral relative].\r\n3- Descendant's spouse's ascendant. Except in the case of the child-in-law's parent, who is the co-parent-in-law.\r\n4- Descendant's spouse's [collateral relative].\r\n5- Spouse's collateral relative's spouse's ascendant.\r\n6- Spouse's collateral relative's spouse's [collateral relative].\r\n7- Absence of any type of kinship.",
+      "example": "Unrelated.",
+      "written_on": "2024-07-28T13:27:04.812Z"
     }
   ],
   "USophant": [
@@ -167055,6 +167061,14 @@
       "definition": "Noun: [usually] defined as someone being mentally [idiotic] or acting well below their expected level of [intellect]. Similar to \"spanner\" or \"shmuck\"",
       "example": "Man 1: \"[I wonder] whether putting my hand in [the fire] will hurt\"\r\nMan 2: \"Did you [seriously] just as that, you ucchus\"",
       "written_on": "2022-12-15T06:45:43.454Z"
+    }
+  ],
+  "unamigo": [
+    {
+      "defid": 3391779,
+      "definition": "Someone who acts in an [obnoxious] or [unfriendly] [fashion].",
+      "example": "\"[I hate him] so [much]. He is such an unamigo.\"",
+      "written_on": "2009-01-20T00:00:00Z"
     }
   ]
 }
