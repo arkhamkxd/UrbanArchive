@@ -134830,5 +134830,13 @@
       "example": "“Hey [have you heard about] Zongrong?”\r\n“[Yeah] he’s such [a slut].”",
       "written_on": "2022-02-07T09:29:52.668Z"
     }
+  ],
+  "zarparse": [
+    {
+      "defid": 8610453,
+      "definition": "[When you] [overdo] [something].",
+      "example": "(Cuando se cocina) \"[No hay] que zarparse con la cocción.\"\n\n(When [cooking]) \"Don't [overcook] it.\"",
+      "written_on": "2015-10-18T00:00:00Z"
+    }
   ]
 }
