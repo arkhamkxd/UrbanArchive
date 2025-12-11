@@ -227518,5 +227518,29 @@
       "example": "<.[7.9].7.6.>102 [degrees] for [Cthulhu]<.7.9.7.6.>",
       "written_on": "2025-05-01T13:43:20.853Z"
     }
+  ],
+  "/afi": [
+    {
+      "defid": 15801600,
+      "definition": "Await further [information]. Can be used if [you need] to split a message into two or if [you need] to find out more info about a matter",
+      "example": "[Guys] there was an [earthquake] /[afi]",
+      "written_on": "2021-03-07T02:06:46.886Z"
+    }
+  ],
+  "/?/": [
+    {
+      "defid": 7217385,
+      "definition": "an [emoticon] sent in response to an email or SMS that indicates to the sender that recipient does [understand] or is confused by the point / context of the text/email. [inspired by] dogs tilting their heads to the side when they are confused.",
+      "example": "sally: [im gonna] [tonight]\r\nharry: /?/\r\nsally: sorry, [im gonna] leave tonight",
+      "written_on": "2013-10-07T00:00:00Z"
+    }
+  ],
+  "6C11R": [
+    {
+      "defid": 16000803,
+      "definition": "Sixth-cousin-eleven-times-removed.",
+      "example": "[I don't know] my 6C11R.",
+      "written_on": "2021-05-17T11:55:43.002Z"
+    }
   ]
 }
