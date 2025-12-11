@@ -220,5 +220,13 @@
       "example": "[Person 1]: [I want] Äppelkaka!\r\n\r\n[Person 2]: Sure, I'll bake you some.",
       "written_on": "2008-12-17T00:00:00Z"
     }
+  ],
+  "äuää": [
+    {
+      "defid": 14446093,
+      "definition": "[A word] used in Bern, [Switzerland]. Noone knows what it means and since noone understands [people] from Bern at all.",
+      "example": "Er [chund] äuää z spaat! = He's [likely] [late]!",
+      "written_on": "2019-11-17T12:24:00.068Z"
+    }
   ]
 }
