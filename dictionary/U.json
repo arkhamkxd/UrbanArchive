@@ -168658,5 +168658,21 @@
       "example": "Damn, son...You wanna [get shot]?! [You better] tuck that [collar] underbeneath!!!",
       "written_on": "2007-06-12T00:00:00Z"
     }
+  ],
+  "unbindall": [
+    {
+      "defid": 12903611,
+      "definition": "A hack in Valve's great classic: [Team Fortress 2]. In TF2's spaghetti-like coding, typing this in the developer console will grant you all TF2 items in [existence] including all skins. Valve is yet to patch this [game breaking] hack.",
+      "example": "I used to be a [nerdy] F2P.. until I found this hack! I typed \"unbindall\" into the [developer] [console], and I became a pro in a snap!",
+      "written_on": "2018-06-03T00:00:00Z"
+    }
+  ],
+  "up down 180": [
+    {
+      "defid": 12159049,
+      "definition": "When receiving a [head job], the giver strokes [the penis] in an [up and down] motion whilst turning their hand 180 degrees at the same time",
+      "example": "How’d ya go [last night] mate? Bro, best up down 180 [I’ve] [ever] had",
+      "written_on": "2017-11-12T00:00:00Z"
+    }
   ]
 }
